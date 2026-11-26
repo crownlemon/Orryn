@@ -1,0 +1,76 @@
+{
+  "scope": "Phase 2 inventory of 208 AC Worldbook v10 and Householdbook v12; no AWOIAF bulk import yet",
+  "generatedFrom": [
+    "worldbook-v10",
+    "householdbook-v12",
+    "dev/awoiaf-knowledge-model"
+  ],
+  "totals": {
+    "worldbookEntries": 139,
+    "stormlands": 60,
+    "reach": 79,
+    "houseEntries": 137,
+    "holdingsWithoutNamedHouse": 2,
+    "distinctHouseholdHeadings": 25,
+    "householdsNotInRegisters": 0
+  },
+  "byRank": {
+    "Ruling": 2,
+    "Royal": 1,
+    "Great": 10,
+    "Principal": 11,
+    "Major": 20,
+    "Minor": 57,
+    "Knightly": 38
+  },
+  "byRegion": {
+    "Stormlands": {
+      "total": 60,
+      "byRank": {
+        "Ruling": 1,
+        "Royal": 1,
+        "Great": 4,
+        "Principal": 4,
+        "Major": 10,
+        "Minor": 26,
+        "Knightly": 14
+      }
+    },
+    "Reach": {
+      "total": 79,
+      "byRank": {
+        "Ruling": 1,
+        "Royal": 0,
+        "Great": 6,
+        "Principal": 7,
+        "Major": 10,
+        "Minor": 31,
+        "Knightly": 24
+      }
+    }
+  },
+  "holdingOnly": [
+    {
+      "entry": "Dunstonbury",
+      "region": "Reach",
+      "line": 1251
+    },
+    {
+      "entry": "Whitegrove",
+      "region": "Reach",
+      "line": 1442
+    }
+  ],
+  "householdOnly": [],
+  "publishedPagesAtInventory": {
+    "housePages": 3,
+    "placePages": 4,
+    "characterPages": 23
+  },
+  "questions": [
+    "Treat vacant Dunstonbury and Whitegrove as territories, not invented current houses.",
+    "Reconcile alias/seat differences before creating public pages.",
+    "Do not import planned 209/210/224 AC developments into 208 baseline.",
+    "AWOIAF contemporary houses and titles are not necessarily valid in 208 AC."
+  ]
+}

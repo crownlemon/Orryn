@@ -1,0 +1,340 @@
+{
+  "source": "householdbook-v12",
+  "households": [
+    {
+      "id": "grandison",
+      "houseName": "Grandison",
+      "sections": [
+        {
+          "heading": "House Grandison of Grandview",
+          "line": 55,
+          "type": "household"
+        },
+        {
+          "heading": "House Grandison of Merewatch",
+          "line": 1133,
+          "type": "household"
+        }
+      ],
+      "matchedWorldbook": true,
+      "source": "householdbook-v12"
+    },
+    {
+      "id": "meadows",
+      "houseName": "Meadows",
+      "sections": [
+        {
+          "heading": "House Meadows of Grassfield Keep",
+          "line": 341,
+          "type": "household"
+        }
+      ],
+      "matchedWorldbook": true,
+      "source": "householdbook-v12"
+    },
+    {
+      "id": "baratheon",
+      "houseName": "Baratheon",
+      "sections": [
+        {
+          "heading": "House Baratheon of Storm's End",
+          "line": 894,
+          "type": "household"
+        }
+      ],
+      "matchedWorldbook": true,
+      "source": "householdbook-v12"
+    },
+    {
+      "id": "penrose",
+      "houseName": "Penrose",
+      "sections": [
+        {
+          "heading": "House Penrose of Parchments",
+          "line": 1147,
+          "type": "household"
+        }
+      ],
+      "matchedWorldbook": true,
+      "source": "householdbook-v12"
+    },
+    {
+      "id": "dondarrion",
+      "houseName": "Dondarrion",
+      "sections": [
+        {
+          "heading": "House Dondarrion of Blackhaven",
+          "line": 1252,
+          "type": "household"
+        }
+      ],
+      "matchedWorldbook": true,
+      "source": "householdbook-v12"
+    },
+    {
+      "id": "caron",
+      "houseName": "Caron",
+      "sections": [
+        {
+          "heading": "House Caron of Nightsong",
+          "line": 1347,
+          "type": "household"
+        },
+        {
+          "heading": "House Caron",
+          "line": 2200,
+          "type": "household"
+        }
+      ],
+      "matchedWorldbook": true,
+      "source": "householdbook-v12"
+    },
+    {
+      "id": "swann",
+      "houseName": "Swann",
+      "sections": [
+        {
+          "heading": "House Swann of Stonehelm",
+          "line": 1489,
+          "type": "household"
+        }
+      ],
+      "matchedWorldbook": true,
+      "source": "householdbook-v12"
+    },
+    {
+      "id": "wagstaff",
+      "houseName": "Wagstaff",
+      "sections": [
+        {
+          "heading": "House Wagstaff of Greenward",
+          "line": 1528,
+          "type": "household"
+        }
+      ],
+      "matchedWorldbook": true,
+      "source": "householdbook-v12"
+    },
+    {
+      "id": "gower",
+      "houseName": "Gower",
+      "sections": [
+        {
+          "heading": "House Gower of Clovercross",
+          "line": 1601,
+          "type": "household"
+        }
+      ],
+      "matchedWorldbook": true,
+      "source": "householdbook-v12"
+    },
+    {
+      "id": "hertson",
+      "houseName": "Hertson",
+      "sections": [
+        {
+          "heading": "House Hertson of Hartsfold",
+          "line": 1693,
+          "type": "household"
+        }
+      ],
+      "matchedWorldbook": true,
+      "source": "householdbook-v12"
+    },
+    {
+      "id": "cafferen",
+      "houseName": "Cafferen",
+      "sections": [
+        {
+          "heading": "House Cafferen of Fawnton",
+          "line": 1766,
+          "type": "household"
+        }
+      ],
+      "matchedWorldbook": true,
+      "source": "householdbook-v12"
+    },
+    {
+      "id": "peasebury",
+      "houseName": "Peasebury",
+      "sections": [
+        {
+          "heading": "House Peasebury of Poddingfield",
+          "line": 1859,
+          "type": "household"
+        }
+      ],
+      "matchedWorldbook": true,
+      "source": "householdbook-v12"
+    },
+    {
+      "id": "elmridge",
+      "houseName": "Elmridge",
+      "sections": [
+        {
+          "heading": "House Elmridge of Elmbridge",
+          "line": 1932,
+          "type": "household"
+        }
+      ],
+      "matchedWorldbook": true,
+      "source": "householdbook-v12"
+    },
+    {
+      "id": "bushy",
+      "houseName": "Bushy",
+      "sections": [
+        {
+          "heading": "House Bushy of Hedgefort",
+          "line": 1979,
+          "type": "household"
+        }
+      ],
+      "matchedWorldbook": true,
+      "source": "householdbook-v12"
+    },
+    {
+      "id": "graves",
+      "houseName": "Graves",
+      "sections": [
+        {
+          "heading": "House Graves of Eaglegrave",
+          "line": 2027,
+          "type": "household"
+        }
+      ],
+      "matchedWorldbook": true,
+      "source": "householdbook-v12"
+    },
+    {
+      "id": "caswell",
+      "houseName": "Caswell",
+      "sections": [
+        {
+          "heading": "House Caswell of Bitterbridge",
+          "line": 2097,
+          "type": "household"
+        }
+      ],
+      "matchedWorldbook": true,
+      "source": "householdbook-v12"
+    },
+    {
+      "id": "ashford",
+      "houseName": "Ashford",
+      "sections": [
+        {
+          "heading": "House Ashford of Ashford",
+          "line": 2192,
+          "type": "household"
+        }
+      ],
+      "matchedWorldbook": true,
+      "source": "householdbook-v12"
+    },
+    {
+      "id": "merryweather",
+      "houseName": "Merryweather",
+      "sections": [
+        {
+          "heading": "House Merryweather of Longtable",
+          "line": 2312,
+          "type": "household"
+        }
+      ],
+      "matchedWorldbook": true,
+      "source": "householdbook-v12"
+    },
+    {
+      "id": "peake",
+      "houseName": "Peake",
+      "sections": [
+        {
+          "heading": "House Peake of Starpike",
+          "line": 2419,
+          "type": "household"
+        }
+      ],
+      "matchedWorldbook": true,
+      "source": "householdbook-v12"
+    },
+    {
+      "id": "tyrell",
+      "houseName": "Tyrell",
+      "sections": [
+        {
+          "heading": "House Tyrell of Highgarden",
+          "line": 2507,
+          "type": "household"
+        }
+      ],
+      "matchedWorldbook": true,
+      "source": "householdbook-v12"
+    },
+    {
+      "id": "redwyne",
+      "houseName": "Redwyne",
+      "sections": [
+        {
+          "heading": "House Redwyne of the Arbor",
+          "line": 2843,
+          "type": "household"
+        }
+      ],
+      "matchedWorldbook": true,
+      "source": "householdbook-v12"
+    },
+    {
+      "id": "blackbar",
+      "houseName": "Blackbar",
+      "sections": [
+        {
+          "heading": "House Blackbar of Bandallon",
+          "line": 2871,
+          "type": "household"
+        }
+      ],
+      "matchedWorldbook": true,
+      "source": "householdbook-v12"
+    },
+    {
+      "id": "rowan",
+      "houseName": "Rowan",
+      "sections": [
+        {
+          "heading": "House Rowan of Goldengrove",
+          "line": 2937,
+          "type": "household"
+        }
+      ],
+      "matchedWorldbook": true,
+      "source": "householdbook-v12"
+    },
+    {
+      "id": "florent",
+      "houseName": "Florent",
+      "sections": [
+        {
+          "heading": "House Florent of Brightwater Keep",
+          "line": 3024,
+          "type": "household"
+        }
+      ],
+      "matchedWorldbook": true,
+      "source": "householdbook-v12"
+    },
+    {
+      "id": "hightower",
+      "houseName": "Hightower",
+      "sections": [
+        {
+          "heading": "House Hightower of Oldtown",
+          "line": 3071,
+          "type": "household"
+        }
+      ],
+      "matchedWorldbook": true,
+      "source": "householdbook-v12"
+    }
+  ]
+}
