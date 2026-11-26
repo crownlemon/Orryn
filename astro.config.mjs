@@ -10,12 +10,12 @@ export default defineConfig({
       customCss: ['./src/styles/custom.css'],
       sidebar: [
         { label: 'Introduction', link: '/' },
-        { label: 'Noble Houses', autogenerate: { directory: 'houses' } },
-        { label: 'Characters', autogenerate: { directory: 'characters' } },
-        { label: 'The Realm', autogenerate: { directory: 'realm' } },
-        { label: 'Politics & Events', autogenerate: { directory: 'events' } },
-        { label: 'Chapters', autogenerate: { directory: 'chapters' } },
-        { label: 'About & Sources', autogenerate: { directory: 'about' } }
+        { label: 'Noble Houses', items: [{ autogenerate: { directory: 'houses' } }] },
+        { label: 'Characters', items: [{ autogenerate: { directory: 'characters' } }] },
+        { label: 'The Realm', items: [{ autogenerate: { directory: 'realm' } }] },
+        { label: 'Politics & Events', items: [{ autogenerate: { directory: 'events' } }] },
+        { label: 'Chapters', items: [{ autogenerate: { directory: 'chapters' } }] },
+        { label: 'About & Sources', items: [{ autogenerate: { directory: 'about' } }] }
       ]
     })
   ]
