@@ -220,5 +220,53 @@
     "title": "A Wiki of Ice and Fire: Brandon Stark (son of Cregan)",
     "url": "https://awoiaf.westeros.org/index.php/Brandon_Stark_(son_of_Cregan)",
     "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-dragonstone",
+    "title": "A Wiki of Ice and Fire: Dragonstone",
+    "url": "https://awoiaf.westeros.org/index.php/Dragonstone",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-first-dornish-war",
+    "title": "A Wiki of Ice and Fire: First Dornish War",
+    "url": "https://awoiaf.westeros.org/index.php/First_Dornish_War",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-battle-gullet",
+    "title": "A Wiki of Ice and Fire: Battle of the Gullet",
+    "url": "https://awoiaf.westeros.org/index.php/Battle_of_the_Gullet",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-battle-gods-eye",
+    "title": "A Wiki of Ice and Fire: Battle above the Gods Eye",
+    "url": "https://awoiaf.westeros.org/index.php/130_AC",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-hour-of-the-wolf",
+    "title": "A Wiki of Ice and Fire: Hour of the Wolf",
+    "url": "https://awoiaf.westeros.org/index.php/Hour_of_the_Wolf",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-vulture-king-206",
+    "title": "A Wiki of Ice and Fire: Suppression of the Vulture King",
+    "url": "https://awoiaf.westeros.org/index.php/Stormlands",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-red-keep",
+    "title": "A Wiki of Ice and Fire: Red Keep",
+    "url": "https://awoiaf.westeros.org/index.php/Red_Keep",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-great-sept-of-baelor",
+    "title": "A Wiki of Ice and Fire: Great Sept of Baelor",
+    "url": "https://awoiaf.westeros.org/index.php/Great_Sept_of_Baelor",
+    "kind": "secondary"
   }
 ]

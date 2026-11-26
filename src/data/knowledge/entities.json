@@ -8681,7 +8681,7 @@
     "name": "House Velaryon",
     "sources": [
       "awoiaf-targaryen-lineage",
-      null
+      "awoiaf-dragonstone"
     ],
     "page": "/houses/velaryon/",
     "catalogStatus": "historical_profile"
@@ -8735,7 +8735,7 @@
     "name": "House Hayford",
     "sources": [
       "awoiaf-targaryen-lineage",
-      null
+      "awoiaf-dragonstone"
     ],
     "page": "/houses/hayford/",
     "catalogStatus": "historical_profile"
@@ -9665,7 +9665,7 @@
     "kind": "house",
     "name": "House Celtigar",
     "sources": [
-      null
+      "awoiaf-dragonstone"
     ],
     "page": "/houses/celtigar/",
     "catalogStatus": "historical_profile"
@@ -9686,7 +9686,7 @@
     "kind": "house",
     "name": "House Massey",
     "sources": [
-      null
+      "awoiaf-dragonstone"
     ],
     "page": "/houses/massey/",
     "catalogStatus": "historical_profile"
@@ -9805,5 +9805,83 @@
     "page": "/events/arryn-succession-134/",
     "catalogStatus": "historical_profile",
     "year": 134
+  },
+  {
+    "id": "event:first-dornish-war",
+    "kind": "event",
+    "name": "First Dornish War",
+    "page": "/events/first-dornish-war/",
+    "sources": [
+      "awoiaf-first-dornish-war"
+    ],
+    "catalogStatus": "historical_profile",
+    "year": 4,
+    "endYear": 13
+  },
+  {
+    "id": "event:battle-gullet",
+    "kind": "event",
+    "name": "Battle of the Gullet",
+    "page": "/events/battle-gullet/",
+    "sources": [
+      "awoiaf-battle-gullet"
+    ],
+    "catalogStatus": "historical_profile",
+    "year": 130
+  },
+  {
+    "id": "event:battle-gods-eye",
+    "kind": "event",
+    "name": "Battle above the Gods Eye",
+    "page": "/events/battle-gods-eye/",
+    "sources": [
+      "awoiaf-battle-gods-eye"
+    ],
+    "catalogStatus": "historical_profile",
+    "year": 130
+  },
+  {
+    "id": "event:hour-of-the-wolf",
+    "kind": "event",
+    "name": "Hour of the Wolf",
+    "page": "/events/hour-of-the-wolf/",
+    "sources": [
+      "awoiaf-hour-of-the-wolf"
+    ],
+    "catalogStatus": "historical_profile",
+    "year": 131
+  },
+  {
+    "id": "event:vulture-king-206",
+    "kind": "event",
+    "name": "Suppression of the Vulture King",
+    "page": "/events/vulture-king-206/",
+    "sources": [
+      "awoiaf-vulture-king-206"
+    ],
+    "catalogStatus": "historical_profile",
+    "year": 206
+  },
+  {
+    "id": "place:red-keep",
+    "kind": "place",
+    "name": "Red Keep",
+    "page": "/places/red-keep/",
+    "sources": [
+      "awoiaf-red-keep"
+    ],
+    "catalogStatus": "historical_profile",
+    "placeType": "castle"
+  },
+  {
+    "id": "place:great-sept-of-baelor",
+    "kind": "place",
+    "name": "Great Sept of Baelor",
+    "page": "/places/great-sept-of-baelor/",
+    "sources": [
+      "awoiaf-great-sept-of-baelor"
+    ],
+    "catalogStatus": "historical_profile",
+    "placeType": "sept"
   }
 ]

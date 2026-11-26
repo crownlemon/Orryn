@@ -10,6 +10,7 @@ export default defineConfig({
       customCss: ['./src/styles/custom.css'],
       sidebar: [
         { label: 'Main page', link: '/' },
+        { label: 'History of Westeros', link: '/history/' },
         { label: 'Noble Houses', items: [{ autogenerate: { directory: 'houses' } }] },
         { label: 'Characters', items: [{ autogenerate: { directory: 'characters' } }] },
         { label: 'Places', items: [{ autogenerate: { directory: 'places' } }] },

@@ -20787,7 +20787,7 @@
     "predicate": "historical_region",
     "object": "region:crownlands",
     "sources": [
-      null
+      "awoiaf-dragonstone"
     ]
   },
   {
@@ -20814,7 +20814,7 @@
     "predicate": "historical_overlord",
     "object": "house:targaryen",
     "sources": [
-      null
+      "awoiaf-dragonstone"
     ]
   },
   {
@@ -20823,7 +20823,7 @@
     "predicate": "historical_region",
     "object": "region:crownlands",
     "sources": [
-      null
+      "awoiaf-dragonstone"
     ]
   },
   {
@@ -20850,7 +20850,7 @@
     "predicate": "historical_overlord",
     "object": "house:targaryen",
     "sources": [
-      null
+      "awoiaf-dragonstone"
     ]
   },
   {
@@ -20859,7 +20859,7 @@
     "predicate": "historical_region",
     "object": "region:crownlands",
     "sources": [
-      null
+      "awoiaf-dragonstone"
     ]
   },
   {
@@ -20886,7 +20886,7 @@
     "predicate": "historical_overlord",
     "object": "house:targaryen",
     "sources": [
-      null
+      "awoiaf-dragonstone"
     ]
   },
   {
@@ -20895,7 +20895,7 @@
     "predicate": "historical_region",
     "object": "region:crownlands",
     "sources": [
-      null
+      "awoiaf-dragonstone"
     ]
   },
   {
@@ -20922,7 +20922,7 @@
     "predicate": "historical_overlord",
     "object": "house:targaryen",
     "sources": [
-      null
+      "awoiaf-dragonstone"
     ]
   },
   {
@@ -21452,5 +21452,161 @@
     "asOf": {
       "year": 134
     }
+  },
+  {
+    "id": "fact:1390",
+    "subject": "event:first-dornish-war",
+    "predicate": "participant",
+    "object": "person:aegon-i-targaryen",
+    "sources": [
+      "awoiaf-first-dornish-war"
+    ],
+    "asOf": {
+      "year": 4
+    }
+  },
+  {
+    "id": "fact:1391",
+    "subject": "event:first-dornish-war",
+    "predicate": "participant",
+    "object": "person:rhaenys-targaryen-conqueror",
+    "sources": [
+      "awoiaf-first-dornish-war"
+    ],
+    "asOf": {
+      "year": 4
+    }
+  },
+  {
+    "id": "fact:1392",
+    "subject": "event:battle-gullet",
+    "predicate": "part_of",
+    "object": "event:dance-of-the-dragons",
+    "sources": [
+      "awoiaf-battle-gullet"
+    ],
+    "asOf": {
+      "year": 130
+    }
+  },
+  {
+    "id": "fact:1393",
+    "subject": "event:battle-gods-eye",
+    "predicate": "participant",
+    "object": "person:daemon-targaryen",
+    "sources": [
+      "awoiaf-battle-gods-eye"
+    ],
+    "asOf": {
+      "year": 130
+    }
+  },
+  {
+    "id": "fact:1394",
+    "subject": "event:battle-gods-eye",
+    "predicate": "participant",
+    "object": "person:aemond-targaryen",
+    "sources": [
+      "awoiaf-battle-gods-eye"
+    ],
+    "asOf": {
+      "year": 130
+    }
+  },
+  {
+    "id": "fact:1395",
+    "subject": "event:battle-gods-eye",
+    "predicate": "part_of",
+    "object": "event:dance-of-the-dragons",
+    "sources": [
+      "awoiaf-battle-gods-eye"
+    ],
+    "asOf": {
+      "year": 130
+    }
+  },
+  {
+    "id": "fact:1396",
+    "subject": "event:hour-of-the-wolf",
+    "predicate": "participant",
+    "object": "person:cregan-stark",
+    "sources": [
+      "awoiaf-hour-of-the-wolf"
+    ],
+    "asOf": {
+      "year": 131
+    }
+  },
+  {
+    "id": "fact:1397",
+    "subject": "event:hour-of-the-wolf",
+    "predicate": "participant",
+    "object": "person:aegon-iii-targaryen",
+    "sources": [
+      "awoiaf-hour-of-the-wolf"
+    ],
+    "asOf": {
+      "year": 131
+    }
+  },
+  {
+    "id": "fact:1398",
+    "subject": "event:vulture-king-206",
+    "predicate": "participant",
+    "object": "person:pearse-caron",
+    "sources": [
+      "awoiaf-vulture-king-206"
+    ],
+    "asOf": {
+      "year": 206
+    }
+  },
+  {
+    "id": "fact:1399",
+    "subject": "event:vulture-king-206",
+    "predicate": "participant",
+    "object": "person:dondarrion-unnamed-lord",
+    "sources": [
+      "awoiaf-vulture-king-206"
+    ],
+    "asOf": {
+      "year": 206
+    }
+  },
+  {
+    "id": "fact:1400",
+    "subject": "place:red-keep",
+    "predicate": "region",
+    "object": "region:crownlands",
+    "sources": [
+      "awoiaf-red-keep"
+    ]
+  },
+  {
+    "id": "fact:1401",
+    "subject": "place:red-keep",
+    "predicate": "located_in",
+    "object": "place:kings-landing",
+    "sources": [
+      "awoiaf-red-keep"
+    ]
+  },
+  {
+    "id": "fact:1402",
+    "subject": "place:great-sept-of-baelor",
+    "predicate": "region",
+    "object": "region:crownlands",
+    "sources": [
+      "awoiaf-great-sept-of-baelor"
+    ]
+  },
+  {
+    "id": "fact:1403",
+    "subject": "place:great-sept-of-baelor",
+    "predicate": "located_in",
+    "object": "place:kings-landing",
+    "sources": [
+      "awoiaf-great-sept-of-baelor"
+    ]
   }
 ]

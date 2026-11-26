@@ -196,3 +196,7 @@ Reconstructed the twelve official reigns from Aegon I through Daeron II with bou
 ## Historical migration: Regional dynasties and Blackfyre allegiances
 
 Extended historical profiles for Stark, Arryn, Tully, Lannister, Greyjoy and Martell from inspected AWOIAF house histories. Recorded source-backed historical kinships, historical regional and seat associations for selected houses; deliberately separated these from confirmed 207/208 holdings. Added the 134 AC Arryn succession dispute and the published 196 AC allegiance inventory, including divided or changing allegiances. Do not infer the allegiance of an entire house from a single rebel knight. Exact accession dates and holders are not extrapolated from later events. Added 84 entities, 160 facts; current graph 704 entities/1381 facts. Structural checks passed. Exhaustive pre-207 research and visual/build confirmation remain open. No main merge.
+
+## Historical migration: History index and dated landmarks
+
+Added five conflicts and two royal landmarks, with a /history/ landing page containing 12 reigns and 16 pre-207 event articles. Corrected 12 invalid source IDs in Crownlands records; reference and source integrity checks passed. Total 711 entities and 1395 facts. Remaining: comprehensive historical and regional source audit, additional dynasties and pre-207 people/places/events, complete office successions, technical build and visual review. No main merge.
