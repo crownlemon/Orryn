@@ -5,16 +5,22 @@ sidebar:
   order: 1
 ---
 
-**House Rowan of Goldengrove** is an ancient and powerful noble house of the northern Reach, sworn to House Tyrell of Highgarden. The Rowans bear a golden tree upon silver. Their lord is **[Rycherd Rowan](/characters/rycherd-rowan/)**, the hereditary Marshal of the Northmarch.
+**House Rowan of [Goldengrove](/places/goldengrove/)** is an ancient and powerful noble house of the northern Reach, sworn to House Tyrell of Highgarden. The Rowans bear a golden tree upon silver. Their lord is **[Rycherd Rowan](/characters/rycherd-rowan/)**, the hereditary Marshal of the Northmarch.
 
-| | |
-| --- | --- |
-| **Seat** | Goldengrove |
-| **Region** | The Reach |
-| **Overlord** | House Tyrell |
-| **Head** | [Lord Rycherd Rowan](/characters/rycherd-rowan/) |
-| **Titles** | Lord of Goldengrove; Marshal of the Northmarch |
-| **Arms** | A golden tree on silver |
+<aside class="orr-infobox orr-house-infobox" aria-label="House Rowan heraldry and details">
+  <div class="orr-infobox-heading">House Rowan</div>
+  <div class="orr-infobox-subtitle">of Goldengrove</div>
+  <div class="orr-infobox-arms"><img src="/heraldry/rowan.svg" alt="House Rowan sigil: a golden tree on silver" width="220" height="270" /></div>
+  <div class="orr-infobox-caption">A golden tree on silver</div>
+  <dl>
+    <div><dt>Seat</dt><dd><a href="/places/goldengrove/">Goldengrove</a></dd></div>
+    <div><dt>Region</dt><dd><a href="/realm/the-reach/">The Reach</a></dd></div>
+    <div><dt>Head</dt><dd><a href="/characters/rycherd-rowan/">Lord Rycherd Rowan</a></dd></div>
+    <div><dt>Titles</dt><dd>Lord of Goldengrove; Marshal of the Northmarch</dd></div>
+    <div><dt>Overlord</dt><dd>House Tyrell</dd></div>
+    <div><dt>Words</dt><dd>Unknown</dd></div>
+  </dl>
+</aside>
 
 ## History
 
@@ -24,7 +30,7 @@ At Aegon's Conquest, Goldengrove was among the gathering places of the vast host
 
 In the settlement that followed the Dance of the Dragons, the **Marshalship of the Northmarch** passed from the Osgreys to the Rowans, sometime around 135–145 AC. It became a hereditary dignity of Goldengrove. The northern marshalship strengthened Rowan authority over a region where many lesser houses held their lands by ancient custom and allegiance.
 
-Goldengrove remains a centre of influence in the northern Reach. Its lords maintain close ties to Oldtown and Parchments through marriage, while their rivalry with House Redwyne touches questions of precedence, patronage and the government of the Reach. Lord Rycherd is associated with Ser Moryn Tyrell, whose influence rests in part upon the support of older landed families, but the Rowans pursue their own political interests.
+[Goldengrove](/places/goldengrove/) remains a centre of influence in the northern Reach. Its lords maintain close ties to Oldtown and Parchments through marriage, while their rivalry with House Redwyne touches questions of precedence, patronage and the government of the Reach. Lord Rycherd is associated with Ser Moryn Tyrell, whose influence rests in part upon the support of older landed families, but the Rowans pursue their own political interests.
 
 ## Events in 208 AC
 
