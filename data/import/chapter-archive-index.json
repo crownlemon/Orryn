@@ -936,7 +936,9 @@
         }
       ],
       "selected": "1Xvk81aCtA_mt1nEx_Dct_kAYAzRrdsFgD30nKCDBWdw",
-      "status": "indexed_not_extracted"
+      "status": "narrative_text_imported_not_fact_extracted",
+      "paragraphs": 212,
+      "notesExcluded": true
     },
     {
       "number": 62,
@@ -949,7 +951,9 @@
         }
       ],
       "selected": "1TZtfB19ulCAopA2awXeuSKcccDMFg9G_yxrjC7X4jAw",
-      "status": "indexed_not_extracted"
+      "status": "narrative_text_imported_not_fact_extracted",
+      "paragraphs": 182,
+      "notesExcluded": true
     },
     {
       "number": 63,
@@ -962,7 +966,9 @@
         }
       ],
       "selected": "1ZLMcJKFL_vCUKAKfoe7fZz2-QdGWysIgTF1Iu9dFYVE",
-      "status": "indexed_not_extracted"
+      "status": "narrative_text_imported_not_fact_extracted",
+      "paragraphs": 147,
+      "notesExcluded": true
     },
     {
       "number": 64,
@@ -975,7 +981,9 @@
         }
       ],
       "selected": "1QMVcbgJ9bmLVYvLmFhFDwaECvpE7TyL6G0E04m-M-pg",
-      "status": "indexed_not_extracted"
+      "status": "narrative_text_imported_not_fact_extracted",
+      "paragraphs": 90,
+      "notesExcluded": true
     },
     {
       "number": 65,
@@ -988,7 +996,9 @@
         }
       ],
       "selected": "1CnND0x1ESjEuqEKah1em646EBoXjPWgpz9YqRGD50VY",
-      "status": "indexed_not_extracted"
+      "status": "narrative_text_imported_not_fact_extracted",
+      "paragraphs": 173,
+      "notesExcluded": true
     },
     {
       "number": 66,
@@ -1001,7 +1011,9 @@
         }
       ],
       "selected": "1HOGFwfwXrgCr_5QTrpLBA0-y71Uln83e19u7wkU1V6A",
-      "status": "indexed_not_extracted"
+      "status": "narrative_text_imported_not_fact_extracted",
+      "paragraphs": 192,
+      "notesExcluded": true
     },
     {
       "number": 67,
@@ -1020,7 +1032,23 @@
         }
       ],
       "selected": null,
-      "status": "conflicting_titles_review_required"
+      "status": "both_alternatives_archived_canon_unresolved",
+      "archivedAlternatives": [
+        {
+          "id": "1PgM83hBpQsSlYPEew2pawFAjP4-VAhBxmZbfuNnnPX0",
+          "route": "/chapters/chapter-67-lord-in-his-own-hall/",
+          "paragraphs": 234,
+          "notesExcluded": true,
+          "title": "Chapter 67 — Lord in His Own Hall (Version 2)"
+        },
+        {
+          "id": "1AdS5s8PcG8fhC_QtPquFtf5K9Nn32y__TMIAb3X3R10",
+          "route": "/chapters/chapter-67-the-second-cutting/",
+          "paragraphs": 161,
+          "notesExcluded": false,
+          "title": "Chapter 67 — The Second Cutting"
+        }
+      ]
     }
   ]
 }
