@@ -9,7 +9,7 @@ description: Daughter of Lord Alester Grandison, married to Ser Addam Penrose.
 | --- | --- |
 | **Born** | c. 192 AC |
 | **Age** | 16 |
-| **House** | [Penrose](/houses/grandison/) (born Grandison) |
+| **House** | Penrose (born Grandison) |
 | **Parents** | [Lord Alester Grandison](/characters/alester-grandison/) and [Lady Lynesse Grandison](/characters/lynesse-grandison/) |
 | **Spouse** | Ser Addam Penrose |
 

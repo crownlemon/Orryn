@@ -1,0 +1,25 @@
+---
+title: The Stormlands
+description: The lands of Storm's End and the noble houses of the stormlands.
+---
+
+**The Stormlands** form a region of southeastern Westeros ruled from Storm's End by House Baratheon. The country extends from the Kingswood frontier through the western borderlands and the Dornish Marches to the wooded and storm-battered coast of Cape Wrath.
+
+Its noble houses are bound to Storm's End by service in war, local justice and the privileges of their inherited lands. In the west, the border with the Reach divides old lordships whose families nevertheless share roads, markets and marriages.
+
+## Western Stormlands
+
+**[House Grandison](/houses/grandison/)** rules [Grandview](/places/grandview/), a ridge-top castle looking west over a region of oak woods, pastures and rougher farmland. The family is sworn directly to House Baratheon and has lesser houses beneath it, including Gower of Clovercross, Wagstaff of Greenward and Elmridge of Elmbridge.
+
+The road from Grandview into the Reach leads towards [Grassy Vale](/places/grassy-vale/), where **[House Meadows](/houses/meadows/)** rules from Grassfield Keep. Marriages have long connected the Grandisons and Meadows across the border. [Lady Ellyn Grandison](/characters/ellyn-grandison/) was born a Meadows, and her grandson [Orryn Grandison](/characters/orryn-grandison/) serves his kinsman [Lord Alaric Meadows](/characters/alaric-meadows/) as a squire.
+
+## The realm in 208 AC
+
+The First Blackfyre Rebellion remains a living memory among the lords of the region. House Grandison's delayed muster in 196 AC left Grandview with a reputation for caution. Elsewhere, families tied by marriage to the royal court continue to navigate the consequences of former allegiances and the demands of service to King Daeron II.
+
+The Dornish Marches remain a source of military tension. During the dry summer of 208 AC, raids on the border brought renewed debate over whether the lords of the Reach and Stormlands should send their own riders or wait upon royal orders.
+
+## Houses and castles
+
+- [House Grandison of Grandview](/houses/grandison/)
+- [Grandview](/places/grandview/)

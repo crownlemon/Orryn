@@ -8,7 +8,7 @@ description: Daughter of Lord Gawen Grandison, married into House Musgood.
 | | |
 | --- | --- |
 | **Age** | Late thirties |
-| **House** | [Musgood](/houses/grandison/) (born Grandison) |
+| **House** | Musgood (born Grandison) |
 | **Parents** | [Lord Gawen Grandison](/characters/gawen-grandison/) and [Lady Ellyn Grandison](/characters/ellyn-grandison/) |
 
 ## Appearance

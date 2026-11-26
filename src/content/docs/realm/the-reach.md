@@ -16,7 +16,10 @@ The years following the First Blackfyre Rebellion have left the region with unea
 ## Places
 
 - [Goldengrove](/places/goldengrove/)
+- [Grassfield Keep](/places/grassfield-keep/)
+- [Grassy Vale](/places/grassy-vale/)
 
 ## Houses
 
 - [House Rowan of Goldengrove](/houses/rowan/)
+- [House Meadows of Grassy Vale](/houses/meadows/)

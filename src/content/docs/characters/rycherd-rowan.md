@@ -1,6 +1,6 @@
 ---
 title: Lord Rycherd Rowan
-description: Lord of [Goldengrove](/places/goldengrove/) and hereditary Marshal of the Northmarch.
+description: Lord of Goldengrove and hereditary Marshal of the Northmarch.
 sidebar:
   order: 1
 ---
@@ -14,8 +14,8 @@ sidebar:
 | **Titles** | Lord of Goldengrove; Marshal of the Northmarch |
 | **House** | [Rowan](/houses/rowan/) |
 | **Seat** | [Goldengrove](/places/goldengrove/) |
-| **Spouse** | Lady Clarice Hightower |
-| **Children** | Ser Triston Rowan; Lady Roslin Rowan |
+| **Spouse** | [Lady Clarice Rowan](/characters/clarice-rowan/) |
+| **Children** | [Ser Triston Rowan](/characters/triston-rowan/); [Lady Roslin Rowan](/characters/roslin-rowan/) |
 | **Allegiance** | House Tyrell |
 
 ## Appearance
@@ -30,9 +30,9 @@ His pride can work against his political judgment. He dislikes outside interfere
 
 ## Family
 
-Rycherd married **Lady Clarice Hightower**, daughter of Garmund Hightower and Princess Rhaena Targaryen, around 180 AC. Through Clarice, his children descend from Prince Daemon Targaryen. Her younger sister, Lady Alysanne Hightower, married Ser Roland Penrose of Parchments, connecting Goldengrove closely with the Penroses.
+Rycherd married **[Lady Clarice Hightower](/characters/clarice-rowan/)**, daughter of Garmund Hightower and Princess Rhaena Targaryen, around 180 AC. Through Clarice, his children descend from Prince Daemon Targaryen. Her younger sister, Lady Alysanne Hightower, married Ser Roland Penrose of Parchments, connecting Goldengrove closely with the Penroses.
 
-Rycherd and Clarice have two named surviving children: **Ser Triston Rowan**, heir to Goldengrove, and **Lady Roslin Rowan**. In 208 AC, Triston was betrothed to Lady Joy Penrose, daughter of Lord Ronnel Penrose and Princess Elaena Targaryen. **Ser Nyles Rowan**, Rycherd's younger brother, is also a member of the family.
+Rycherd and Clarice have two named surviving children: **[Ser Triston Rowan](/characters/triston-rowan/)**, heir to Goldengrove, and **[Lady Roslin Rowan](/characters/roslin-rowan/)**. In 208 AC, Triston was betrothed to Lady Joy Penrose, daughter of Lord Ronnel Penrose and Princess Elaena Targaryen. **[Ser Nyles Rowan](/characters/nyles-rowan/)**, Rycherd's younger brother, and **[Lady Mina Webber](/characters/mina-webber/)**, born Rowan and wife of Ser Wendell Webber, are members of the family.
 
 ## History
 

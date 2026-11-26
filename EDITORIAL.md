@@ -56,3 +56,13 @@ Every published **noble house page** must display its sigil prominently in a con
 Every **place page** should have a consistent infobox specifying its type, region, location, ruling house and other independently established facts. Illustrations of castles should not invent architecture; using the known ruling house's sigil as a family emblem is fine. Link a house's Seat field to its location page and the location's ruling-house field back to the house page.
 
 House Rowan and Goldengrove use the same unchanged SVG artwork by Abjiklam from [A Wiki of Ice and Fire](https://awoiaf.westeros.org/index.php/File:House_Rowan.svg), licensed under [Creative Commons Attribution-ShareAlike 3.0](https://creativecommons.org/licenses/by-sa/3.0/). The artist and license are credited next to the artwork. The source image is linked directly at `https://awoiaf.westeros.org/images/9/9e/House_Rowan.svg`; this external link should eventually be replaced with a local unmodified copy to avoid hotlink dependencies. Do not substitute another drawing without indicating it is an alternative rendition.
+
+## Heraldry credits for initial house cluster
+
+- **Rowan:** [House Rowan.svg](https://awoiaf.westeros.org/index.php/File:House_Rowan.svg) by Abjiklam, CC BY-SA 3.0; displayed unchanged.
+- **Grandison:** [House Grandison.svg](https://awoiaf.westeros.org/index.php/File:House_Grandison.svg) by Lord Evermore, CC BY-SA 3.0; displayed unchanged.
+- **Meadows:** [House Meadows.svg](https://awoiaf.westeros.org/index.php/File:House_Meadows.svg) by Abjiklam, CC BY-SA 3.0; displayed unchanged.
+
+The raw artwork is linked from AWOIAF's MediaWiki image store; credits are placed beneath each use. Future migration to locally hosted, unmodified copies is desirable for reliability. The canonical file paths use MediaWiki's image hashes: 9/9e Rowan, 2/2a Grandison, f/f6 Meadows.
+
+Households refer to the **208 AC** continuity. Public character information must not reveal a private plot fact merely because it exists in the Householdbook; in particular, omit unplayed personal secrets and proposed distant future outcomes. Chapter text takes precedence over older family-state notes (e.g., Elenei's actual marriage and Mina's established identity).
