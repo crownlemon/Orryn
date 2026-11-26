@@ -14,6 +14,7 @@ export type Entity = {
   words?: string | null; arms?: Heraldry; placeType?: string;
   age208?: number; birthHouse?: string; year?: number; chapter?: number; awoiaf?: string;
   rank208?: string; regionalArea208?: string; geographicAnchor208?: string;
+  legendaryFounder?: string; fieldSources?: Record<string,string[]>;
   registryRole?: string; catalogStatus?: string; sourceLine208?: number;
   sources?: string[];
 };
@@ -118,9 +119,12 @@ export function identityRows(entity: Entity, at: Moment = DEFAULT_DATE): Array<{
     add('Seat', one(entity.id, 'seat', at));
     add('Region', one(entity.id, 'region', at));
     add('Head', one(entity.id, 'head', at));
+    add('Heir', incoming(entity.id, 'heir_to', at)[0]);
     add('Overlord', one(entity.id, 'sworn_to', at));
+    add('Title', incoming(entity.id, 'associated_house', at)[0]);
     literal('Rank', entity.rank208);
     literal('Words', entity.words ?? 'Unknown');
+    literal('Legendary founder', entity.legendaryFounder);
   }
   if (entity.kind === 'person') {
     // Ages are a 208 AC snapshot, not dynamically derived birth dates.

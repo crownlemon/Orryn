@@ -10425,5 +10425,41 @@
         "line": 1593
       }
     ]
+  },
+  {
+    "id": "fact:617",
+    "subject": "title:lord-of-goldengrove",
+    "predicate": "associated_house",
+    "object": "house:rowan",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:619",
+    "subject": "title:lord-of-grandview",
+    "predicate": "associated_house",
+    "object": "house:grandison",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:621",
+    "subject": "title:lord-of-grassfield",
+    "predicate": "associated_house",
+    "object": "house:meadows",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    }
   }
 ]

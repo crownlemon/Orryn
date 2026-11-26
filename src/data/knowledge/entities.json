@@ -45,7 +45,13 @@
     "rank208": "Great",
     "regionalArea208": "N",
     "geographicAnchor208": "Northmarch",
-    "sourceLine208": 1186
+    "sourceLine208": 1186,
+    "legendaryFounder": "Rowan Gold-Tree",
+    "fieldSources": {
+      "legendaryFounder": [
+        "awoiaf-list"
+      ]
+    }
   },
   {
     "id": "house:grandison",
@@ -115,7 +121,13 @@
     "rank208": "Ruling",
     "regionalArea208": "C",
     "geographicAnchor208": "Mander",
-    "sourceLine208": 1161
+    "sourceLine208": 1161,
+    "words": "Growing Strong",
+    "fieldSources": {
+      "words": [
+        "awoiaf-list"
+      ]
+    }
   },
   {
     "id": "house:baratheon",
@@ -129,7 +141,13 @@
     "rank208": "Ruling",
     "regionalArea208": "NE",
     "geographicAnchor208": "Headland above Shipbreaker Bay",
-    "sourceLine208": 106
+    "sourceLine208": 106,
+    "words": "Ours is the Fury",
+    "fieldSources": {
+      "words": [
+        "awoiaf-list"
+      ]
+    }
   },
   {
     "id": "place:goldengrove",
@@ -2417,9 +2435,16 @@
     "geographicAnchor208": "Western Dornish Marches",
     "sourceLine208": 1191,
     "sources": [
-      "worldbook-v10"
+      "worldbook-v10",
+      "awoiaf-list"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "registered_no_article",
+    "words": "First in Battle",
+    "fieldSources": {
+      "words": [
+        "awoiaf-list"
+      ]
+    }
   },
   {
     "id": "place:horn-hill",
@@ -2780,9 +2805,16 @@
     "geographicAnchor208": "Upper Mander",
     "sourceLine208": 1256,
     "sources": [
-      "worldbook-v10"
+      "worldbook-v10",
+      "awoiaf-list"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "registered_no_article",
+    "words": "Tread Lightly Here",
+    "fieldSources": {
+      "words": [
+        "awoiaf-list"
+      ]
+    }
   },
   {
     "id": "place:tumbleton",

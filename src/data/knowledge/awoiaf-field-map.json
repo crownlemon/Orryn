@@ -8,34 +8,80 @@
   "templates": {
     "house": {
       "url": "https://awoiaf.westeros.org/index.php/Template:Infobox_house/doc",
-      "fields": [
-        "name",
-        "arms",
-        "region",
-        "seat",
-        "lord",
-        "heir",
+      "status": "verified parameter names from source documentation",
+      "parameters": [
+        "house",
+        "of",
+        "image",
         "words",
-        "titles",
+        "arms",
+        "blazon",
+        "seat",
+        "region",
+        "lord",
+        "lady",
+        "heir",
         "overlord",
+        "title",
+        "title1",
+        "title2",
+        "title3",
+        "weapon",
+        "founded",
         "founder",
-        "cadet_branch",
-        "extinction"
+        "cadet1",
+        "cadet2",
+        "extinct"
+      ],
+      "valueNotes": {
+        "lord_lady": "Choose current or last historical holder only after date resolution.",
+        "seat": "Defaults to 'of' in original MediaWiki template; separate place entity in Orryn model.",
+        "arms_blazon": "Graphic and verbal heraldry are distinct; image rights checked independently.",
+        "founded_extinct": "Date or period must be supported; no backward or forward inference.",
+        "cadet1_cadet2": "A later-created branch cannot be included in a 208 AC snapshot."
+      },
+      "normalizedTo": [
+        "name",
+        "subtitle",
+        "arms",
+        "words",
+        "seat",
+        "region",
+        "head",
+        "heir_to",
+        "sworn_to",
+        "associated_house",
+        "legendaryFounder",
+        "branch_of",
+        "timeValidity"
       ]
     },
     "person": {
       "url": "https://awoiaf.westeros.org/index.php/Module:Infobox_character",
+      "status": "partial documented mapping; verify complete module before bulk character import",
       "fields": [
         "name",
-        "birth",
-        "death",
-        "culture",
+        "birth_date",
+        "birth_place",
+        "death_date",
+        "death_place",
         "father",
         "mother",
         "spouse",
         "children",
         "titles",
-        "allegiance"
+        "allegiance",
+        "culture"
+      ],
+      "normalizedTo": [
+        "name",
+        "born",
+        "died",
+        "child_of",
+        "married_to",
+        "child_of_inverse",
+        "holds_title",
+        "member_of"
       ]
     },
     "place": {
@@ -46,7 +92,8 @@
         "placeType",
         "ruler",
         "history"
-      ]
+      ],
+      "status": "category-based example; location/settlement templates require separate verification"
     },
     "title": {
       "url": "https://awoiaf.westeros.org/index.php/Lord_of_Goldengrove",
@@ -65,7 +112,8 @@
         "location",
         "participants",
         "outcome"
-      ]
+      ],
+      "status": "sample battle infobox; complete conflict schema requires separate verification"
     }
   },
   "rules": [
@@ -75,5 +123,21 @@
     "Null house words means unestablished; never invent words or affiliations.",
     "Source identifiers identify evidence; wiki text remains separate from editorial documentation."
   ],
-  "status": "Exploratory mapping, not a completed reverse-engineering of all MediaWiki templates."
+  "status": "Exploratory mapping, not a completed reverse-engineering of all MediaWiki templates.",
+  "categories": {
+    "house": "https://awoiaf.westeros.org/index.php/Category:Houses",
+    "character": "https://awoiaf.westeros.org/index.php/Portal:Characters",
+    "castle": "https://awoiaf.westeros.org/index.php/Category:Castles",
+    "location": "https://awoiaf.westeros.org/index.php/Portal:Geography",
+    "template": "https://awoiaf.westeros.org/index.php/Category:Infobox_templates"
+  },
+  "importRules": [
+    "Preserve house and seat as different records.",
+    "Always bind a current head, heir, and overlord to a dated fact, not a static imported value.",
+    "Keep sources and article licensing provenance attached to individual fields or facts.",
+    "Do not assume that a published 300 AC cadet branch exists in 208 AC.",
+    "Do not publish unknown names, dates, genealogies, words, or the Worldbook's speculative future scenario notes.",
+    "Worldbook's rank fields are user-continuity categories, not AWOIAF infobox parameters.",
+    "Do not bulk copy AWOIAF prose or images without license-specific attribution and reproduction review."
+  ]
 }
