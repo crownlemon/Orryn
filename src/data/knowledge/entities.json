@@ -4498,5 +4498,265 @@
       "worldbook-v10"
     ],
     "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "person:lyman-verrall",
+    "kind": "person",
+    "name": "Lyman Verrall",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 361
+    },
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "person:everard-blythe",
+    "kind": "person",
+    "name": "Ser Everard Blythe",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 362
+    },
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "person:wyman-latham",
+    "kind": "person",
+    "name": "Ser Wyman Latham",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 363
+    },
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "person:maester-perrin",
+    "kind": "person",
+    "name": "Maester Perrin",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 364
+    },
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "person:septon-lorimer",
+    "kind": "person",
+    "name": "Septon Lorimer",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 365
+    },
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "person:bertram-corliss",
+    "kind": "person",
+    "name": "Ser Bertram Corliss",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 367
+    },
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "person:tobin-whitlow",
+    "kind": "person",
+    "name": "Ser Tobin Whitlow",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 368
+    },
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "person:lucan-marwick",
+    "kind": "person",
+    "name": "Ser Lucan Marwick",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 369
+    },
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "person:marya-caswell",
+    "kind": "person",
+    "name": "Marya Caswell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 371
+    },
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "person:septa-lenora",
+    "kind": "person",
+    "name": "Septa Lenora",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 372
+    },
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "person:osric-dunmere",
+    "kind": "person",
+    "name": "Osric Dunmere",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 375
+    },
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "person:baldric-haye",
+    "kind": "person",
+    "name": "Baldric Haye",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 376
+    },
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "person:perkin-fenwick",
+    "kind": "person",
+    "name": "Perkin Fenwick",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 377
+    },
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "person:piers-fallow",
+    "kind": "person",
+    "name": "Piers Fallow",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 378
+    },
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "person:tolman-haverill",
+    "kind": "person",
+    "name": "Tolman Haverill",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 380
+    },
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "person:dunstan-fallow",
+    "kind": "person",
+    "name": "Dunstan Fallow",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 381
+    },
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "person:aldous-trent",
+    "kind": "person",
+    "name": "Aldous Trent",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 382
+    },
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "person:garlan-fossoway",
+    "kind": "person",
+    "name": "Ser Garlan Fossoway",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 385
+    },
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "person:wylla-merryweather",
+    "kind": "person",
+    "name": "Lady Wylla Merryweather",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 386
+    },
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "person:androw-ashford",
+    "kind": "person",
+    "name": "Ser Androw Ashford",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 387
+    },
+    "catalogStatus": "registered_no_article"
   }
 ]

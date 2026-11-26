@@ -1,0 +1,47 @@
+---
+import { entities, facts, getEntity, activeAt, type Moment } from '../data/knowledge/index';
+
+interface Props { houseId: string; asOf?: Moment; }
+const {houseId,asOf={year:208,chapter:67}} = Astro.props;
+const house=getEntity(houseId);
+if(house.kind!=='house') throw new Error('KnowledgeRoster requires a house');
+const sections = [
+  {id:'lords_family',title:"Lord's family"},
+  {id:'household_officer',title:'Household officers'},
+  {id:'household_knight',title:'Household knights'},
+  {id:'lady_and_companion',title:'Ladies and companions'},
+  {id:'squire_and_page',title:'Squires and pages'},
+  {id:'town_and_estate',title:'Town and estate'},
+  {id:'visitor',title:'Recurring visitors'}
+];
+const rows = facts.filter(f=>f.rosterGroup208 && f.rosterGroup208!=='' && activeAt(f,asOf) &&
+  (f.object===houseId || (f.rosterGroup208==='town_and_estate' && houseId==='house:meadows' && f.object==='place:grassy-vale'))
+).map(f=>({fact:f,person:getEntity(f.subject)}));
+---
+<section class="orr-roster" aria-label={house.name + ' household'}>
+  {sections.map(section=>{
+    const members=rows.filter(r=>r.fact.rosterGroup208===section.id);
+    return members.length>0 && (
+      <section class="orr-roster-section">
+        <h3>{section.title}</h3>
+        <table>
+          <thead><tr><th>Name</th><th>Recorded position</th></tr></thead>
+          <tbody>
+            {members.map(({person,fact})=>(
+              <tr>
+                <td>{person.page?<a href={person.page}>{person.name}</a>:person.name}</td>
+                <td>{fact.role208}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </section>
+    );
+  })}
+</section>
+<style>
+.orr-roster-section{margin-block:1.6rem}
+.orr-roster-section table{width:100%;border-collapse:collapse}
+.orr-roster-section th,.orr-roster-section td{padding:.5rem .7rem;text-align:left;border-bottom:1px solid var(--sl-color-gray-5);vertical-align:top}
+.orr-roster-section th{background:var(--sl-color-bg-inline-code)}
+</style>

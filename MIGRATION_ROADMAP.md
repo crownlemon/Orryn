@@ -85,3 +85,15 @@ Status: automated validation and Astro build CI; browser preview review remains.
 ## Explicitly not yet done
 
 The historical AWOIAF encyclopedia has not been bulk copied or imported. Most newly indexed houses do not yet have authored articles or named current heads. The live Cloudflare website is not password-protected merely because development uses another GitHub branch. No browser-based acceptance review or final merge has occurred.
+
+
+## Milestone: Meadows household person-level extraction (26 November 2026)
+
+During the first automated build round, added the 208 AC household and local-official roster explicitly named in Householdbook v12, lines 353–387, including named officers, knights, squires, companions, local officials and recurring visitors. Kept nonresident relatives and recurring visitors distinct from domestic staff and did not infer residence.
+
+- 20 additional named people with source-line anchors.
+- Family members already in the dataset linked into the roster without duplicating their identities.
+- Squire-to-knight service relations recorded only where explicitly documented.
+- New data-generated roster component: src/components/KnowledgeRoster.astro.
+- New branch-only preview: /prototype/meadows-household/ .
+- The next batches should expand the current roster to other major households and add internal character-to-house relationships while checking conflicting residences and chronology.

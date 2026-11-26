@@ -10461,5 +10461,601 @@
     "asOf": {
       "year": 208
     }
+  },
+  {
+    "id": "fact:622",
+    "subject": "person:lyman-verrall",
+    "predicate": "household_member_of",
+    "object": "house:meadows",
+    "role208": "steward",
+    "rosterGroup208": "household_officer",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 361
+      }
+    ]
+  },
+  {
+    "id": "fact:623",
+    "subject": "person:everard-blythe",
+    "predicate": "household_member_of",
+    "object": "house:meadows",
+    "role208": "master-at-arms",
+    "rosterGroup208": "household_officer",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 362
+      }
+    ]
+  },
+  {
+    "id": "fact:624",
+    "subject": "person:wyman-latham",
+    "predicate": "household_member_of",
+    "object": "house:meadows",
+    "role208": "master of horse and hawks",
+    "rosterGroup208": "household_officer",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 363
+      }
+    ]
+  },
+  {
+    "id": "fact:625",
+    "subject": "person:maester-perrin",
+    "predicate": "household_member_of",
+    "object": "house:meadows",
+    "role208": "maester",
+    "rosterGroup208": "household_officer",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 364
+      }
+    ]
+  },
+  {
+    "id": "fact:626",
+    "subject": "person:septon-lorimer",
+    "predicate": "household_member_of",
+    "object": "house:meadows",
+    "role208": "septon",
+    "rosterGroup208": "household_officer",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 365
+      }
+    ]
+  },
+  {
+    "id": "fact:627",
+    "subject": "person:bertram-corliss",
+    "predicate": "household_member_of",
+    "object": "house:meadows",
+    "role208": "household knight",
+    "rosterGroup208": "household_knight",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 367
+      }
+    ]
+  },
+  {
+    "id": "fact:628",
+    "subject": "person:tobin-whitlow",
+    "predicate": "household_member_of",
+    "object": "house:meadows",
+    "role208": "household knight",
+    "rosterGroup208": "household_knight",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 368
+      }
+    ]
+  },
+  {
+    "id": "fact:629",
+    "subject": "person:lucan-marwick",
+    "predicate": "household_member_of",
+    "object": "house:meadows",
+    "role208": "household knight",
+    "rosterGroup208": "household_knight",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 369
+      }
+    ]
+  },
+  {
+    "id": "fact:630",
+    "subject": "person:marya-caswell",
+    "predicate": "household_member_of",
+    "object": "house:meadows",
+    "role208": "companion to Lady Jeyne",
+    "rosterGroup208": "lady_and_companion",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 371
+      }
+    ]
+  },
+  {
+    "id": "fact:631",
+    "subject": "person:septa-lenora",
+    "predicate": "household_member_of",
+    "object": "house:meadows",
+    "role208": "septa to the younger children",
+    "rosterGroup208": "lady_and_companion",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 372
+      }
+    ]
+  },
+  {
+    "id": "fact:632",
+    "subject": "person:osric-dunmere",
+    "predicate": "household_member_of",
+    "object": "house:meadows",
+    "role208": "squire to Ser Lucan Marwick",
+    "rosterGroup208": "squire_and_page",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 375
+      }
+    ]
+  },
+  {
+    "id": "fact:633",
+    "subject": "person:baldric-haye",
+    "predicate": "household_member_of",
+    "object": "house:meadows",
+    "role208": "squire to Ser Bertram Corliss",
+    "rosterGroup208": "squire_and_page",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 376
+      }
+    ]
+  },
+  {
+    "id": "fact:634",
+    "subject": "person:perkin-fenwick",
+    "predicate": "household_member_of",
+    "object": "house:meadows",
+    "role208": "squire to Ser Tobin Whitlow",
+    "rosterGroup208": "squire_and_page",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 377
+      }
+    ]
+  },
+  {
+    "id": "fact:635",
+    "subject": "person:piers-fallow",
+    "predicate": "household_member_of",
+    "object": "house:meadows",
+    "role208": "squire to Ser Wyman Latham",
+    "rosterGroup208": "squire_and_page",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 378
+      }
+    ]
+  },
+  {
+    "id": "fact:636",
+    "subject": "person:tolman-haverill",
+    "predicate": "local_official_at",
+    "object": "place:grassy-vale",
+    "role208": "reeve of Grassy Vale",
+    "rosterGroup208": "town_and_estate",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 380
+      }
+    ]
+  },
+  {
+    "id": "fact:637",
+    "subject": "person:dunstan-fallow",
+    "predicate": "associated_with_place",
+    "object": "place:grassy-vale",
+    "role208": "merchant and miller",
+    "rosterGroup208": "town_and_estate",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 381
+      }
+    ]
+  },
+  {
+    "id": "fact:638",
+    "subject": "person:aldous-trent",
+    "predicate": "local_official_at",
+    "object": "place:grassy-vale",
+    "role208": "warden of the charitable house",
+    "rosterGroup208": "town_and_estate",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 382
+      }
+    ]
+  },
+  {
+    "id": "fact:639",
+    "subject": "person:garlan-fossoway",
+    "predicate": "visits_house",
+    "object": "house:meadows",
+    "role208": "recurring visitor",
+    "rosterGroup208": "visitor",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 385
+      }
+    ]
+  },
+  {
+    "id": "fact:640",
+    "subject": "person:wylla-merryweather",
+    "predicate": "visits_house",
+    "object": "house:meadows",
+    "role208": "recurring visitor",
+    "rosterGroup208": "visitor",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 386
+      }
+    ]
+  },
+  {
+    "id": "fact:641",
+    "subject": "person:androw-ashford",
+    "predicate": "visits_house",
+    "object": "house:meadows",
+    "role208": "recurring visitor",
+    "rosterGroup208": "visitor",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 387
+      }
+    ]
+  },
+  {
+    "id": "fact:642",
+    "subject": "person:orryn-grandison",
+    "predicate": "household_member_of",
+    "object": "house:meadows",
+    "role208": "squire to Lord Alaric Meadows",
+    "rosterGroup208": "squire_and_page",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 374
+      }
+    ]
+  },
+  {
+    "id": "fact:643",
+    "subject": "person:alaric-meadows",
+    "predicate": "household_member_of",
+    "object": "house:meadows",
+    "role208": "Lord of Grassfield Keep",
+    "rosterGroup208": "lords_family",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 355
+      }
+    ]
+  },
+  {
+    "id": "fact:644",
+    "subject": "person:jeyne-meadows",
+    "predicate": "household_member_of",
+    "object": "house:meadows",
+    "role208": "Lady of Grassfield Keep",
+    "rosterGroup208": "lords_family",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 356
+      }
+    ]
+  },
+  {
+    "id": "fact:645",
+    "subject": "person:leonette-meadows",
+    "predicate": "household_member_of",
+    "object": "house:meadows",
+    "role208": "eldest daughter, married in Chapter 60",
+    "rosterGroup208": "lords_family",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 357
+      }
+    ]
+  },
+  {
+    "id": "fact:646",
+    "subject": "person:matthos-meadows",
+    "predicate": "household_member_of",
+    "object": "house:meadows",
+    "role208": "heir; serves Ser Moryn Tyrell at Highgarden",
+    "rosterGroup208": "lords_family",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 358
+      }
+    ]
+  },
+  {
+    "id": "fact:647",
+    "subject": "person:elyce-meadows",
+    "predicate": "household_member_of",
+    "object": "house:meadows",
+    "role208": "daughter of Alaric and Jeyne",
+    "rosterGroup208": "lords_family",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 359
+      }
+    ]
+  },
+  {
+    "id": "fact:648",
+    "subject": "person:osric-dunmere",
+    "predicate": "serves",
+    "object": "person:lucan-marwick",
+    "role208": "squire",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 373
+      }
+    ]
+  },
+  {
+    "id": "fact:649",
+    "subject": "person:baldric-haye",
+    "predicate": "serves",
+    "object": "person:bertram-corliss",
+    "role208": "squire",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 373
+      }
+    ]
+  },
+  {
+    "id": "fact:650",
+    "subject": "person:perkin-fenwick",
+    "predicate": "serves",
+    "object": "person:tobin-whitlow",
+    "role208": "squire",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 373
+      }
+    ]
+  },
+  {
+    "id": "fact:651",
+    "subject": "person:piers-fallow",
+    "predicate": "serves",
+    "object": "person:wyman-latham",
+    "role208": "squire",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 373
+      }
+    ]
   }
 ]

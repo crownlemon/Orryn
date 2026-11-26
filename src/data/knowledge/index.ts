@@ -16,11 +16,13 @@ export type Entity = {
   rank208?: string; regionalArea208?: string; geographicAnchor208?: string;
   legendaryFounder?: string; fieldSources?: Record<string,string[]>;
   registryRole?: string; catalogStatus?: string; sourceLine208?: number;
+  householdReference?: { source: string; line: number };
   sources?: string[];
 };
 export type Fact = {
   id: string; subject: string; predicate: string; object: string; sources: string[];
   from?: Moment; until?: Moment; asOf?: Moment;
+  role208?: string; rosterGroup208?: string; evidence?: Array<{source: string; line: number}>;
 };
 export const entities = entitiesData as Entity[];
 export const facts = factsData as Fact[];
