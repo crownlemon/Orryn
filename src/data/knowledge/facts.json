@@ -19659,12 +19659,12 @@
   {
     "id": "fact:1208",
     "subject": "person:ambrose-butterwell",
-    "predicate": "holds_title",
+    "predicate": "formerly_held_title",
     "object": "title:hand-of-the-king",
     "sources": [
       "awoiaf-blackfyre"
     ],
-    "until": {
+    "asOf": {
       "year": 196
     }
   },
@@ -19906,6 +19906,1551 @@
     ],
     "asOf": {
       "year": 196
+    }
+  },
+  {
+    "id": "fact:1230",
+    "subject": "person:cregan-stark",
+    "predicate": "child_of",
+    "object": "person:rickon-stark-father-cregan",
+    "sources": [
+      "awoiaf-cregan"
+    ]
+  },
+  {
+    "id": "fact:1231",
+    "subject": "person:cregan-stark",
+    "predicate": "child_of",
+    "object": "person:gilliane-glover",
+    "sources": [
+      "awoiaf-cregan"
+    ]
+  },
+  {
+    "id": "fact:1232",
+    "subject": "person:rickon-stark-son-cregan",
+    "predicate": "child_of",
+    "object": "person:cregan-stark",
+    "sources": [
+      "awoiaf-cregan"
+    ]
+  },
+  {
+    "id": "fact:1233",
+    "subject": "person:jonnel-stark",
+    "predicate": "child_of",
+    "object": "person:cregan-stark",
+    "sources": [
+      "awoiaf-cregan"
+    ]
+  },
+  {
+    "id": "fact:1234",
+    "subject": "person:edric-stark-cregan",
+    "predicate": "child_of",
+    "object": "person:cregan-stark",
+    "sources": [
+      "awoiaf-cregan"
+    ]
+  },
+  {
+    "id": "fact:1235",
+    "subject": "person:barthogan-stark",
+    "predicate": "child_of",
+    "object": "person:cregan-stark",
+    "sources": [
+      "awoiaf-cregan"
+    ]
+  },
+  {
+    "id": "fact:1236",
+    "subject": "person:brandon-stark-cregan",
+    "predicate": "child_of",
+    "object": "person:cregan-stark",
+    "sources": [
+      "awoiaf-cregan"
+    ]
+  },
+  {
+    "id": "fact:1237",
+    "subject": "person:rodwell-stark",
+    "predicate": "child_of",
+    "object": "person:brandon-stark-cregan",
+    "sources": [
+      "awoiaf-brandon-cregan"
+    ]
+  },
+  {
+    "id": "fact:1238",
+    "subject": "person:rodwell-stark",
+    "predicate": "child_of",
+    "object": "person:alys-karstark",
+    "sources": [
+      "awoiaf-brandon-cregan"
+    ]
+  },
+  {
+    "id": "fact:1239",
+    "subject": "person:beron-stark",
+    "predicate": "child_of",
+    "object": "person:brandon-stark-cregan",
+    "sources": [
+      "awoiaf-brandon-cregan"
+    ]
+  },
+  {
+    "id": "fact:1240",
+    "subject": "person:beron-stark",
+    "predicate": "child_of",
+    "object": "person:alys-karstark",
+    "sources": [
+      "awoiaf-brandon-cregan"
+    ]
+  },
+  {
+    "id": "fact:1241",
+    "subject": "person:sansa-stark-rickon",
+    "predicate": "child_of",
+    "object": "person:rickon-stark-son-cregan",
+    "sources": [
+      "awoiaf-cregan"
+    ]
+  },
+  {
+    "id": "fact:1242",
+    "subject": "person:serena-stark",
+    "predicate": "child_of",
+    "object": "person:rickon-stark-son-cregan",
+    "sources": [
+      "awoiaf-cregan"
+    ]
+  },
+  {
+    "id": "fact:1243",
+    "subject": "person:ronnel-arryn-conquest",
+    "predicate": "child_of",
+    "object": "person:sharra-arryn",
+    "sources": [
+      "awoiaf-house-arryn"
+    ]
+  },
+  {
+    "id": "fact:1244",
+    "subject": "person:jonos-arryn",
+    "predicate": "child_of",
+    "object": "person:sharra-arryn",
+    "sources": [
+      "awoiaf-house-arryn"
+    ]
+  },
+  {
+    "id": "fact:1245",
+    "subject": "person:kermit-tully",
+    "predicate": "child_of",
+    "object": "person:elmo-tully",
+    "sources": [
+      "awoiaf-house-tully"
+    ]
+  },
+  {
+    "id": "fact:1246",
+    "subject": "person:oscar-tully",
+    "predicate": "child_of",
+    "object": "person:elmo-tully",
+    "sources": [
+      "awoiaf-house-tully"
+    ]
+  },
+  {
+    "id": "fact:1247",
+    "subject": "person:royce-baratheon",
+    "predicate": "child_of",
+    "object": "person:borros-baratheon",
+    "sources": [
+      "awoiaf-house-baratheon"
+    ]
+  },
+  {
+    "id": "fact:1248",
+    "subject": "person:royce-baratheon",
+    "predicate": "child_of",
+    "object": "person:elenda-baratheon",
+    "sources": [
+      "awoiaf-house-baratheon"
+    ]
+  },
+  {
+    "id": "fact:1249",
+    "subject": "person:rickon-stark-father-cregan",
+    "predicate": "married_to",
+    "object": "person:gilliane-glover",
+    "sources": [
+      "awoiaf-cregan"
+    ]
+  },
+  {
+    "id": "fact:1250",
+    "subject": "person:jonnel-stark",
+    "predicate": "married_to",
+    "object": "person:sansa-stark-rickon",
+    "sources": [
+      "awoiaf-cregan"
+    ]
+  },
+  {
+    "id": "fact:1251",
+    "subject": "person:edric-stark-cregan",
+    "predicate": "married_to",
+    "object": "person:serena-stark",
+    "sources": [
+      "awoiaf-cregan"
+    ]
+  },
+  {
+    "id": "fact:1252",
+    "subject": "person:brandon-stark-cregan",
+    "predicate": "married_to",
+    "object": "person:alys-karstark",
+    "sources": [
+      "awoiaf-brandon-cregan"
+    ]
+  },
+  {
+    "id": "fact:1253",
+    "subject": "person:borros-baratheon",
+    "predicate": "married_to",
+    "object": "person:elenda-baratheon",
+    "sources": [
+      "awoiaf-house-baratheon"
+    ]
+  },
+  {
+    "id": "fact:1254",
+    "subject": "person:jason-lannister-dance",
+    "predicate": "sibling_of",
+    "object": "person:tyland-lannister",
+    "sources": [
+      "awoiaf-house-lannister"
+    ]
+  },
+  {
+    "id": "fact:1255",
+    "subject": "house:karstark",
+    "predicate": "historical_region",
+    "object": "region:north",
+    "sources": [
+      "awoiaf-house-stark"
+    ]
+  },
+  {
+    "id": "fact:1256",
+    "subject": "place:karhold",
+    "predicate": "historical_region",
+    "object": "region:north",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1257",
+    "subject": "house:karstark",
+    "predicate": "historical_seat",
+    "object": "place:karhold",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1258",
+    "subject": "house:karstark",
+    "predicate": "historical_overlord",
+    "object": "house:stark",
+    "sources": [
+      "awoiaf-house-stark"
+    ]
+  },
+  {
+    "id": "fact:1259",
+    "subject": "house:manderly",
+    "predicate": "historical_region",
+    "object": "region:north",
+    "sources": [
+      "awoiaf-house-stark"
+    ]
+  },
+  {
+    "id": "fact:1260",
+    "subject": "place:white-harbor",
+    "predicate": "historical_region",
+    "object": "region:north",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1261",
+    "subject": "house:manderly",
+    "predicate": "historical_seat",
+    "object": "place:white-harbor",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1262",
+    "subject": "house:manderly",
+    "predicate": "historical_overlord",
+    "object": "house:stark",
+    "sources": [
+      "awoiaf-house-stark"
+    ]
+  },
+  {
+    "id": "fact:1263",
+    "subject": "house:bolton",
+    "predicate": "historical_region",
+    "object": "region:north",
+    "sources": [
+      "awoiaf-house-stark"
+    ]
+  },
+  {
+    "id": "fact:1264",
+    "subject": "place:dreadfort",
+    "predicate": "historical_region",
+    "object": "region:north",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1265",
+    "subject": "house:bolton",
+    "predicate": "historical_seat",
+    "object": "place:dreadfort",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1266",
+    "subject": "house:bolton",
+    "predicate": "historical_overlord",
+    "object": "house:stark",
+    "sources": [
+      "awoiaf-house-stark"
+    ]
+  },
+  {
+    "id": "fact:1267",
+    "subject": "house:glover",
+    "predicate": "historical_region",
+    "object": "region:north",
+    "sources": [
+      "awoiaf-house-stark"
+    ]
+  },
+  {
+    "id": "fact:1268",
+    "subject": "place:deepwood-motte",
+    "predicate": "historical_region",
+    "object": "region:north",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1269",
+    "subject": "house:glover",
+    "predicate": "historical_seat",
+    "object": "place:deepwood-motte",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1270",
+    "subject": "house:glover",
+    "predicate": "historical_overlord",
+    "object": "house:stark",
+    "sources": [
+      "awoiaf-house-stark"
+    ]
+  },
+  {
+    "id": "fact:1271",
+    "subject": "house:umber",
+    "predicate": "historical_region",
+    "object": "region:north",
+    "sources": [
+      "awoiaf-house-stark"
+    ]
+  },
+  {
+    "id": "fact:1272",
+    "subject": "place:last-hearth",
+    "predicate": "historical_region",
+    "object": "region:north",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1273",
+    "subject": "house:umber",
+    "predicate": "historical_seat",
+    "object": "place:last-hearth",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1274",
+    "subject": "house:umber",
+    "predicate": "historical_overlord",
+    "object": "house:stark",
+    "sources": [
+      "awoiaf-house-stark"
+    ]
+  },
+  {
+    "id": "fact:1275",
+    "subject": "house:blackwood",
+    "predicate": "historical_region",
+    "object": "region:riverlands",
+    "sources": [
+      "awoiaf-house-tully"
+    ]
+  },
+  {
+    "id": "fact:1276",
+    "subject": "place:raventree-hall",
+    "predicate": "historical_region",
+    "object": "region:riverlands",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1277",
+    "subject": "house:blackwood",
+    "predicate": "historical_seat",
+    "object": "place:raventree-hall",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1278",
+    "subject": "house:blackwood",
+    "predicate": "historical_overlord",
+    "object": "house:tully",
+    "sources": [
+      "awoiaf-house-tully"
+    ]
+  },
+  {
+    "id": "fact:1279",
+    "subject": "house:bracken",
+    "predicate": "historical_region",
+    "object": "region:riverlands",
+    "sources": [
+      "awoiaf-house-tully"
+    ]
+  },
+  {
+    "id": "fact:1280",
+    "subject": "place:stone-hedge",
+    "predicate": "historical_region",
+    "object": "region:riverlands",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1281",
+    "subject": "house:bracken",
+    "predicate": "historical_seat",
+    "object": "place:stone-hedge",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1282",
+    "subject": "house:bracken",
+    "predicate": "historical_overlord",
+    "object": "house:tully",
+    "sources": [
+      "awoiaf-house-tully"
+    ]
+  },
+  {
+    "id": "fact:1283",
+    "subject": "house:darry",
+    "predicate": "historical_region",
+    "object": "region:riverlands",
+    "sources": [
+      "awoiaf-house-tully"
+    ]
+  },
+  {
+    "id": "fact:1284",
+    "subject": "place:darry",
+    "predicate": "historical_region",
+    "object": "region:riverlands",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1285",
+    "subject": "house:darry",
+    "predicate": "historical_seat",
+    "object": "place:darry",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1286",
+    "subject": "house:darry",
+    "predicate": "historical_overlord",
+    "object": "house:tully",
+    "sources": [
+      "awoiaf-house-tully"
+    ]
+  },
+  {
+    "id": "fact:1287",
+    "subject": "house:smallwood",
+    "predicate": "historical_region",
+    "object": "region:riverlands",
+    "sources": [
+      "awoiaf-house-tully"
+    ]
+  },
+  {
+    "id": "fact:1288",
+    "subject": "place:acorn-hall",
+    "predicate": "historical_region",
+    "object": "region:riverlands",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1289",
+    "subject": "house:smallwood",
+    "predicate": "historical_seat",
+    "object": "place:acorn-hall",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1290",
+    "subject": "house:smallwood",
+    "predicate": "historical_overlord",
+    "object": "house:tully",
+    "sources": [
+      "awoiaf-house-tully"
+    ]
+  },
+  {
+    "id": "fact:1291",
+    "subject": "house:lothston",
+    "predicate": "historical_region",
+    "object": "region:riverlands",
+    "sources": [
+      "awoiaf-house-tully"
+    ]
+  },
+  {
+    "id": "fact:1292",
+    "subject": "place:harrenhal",
+    "predicate": "historical_region",
+    "object": "region:riverlands",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1293",
+    "subject": "house:lothston",
+    "predicate": "historical_seat",
+    "object": "place:harrenhal",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1294",
+    "subject": "house:lothston",
+    "predicate": "historical_overlord",
+    "object": "house:tully",
+    "sources": [
+      "awoiaf-house-tully"
+    ]
+  },
+  {
+    "id": "fact:1295",
+    "subject": "house:waynwood",
+    "predicate": "historical_region",
+    "object": "region:vale",
+    "sources": [
+      "awoiaf-house-arryn"
+    ]
+  },
+  {
+    "id": "fact:1296",
+    "subject": "place:ironoaks",
+    "predicate": "historical_region",
+    "object": "region:vale",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1297",
+    "subject": "house:waynwood",
+    "predicate": "historical_seat",
+    "object": "place:ironoaks",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1298",
+    "subject": "house:waynwood",
+    "predicate": "historical_overlord",
+    "object": "house:arryn",
+    "sources": [
+      "awoiaf-house-arryn"
+    ]
+  },
+  {
+    "id": "fact:1299",
+    "subject": "house:templeton",
+    "predicate": "historical_region",
+    "object": "region:vale",
+    "sources": [
+      "awoiaf-house-arryn"
+    ]
+  },
+  {
+    "id": "fact:1300",
+    "subject": "place:ninestars",
+    "predicate": "historical_region",
+    "object": "region:vale",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1301",
+    "subject": "house:templeton",
+    "predicate": "historical_seat",
+    "object": "place:ninestars",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1302",
+    "subject": "house:templeton",
+    "predicate": "historical_overlord",
+    "object": "house:arryn",
+    "sources": [
+      "awoiaf-house-arryn"
+    ]
+  },
+  {
+    "id": "fact:1303",
+    "subject": "house:corbray",
+    "predicate": "historical_region",
+    "object": "region:vale",
+    "sources": [
+      "awoiaf-house-arryn"
+    ]
+  },
+  {
+    "id": "fact:1304",
+    "subject": "place:hearts-home",
+    "predicate": "historical_region",
+    "object": "region:vale",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1305",
+    "subject": "house:corbray",
+    "predicate": "historical_seat",
+    "object": "place:hearts-home",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1306",
+    "subject": "house:corbray",
+    "predicate": "historical_overlord",
+    "object": "house:arryn",
+    "sources": [
+      "awoiaf-house-arryn"
+    ]
+  },
+  {
+    "id": "fact:1307",
+    "subject": "house:redfort",
+    "predicate": "historical_region",
+    "object": "region:vale",
+    "sources": [
+      "awoiaf-house-arryn"
+    ]
+  },
+  {
+    "id": "fact:1308",
+    "subject": "place:redfort",
+    "predicate": "historical_region",
+    "object": "region:vale",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1309",
+    "subject": "house:redfort",
+    "predicate": "historical_seat",
+    "object": "place:redfort",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1310",
+    "subject": "house:redfort",
+    "predicate": "historical_overlord",
+    "object": "house:arryn",
+    "sources": [
+      "awoiaf-house-arryn"
+    ]
+  },
+  {
+    "id": "fact:1311",
+    "subject": "house:hunter",
+    "predicate": "historical_region",
+    "object": "region:vale",
+    "sources": [
+      "awoiaf-house-arryn"
+    ]
+  },
+  {
+    "id": "fact:1312",
+    "subject": "place:longbow-hall",
+    "predicate": "historical_region",
+    "object": "region:vale",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1313",
+    "subject": "house:hunter",
+    "predicate": "historical_seat",
+    "object": "place:longbow-hall",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1314",
+    "subject": "house:hunter",
+    "predicate": "historical_overlord",
+    "object": "house:arryn",
+    "sources": [
+      "awoiaf-house-arryn"
+    ]
+  },
+  {
+    "id": "fact:1315",
+    "subject": "house:lefford",
+    "predicate": "historical_region",
+    "object": "region:westerlands",
+    "sources": [
+      "awoiaf-house-lannister"
+    ]
+  },
+  {
+    "id": "fact:1316",
+    "subject": "place:golden-tooth",
+    "predicate": "historical_region",
+    "object": "region:westerlands",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1317",
+    "subject": "house:lefford",
+    "predicate": "historical_seat",
+    "object": "place:golden-tooth",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1318",
+    "subject": "house:lefford",
+    "predicate": "historical_overlord",
+    "object": "house:lannister",
+    "sources": [
+      "awoiaf-house-lannister"
+    ]
+  },
+  {
+    "id": "fact:1319",
+    "subject": "house:reyne",
+    "predicate": "historical_region",
+    "object": "region:westerlands",
+    "sources": [
+      "awoiaf-house-lannister"
+    ]
+  },
+  {
+    "id": "fact:1320",
+    "subject": "place:castamere",
+    "predicate": "historical_region",
+    "object": "region:westerlands",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1321",
+    "subject": "house:reyne",
+    "predicate": "historical_seat",
+    "object": "place:castamere",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1322",
+    "subject": "house:reyne",
+    "predicate": "historical_overlord",
+    "object": "house:lannister",
+    "sources": [
+      "awoiaf-house-lannister"
+    ]
+  },
+  {
+    "id": "fact:1323",
+    "subject": "house:tarbeck",
+    "predicate": "historical_region",
+    "object": "region:westerlands",
+    "sources": [
+      "awoiaf-house-lannister"
+    ]
+  },
+  {
+    "id": "fact:1324",
+    "subject": "place:tarbeck-hall",
+    "predicate": "historical_region",
+    "object": "region:westerlands",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1325",
+    "subject": "house:tarbeck",
+    "predicate": "historical_seat",
+    "object": "place:tarbeck-hall",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1326",
+    "subject": "house:tarbeck",
+    "predicate": "historical_overlord",
+    "object": "house:lannister",
+    "sources": [
+      "awoiaf-house-lannister"
+    ]
+  },
+  {
+    "id": "fact:1327",
+    "subject": "house:velaryon",
+    "predicate": "historical_region",
+    "object": "region:crownlands",
+    "sources": [
+      null
+    ]
+  },
+  {
+    "id": "fact:1328",
+    "subject": "place:driftmark",
+    "predicate": "historical_region",
+    "object": "region:crownlands",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1329",
+    "subject": "house:velaryon",
+    "predicate": "historical_seat",
+    "object": "place:driftmark",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1330",
+    "subject": "house:velaryon",
+    "predicate": "historical_overlord",
+    "object": "house:targaryen",
+    "sources": [
+      null
+    ]
+  },
+  {
+    "id": "fact:1331",
+    "subject": "house:celtigar",
+    "predicate": "historical_region",
+    "object": "region:crownlands",
+    "sources": [
+      null
+    ]
+  },
+  {
+    "id": "fact:1332",
+    "subject": "place:claw-isle",
+    "predicate": "historical_region",
+    "object": "region:crownlands",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1333",
+    "subject": "house:celtigar",
+    "predicate": "historical_seat",
+    "object": "place:claw-isle",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1334",
+    "subject": "house:celtigar",
+    "predicate": "historical_overlord",
+    "object": "house:targaryen",
+    "sources": [
+      null
+    ]
+  },
+  {
+    "id": "fact:1335",
+    "subject": "house:massey",
+    "predicate": "historical_region",
+    "object": "region:crownlands",
+    "sources": [
+      null
+    ]
+  },
+  {
+    "id": "fact:1336",
+    "subject": "place:stonedance",
+    "predicate": "historical_region",
+    "object": "region:crownlands",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1337",
+    "subject": "house:massey",
+    "predicate": "historical_seat",
+    "object": "place:stonedance",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1338",
+    "subject": "house:massey",
+    "predicate": "historical_overlord",
+    "object": "house:targaryen",
+    "sources": [
+      null
+    ]
+  },
+  {
+    "id": "fact:1339",
+    "subject": "house:hayford",
+    "predicate": "historical_region",
+    "object": "region:crownlands",
+    "sources": [
+      null
+    ]
+  },
+  {
+    "id": "fact:1340",
+    "subject": "place:hayford",
+    "predicate": "historical_region",
+    "object": "region:crownlands",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1341",
+    "subject": "house:hayford",
+    "predicate": "historical_seat",
+    "object": "place:hayford",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1342",
+    "subject": "house:hayford",
+    "predicate": "historical_overlord",
+    "object": "house:targaryen",
+    "sources": [
+      null
+    ]
+  },
+  {
+    "id": "fact:1343",
+    "subject": "house:dayne",
+    "predicate": "historical_region",
+    "object": "region:dorne",
+    "sources": [
+      "awoiaf-house-martell"
+    ]
+  },
+  {
+    "id": "fact:1344",
+    "subject": "place:starfall",
+    "predicate": "historical_region",
+    "object": "region:dorne",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1345",
+    "subject": "house:dayne",
+    "predicate": "historical_seat",
+    "object": "place:starfall",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1346",
+    "subject": "house:dayne",
+    "predicate": "historical_overlord",
+    "object": "house:martell",
+    "sources": [
+      "awoiaf-house-martell"
+    ]
+  },
+  {
+    "id": "fact:1347",
+    "subject": "house:yronwood",
+    "predicate": "historical_region",
+    "object": "region:dorne",
+    "sources": [
+      "awoiaf-house-martell"
+    ]
+  },
+  {
+    "id": "fact:1348",
+    "subject": "place:yronwood",
+    "predicate": "historical_region",
+    "object": "region:dorne",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1349",
+    "subject": "house:yronwood",
+    "predicate": "historical_seat",
+    "object": "place:yronwood",
+    "sources": [
+      "awoiaf-list"
+    ]
+  },
+  {
+    "id": "fact:1350",
+    "subject": "house:yronwood",
+    "predicate": "historical_overlord",
+    "object": "house:martell",
+    "sources": [
+      "awoiaf-house-martell"
+    ]
+  },
+  {
+    "id": "fact:1351",
+    "subject": "house:harlaw",
+    "predicate": "historical_region",
+    "object": "region:iron-islands",
+    "sources": [
+      "awoiaf-house-greyjoy"
+    ]
+  },
+  {
+    "id": "fact:1352",
+    "subject": "house:harlaw",
+    "predicate": "historical_overlord",
+    "object": "house:greyjoy",
+    "sources": [
+      "awoiaf-house-greyjoy"
+    ]
+  },
+  {
+    "id": "fact:1353",
+    "subject": "house:goodbrother",
+    "predicate": "historical_region",
+    "object": "region:iron-islands",
+    "sources": [
+      "awoiaf-house-greyjoy"
+    ]
+  },
+  {
+    "id": "fact:1354",
+    "subject": "house:goodbrother",
+    "predicate": "historical_overlord",
+    "object": "house:greyjoy",
+    "sources": [
+      "awoiaf-house-greyjoy"
+    ]
+  },
+  {
+    "id": "fact:1355",
+    "subject": "house:arryn",
+    "predicate": "supported_crown_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1356",
+    "subject": "house:caswell",
+    "predicate": "supported_crown_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1357",
+    "subject": "house:darry",
+    "predicate": "supported_crown_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1358",
+    "subject": "house:hayford",
+    "predicate": "supported_crown_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1359",
+    "subject": "house:lannister",
+    "predicate": "supported_crown_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1360",
+    "subject": "house:lefford",
+    "predicate": "supported_crown_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1361",
+    "subject": "house:martell",
+    "predicate": "supported_crown_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1362",
+    "subject": "house:penrose",
+    "predicate": "supported_crown_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1363",
+    "subject": "house:smallwood",
+    "predicate": "supported_crown_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1364",
+    "subject": "house:targaryen",
+    "predicate": "supported_crown_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1365",
+    "subject": "house:tully",
+    "predicate": "supported_crown_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1366",
+    "subject": "house:tyrell",
+    "predicate": "supported_crown_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1367",
+    "subject": "house:templeton",
+    "predicate": "supported_crown_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1368",
+    "subject": "house:webber",
+    "predicate": "supported_crown_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1369",
+    "subject": "house:waynwood",
+    "predicate": "supported_crown_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1370",
+    "subject": "house:blackfyre",
+    "predicate": "supported_rebellion_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1371",
+    "subject": "house:bracken",
+    "predicate": "supported_rebellion_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1372",
+    "subject": "house:costayne",
+    "predicate": "supported_rebellion_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1373",
+    "subject": "house:osgrey",
+    "predicate": "supported_rebellion_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1374",
+    "subject": "house:peake",
+    "predicate": "supported_rebellion_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1375",
+    "subject": "house:shawney",
+    "predicate": "supported_rebellion_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1376",
+    "subject": "house:strickland",
+    "predicate": "supported_rebellion_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1377",
+    "subject": "house:sunderland",
+    "predicate": "supported_rebellion_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1378",
+    "subject": "house:yronwood",
+    "predicate": "supported_rebellion_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1379",
+    "subject": "house:butterwell",
+    "predicate": "divided_allegiance_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1380",
+    "subject": "house:hightower",
+    "predicate": "divided_allegiance_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1381",
+    "subject": "house:oakheart",
+    "predicate": "divided_allegiance_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1382",
+    "subject": "house:tarbeck",
+    "predicate": "divided_allegiance_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1383",
+    "subject": "house:lothston",
+    "predicate": "changed_allegiance_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1384",
+    "subject": "person:donnel-arryn",
+    "predicate": "supported_crown_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1385",
+    "subject": "person:damon-lannister",
+    "predicate": "supported_crown_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1386",
+    "subject": "person:leo-tyrell",
+    "predicate": "supported_crown_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1387",
+    "subject": "person:aubrey-ambrose",
+    "predicate": "supported_rebellion_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1388",
+    "subject": "person:eustace-osgrey",
+    "predicate": "supported_rebellion_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1389",
+    "subject": "event:arryn-succession-134",
+    "predicate": "participant",
+    "object": "person:joffrey-arryn",
+    "sources": [
+      "awoiaf-arryn-succession"
+    ],
+    "asOf": {
+      "year": 134
     }
   }
 ]

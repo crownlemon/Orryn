@@ -148,5 +148,77 @@
     "title": "A Wiki of Ice and Fire: Small council",
     "url": "https://awoiaf.westeros.org/index.php/Small_council",
     "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-house-stark",
+    "title": "A Wiki of Ice and Fire: House Stark",
+    "url": "https://awoiaf.westeros.org/index.php/House_Stark",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-house-arryn",
+    "title": "A Wiki of Ice and Fire: House Arryn",
+    "url": "https://awoiaf.westeros.org/index.php/House_Arryn",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-house-tully",
+    "title": "A Wiki of Ice and Fire: House Tully",
+    "url": "https://awoiaf.westeros.org/index.php/House_Tully",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-house-lannister",
+    "title": "A Wiki of Ice and Fire: House Lannister",
+    "url": "https://awoiaf.westeros.org/index.php/House_Lannister",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-house-greyjoy",
+    "title": "A Wiki of Ice and Fire: House Greyjoy",
+    "url": "https://awoiaf.westeros.org/index.php/House_Greyjoy",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-house-martell",
+    "title": "A Wiki of Ice and Fire: House Martell",
+    "url": "https://awoiaf.westeros.org/index.php/House_Martell",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-house-tyrell",
+    "title": "A Wiki of Ice and Fire: House Tyrell",
+    "url": "https://awoiaf.westeros.org/index.php/House_Tyrell",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-house-baratheon",
+    "title": "A Wiki of Ice and Fire: House Baratheon",
+    "url": "https://awoiaf.westeros.org/index.php/House_Baratheon",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-house-velaryon",
+    "title": "A Wiki of Ice and Fire: House Velaryon",
+    "url": "https://awoiaf.westeros.org/index.php/House_Velaryon",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-arryn-succession",
+    "title": "A Wiki of Ice and Fire: Arryn succession conflict (134 AC)",
+    "url": "https://awoiaf.westeros.org/index.php/Arryn_Succession_Conflict_(134_AC)",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-cregan",
+    "title": "A Wiki of Ice and Fire: Cregan Stark",
+    "url": "https://awoiaf.westeros.org/index.php/Cregan_Stark",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-brandon-cregan",
+    "title": "A Wiki of Ice and Fire: Brandon Stark (son of Cregan)",
+    "url": "https://awoiaf.westeros.org/index.php/Brandon_Stark_(son_of_Cregan)",
+    "kind": "secondary"
   }
 ]

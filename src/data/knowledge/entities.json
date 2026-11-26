@@ -5444,7 +5444,8 @@
     "catalogStatus": "baseline_profile",
     "sources": [
       "householdbook-v12",
-      "awoiaf-great-houses"
+      "awoiaf-great-houses",
+      "awoiaf-house-lannister"
     ],
     "householdReference": {
       "source": "householdbook-v12",
@@ -7234,7 +7235,8 @@
     "kind": "house",
     "name": "House Stark",
     "sources": [
-      "awoiaf-great-houses"
+      "awoiaf-great-houses",
+      "awoiaf-house-stark"
     ],
     "page": "/houses/stark/",
     "catalogStatus": "baseline_profile"
@@ -7264,7 +7266,8 @@
     "kind": "house",
     "name": "House Arryn",
     "sources": [
-      "awoiaf-great-houses"
+      "awoiaf-great-houses",
+      "awoiaf-house-arryn"
     ],
     "page": "/houses/arryn/",
     "catalogStatus": "baseline_profile"
@@ -7294,7 +7297,8 @@
     "kind": "house",
     "name": "House Tully",
     "sources": [
-      "awoiaf-great-houses"
+      "awoiaf-great-houses",
+      "awoiaf-house-tully"
     ],
     "page": "/houses/tully/",
     "catalogStatus": "baseline_profile"
@@ -7344,7 +7348,8 @@
     "kind": "house",
     "name": "House Greyjoy",
     "sources": [
-      "awoiaf-great-houses"
+      "awoiaf-great-houses",
+      "awoiaf-house-greyjoy"
     ],
     "page": "/houses/greyjoy/",
     "catalogStatus": "baseline_profile"
@@ -7374,7 +7379,8 @@
     "kind": "house",
     "name": "House Nymeros Martell",
     "sources": [
-      "awoiaf-great-houses"
+      "awoiaf-great-houses",
+      "awoiaf-house-martell"
     ],
     "page": "/houses/martell/",
     "catalogStatus": "baseline_profile"
@@ -7886,7 +7892,8 @@
     "name": "Ser Aubrey Ambrose",
     "birthHouse": "ambrose",
     "sources": [
-      "householdbook-v12"
+      "householdbook-v12",
+      "awoiaf-blackfyre"
     ],
     "householdReference": {
       "source": "householdbook-v12",
@@ -8673,7 +8680,8 @@
     "kind": "house",
     "name": "House Velaryon",
     "sources": [
-      "awoiaf-targaryen-lineage"
+      "awoiaf-targaryen-lineage",
+      null
     ],
     "page": "/houses/velaryon/",
     "catalogStatus": "historical_profile"
@@ -8683,7 +8691,8 @@
     "kind": "house",
     "name": "House Bracken",
     "sources": [
-      "awoiaf-targaryen-lineage"
+      "awoiaf-targaryen-lineage",
+      "awoiaf-house-tully"
     ],
     "page": "/houses/bracken/",
     "catalogStatus": "historical_profile"
@@ -8693,7 +8702,8 @@
     "kind": "house",
     "name": "House Blackwood",
     "sources": [
-      "awoiaf-targaryen-lineage"
+      "awoiaf-targaryen-lineage",
+      "awoiaf-house-tully"
     ],
     "page": "/houses/blackwood/",
     "catalogStatus": "historical_profile"
@@ -8703,7 +8713,8 @@
     "kind": "house",
     "name": "House Dayne",
     "sources": [
-      "awoiaf-targaryen-lineage"
+      "awoiaf-targaryen-lineage",
+      "awoiaf-house-martell"
     ],
     "page": "/houses/dayne/",
     "catalogStatus": "historical_profile"
@@ -8723,7 +8734,8 @@
     "kind": "house",
     "name": "House Hayford",
     "sources": [
-      "awoiaf-targaryen-lineage"
+      "awoiaf-targaryen-lineage",
+      null
     ],
     "page": "/houses/hayford/",
     "catalogStatus": "historical_profile"
@@ -8733,7 +8745,8 @@
     "kind": "house",
     "name": "House Waynwood",
     "sources": [
-      "awoiaf-targaryen-lineage"
+      "awoiaf-targaryen-lineage",
+      "awoiaf-house-arryn"
     ],
     "page": "/houses/waynwood/",
     "catalogStatus": "historical_profile"
@@ -8891,5 +8904,906 @@
     "page": "/events/great-council-101/",
     "catalogStatus": "historical_profile",
     "year": 101
+  },
+  {
+    "id": "person:torrhen-stark-king",
+    "kind": "person",
+    "name": "King Torrhen Stark",
+    "sources": [
+      "awoiaf-house-stark"
+    ],
+    "page": "/characters/torrhen-stark-king/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "stark"
+  },
+  {
+    "id": "person:cregan-stark",
+    "kind": "person",
+    "name": "Lord Cregan Stark",
+    "sources": [
+      "awoiaf-house-stark"
+    ],
+    "page": "/characters/cregan-stark/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "stark"
+  },
+  {
+    "id": "person:rickon-stark-father-cregan",
+    "kind": "person",
+    "name": "Lord Rickon Stark",
+    "sources": [
+      "awoiaf-house-stark"
+    ],
+    "page": "/characters/rickon-stark-father-cregan/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "stark"
+  },
+  {
+    "id": "person:gilliane-glover",
+    "kind": "person",
+    "name": "Lady Gilliane Glover",
+    "sources": [
+      "awoiaf-cregan"
+    ],
+    "page": "/characters/gilliane-glover/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "glover"
+  },
+  {
+    "id": "person:rickon-stark-son-cregan",
+    "kind": "person",
+    "name": "Rickon Stark",
+    "sources": [
+      "awoiaf-house-stark"
+    ],
+    "page": "/characters/rickon-stark-son-cregan/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "stark"
+  },
+  {
+    "id": "person:jonnel-stark",
+    "kind": "person",
+    "name": "Lord Jonnel Stark",
+    "sources": [
+      "awoiaf-house-stark"
+    ],
+    "page": "/characters/jonnel-stark/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "stark"
+  },
+  {
+    "id": "person:edric-stark-cregan",
+    "kind": "person",
+    "name": "Edric Stark",
+    "sources": [
+      "awoiaf-house-stark"
+    ],
+    "page": "/characters/edric-stark-cregan/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "stark"
+  },
+  {
+    "id": "person:barthogan-stark",
+    "kind": "person",
+    "name": "Lord Barthogan Stark",
+    "sources": [
+      "awoiaf-house-stark"
+    ],
+    "page": "/characters/barthogan-stark/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "stark"
+  },
+  {
+    "id": "person:brandon-stark-cregan",
+    "kind": "person",
+    "name": "Lord Brandon Stark",
+    "sources": [
+      "awoiaf-house-stark"
+    ],
+    "page": "/characters/brandon-stark-cregan/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "stark"
+  },
+  {
+    "id": "person:alys-karstark",
+    "kind": "person",
+    "name": "Lady Alys Karstark",
+    "sources": [
+      "awoiaf-cregan"
+    ],
+    "page": "/characters/alys-karstark/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "karstark"
+  },
+  {
+    "id": "person:rodwell-stark",
+    "kind": "person",
+    "name": "Lord Rodwell Stark",
+    "sources": [
+      "awoiaf-house-stark"
+    ],
+    "page": "/characters/rodwell-stark/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "stark"
+  },
+  {
+    "id": "person:beron-stark",
+    "kind": "person",
+    "name": "Beron Stark",
+    "sources": [
+      "awoiaf-house-stark"
+    ],
+    "page": "/characters/beron-stark/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "stark"
+  },
+  {
+    "id": "person:sansa-stark-rickon",
+    "kind": "person",
+    "name": "Sansa Stark",
+    "sources": [
+      "awoiaf-house-stark"
+    ],
+    "page": "/characters/sansa-stark-rickon/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "stark"
+  },
+  {
+    "id": "person:serena-stark",
+    "kind": "person",
+    "name": "Serena Stark",
+    "sources": [
+      "awoiaf-house-stark"
+    ],
+    "page": "/characters/serena-stark/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "stark"
+  },
+  {
+    "id": "person:sharra-arryn",
+    "kind": "person",
+    "name": "Queen Sharra Arryn",
+    "sources": [
+      "awoiaf-house-arryn"
+    ],
+    "page": "/characters/sharra-arryn/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "arryn"
+  },
+  {
+    "id": "person:ronnel-arryn-conquest",
+    "kind": "person",
+    "name": "Lord Ronnel Arryn",
+    "sources": [
+      "awoiaf-house-arryn"
+    ],
+    "page": "/characters/ronnel-arryn-conquest/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "arryn"
+  },
+  {
+    "id": "person:jonos-arryn",
+    "kind": "person",
+    "name": "Jonos Arryn",
+    "sources": [
+      "awoiaf-house-arryn"
+    ],
+    "page": "/characters/jonos-arryn/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "arryn"
+  },
+  {
+    "id": "person:jeyne-arryn",
+    "kind": "person",
+    "name": "Lady Jeyne Arryn",
+    "sources": [
+      "awoiaf-house-arryn"
+    ],
+    "page": "/characters/jeyne-arryn/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "arryn"
+  },
+  {
+    "id": "person:joffrey-arryn",
+    "kind": "person",
+    "name": "Lord Joffrey Arryn",
+    "sources": [
+      "awoiaf-house-arryn"
+    ],
+    "page": "/characters/joffrey-arryn/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "arryn"
+  },
+  {
+    "id": "person:donnel-arryn",
+    "kind": "person",
+    "name": "Lord Donnel Arryn",
+    "sources": [
+      "awoiaf-house-arryn"
+    ],
+    "page": "/characters/donnel-arryn/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "arryn"
+  },
+  {
+    "id": "person:edmyn-tully",
+    "kind": "person",
+    "name": "Lord Edmyn Tully",
+    "sources": [
+      "awoiaf-house-tully"
+    ],
+    "page": "/characters/edmyn-tully/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "tully"
+  },
+  {
+    "id": "person:grover-tully",
+    "kind": "person",
+    "name": "Lord Grover Tully",
+    "sources": [
+      "awoiaf-house-tully"
+    ],
+    "page": "/characters/grover-tully/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "tully"
+  },
+  {
+    "id": "person:elmo-tully",
+    "kind": "person",
+    "name": "Lord Elmo Tully",
+    "sources": [
+      "awoiaf-house-tully"
+    ],
+    "page": "/characters/elmo-tully/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "tully"
+  },
+  {
+    "id": "person:kermit-tully",
+    "kind": "person",
+    "name": "Lord Kermit Tully",
+    "sources": [
+      "awoiaf-house-tully"
+    ],
+    "page": "/characters/kermit-tully/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "tully"
+  },
+  {
+    "id": "person:oscar-tully",
+    "kind": "person",
+    "name": "Ser Oscar Tully",
+    "sources": [
+      "awoiaf-house-tully"
+    ],
+    "page": "/characters/oscar-tully/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "tully"
+  },
+  {
+    "id": "person:medgar-tully",
+    "kind": "person",
+    "name": "Lord Medgar Tully",
+    "sources": [
+      "awoiaf-house-tully"
+    ],
+    "page": "/characters/medgar-tully/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "tully"
+  },
+  {
+    "id": "person:loren-lannister",
+    "kind": "person",
+    "name": "King Loren Lannister",
+    "sources": [
+      "awoiaf-house-lannister"
+    ],
+    "page": "/characters/loren-lannister/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "lannister"
+  },
+  {
+    "id": "person:jason-lannister-dance",
+    "kind": "person",
+    "name": "Lord Jason Lannister",
+    "sources": [
+      "awoiaf-house-lannister"
+    ],
+    "page": "/characters/jason-lannister-dance/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "lannister"
+  },
+  {
+    "id": "person:tyland-lannister",
+    "kind": "person",
+    "name": "Ser Tyland Lannister",
+    "sources": [
+      "awoiaf-house-lannister"
+    ],
+    "page": "/characters/tyland-lannister/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "lannister"
+  },
+  {
+    "id": "person:damon-lannister",
+    "kind": "person",
+    "name": "Lord Damon Lannister",
+    "sources": [
+      "awoiaf-house-lannister"
+    ],
+    "page": "/characters/damon-lannister/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "lannister"
+  },
+  {
+    "id": "person:vickon-greyjoy",
+    "kind": "person",
+    "name": "Lord Vickon Greyjoy",
+    "sources": [
+      "awoiaf-house-greyjoy"
+    ],
+    "page": "/characters/vickon-greyjoy/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "greyjoy"
+  },
+  {
+    "id": "person:orys-baratheon",
+    "kind": "person",
+    "name": "Lord Orys Baratheon",
+    "sources": [
+      "awoiaf-house-baratheon"
+    ],
+    "page": "/characters/orys-baratheon/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "baratheon"
+  },
+  {
+    "id": "person:borros-baratheon",
+    "kind": "person",
+    "name": "Lord Borros Baratheon",
+    "sources": [
+      "awoiaf-house-baratheon"
+    ],
+    "page": "/characters/borros-baratheon/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "baratheon"
+  },
+  {
+    "id": "person:elenda-baratheon",
+    "kind": "person",
+    "name": "Lady Elenda Baratheon",
+    "sources": [
+      "awoiaf-house-baratheon"
+    ],
+    "page": "/characters/elenda-baratheon/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "caron"
+  },
+  {
+    "id": "person:royce-baratheon",
+    "kind": "person",
+    "name": "Lord Royce Baratheon",
+    "sources": [
+      "awoiaf-house-baratheon"
+    ],
+    "page": "/characters/royce-baratheon/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "baratheon"
+  },
+  {
+    "id": "person:lyonel-tyrell-dance",
+    "kind": "person",
+    "name": "Lord Lyonel Tyrell",
+    "sources": [
+      "awoiaf-house-tyrell"
+    ],
+    "page": "/characters/lyonel-tyrell-dance/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "tyrell"
+  },
+  {
+    "id": "house:karstark",
+    "kind": "house",
+    "name": "House Karstark",
+    "sources": [
+      "awoiaf-house-stark"
+    ],
+    "page": "/houses/karstark/",
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "place:karhold",
+    "kind": "place",
+    "name": "Karhold",
+    "sources": [
+      "awoiaf-list"
+    ],
+    "page": "/places/karhold/",
+    "catalogStatus": "historical_profile",
+    "placeType": "holding"
+  },
+  {
+    "id": "house:manderly",
+    "kind": "house",
+    "name": "House Manderly",
+    "sources": [
+      "awoiaf-house-stark"
+    ],
+    "page": "/houses/manderly/",
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "place:white-harbor",
+    "kind": "place",
+    "name": "White Harbor",
+    "sources": [
+      "awoiaf-list"
+    ],
+    "page": "/places/white-harbor/",
+    "catalogStatus": "historical_profile",
+    "placeType": "holding"
+  },
+  {
+    "id": "house:bolton",
+    "kind": "house",
+    "name": "House Bolton",
+    "sources": [
+      "awoiaf-house-stark"
+    ],
+    "page": "/houses/bolton/",
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "place:dreadfort",
+    "kind": "place",
+    "name": "The Dreadfort",
+    "sources": [
+      "awoiaf-list"
+    ],
+    "page": "/places/dreadfort/",
+    "catalogStatus": "historical_profile",
+    "placeType": "holding"
+  },
+  {
+    "id": "house:glover",
+    "kind": "house",
+    "name": "House Glover",
+    "sources": [
+      "awoiaf-house-stark"
+    ],
+    "page": "/houses/glover/",
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "place:deepwood-motte",
+    "kind": "place",
+    "name": "Deepwood Motte",
+    "sources": [
+      "awoiaf-list"
+    ],
+    "page": "/places/deepwood-motte/",
+    "catalogStatus": "historical_profile",
+    "placeType": "holding"
+  },
+  {
+    "id": "house:umber",
+    "kind": "house",
+    "name": "House Umber",
+    "sources": [
+      "awoiaf-house-stark"
+    ],
+    "page": "/houses/umber/",
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "place:last-hearth",
+    "kind": "place",
+    "name": "Last Hearth",
+    "sources": [
+      "awoiaf-list"
+    ],
+    "page": "/places/last-hearth/",
+    "catalogStatus": "historical_profile",
+    "placeType": "holding"
+  },
+  {
+    "id": "place:raventree-hall",
+    "kind": "place",
+    "name": "Raventree Hall",
+    "sources": [
+      "awoiaf-list"
+    ],
+    "page": "/places/raventree-hall/",
+    "catalogStatus": "historical_profile",
+    "placeType": "holding"
+  },
+  {
+    "id": "place:stone-hedge",
+    "kind": "place",
+    "name": "Stone Hedge",
+    "sources": [
+      "awoiaf-list"
+    ],
+    "page": "/places/stone-hedge/",
+    "catalogStatus": "historical_profile",
+    "placeType": "holding"
+  },
+  {
+    "id": "house:darry",
+    "kind": "house",
+    "name": "House Darry",
+    "sources": [
+      "awoiaf-house-tully"
+    ],
+    "page": "/houses/darry/",
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "place:darry",
+    "kind": "place",
+    "name": "Darry",
+    "sources": [
+      "awoiaf-list"
+    ],
+    "page": "/places/darry/",
+    "catalogStatus": "historical_profile",
+    "placeType": "holding"
+  },
+  {
+    "id": "house:smallwood",
+    "kind": "house",
+    "name": "House Smallwood",
+    "sources": [
+      "awoiaf-house-tully"
+    ],
+    "page": "/houses/smallwood/",
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "place:acorn-hall",
+    "kind": "place",
+    "name": "Acorn Hall",
+    "sources": [
+      "awoiaf-list"
+    ],
+    "page": "/places/acorn-hall/",
+    "catalogStatus": "historical_profile",
+    "placeType": "holding"
+  },
+  {
+    "id": "house:lothston",
+    "kind": "house",
+    "name": "House Lothston",
+    "sources": [
+      "awoiaf-house-tully"
+    ],
+    "page": "/houses/lothston/",
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "place:harrenhal",
+    "kind": "place",
+    "name": "Harrenhal",
+    "sources": [
+      "awoiaf-list"
+    ],
+    "page": "/places/harrenhal/",
+    "catalogStatus": "historical_profile",
+    "placeType": "holding"
+  },
+  {
+    "id": "place:ironoaks",
+    "kind": "place",
+    "name": "Ironoaks",
+    "sources": [
+      "awoiaf-list"
+    ],
+    "page": "/places/ironoaks/",
+    "catalogStatus": "historical_profile",
+    "placeType": "holding"
+  },
+  {
+    "id": "house:templeton",
+    "kind": "house",
+    "name": "House Templeton",
+    "sources": [
+      "awoiaf-house-arryn"
+    ],
+    "page": "/houses/templeton/",
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "place:ninestars",
+    "kind": "place",
+    "name": "Ninestars",
+    "sources": [
+      "awoiaf-list"
+    ],
+    "page": "/places/ninestars/",
+    "catalogStatus": "historical_profile",
+    "placeType": "holding"
+  },
+  {
+    "id": "house:corbray",
+    "kind": "house",
+    "name": "House Corbray",
+    "sources": [
+      "awoiaf-house-arryn"
+    ],
+    "page": "/houses/corbray/",
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "place:hearts-home",
+    "kind": "place",
+    "name": "Heart's Home",
+    "sources": [
+      "awoiaf-list"
+    ],
+    "page": "/places/hearts-home/",
+    "catalogStatus": "historical_profile",
+    "placeType": "holding"
+  },
+  {
+    "id": "house:redfort",
+    "kind": "house",
+    "name": "House Redfort",
+    "sources": [
+      "awoiaf-house-arryn"
+    ],
+    "page": "/houses/redfort/",
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "place:redfort",
+    "kind": "place",
+    "name": "Redfort",
+    "sources": [
+      "awoiaf-list"
+    ],
+    "page": "/places/redfort/",
+    "catalogStatus": "historical_profile",
+    "placeType": "holding"
+  },
+  {
+    "id": "house:hunter",
+    "kind": "house",
+    "name": "House Hunter",
+    "sources": [
+      "awoiaf-house-arryn"
+    ],
+    "page": "/houses/hunter/",
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "place:longbow-hall",
+    "kind": "place",
+    "name": "Longbow Hall",
+    "sources": [
+      "awoiaf-list"
+    ],
+    "page": "/places/longbow-hall/",
+    "catalogStatus": "historical_profile",
+    "placeType": "holding"
+  },
+  {
+    "id": "house:lefford",
+    "kind": "house",
+    "name": "House Lefford",
+    "sources": [
+      "awoiaf-house-lannister"
+    ],
+    "page": "/houses/lefford/",
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "place:golden-tooth",
+    "kind": "place",
+    "name": "Golden Tooth",
+    "sources": [
+      "awoiaf-list"
+    ],
+    "page": "/places/golden-tooth/",
+    "catalogStatus": "historical_profile",
+    "placeType": "holding"
+  },
+  {
+    "id": "house:reyne",
+    "kind": "house",
+    "name": "House Reyne",
+    "sources": [
+      "awoiaf-house-lannister"
+    ],
+    "page": "/houses/reyne/",
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "place:castamere",
+    "kind": "place",
+    "name": "Castamere",
+    "sources": [
+      "awoiaf-list"
+    ],
+    "page": "/places/castamere/",
+    "catalogStatus": "historical_profile",
+    "placeType": "holding"
+  },
+  {
+    "id": "house:tarbeck",
+    "kind": "house",
+    "name": "House Tarbeck",
+    "sources": [
+      "awoiaf-house-lannister"
+    ],
+    "page": "/houses/tarbeck/",
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "place:tarbeck-hall",
+    "kind": "place",
+    "name": "Tarbeck Hall",
+    "sources": [
+      "awoiaf-list"
+    ],
+    "page": "/places/tarbeck-hall/",
+    "catalogStatus": "historical_profile",
+    "placeType": "holding"
+  },
+  {
+    "id": "place:driftmark",
+    "kind": "place",
+    "name": "Driftmark",
+    "sources": [
+      "awoiaf-list"
+    ],
+    "page": "/places/driftmark/",
+    "catalogStatus": "historical_profile",
+    "placeType": "holding"
+  },
+  {
+    "id": "house:celtigar",
+    "kind": "house",
+    "name": "House Celtigar",
+    "sources": [
+      null
+    ],
+    "page": "/houses/celtigar/",
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "place:claw-isle",
+    "kind": "place",
+    "name": "Claw Isle",
+    "sources": [
+      "awoiaf-list"
+    ],
+    "page": "/places/claw-isle/",
+    "catalogStatus": "historical_profile",
+    "placeType": "holding"
+  },
+  {
+    "id": "house:massey",
+    "kind": "house",
+    "name": "House Massey",
+    "sources": [
+      null
+    ],
+    "page": "/houses/massey/",
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "place:stonedance",
+    "kind": "place",
+    "name": "Stonedance",
+    "sources": [
+      "awoiaf-list"
+    ],
+    "page": "/places/stonedance/",
+    "catalogStatus": "historical_profile",
+    "placeType": "holding"
+  },
+  {
+    "id": "place:hayford",
+    "kind": "place",
+    "name": "Hayford",
+    "sources": [
+      "awoiaf-list"
+    ],
+    "page": "/places/hayford/",
+    "catalogStatus": "historical_profile",
+    "placeType": "holding"
+  },
+  {
+    "id": "place:starfall",
+    "kind": "place",
+    "name": "Starfall",
+    "sources": [
+      "awoiaf-list"
+    ],
+    "page": "/places/starfall/",
+    "catalogStatus": "historical_profile",
+    "placeType": "holding"
+  },
+  {
+    "id": "house:yronwood",
+    "kind": "house",
+    "name": "House Yronwood",
+    "sources": [
+      "awoiaf-house-martell"
+    ],
+    "page": "/houses/yronwood/",
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "place:yronwood",
+    "kind": "place",
+    "name": "Yronwood",
+    "sources": [
+      "awoiaf-list"
+    ],
+    "page": "/places/yronwood/",
+    "catalogStatus": "historical_profile",
+    "placeType": "holding"
+  },
+  {
+    "id": "house:harlaw",
+    "kind": "house",
+    "name": "House Harlaw",
+    "sources": [
+      "awoiaf-house-greyjoy"
+    ],
+    "page": "/houses/harlaw/",
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "house:goodbrother",
+    "kind": "house",
+    "name": "House Goodbrother",
+    "sources": [
+      "awoiaf-house-greyjoy"
+    ],
+    "page": "/houses/goodbrother/",
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "house:shawney",
+    "kind": "house",
+    "name": "House Shawney",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "page": "/houses/shawney/",
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "house:strickland",
+    "kind": "house",
+    "name": "House Strickland",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "page": "/houses/strickland/",
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "house:sunderland",
+    "kind": "house",
+    "name": "House Sunderland",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "page": "/houses/sunderland/",
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "event:arryn-succession-134",
+    "kind": "event",
+    "name": "Arryn succession dispute",
+    "sources": [
+      "awoiaf-arryn-succession"
+    ],
+    "page": "/events/arryn-succession-134/",
+    "catalogStatus": "historical_profile",
+    "year": 134
   }
 ]

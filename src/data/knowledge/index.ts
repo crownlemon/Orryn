@@ -137,7 +137,10 @@ export function identityRows(entity: Entity, at: Moment = DEFAULT_DATE): DetailR
   };
   if (entity.kind === 'house') {
     add('Seat', one(entity.id,'seat',at));
+    addMany('Historical seat association',outgoing(entity.id,'historical_seat',at));
     add('Region', one(entity.id,'region',at));
+    addMany('Historical region',outgoing(entity.id,'historical_region',at));
+    addMany('Historical overlord',outgoing(entity.id,'historical_overlord',at));
     add('Head', one(entity.id,'head',at));
     addMany('Heirs', incoming(entity.id,'heir_to',at));
     add('Overlord',one(entity.id,'sworn_to',at));
