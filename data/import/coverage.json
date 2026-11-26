@@ -11,8 +11,9 @@
     "reach": 79,
     "houseEntries": 137,
     "holdingsWithoutNamedHouse": 2,
-    "distinctHouseholdHeadings": 25,
-    "householdsNotInRegisters": 0
+    "distinctHouseholdHeadings": 46,
+    "householdsNotInRegisters": 0,
+    "householdSectionHeadings": 69
   },
   "byRank": {
     "Ruling": 2,
@@ -72,5 +73,10 @@
     "Reconcile alias/seat differences before creating public pages.",
     "Do not import planned 209/210/224 AC developments into 208 baseline.",
     "AWOIAF contemporary houses and titles are not necessarily valid in 208 AC."
+  ],
+  "notes": [
+    "Householdbook contains duplicate sections and addenda, which are indexed separately rather than counted as different families.",
+    "Some headings describe future conditional houses (notably Grandison of Merewatch); these are excluded from the 208 AC baseline.",
+    "Where a household has only a cross-reference, use the full later entry or authoritative source instead of inventing people."
   ]
 }

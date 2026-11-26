@@ -1,340 +1,1295 @@
 {
   "source": "householdbook-v12",
+  "sections": [
+    {
+      "heading": "House Grandison of Grandview",
+      "houseName": "Grandison",
+      "seatName": "Grandview",
+      "sourceLine": 55,
+      "classification": "primary_household",
+      "firstLine": "House Overview",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Meadows of Grassfield Keep",
+      "houseName": "Meadows",
+      "seatName": "Grassfield Keep",
+      "sourceLine": 341,
+      "classification": "primary_household",
+      "firstLine": "House Overview",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Baratheon of Storm's End",
+      "houseName": "Baratheon",
+      "seatName": "Storm's End",
+      "sourceLine": 894,
+      "classification": "primary_household",
+      "firstLine": "House Overview",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Grandison of Merewatch",
+      "houseName": "Grandison",
+      "seatName": "Merewatch",
+      "sourceLine": 1133,
+      "classification": "future_scenario_review",
+      "firstLine": "House Overview",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Gower of Clovercross",
+      "houseName": "Gower",
+      "seatName": "Clovercross",
+      "sourceLine": 1139,
+      "classification": "cross_reference",
+      "firstLine": "Lady Maris Gower marries Ser Steffon Grandison and becomes the mother of Alyssa and Orryn. The full household entry",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Wagstaff of Greenward",
+      "houseName": "Wagstaff",
+      "seatName": "Greenward",
+      "sourceLine": 1141,
+      "classification": "cross_reference",
+      "firstLine": "Ser Edric Wagstaff, heir to Greenward, is betrothed to Lady Alyssa Grandison. The full household entry is at the en",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Elmridge of Elmbridge",
+      "houseName": "Elmridge",
+      "seatName": "Elmbridge",
+      "sourceLine": 1143,
+      "classification": "cross_reference",
+      "firstLine": "The full household entry is at the end of this section, after House Swann.",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Cafferen of Fawnton",
+      "houseName": "Cafferen",
+      "seatName": "Fawnton",
+      "sourceLine": 1145,
+      "classification": "cross_reference",
+      "firstLine": "Lady Alysanne Cafferen is betrothed to Arlan Grandison, heir to Grandview. The full household entry is at the end o",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Penrose of Parchments",
+      "houseName": "Penrose",
+      "seatName": "Parchments",
+      "sourceLine": 1147,
+      "classification": "cross_reference",
+      "firstLine": "House Overview",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Hertson",
+      "houseName": "Hertson",
+      "seatName": null,
+      "sourceLine": 1238,
+      "classification": "cross_reference",
+      "firstLine": "Lady Lynesse Hertson marries Lord Alester Grandison and becomes Lady of Grandview. Minor lords sworn to House Penro",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Musgood",
+      "houseName": "Musgood",
+      "seatName": null,
+      "sourceLine": 1240,
+      "classification": "cross_reference",
+      "firstLine": "Known member: the husband and marital household of Lady Alys Musgood, nee Grandison. The identity of her husband an",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Willum of Three Swords",
+      "houseName": "Willum",
+      "seatName": "Three Swords",
+      "sourceLine": 1242,
+      "classification": "cross_reference",
+      "firstLine": "Known member: Ser Olyvar Willum, a younger son who was considered as a possible husband for Lady Alyssa Grandison, ",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Bushy of Hedgefort",
+      "houseName": "Bushy",
+      "seatName": "Hedgefort",
+      "sourceLine": 1244,
+      "classification": "cross_reference",
+      "firstLine": "The full household entry is at the end of this section, after House Swann.",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Graves of Eaglegrave",
+      "houseName": "Graves",
+      "seatName": "Eaglegrave",
+      "sourceLine": 1246,
+      "classification": "cross_reference",
+      "firstLine": "The full household entry is at the end of this section, after House Swann.",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Mertyns of Mistwood",
+      "houseName": "Mertyns",
+      "seatName": "Mistwood",
+      "sourceLine": 1248,
+      "classification": "cross_reference",
+      "firstLine": "No individual family members have yet been established. The house later administers Merewatch after the extinction ",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Mereweather of Merewatch",
+      "houseName": "Mereweather",
+      "seatName": "Merewatch",
+      "sourceLine": 1250,
+      "classification": "cross_reference",
+      "firstLine": "The direct ruling line becomes extinct during the Great Spring Sickness. The identities of the final ruling members",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Dondarrion of Blackhaven",
+      "houseName": "Dondarrion",
+      "seatName": "Blackhaven",
+      "sourceLine": 1252,
+      "classification": "household_section",
+      "firstLine": "House Overview",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Caron of Nightsong",
+      "houseName": "Caron",
+      "seatName": "Nightsong",
+      "sourceLine": 1347,
+      "classification": "household_section",
+      "firstLine": "House Overview",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Swann of Stonehelm",
+      "houseName": "Swann",
+      "seatName": "Stonehelm",
+      "sourceLine": 1489,
+      "classification": "household_section",
+      "firstLine": "House Overview",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Wagstaff of Greenward",
+      "houseName": "Wagstaff",
+      "seatName": "Greenward",
+      "sourceLine": 1528,
+      "classification": "household_section",
+      "firstLine": "House Overview",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Gower of Clovercross",
+      "houseName": "Gower",
+      "seatName": "Clovercross",
+      "sourceLine": 1601,
+      "classification": "household_section",
+      "firstLine": "House Overview",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Hertson of Hartsfold",
+      "houseName": "Hertson",
+      "seatName": "Hartsfold",
+      "sourceLine": 1693,
+      "classification": "household_section",
+      "firstLine": "House Overview",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Cafferen of Fawnton",
+      "houseName": "Cafferen",
+      "seatName": "Fawnton",
+      "sourceLine": 1766,
+      "classification": "household_section",
+      "firstLine": "House Overview",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Peasebury of Poddingfield",
+      "houseName": "Peasebury",
+      "seatName": "Poddingfield",
+      "sourceLine": 1859,
+      "classification": "household_section",
+      "firstLine": "House Overview",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Elmridge of Elmbridge",
+      "houseName": "Elmridge",
+      "seatName": "Elmbridge",
+      "sourceLine": 1932,
+      "classification": "household_section",
+      "firstLine": "House Overview",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Bushy of Hedgefort",
+      "houseName": "Bushy",
+      "seatName": "Hedgefort",
+      "sourceLine": 1979,
+      "classification": "household_section",
+      "firstLine": "House Overview",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Graves of Eaglegrave",
+      "houseName": "Graves",
+      "seatName": "Eaglegrave",
+      "sourceLine": 2027,
+      "classification": "household_section",
+      "firstLine": "House Overview",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Caswell of Bitterbridge",
+      "houseName": "Caswell",
+      "seatName": "Bitterbridge",
+      "sourceLine": 2097,
+      "classification": "household_section",
+      "firstLine": "House Overview",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Ashford of Ashford",
+      "houseName": "Ashford",
+      "seatName": "Ashford",
+      "sourceLine": 2192,
+      "classification": "household_section",
+      "firstLine": "House Overview",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Caron",
+      "houseName": "Caron",
+      "seatName": null,
+      "sourceLine": 2200,
+      "classification": "household_section",
+      "firstLine": "Current Household",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Merryweather of Longtable",
+      "houseName": "Merryweather",
+      "seatName": "Longtable",
+      "sourceLine": 2312,
+      "classification": "household_section",
+      "firstLine": "House Overview",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Peake of Starpike",
+      "houseName": "Peake",
+      "seatName": "Starpike",
+      "sourceLine": 2419,
+      "classification": "household_section",
+      "firstLine": "House Overview",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Tyrell of Highgarden",
+      "houseName": "Tyrell",
+      "seatName": "Highgarden",
+      "sourceLine": 2507,
+      "classification": "household_section",
+      "firstLine": "House Overview",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Tyrell of Highgarden — family additions",
+      "houseName": "Tyrell",
+      "seatName": "Highgarden",
+      "sourceLine": 2764,
+      "classification": "addendum",
+      "firstLine": "Family Tree addition. Ser Garth Tyrell (40) and Lady Alys Redwyne (about 38) have an eldest son, Ser Harlen Tyrell ",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Redwyne of the Arbor",
+      "houseName": "Redwyne",
+      "seatName": "the Arbor",
+      "sourceLine": 2843,
+      "classification": "household_section",
+      "firstLine": "House Overview",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Blackbar of Bandallon",
+      "houseName": "Blackbar",
+      "seatName": "Bandallon",
+      "sourceLine": 2871,
+      "classification": "household_section",
+      "firstLine": "House Overview",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Rowan of Goldengrove",
+      "houseName": "Rowan",
+      "seatName": "Goldengrove",
+      "sourceLine": 2937,
+      "classification": "household_section",
+      "firstLine": "House Overview",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Florent of Brightwater Keep",
+      "houseName": "Florent",
+      "seatName": "Brightwater Keep",
+      "sourceLine": 3024,
+      "classification": "household_section",
+      "firstLine": "House Overview",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Hightower of Oldtown",
+      "houseName": "Hightower",
+      "seatName": "Oldtown",
+      "sourceLine": 3071,
+      "classification": "household_section",
+      "firstLine": "House Overview",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Penrose of Parchments — clarification and new entry",
+      "houseName": "Penrose",
+      "seatName": "Parchments",
+      "sourceLine": 3195,
+      "classification": "addendum",
+      "firstLine": "Existing family record prevails: Lady Alysanne Penrose (House Hightower), widow of Ser Roland, is the younger siste",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Rowan of Goldengrove — additional dignity",
+      "houseName": "Rowan",
+      "seatName": "Goldengrove",
+      "sourceLine": 3219,
+      "classification": "addendum",
+      "firstLine": "Lord Rycherd Rowan (53), whose existing household and character profile remain unchanged, is the hereditary Marshal",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Hewett of Oakenshield",
+      "houseName": "Hewett",
+      "seatName": "Oakenshield",
+      "sourceLine": 3221,
+      "classification": "household_section",
+      "firstLine": "House Overview: A maritime noble house of the Shield Islands. Lord Ormund Hewett's daughter Lady Lenora (about 30) ",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Tarly of Horn Hill",
+      "houseName": "Tarly",
+      "seatName": "Horn Hill",
+      "sourceLine": 3231,
+      "classification": "household_section",
+      "firstLine": "House Overview: An established marcher house with an old tradition of frontier service. The reigning Lord Roderick ",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Roxton of the Ring",
+      "houseName": "Roxton",
+      "seatName": "the Ring",
+      "sourceLine": 3255,
+      "classification": "household_section",
+      "firstLine": "House Overview: An old landed Reach house. The exact campaign placement of the Ring and details of the ruling house",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Risley of Risley Glade",
+      "houseName": "Risley",
+      "seatName": "Risley Glade",
+      "sourceLine": 3265,
+      "classification": "household_section",
+      "firstLine": "House Overview: The current lord is Walder Risley, whose wife is a daughter of Lord Ambrose Butterwell; his heir is",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Beesbury of Honeyholt",
+      "houseName": "Beesbury",
+      "seatName": "Honeyholt",
+      "sourceLine": 3289,
+      "classification": "household_section",
+      "firstLine": "House Overview: Lord Harys Beesbury is married to Lady Aelora Hightower, daughter of Garmund Hightower and Princess",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Redwyne of the Arbor — additional family and office",
+      "houseName": "Redwyne",
+      "seatName": "the Arbor",
+      "sourceLine": 3299,
+      "classification": "addendum",
+      "firstLine": "Ser Arron Redwyne is a son of Lord Theomar Redwyne and younger brother of Lady Alys Tyrell (about 38), making him G",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Leygood",
+      "houseName": "Leygood",
+      "seatName": null,
+      "sourceLine": 3323,
+      "classification": "household_section",
+      "firstLine": "House Overview: A lesser Reach noble house. The precise seat, ruling family other than Lord Osmund, inheritance and",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Blackbar of Bandallon — additional family and office",
+      "houseName": "Blackbar",
+      "seatName": "Bandallon",
+      "sourceLine": 3333,
+      "classification": "addendum",
+      "firstLine": "Ser Owen Blackbar is the younger brother of Lord Arstan Blackbar (37), another son of the late Lord Blackbar and La",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Meadows of Grassfield Keep",
+      "houseName": "Meadows",
+      "seatName": "Grassfield Keep",
+      "sourceLine": 3516,
+      "classification": "later_development_or_note",
+      "firstLine": "Lord Alaric Meadows — At Highgarden he asked Lady Arlanna to look for a husband for Elyce before Lady Jeyne had giv",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Rowan of Goldengrove",
+      "houseName": "Rowan",
+      "seatName": "Goldengrove",
+      "sourceLine": 3532,
+      "classification": "later_development_or_note",
+      "firstLine": "Lord Rycherd Rowan — Attended Leonette’s wedding and clasped hands with Lord Armond (Chapter 60). He is angry that ",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Oakheart of Old Oak",
+      "houseName": "Oakheart",
+      "seatName": "Old Oak",
+      "sourceLine": 3552,
+      "classification": "later_development_or_note",
+      "firstLine": "Lord Harys Oakheart",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Penrose of Parchments",
+      "houseName": "Penrose",
+      "seatName": "Parchments",
+      "sourceLine": 3563,
+      "classification": "later_development_or_note",
+      "firstLine": "Lord Ronnel Penrose — Approved in discussion: he is not a clever man. It is widely known that Princess Elaena does ",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Merryweather of Longtable",
+      "houseName": "Merryweather",
+      "seatName": "Longtable",
+      "sourceLine": 3577,
+      "classification": "later_development_or_note",
+      "firstLine": "Ser Alyn Merryweather — Since Chapter 60 a household knight of Lord Rowan at Goldengrove. Lady Melessa spoke for hi",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Ashford of Ashford",
+      "houseName": "Ashford",
+      "seatName": "Ashford",
+      "sourceLine": 3581,
+      "classification": "later_development_or_note",
+      "firstLine": "Ser Androw Ashford — Married to Lady Wylla (Chapter 60). He came to Grassfield (Chapter 64) to compare Ashford’s an",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Footly of Tumbleton",
+      "houseName": "Footly",
+      "seatName": "Tumbleton",
+      "sourceLine": 3586,
+      "classification": "later_development_or_note",
+      "firstLine": "Ser Garlan Footly — Married Leonette at Grassfield (Chapter 60). Lord Bennard Footly led the Footly party of some e",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Caswell of Bitterbridge",
+      "houseName": "Caswell",
+      "seatName": "Bitterbridge",
+      "sourceLine": 3588,
+      "classification": "later_development_or_note",
+      "firstLine": "Lord Armond Caswell — Knew of the Oakheart proposal from the new moon and kept it through the wedding (Chapter 61).",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Tyrell of Highgarden",
+      "houseName": "Tyrell",
+      "seatName": "Highgarden",
+      "sourceLine": 3594,
+      "classification": "later_development_or_note",
+      "firstLine": "Lady Arlanna Tyrell — Received Alaric in her solar (Chapter 55). She promised to look for a husband for Elyce among",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Webber of Coldmoat",
+      "houseName": "Webber",
+      "seatName": "Coldmoat",
+      "sourceLine": 3618,
+      "classification": "later_development_or_note",
+      "firstLine": "A published Reach house, minor in rank and sworn to House Rowan, holding Coldmoat on the Chequy Water; it stood for",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Osgrey of Standfast",
+      "houseName": "Osgrey",
+      "seatName": "Standfast",
+      "sourceLine": 3636,
+      "classification": "later_development_or_note",
+      "firstLine": "A published Reach house sworn to House Rowan; arms: a lion chequy green and gold on white (published). The Osgreys ",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Cockshaw",
+      "houseName": "Cockshaw",
+      "seatName": null,
+      "sourceLine": 3647,
+      "classification": "later_development_or_note",
+      "firstLine": "A minor Reach house (published) holding Cockshaw Hall, on a wooded ridge above the road into Ashford, and sworn to ",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Vyrwel of Darkdell",
+      "houseName": "Vyrwel",
+      "seatName": "Darkdell",
+      "sourceLine": 3654,
+      "classification": "later_development_or_note",
+      "firstLine": "See the house entry earlier in this book, corrected in place. Lady Meriel’s late husband was Lord Martyn’s younger ",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Costayne of the Three Towers",
+      "houseName": "Costayne",
+      "seatName": "the Three Towers",
+      "sourceLine": 3665,
+      "classification": "later_development_or_note",
+      "firstLine": "A major Reach house sworn to House Hightower, on the coast south of Oldtown (Worldbook); arms: quartered, a silver ",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Bulwer of Blackcrown",
+      "houseName": "Bulwer",
+      "seatName": "Blackcrown",
+      "sourceLine": 3684,
+      "classification": "later_development_or_note",
+      "firstLine": "A minor house sworn to House Hightower, on the coast near Oldtown (Worldbook); arms: a bull’s skull, bone on blood ",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Risley of Risley Glade",
+      "houseName": "Risley",
+      "seatName": "Risley Glade",
+      "sourceLine": 3692,
+      "classification": "later_development_or_note",
+      "firstLine": "A minor house sworn to House Caswell; Risley Glade lies in a wooded clearing north of Bitterbridge (Worldbook). See",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Ambrose",
+      "houseName": "Ambrose",
+      "seatName": null,
+      "sourceLine": 3703,
+      "classification": "later_development_or_note",
+      "firstLine": "A minor Reach house holding Bellfield, a farming estate on the inland approach to Oldtown, and sworn to House Hight",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Wylde of Rain House",
+      "houseName": "Wylde",
+      "seatName": "Rain House",
+      "sourceLine": 3712,
+      "classification": "later_development_or_note",
+      "firstLine": "Ser Willem Wylde",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Rogers of Amberly",
+      "houseName": "Rogers",
+      "seatName": "Amberly",
+      "sourceLine": 3718,
+      "classification": "later_development_or_note",
+      "firstLine": "A minor Stormlands house sworn to House Mertyns, on the western Rainwood road toward Mistwood (Worldbook). The pres",
+      "source": "householdbook-v12"
+    },
+    {
+      "heading": "House Grandison of Grandview",
+      "houseName": "Grandison",
+      "seatName": "Grandview",
+      "sourceLine": 3725,
+      "classification": "later_development_or_note",
+      "firstLine": "Harlan Grandison — Not yet born. Approved in discussion: a future younger son of Arlan Grandison and Lady Alysanne ",
+      "source": "householdbook-v12"
+    }
+  ],
   "households": [
     {
-      "id": "grandison",
-      "houseName": "Grandison",
+      "key": "ambrose",
+      "houseName": "Ambrose",
+      "matchedWorldbook": true,
       "sections": [
         {
-          "heading": "House Grandison of Grandview",
-          "line": 55,
-          "type": "household"
-        },
-        {
-          "heading": "House Grandison of Merewatch",
-          "line": 1133,
-          "type": "household"
+          "heading": "House Ambrose",
+          "line": 3703,
+          "classification": "later_development_or_note"
         }
-      ],
-      "matchedWorldbook": true,
-      "source": "householdbook-v12"
+      ]
     },
     {
-      "id": "meadows",
-      "houseName": "Meadows",
-      "sections": [
-        {
-          "heading": "House Meadows of Grassfield Keep",
-          "line": 341,
-          "type": "household"
-        }
-      ],
-      "matchedWorldbook": true,
-      "source": "householdbook-v12"
-    },
-    {
-      "id": "baratheon",
-      "houseName": "Baratheon",
-      "sections": [
-        {
-          "heading": "House Baratheon of Storm's End",
-          "line": 894,
-          "type": "household"
-        }
-      ],
-      "matchedWorldbook": true,
-      "source": "householdbook-v12"
-    },
-    {
-      "id": "penrose",
-      "houseName": "Penrose",
-      "sections": [
-        {
-          "heading": "House Penrose of Parchments",
-          "line": 1147,
-          "type": "household"
-        }
-      ],
-      "matchedWorldbook": true,
-      "source": "householdbook-v12"
-    },
-    {
-      "id": "dondarrion",
-      "houseName": "Dondarrion",
-      "sections": [
-        {
-          "heading": "House Dondarrion of Blackhaven",
-          "line": 1252,
-          "type": "household"
-        }
-      ],
-      "matchedWorldbook": true,
-      "source": "householdbook-v12"
-    },
-    {
-      "id": "caron",
-      "houseName": "Caron",
-      "sections": [
-        {
-          "heading": "House Caron of Nightsong",
-          "line": 1347,
-          "type": "household"
-        },
-        {
-          "heading": "House Caron",
-          "line": 2200,
-          "type": "household"
-        }
-      ],
-      "matchedWorldbook": true,
-      "source": "householdbook-v12"
-    },
-    {
-      "id": "swann",
-      "houseName": "Swann",
-      "sections": [
-        {
-          "heading": "House Swann of Stonehelm",
-          "line": 1489,
-          "type": "household"
-        }
-      ],
-      "matchedWorldbook": true,
-      "source": "householdbook-v12"
-    },
-    {
-      "id": "wagstaff",
-      "houseName": "Wagstaff",
-      "sections": [
-        {
-          "heading": "House Wagstaff of Greenward",
-          "line": 1528,
-          "type": "household"
-        }
-      ],
-      "matchedWorldbook": true,
-      "source": "householdbook-v12"
-    },
-    {
-      "id": "gower",
-      "houseName": "Gower",
-      "sections": [
-        {
-          "heading": "House Gower of Clovercross",
-          "line": 1601,
-          "type": "household"
-        }
-      ],
-      "matchedWorldbook": true,
-      "source": "householdbook-v12"
-    },
-    {
-      "id": "hertson",
-      "houseName": "Hertson",
-      "sections": [
-        {
-          "heading": "House Hertson of Hartsfold",
-          "line": 1693,
-          "type": "household"
-        }
-      ],
-      "matchedWorldbook": true,
-      "source": "householdbook-v12"
-    },
-    {
-      "id": "cafferen",
-      "houseName": "Cafferen",
-      "sections": [
-        {
-          "heading": "House Cafferen of Fawnton",
-          "line": 1766,
-          "type": "household"
-        }
-      ],
-      "matchedWorldbook": true,
-      "source": "householdbook-v12"
-    },
-    {
-      "id": "peasebury",
-      "houseName": "Peasebury",
-      "sections": [
-        {
-          "heading": "House Peasebury of Poddingfield",
-          "line": 1859,
-          "type": "household"
-        }
-      ],
-      "matchedWorldbook": true,
-      "source": "householdbook-v12"
-    },
-    {
-      "id": "elmridge",
-      "houseName": "Elmridge",
-      "sections": [
-        {
-          "heading": "House Elmridge of Elmbridge",
-          "line": 1932,
-          "type": "household"
-        }
-      ],
-      "matchedWorldbook": true,
-      "source": "householdbook-v12"
-    },
-    {
-      "id": "bushy",
-      "houseName": "Bushy",
-      "sections": [
-        {
-          "heading": "House Bushy of Hedgefort",
-          "line": 1979,
-          "type": "household"
-        }
-      ],
-      "matchedWorldbook": true,
-      "source": "householdbook-v12"
-    },
-    {
-      "id": "graves",
-      "houseName": "Graves",
-      "sections": [
-        {
-          "heading": "House Graves of Eaglegrave",
-          "line": 2027,
-          "type": "household"
-        }
-      ],
-      "matchedWorldbook": true,
-      "source": "householdbook-v12"
-    },
-    {
-      "id": "caswell",
-      "houseName": "Caswell",
-      "sections": [
-        {
-          "heading": "House Caswell of Bitterbridge",
-          "line": 2097,
-          "type": "household"
-        }
-      ],
-      "matchedWorldbook": true,
-      "source": "householdbook-v12"
-    },
-    {
-      "id": "ashford",
+      "key": "ashford",
       "houseName": "Ashford",
+      "matchedWorldbook": true,
       "sections": [
         {
           "heading": "House Ashford of Ashford",
           "line": 2192,
-          "type": "household"
+          "classification": "household_section"
+        },
+        {
+          "heading": "House Ashford of Ashford",
+          "line": 3581,
+          "classification": "later_development_or_note"
         }
-      ],
-      "matchedWorldbook": true,
-      "source": "householdbook-v12"
+      ]
     },
     {
-      "id": "merryweather",
-      "houseName": "Merryweather",
+      "key": "baratheon",
+      "houseName": "Baratheon",
+      "matchedWorldbook": true,
       "sections": [
         {
-          "heading": "House Merryweather of Longtable",
-          "line": 2312,
-          "type": "household"
+          "heading": "House Baratheon of Storm's End",
+          "line": 894,
+          "classification": "primary_household"
         }
-      ],
-      "matchedWorldbook": true,
-      "source": "householdbook-v12"
+      ]
     },
     {
-      "id": "peake",
-      "houseName": "Peake",
+      "key": "beesbury",
+      "houseName": "Beesbury",
+      "matchedWorldbook": true,
       "sections": [
         {
-          "heading": "House Peake of Starpike",
-          "line": 2419,
-          "type": "household"
+          "heading": "House Beesbury of Honeyholt",
+          "line": 3289,
+          "classification": "household_section"
         }
-      ],
-      "matchedWorldbook": true,
-      "source": "householdbook-v12"
+      ]
     },
     {
-      "id": "tyrell",
-      "houseName": "Tyrell",
-      "sections": [
-        {
-          "heading": "House Tyrell of Highgarden",
-          "line": 2507,
-          "type": "household"
-        }
-      ],
-      "matchedWorldbook": true,
-      "source": "householdbook-v12"
-    },
-    {
-      "id": "redwyne",
-      "houseName": "Redwyne",
-      "sections": [
-        {
-          "heading": "House Redwyne of the Arbor",
-          "line": 2843,
-          "type": "household"
-        }
-      ],
-      "matchedWorldbook": true,
-      "source": "householdbook-v12"
-    },
-    {
-      "id": "blackbar",
+      "key": "blackbar",
       "houseName": "Blackbar",
+      "matchedWorldbook": true,
       "sections": [
         {
           "heading": "House Blackbar of Bandallon",
           "line": 2871,
-          "type": "household"
+          "classification": "household_section"
+        },
+        {
+          "heading": "House Blackbar of Bandallon — additional family and office",
+          "line": 3333,
+          "classification": "addendum"
         }
-      ],
-      "matchedWorldbook": true,
-      "source": "householdbook-v12"
+      ]
     },
     {
-      "id": "rowan",
-      "houseName": "Rowan",
+      "key": "bulwer",
+      "houseName": "Bulwer",
+      "matchedWorldbook": true,
       "sections": [
         {
-          "heading": "House Rowan of Goldengrove",
-          "line": 2937,
-          "type": "household"
+          "heading": "House Bulwer of Blackcrown",
+          "line": 3684,
+          "classification": "later_development_or_note"
         }
-      ],
-      "matchedWorldbook": true,
-      "source": "householdbook-v12"
+      ]
     },
     {
-      "id": "florent",
+      "key": "bushy",
+      "houseName": "Bushy",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Bushy of Hedgefort",
+          "line": 1244,
+          "classification": "cross_reference"
+        },
+        {
+          "heading": "House Bushy of Hedgefort",
+          "line": 1979,
+          "classification": "household_section"
+        }
+      ]
+    },
+    {
+      "key": "cafferen",
+      "houseName": "Cafferen",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Cafferen of Fawnton",
+          "line": 1145,
+          "classification": "cross_reference"
+        },
+        {
+          "heading": "House Cafferen of Fawnton",
+          "line": 1766,
+          "classification": "household_section"
+        }
+      ]
+    },
+    {
+      "key": "caron",
+      "houseName": "Caron",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Caron of Nightsong",
+          "line": 1347,
+          "classification": "household_section"
+        },
+        {
+          "heading": "House Caron",
+          "line": 2200,
+          "classification": "household_section"
+        }
+      ]
+    },
+    {
+      "key": "caswell",
+      "houseName": "Caswell",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Caswell of Bitterbridge",
+          "line": 2097,
+          "classification": "household_section"
+        },
+        {
+          "heading": "House Caswell of Bitterbridge",
+          "line": 3588,
+          "classification": "later_development_or_note"
+        }
+      ]
+    },
+    {
+      "key": "cockshaw",
+      "houseName": "Cockshaw",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Cockshaw",
+          "line": 3647,
+          "classification": "later_development_or_note"
+        }
+      ]
+    },
+    {
+      "key": "costayne",
+      "houseName": "Costayne",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Costayne of the Three Towers",
+          "line": 3665,
+          "classification": "later_development_or_note"
+        }
+      ]
+    },
+    {
+      "key": "dondarrion",
+      "houseName": "Dondarrion",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Dondarrion of Blackhaven",
+          "line": 1252,
+          "classification": "household_section"
+        }
+      ]
+    },
+    {
+      "key": "elmridge",
+      "houseName": "Elmridge",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Elmridge of Elmbridge",
+          "line": 1143,
+          "classification": "cross_reference"
+        },
+        {
+          "heading": "House Elmridge of Elmbridge",
+          "line": 1932,
+          "classification": "household_section"
+        }
+      ]
+    },
+    {
+      "key": "florent",
       "houseName": "Florent",
+      "matchedWorldbook": true,
       "sections": [
         {
           "heading": "House Florent of Brightwater Keep",
           "line": 3024,
-          "type": "household"
+          "classification": "household_section"
         }
-      ],
-      "matchedWorldbook": true,
-      "source": "householdbook-v12"
+      ]
     },
     {
-      "id": "hightower",
+      "key": "footly",
+      "houseName": "Footly",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Footly of Tumbleton",
+          "line": 3586,
+          "classification": "later_development_or_note"
+        }
+      ]
+    },
+    {
+      "key": "gower",
+      "houseName": "Gower",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Gower of Clovercross",
+          "line": 1139,
+          "classification": "cross_reference"
+        },
+        {
+          "heading": "House Gower of Clovercross",
+          "line": 1601,
+          "classification": "household_section"
+        }
+      ]
+    },
+    {
+      "key": "grandison",
+      "houseName": "Grandison",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Grandison of Grandview",
+          "line": 55,
+          "classification": "primary_household"
+        },
+        {
+          "heading": "House Grandison of Merewatch",
+          "line": 1133,
+          "classification": "future_scenario_review"
+        },
+        {
+          "heading": "House Grandison of Grandview",
+          "line": 3725,
+          "classification": "later_development_or_note"
+        }
+      ]
+    },
+    {
+      "key": "graves",
+      "houseName": "Graves",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Graves of Eaglegrave",
+          "line": 1246,
+          "classification": "cross_reference"
+        },
+        {
+          "heading": "House Graves of Eaglegrave",
+          "line": 2027,
+          "classification": "household_section"
+        }
+      ]
+    },
+    {
+      "key": "hertson",
+      "houseName": "Hertson",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Hertson",
+          "line": 1238,
+          "classification": "cross_reference"
+        },
+        {
+          "heading": "House Hertson of Hartsfold",
+          "line": 1693,
+          "classification": "household_section"
+        }
+      ]
+    },
+    {
+      "key": "hewett",
+      "houseName": "Hewett",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Hewett of Oakenshield",
+          "line": 3221,
+          "classification": "household_section"
+        }
+      ]
+    },
+    {
+      "key": "hightower",
       "houseName": "Hightower",
+      "matchedWorldbook": true,
       "sections": [
         {
           "heading": "House Hightower of Oldtown",
           "line": 3071,
-          "type": "household"
+          "classification": "household_section"
         }
-      ],
+      ]
+    },
+    {
+      "key": "leygood",
+      "houseName": "Leygood",
       "matchedWorldbook": true,
-      "source": "householdbook-v12"
+      "sections": [
+        {
+          "heading": "House Leygood",
+          "line": 3323,
+          "classification": "household_section"
+        }
+      ]
+    },
+    {
+      "key": "meadows",
+      "houseName": "Meadows",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Meadows of Grassfield Keep",
+          "line": 341,
+          "classification": "primary_household"
+        },
+        {
+          "heading": "House Meadows of Grassfield Keep",
+          "line": 3516,
+          "classification": "later_development_or_note"
+        }
+      ]
+    },
+    {
+      "key": "mereweather",
+      "houseName": "Mereweather",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Mereweather of Merewatch",
+          "line": 1250,
+          "classification": "cross_reference"
+        }
+      ]
+    },
+    {
+      "key": "merryweather",
+      "houseName": "Merryweather",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Merryweather of Longtable",
+          "line": 2312,
+          "classification": "household_section"
+        },
+        {
+          "heading": "House Merryweather of Longtable",
+          "line": 3577,
+          "classification": "later_development_or_note"
+        }
+      ]
+    },
+    {
+      "key": "mertyns",
+      "houseName": "Mertyns",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Mertyns of Mistwood",
+          "line": 1248,
+          "classification": "cross_reference"
+        }
+      ]
+    },
+    {
+      "key": "musgood",
+      "houseName": "Musgood",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Musgood",
+          "line": 1240,
+          "classification": "cross_reference"
+        }
+      ]
+    },
+    {
+      "key": "oakheart",
+      "houseName": "Oakheart",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Oakheart of Old Oak",
+          "line": 3552,
+          "classification": "later_development_or_note"
+        }
+      ]
+    },
+    {
+      "key": "osgrey",
+      "houseName": "Osgrey",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Osgrey of Standfast",
+          "line": 3636,
+          "classification": "later_development_or_note"
+        }
+      ]
+    },
+    {
+      "key": "peake",
+      "houseName": "Peake",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Peake of Starpike",
+          "line": 2419,
+          "classification": "household_section"
+        }
+      ]
+    },
+    {
+      "key": "peasebury",
+      "houseName": "Peasebury",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Peasebury of Poddingfield",
+          "line": 1859,
+          "classification": "household_section"
+        }
+      ]
+    },
+    {
+      "key": "penrose",
+      "houseName": "Penrose",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Penrose of Parchments",
+          "line": 1147,
+          "classification": "cross_reference"
+        },
+        {
+          "heading": "House Penrose of Parchments — clarification and new entry",
+          "line": 3195,
+          "classification": "addendum"
+        },
+        {
+          "heading": "House Penrose of Parchments",
+          "line": 3563,
+          "classification": "later_development_or_note"
+        }
+      ]
+    },
+    {
+      "key": "redwyne",
+      "houseName": "Redwyne",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Redwyne of the Arbor",
+          "line": 2843,
+          "classification": "household_section"
+        },
+        {
+          "heading": "House Redwyne of the Arbor — additional family and office",
+          "line": 3299,
+          "classification": "addendum"
+        }
+      ]
+    },
+    {
+      "key": "risley",
+      "houseName": "Risley",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Risley of Risley Glade",
+          "line": 3265,
+          "classification": "household_section"
+        },
+        {
+          "heading": "House Risley of Risley Glade",
+          "line": 3692,
+          "classification": "later_development_or_note"
+        }
+      ]
+    },
+    {
+      "key": "rogers",
+      "houseName": "Rogers",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Rogers of Amberly",
+          "line": 3718,
+          "classification": "later_development_or_note"
+        }
+      ]
+    },
+    {
+      "key": "rowan",
+      "houseName": "Rowan",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Rowan of Goldengrove",
+          "line": 2937,
+          "classification": "household_section"
+        },
+        {
+          "heading": "House Rowan of Goldengrove — additional dignity",
+          "line": 3219,
+          "classification": "addendum"
+        },
+        {
+          "heading": "House Rowan of Goldengrove",
+          "line": 3532,
+          "classification": "later_development_or_note"
+        }
+      ]
+    },
+    {
+      "key": "roxton",
+      "houseName": "Roxton",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Roxton of the Ring",
+          "line": 3255,
+          "classification": "household_section"
+        }
+      ]
+    },
+    {
+      "key": "swann",
+      "houseName": "Swann",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Swann of Stonehelm",
+          "line": 1489,
+          "classification": "household_section"
+        }
+      ]
+    },
+    {
+      "key": "tarly",
+      "houseName": "Tarly",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Tarly of Horn Hill",
+          "line": 3231,
+          "classification": "household_section"
+        }
+      ]
+    },
+    {
+      "key": "tyrell",
+      "houseName": "Tyrell",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Tyrell of Highgarden",
+          "line": 2507,
+          "classification": "household_section"
+        },
+        {
+          "heading": "House Tyrell of Highgarden — family additions",
+          "line": 2764,
+          "classification": "addendum"
+        },
+        {
+          "heading": "House Tyrell of Highgarden",
+          "line": 3594,
+          "classification": "later_development_or_note"
+        }
+      ]
+    },
+    {
+      "key": "vyrwel",
+      "houseName": "Vyrwel",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Vyrwel of Darkdell",
+          "line": 3654,
+          "classification": "later_development_or_note"
+        }
+      ]
+    },
+    {
+      "key": "wagstaff",
+      "houseName": "Wagstaff",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Wagstaff of Greenward",
+          "line": 1141,
+          "classification": "cross_reference"
+        },
+        {
+          "heading": "House Wagstaff of Greenward",
+          "line": 1528,
+          "classification": "household_section"
+        }
+      ]
+    },
+    {
+      "key": "webber",
+      "houseName": "Webber",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Webber of Coldmoat",
+          "line": 3618,
+          "classification": "later_development_or_note"
+        }
+      ]
+    },
+    {
+      "key": "willum",
+      "houseName": "Willum",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Willum of Three Swords",
+          "line": 1242,
+          "classification": "cross_reference"
+        }
+      ]
+    },
+    {
+      "key": "wylde",
+      "houseName": "Wylde",
+      "matchedWorldbook": true,
+      "sections": [
+        {
+          "heading": "House Wylde of Rain House",
+          "line": 3712,
+          "classification": "later_development_or_note"
+        }
+      ]
     }
   ]
 }
