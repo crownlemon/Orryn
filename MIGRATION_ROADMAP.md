@@ -147,3 +147,12 @@ The first branch preview revealed inconsistent handwritten and generated infobox
 - Build and manual visual review are separate acceptance criteria; missing genealogical detail in earlier custom diagrams must be reconciled before final release.
 
 This is a presentation and schema-consistency milestone, not completion of the historic AWOIAF database. Next: audit the visible generated family trees and compare legacy diagrams with structured family records before expanding the world further.
+
+## Milestone: Extended genealogy and Penrose biographies (26 November 2026)
+
+- Replaced the overly narrow three-row genealogy diagram with a shared, responsive family-branch view. It displays all recorded parents, spouses, betrothals, siblings and children, and opens related branches for parents, spouses, siblings, children and documented aunts/uncles. Relationships are displayed individually, not as invented common parentage or an assumed marriage between parents. Houses without an established current head degrade gracefully.
+- Added nine source-grounded character articles: Joy, Robin, Jocelyn, Roland, Alysanne, Aelinor, Jon, Addam and Elaena, connected to their existing entity IDs. These make the two Penrose royal connections navigable from the genealogy.
+- Coverage is now 57 encyclopedia articles (43 people, 7 houses, 4 places, 2 regions, 1 event) against 403 entities and 813 facts at the current snapshot. Entity registration is not equivalent to a finished article. The new biographies are baseline profiles, not exhaustive historical biographies.
+- The family-branch layout is an intentional interim alternative to a single large SVG; a visual browser review remains necessary. Legacy diagrams also contain names not yet in the knowledge graph, including Bryce and Myranda Webber. Recover their actual parentage from Chapter 66 before adding new facts rather than promoting a diagram alone to primary evidence.
+
+Next: recover the Rowan/Webber and Meadows/Grandison collateral data from primary texts; add Ashford–Merryweather–Caswell, then Hightower profiles and documented offices. Continue published pre-207 AC historical research and expand regional articles; no speculative later events or unreviewed secrets. No merge to main.
