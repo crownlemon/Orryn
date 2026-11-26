@@ -68,3 +68,86 @@ h1 { letter-spacing: 0.015em; }
   text-anchor: middle;
   font: italic 11px Georgia, 'Times New Roman', serif;
 }
+
+
+/* Shared encyclopedic infobox for houses and locations. */
+.orr-infobox {
+  float: right;
+  width: min(17rem, 46%);
+  margin: 0 0 1.25rem 1.55rem;
+  background: #f4eddf;
+  border: 1px solid #cbb99c;
+  border-radius: 3px;
+  color: #44382f;
+  font-family: Georgia, 'Times New Roman', serif;
+  box-shadow: 0 2px 8px #49362412;
+  overflow: hidden;
+}
+.orr-infobox a { color: #315d77; }
+.orr-infobox-heading {
+  padding: .6rem .6rem .15rem;
+  background: #55343b;
+  color: #fff0d8;
+  text-align: center;
+  font: 21px/1.25 Georgia, 'Times New Roman', serif;
+}
+.orr-infobox-subtitle {
+  padding: 0 .5rem .6rem;
+  background: #55343b;
+  color: #e3cda9;
+  font: 12px Georgia, 'Times New Roman', serif;
+  text-align: center;
+  font-variant: small-caps;
+  letter-spacing: .09em;
+}
+.orr-infobox-arms {
+  display: block;
+  text-align: center;
+  padding: .75rem .5rem .4rem;
+  background: #fbf8f1;
+}
+.orr-infobox-arms img {
+  display: block;
+  width: 100%;
+  max-width: 174px;
+  height: auto;
+  max-height: 214px;
+  margin: 0 auto;
+  object-fit: contain;
+}
+.orr-place-infobox .orr-infobox-arms img {
+  max-width: 100px;
+  max-height: 125px;
+}
+.orr-infobox-caption {
+  text-align: center;
+  padding: .3rem .5rem .65rem;
+  color: #71624e;
+  background: #fbf8f1;
+  font: italic 12px Georgia, 'Times New Roman', serif;
+}
+.orr-infobox dl { margin: 0; padding: 0; }
+.orr-infobox dl > div {
+  display: grid;
+  grid-template-columns: 36% 64%;
+  border-top: 1px solid #d8c8af;
+  margin: 0;
+}
+.orr-infobox dt,
+.orr-infobox dd {
+  font-size: .81rem;
+  line-height: 1.4;
+  padding: .55rem .48rem;
+  margin: 0;
+  overflow-wrap: break-word;
+}
+.orr-infobox dt {
+  background: #e9ddc8;
+  font-weight: 700;
+  color: #6c503a;
+}
+.orr-infobox dd { background: #f8f3e9; }
+.orr-genealogy-panel { clear: both; }
+@media(max-width:650px) {
+  .orr-infobox { float: none; width: 100%; max-width: 400px; margin: 0 auto 1.35rem; }
+}
