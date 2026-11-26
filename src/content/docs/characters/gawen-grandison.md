@@ -46,4 +46,8 @@ Gawen married [Lady Ellyn Meadows](/characters/ellyn-grandison/). Their children
 
 ## History
 
-When Daemon Blackfyre raised his rebellion in 196 AC, Grandview received a call from Storm's End to muster its men. Gawen delayed for nine days while sending messages seeking direction from his overlord; no answer reached him in time. Though his elder son Alester pressed for a prompt march, the Grandison troops did not ride until the tenth day, after the battle at Redgrass Field had already been won. The delay became a lasting subject of criticism, and Grandview's supposed prudence was invoked derisively by its neighbours. Gawen died in his sixties and was succeeded by Alester.
+Gawen ruled Grandview during the First Blackfyre Rebellion of 196 AC. When the call to arms came from Storm's End, Ser Roland Penrose reached Grandview with forty men ready to ride. Gawen listened to the summons but refused to march without further direction from his overlord. His eldest son Alester demanded that he answer the king at once, but Gawen remained unmoved.
+
+The Grandison men waited for nine days. Gawen sent two letters towards Storm's End, seeking an answer, and none arrived in time to resolve his uncertainty. Steffon, another of his sons, occupied himself with calculating the resources available for the campaign. On the tenth day, Grandview's men rode out, only to learn that the Battle of the Redgrass Field had already been decided.
+
+The delay came to define much of Gawen's later reputation. Some judged his conduct cowardly, while others regarded it as a refusal to commit his household without the orders of the lord to whom he was sworn. The memory of the nine days remained divisive among his descendants and neighbours long after his death. Gawen died in his sixties and was succeeded by Alester.

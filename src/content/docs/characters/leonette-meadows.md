@@ -50,4 +50,8 @@ Leonette is the elder sister of [Matthos Meadows](/characters/matthos-meadows/) 
 
 ## History
 
-Leonette's wedding at Grassfield Keep in 208 AC brought many lords and knights of the Reach and Stormlands to her father's hall. Lady Clarice Rowan announced the betrothal of her son Triston to Lady Joy Penrose during the festivities. Leonette left Grassfield for Tumbleton with her husband after the celebrations.
+Leonette grew up at Grassfield Keep, where her mother's concern with rank, hospitality and marriage arrangements shaped her education. She attended lessons in noble conduct and dancing and took an interest in the guests who came to the castle. Her enjoyment of society and conversation was apparent well before her own wedding.
+
+In 208 AC, Leonette married Ser Garlan Footly, the heir to Tumbleton. The celebrations at Grassfield brought guests from Houses Rowan, Caswell, Ashford, Merryweather and Footly, together with knights and retainers who filled the castle and its stables. During the feast, Lady Clarice Rowan announced the sealed betrothal of Ser Triston Rowan to Lady Joy Penrose.
+
+After the wedding Leonette left Grassy Vale for Tumbleton with her husband. Through the marriage, the Meadows became closely allied with House Footly, while Leonette assumed a place in the family of the future Lord of Tumbleton.

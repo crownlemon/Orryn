@@ -90,4 +90,8 @@ Triston's younger sister is [Lady Roslin Rowan](/characters/roslin-rowan/). His 
 
 ## History
 
-In 208 AC, the Rowan and Penrose families sealed Triston's betrothal shortly before Lady Leonette Meadows's wedding, where it was publicly announced. Joy subsequently came to Goldengrove with her brother Robin. When Lord Alaric Meadows visited Goldengrove, Triston took an interest in the shortage of fodder at Grassfield and assisted with arrangements for the sale of hay and oats. He and Joy were not yet wed.
+In 208 AC, the Rowan and Penrose families sealed an agreement for Triston to marry Lady Joy Penrose, daughter of Lord Ronnel Penrose and Princess Elaena Targaryen. The betrothal was announced publicly during the wedding of Lady Leonette Meadows at Grassfield Keep. Joy subsequently arrived at Goldengrove with her brother Robin and members of her household, spending time in the castle that was to become her home.
+
+During Lord Alaric Meadows's visit to Goldengrove, Triston sat with his father and mother in the great hall. He asked after the wells and fields of Grassy Vale and showed an interest in the difficulty of finding sufficient fodder during the drought. When the lords later negotiated hay and oats, Triston attended to the weights, sacks and arrangements for moving the carts.
+
+Triston also took part in conversations among the visiting Penroses and Rowan knights about the riders who had gone south towards the Dornish Marches. He distinguished a prince's expressed wish from a royal prohibition, disputing the claim that every man who rode without a summons had necessarily defied the Crown. His marriage to Joy remained forthcoming.

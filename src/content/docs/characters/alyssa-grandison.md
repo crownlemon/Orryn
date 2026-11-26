@@ -47,4 +47,6 @@ Alyssa grew up with her younger brother Orryn near Grandview. Her betrothal to S
 
 ## History
 
-Alyssa was among the family members preparing for her cousin Elenei's wedding at Grandview. She took an interest in the new service Orryn was to enter under their Meadows kinsman and teased him about the duties of a squire.
+Alyssa spent her youth on her parents' lands near Grandview, where she developed a close relationship with her younger brother Orryn. Both shared the golden hair and freckles of their family and enjoyed riding, though Alyssa was more confident in company and more willing to tease her brother about his prospects.
+
+At the time of her cousin Elenei's wedding, Alyssa was betrothed to Ser Edric Wagstaff of Greenward, the heir to one of Grandview's longstanding knightly families. She was among the relatives preparing for the celebration and took an interest in Orryn's coming departure for the Meadows household. She reminded him that their father and Lord Alaric Meadows were cousins, a kinship that carried obligations as well as the prospect of a place in another lord's service.

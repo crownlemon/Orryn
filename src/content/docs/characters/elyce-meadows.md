@@ -49,4 +49,8 @@ Her older siblings are [Leonette](/characters/leonette-meadows/) and [Matthos](/
 
 ## History
 
-In 208 AC, Lady Arlanna Tyrell proposed a marriage between Elyce and Lord Harys Oakheart, the young ward of Lord Rowan at Goldengrove. Elyce's parents objected to the manner of the proposal. When Lord Alaric set out to meet Rowan, Elyce privately asked Orryn Grandison to learn whether Harys rode well and liked horses. No betrothal was concluded.
+Elyce was raised at Grassfield Keep with her elder brother Matthos and sister Leonette. She took particular interest in horses, including Brindle, whose difficult behaviour had become a subject of concern to the older boys of the household. After Matthos went to Highgarden, he sent word that Elyce should not ride the horse.
+
+In 208 AC, Lady Arlanna Tyrell proposed Elyce as a bride for Lord Harys Oakheart, a boy being raised at Goldengrove under the guardianship of Lord Rycherd Rowan. The proposal reached Grassfield without a prior agreement between the families, and both Lord Alaric and Lady Jeyne objected to how their daughter had been discussed.
+
+Before Alaric departed for Goldengrove to speak with Lord Rowan, Elyce quietly asked his squire Orryn Grandison to discover whether Lord Harys could ride well and whether he genuinely liked horses. The young lord's guardianship and Elyce's future marriage remained subjects of negotiation; no betrothal had been agreed.

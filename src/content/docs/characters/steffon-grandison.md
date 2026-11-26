@@ -48,4 +48,8 @@ Steffon married [Lady Maris Gower](/characters/maris-grandison/). Their children
 
 ## History
 
-During the First Blackfyre Rebellion, Steffon stood at Grandview while his father delayed answering Storm's End's summons. He counted the men, horses, oats and cost of committing the household to war. He remained an influential voice in the family's financial affairs under Lord Alester and was among the relatives who came to Grandview for Elenei's wedding.
+Steffon was raised at Grandview as a younger son of Lord Gawen and Lady Ellyn. His careful treatment of money and estate resources distinguished him from his elder brother Alester, whose confidence and generosity frequently ran ahead of his means.
+
+During the First Blackfyre Rebellion of 196 AC, the Grandison men waited at Grandview for direction from Storm's End. While Alester urged their father to ride, Steffon measured the costs of committing the household to war, reckoning the horses, provisions, armed men and consequences of an ill-judged decision. His father did not march until the tenth day, after the battle at Redgrass Field had been won.
+
+After Lord Gawen's death, Alester succeeded to Grandview and Steffon continued to manage his own family lands nearby. He remained an important voice in matters of accounts and resources. When the time came for his youngest son Orryn to become a squire, Steffon arranged for him to serve their kinsman Lord Alaric Meadows at Grassfield Keep.

@@ -88,4 +88,8 @@ Roslin resides with her parents at Goldengrove. Her brother Triston is betrothed
 
 ## History
 
-Roslin accompanied the Rowan family to Lady Leonette Meadows's wedding in 208 AC. When Joy Penrose subsequently came to Goldengrove, their encounters at the high table revealed a strained relationship, particularly when Joy spoke as though she already possessed authority over the household.
+Roslin accompanied her parents and brother to the wedding of Lady Leonette Meadows at Grassfield Keep in 208 AC. At the celebrations, the Rowan family announced the betrothal of her brother Triston to Lady Joy Penrose, a daughter of the royal household's Master of Coin.
+
+Joy later arrived at Goldengrove and became a guest of the family whose heir she was to marry. The two young women did not always agree over the privileges of the future lady of the castle. When Joy spoke of the high table as something that would one day belong to Triston, Roslin reminded her that Lord Rycherd still held the seat. Lady Clarice intervened to end the exchange.
+
+Roslin was also among the young women at Goldengrove during Lord Alaric Meadows's visit, keeping company with Joy and Myranda Webber while other members of the household attended to the guests and to the difficulties caused by the dry summer.

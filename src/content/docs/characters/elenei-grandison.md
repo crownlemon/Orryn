@@ -46,4 +46,6 @@ Her brother [Arlan Grandison](/characters/arlan-grandison/) is heir to Grandview
 
 ## History
 
-Elenei's marriage was celebrated at Grandview at the opening of Orryn Grandison's service to House Meadows. The preparations occupied the castle for weeks and brought many relatives and Penrose guests into the household. Elenei subsequently lived with her husband's family at Parchments, where she continued to correspond with her cousin Orryn.
+Elenei's marriage to Ser Addam Penrose was celebrated at Grandview. The wedding occupied her father's household for many weeks, requiring the preparation of the Old Lion's guest chambers and the accommodation of the visiting Penroses. Her cousin Orryn, who was preparing to leave Grandview for service at Grassfield Keep, assisted with some of the arrangements.
+
+After the wedding Elenei lived with her husband's kin at Parchments. She continued to write to Orryn, reporting on her new surroundings and family. In a letter carried to Goldengrove, she described Ser Addam as kind and commented upon the manners of her mother-in-law, Lady Alysanne Penrose. Through her marriage Elenei formed another link between the Grandisons of the western Stormlands and a family with close ties to House Rowan and the Hightowers.

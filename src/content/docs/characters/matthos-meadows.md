@@ -50,4 +50,8 @@ Matthos's sisters are [Leonette](/characters/leonette-meadows/) and [Elyce](/cha
 
 ## History
 
-Matthos became Ser Moryn Tyrell's squire during a visit to Highgarden in 208 AC. His new position took him away from the resident squires at Grassfield. He received riding instruction at Highgarden and visited Goldengrove with Ser Moryn, where a scuffle with a larger Rowan page left him with a split lip.
+Matthos was raised at Grassfield Keep among the children and squires of his father's household. He enjoyed riding and contests, though his behaviour could cause friction with boys and servants. His future as heir to Grassfield was closely bound to his father's relations with the Tyrells and Caswells.
+
+In 208 AC, Lord Alaric brought Matthos and Orryn Grandison to Bitterbridge and then to Highgarden. There Matthos was considered for a place in the household of Ser Moryn Tyrell and entered his service as a squire. At Highgarden he trained under the court's master-at-arms, Ser Luthor Risley, whose lessons included the patient handling of horses rather than relying upon the rank of a rider.
+
+The arrangement took Matthos away from Grassfield. He later travelled to Goldengrove in Ser Moryn's company, where an altercation with a larger Rowan page left him with a split lip. He subsequently returned to Highgarden rather than remaining among the resident squires at his father's castle.

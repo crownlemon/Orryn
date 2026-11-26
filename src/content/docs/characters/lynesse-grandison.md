@@ -46,4 +46,8 @@ She is married to Lord Alester and mother to [Arlan](/characters/arlan-grandison
 
 ## History
 
-Lynesse oversaw the elaborate preparations for her daughter Elenei's marriage to Ser Addam Penrose at Grandview. Guest chambers, linens and seating required considerable attention, and she sought to ensure that the visiting Penroses were comfortably accommodated. Orryn Grandison, her husband's nephew, assisted with the preparations.
+Lynesse became Lady of Grandview through her marriage to Lord Alester Grandison. She undertook the responsibilities of hospitality and household management that accompanied a castle frequently visited by relatives and neighbouring families.
+
+The wedding of her daughter Elenei to Ser Addam Penrose brought these duties to the fore. Visitors from Parchments required accommodation in Grandview's guest chambers, including rooms within the Old Lion. Lynesse supervised the linen, rooms and arrangements while seeking to honour the preferences of the visiting Penroses. Her tendency to agree readily with requests sometimes left her household servants and nephew Orryn to reconcile contradictory instructions.
+
+After Elenei's marriage, Lynesse remained at Grandview with Alester and their son Arlan, who was being raised as heir to the castle.

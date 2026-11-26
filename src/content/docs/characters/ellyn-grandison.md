@@ -46,4 +46,6 @@ Her marriage to Lord Gawen connected House Meadows of Grassy Vale and House Gran
 
 ## History
 
-Ellyn helped shape the customs of Grandview's household, especially the maintenance of guest chambers, preparations for important visitors and standards of service. Her grandson Orryn remembered her strict rules years after her death, including her insistence that no guest bed should stand unaired.
+Ellyn married Lord Gawen Grandison and brought the habits and expectations of her Meadows family to the halls of Grandview. She took a particular interest in the ordering of guest chambers, the conduct of servants and the appearance of a lordly household. Her standards were remembered long after her death by those who had served under her, though not always with affection.
+
+Her descendants retained close ties to Grassy Vale. Her son Steffon's youngest boy, Orryn, was sent to become a squire under Ellyn's nephew Lord Alaric Meadows. Orryn continued to remember his grandmother's rules when faced with the disorder of Grandview's guest chambers before Elenei's wedding, particularly her insistence that no room should stand with its beds unaired.
