@@ -113,3 +113,22 @@ Completed:
 - Extended validation for both dynasties, their heirs and several independent genealogical links.
 
 Next: broaden additional house rosters from Householdbook, verify adopted names and cross-house family trees, and reconcile book-canon history with source-era snapshots before extending beyond the first two regions.
+
+
+## Milestone: Highgarden and the Arbor (immediate next round, 26 November 2026)
+
+Read the Worldbook v10 Highgarden and Reach settlement sections (especially lines 1635–1659 and 1694–1697) and Householdbook v12 Tyrell dynasty sections (2507–2651, 2764–2840), Redwyne lineage (2843–2847 and 3299–3310), and confirmed Oakheart situation (3552–3562).
+
+This round delivered:
+- 28 additional named person records and 9 title or office records from documented family and court structures, not invented individuals or events.
+- 93 new genealogical, tenure, residence, office, successor, household, and ward relationships before review; after normalization of hereditary vs appointed titles, the final count of records reflects removal of erroneous title-to-house equivalences.
+- Two new substantial house pages, **Tyrell** and **Redwyne**, and seven character biographies: Leo, Arlanna, Garth, Moryn, Ceryse, Olyvar and Theomar.
+- The lineage of Leo and Arlanna; the Garth–Alys–Harlen succession; the marriage ties to Ashford, Hewett, Oakheart and Caswell; the Redwyne tie through Theomar, Arron and Hugh; and Ceryse's regency for Harys.
+- A Highgarden court roster distinguishing household officers, knights, squires and the young resident nobles Hugh Redwyne and Gyles Peake, a political hostage. Did not treat transient courtiers or patronage associates as sworn factions.
+- Source-provenance corrections for the Warden of the South and High Marshal of the Reach fields: these are documented in **Worldbook** v10, not at the same line in the Householdbook.
+- Better title semantics: royal and Reach appointments and personal dignities are kept distinct from hereditary lordships.
+- Expanded automated assertions for parents, successive heirs, Ceryse's regency, the status of Gyles Peake, and the absence of an unaccepted Harys–Elyce betrothal.
+
+Unfinished: detailed family profiles for additional houses, full source-by-source AWOIAF historical import, art license review and browser acceptance. This is another *development milestone*, not a completion of all phases. Do not merge to main without the user's permission.
+
+Next recommended batch: the Ashford–Merryweather–Caswell marriages and overlapping households, followed by Hightower, Rowan collateral kin, and the Reach's published pre-208 lordships, with source-era checking at each step.

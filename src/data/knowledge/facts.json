@@ -13543,29 +13543,11 @@
     "predicate": "holds_title",
     "object": "title:warden-of-the-south",
     "sources": [
-      "householdbook-v12"
+      "worldbook-v10"
     ],
     "evidence": [
       {
-        "source": "householdbook-v12",
-        "line": 1697
-      }
-    ],
-    "asOf": {
-      "year": 207
-    }
-  },
-  {
-    "id": "fact:788",
-    "subject": "title:warden-of-the-south",
-    "predicate": "associated_house",
-    "object": "house:tyrell",
-    "sources": [
-      "householdbook-v12"
-    ],
-    "evidence": [
-      {
-        "source": "householdbook-v12",
+        "source": "worldbook-v10",
         "line": 1697
       }
     ],
@@ -13579,29 +13561,11 @@
     "predicate": "holds_title",
     "object": "title:high-marshal-of-the-reach",
     "sources": [
-      "householdbook-v12"
+      "worldbook-v10"
     ],
     "evidence": [
       {
-        "source": "householdbook-v12",
-        "line": 1697
-      }
-    ],
-    "asOf": {
-      "year": 207
-    }
-  },
-  {
-    "id": "fact:790",
-    "subject": "title:high-marshal-of-the-reach",
-    "predicate": "associated_house",
-    "object": "house:tyrell",
-    "sources": [
-      "householdbook-v12"
-    ],
-    "evidence": [
-      {
-        "source": "householdbook-v12",
+        "source": "worldbook-v10",
         "line": 1697
       }
     ],
@@ -13614,24 +13578,6 @@
     "subject": "person:theomar-redwyne",
     "predicate": "holds_title",
     "object": "title:master-of-ships",
-    "sources": [
-      "householdbook-v12"
-    ],
-    "evidence": [
-      {
-        "source": "householdbook-v12",
-        "line": 2845
-      }
-    ],
-    "asOf": {
-      "year": 207
-    }
-  },
-  {
-    "id": "fact:792",
-    "subject": "title:master-of-ships",
-    "predicate": "associated_house",
-    "object": "house:redwyne",
     "sources": [
       "householdbook-v12"
     ],
@@ -13664,24 +13610,6 @@
     }
   },
   {
-    "id": "fact:794",
-    "subject": "title:lord-seneschal-of-highgarden",
-    "predicate": "associated_house",
-    "object": "house:redwyne",
-    "sources": [
-      "householdbook-v12"
-    ],
-    "evidence": [
-      {
-        "source": "householdbook-v12",
-        "line": 3302
-      }
-    ],
-    "asOf": {
-      "year": 207
-    }
-  },
-  {
     "id": "fact:795",
     "subject": "person:ormund-hewett",
     "predicate": "holds_title",
@@ -13700,46 +13628,10 @@
     }
   },
   {
-    "id": "fact:796",
-    "subject": "title:lord-admiral-of-the-reach",
-    "predicate": "associated_house",
-    "object": "house:hewett",
-    "sources": [
-      "householdbook-v12"
-    ],
-    "evidence": [
-      {
-        "source": "householdbook-v12",
-        "line": 3224
-      }
-    ],
-    "asOf": {
-      "year": 207
-    }
-  },
-  {
     "id": "fact:797",
     "subject": "person:roderick-tarly",
     "predicate": "holds_title",
     "object": "title:marshal-of-the-dornish-marches",
-    "sources": [
-      "householdbook-v12"
-    ],
-    "evidence": [
-      {
-        "source": "householdbook-v12",
-        "line": 3234
-      }
-    ],
-    "asOf": {
-      "year": 207
-    }
-  },
-  {
-    "id": "fact:798",
-    "subject": "title:marshal-of-the-dornish-marches",
-    "predicate": "associated_house",
-    "object": "house:tarly",
     "sources": [
       "householdbook-v12"
     ],

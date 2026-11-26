@@ -79,6 +79,54 @@ for (const [child,parent] of [
  ['person:addam-penrose','person:alysanne-penrose']
 ])check(facts.some(f=>f.subject===child&&f.predicate==='child_of'&&f.object===parent),child+': known parent missing');
 check(!ids.has('house:grandison-of-merewatch'),'Unplayed 224 AC house must not exist in 208 records');
+
+const expectedHighgardenParents = [
+  ["person:garth-tyrell","person:leo-tyrell"],
+  ["person:garth-tyrell","person:arlanna-tyrell"],
+  ["person:moryn-tyrell","person:leo-tyrell"],
+  ["person:ceryse-oakheart","person:arlanna-tyrell"],
+  ["person:olyvar-tyrell","person:leo-tyrell"],
+  ["person:brenna-caswell","person:arlanna-tyrell"],
+  ["person:harlen-tyrell","person:garth-tyrell"],
+  ["person:harlen-tyrell","person:alys-tyrell"],
+  ["person:harys-oakheart","person:ceryse-oakheart"],
+  ["person:arron-redwyne","person:theomar-redwyne"],
+  ["person:hugh-redwyne","person:arron-redwyne"],
+];
+for(const [child,parent] of expectedHighgardenParents)
+  check(facts.some(f=>f.subject===child&&f.predicate==='child_of'&&f.object===parent),
+        'Missing Highgarden family link '+child+' child of '+parent);
+for(const [house,person] of [
+  ['house:tyrell','person:leo-tyrell'],
+  ['house:redwyne','person:theomar-redwyne'],
+  ['house:oakheart','person:harys-oakheart']
+])check(facts.some(f=>f.subject===house&&f.predicate==='head'&&f.object===person&&active(f,{year:208,chapter:67})),
+  'Missing 208 lord '+house);
+check(facts.some(f=>f.subject==='person:garth-tyrell'&&f.predicate==='heir_to'&&f.object==='house:tyrell'),
+  'Garth Tyrell must be first heir of Highgarden');
+check(facts.some(f=>f.subject==='person:harlen-tyrell'&&f.predicate==='heir_to'&&f.object==='house:tyrell'&&f.heirOrder208===2),
+  'Harlen Tyrell follows Garth in succession');
+check(facts.some(f=>f.subject==='person:ceryse-oakheart'&&f.predicate==='regent_for'&&f.object==='person:harys-oakheart'),
+  'Ceryse must govern for her son');
+check(!facts.some(f=>f.subject==='person:jeyne-meadows'&&f.predicate==='child_of'&&f.object==='person:brenna-caswell'),
+  'Brenna is Jeyne Caswell’s stepmother, not biological mother');
+check(!facts.some(f=>f.predicate==='betrothed_to'&&[f.subject,f.object].includes('person:harys-oakheart')&&[f.subject,f.object].includes('person:elyce-meadows')),
+  'Unaccepted Harys–Elyce marriage proposal must not become betrothal');
+const nonDynasticOffices=new Set([
+  'title:warden-of-the-south','title:high-marshal-of-the-reach',
+  'title:master-of-ships','title:lord-seneschal-of-highgarden',
+  'title:lord-admiral-of-the-reach','title:marshal-of-the-dornish-marches'
+]);
+for(const title of nonDynasticOffices)
+  check(!facts.some(f=>f.subject===title&&f.predicate==='associated_house'),
+        title+': personal office must not be falsely attributed as hereditary house title');
+const court= facts.filter(f=>f.object==='house:tyrell'&&f.rosterGroup208==='court_attendant');
+check(court.some(f=>f.subject==='person:hugh-redwyne'),'Hugh Redwyne missing from young nobles roster');
+check(court.some(f=>f.subject==='person:gyles-peake'&&/hostage/.test(f.role208||'')),
+  'Gyles Peake must be documented as an involuntary ward, not ordinary visitor');
+check(!facts.some(f=>f.subject==='person:moryn-tyrell'&&f.predicate==='holds_title'),
+  'Moryn has personal patronage but no separate formal government office');
+
 if (failures.length) {
   for (const problem of failures) console.error('FAIL', problem);
   process.exitCode = 1;

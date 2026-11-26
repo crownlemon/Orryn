@@ -15,6 +15,8 @@ export type Entity = {
   age208?: number; birthHouse?: string; year?: number; chapter?: number; awoiaf?: string;
   rank208?: string; regionalArea208?: string; geographicAnchor208?: string;
   legendaryFounder?: string; fieldSources?: Record<string,string[]>;
+  titleNature?: 'hereditary_lordship' | 'dignity' | 'royal_appointment' | 'reach_appointment';
+  worldbookReference?: { source:string; line:number };
   registryRole?: string; catalogStatus?: string; sourceLine208?: number;
   householdReference?: { source: string; line: number };
   ageDescription208?: string; givenNameUnestablished?: boolean; deceasedBy208?: boolean;

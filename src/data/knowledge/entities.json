@@ -5522,17 +5522,19 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 2509
-    }
+    },
+    "titleNature": "hereditary_lordship"
   },
   {
     "id": "title:warden-of-the-south",
     "kind": "title",
     "name": "Warden of the South",
     "sources": [
-      "householdbook-v12"
+      "worldbook-v10"
     ],
-    "householdReference": {
-      "source": "householdbook-v12",
+    "titleNature": "dignity",
+    "worldbookReference": {
+      "source": "worldbook-v10",
       "line": 1697
     }
   },
@@ -5541,10 +5543,11 @@
     "kind": "title",
     "name": "High Marshal of the Reach",
     "sources": [
-      "householdbook-v12"
+      "worldbook-v10"
     ],
-    "householdReference": {
-      "source": "householdbook-v12",
+    "titleNature": "dignity",
+    "worldbookReference": {
+      "source": "worldbook-v10",
       "line": 1697
     }
   },
@@ -5558,7 +5561,8 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 2845
-    }
+    },
+    "titleNature": "hereditary_lordship"
   },
   {
     "id": "title:master-of-ships",
@@ -5570,7 +5574,8 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 2845
-    }
+    },
+    "titleNature": "royal_appointment"
   },
   {
     "id": "title:lord-seneschal-of-highgarden",
@@ -5582,7 +5587,8 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 3302
-    }
+    },
+    "titleNature": "reach_appointment"
   },
   {
     "id": "title:lord-admiral-of-the-reach",
@@ -5594,7 +5600,8 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 3224
-    }
+    },
+    "titleNature": "reach_appointment"
   },
   {
     "id": "title:marshal-of-the-dornish-marches",
@@ -5606,7 +5613,8 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 3234
-    }
+    },
+    "titleNature": "reach_appointment"
   },
   {
     "id": "title:lord-of-old-oak",
@@ -5618,6 +5626,7 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 3554
-    }
+    },
+    "titleNature": "hereditary_lordship"
   }
 ]
