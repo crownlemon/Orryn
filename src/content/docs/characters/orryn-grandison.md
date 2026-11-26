@@ -21,11 +21,15 @@ Orryn is of average height and leanly built, with slightly wavy golden-blonde ha
 
 ## Character
 
-Orryn is curious, courteous, practical-minded and quick to learn by observing the work of others. He is good at spotting where an arrangement might be improved, and often finds ways to bring people together around a task. He is also impatient with routine, inclined to begin more than he finishes, and sometimes acts before understanding what a plan will cost.
+Orryn is observant and practical-minded, with a talent for noticing problems in the arrangements of a household. He often approaches a question by counting, checking or asking how the work is actually done, whether the matter concerns the use of a guest chamber, the watering of an orchard or the keeping of a steward's account. He is courteous to those above him and tends to learn quickly from experienced servants, knights and craftsmen.
+
+His inventiveness sometimes runs ahead of his judgment. He is impatient with routine and capable of beginning an improvement before he has counted its cost or considered whom it might offend. Although generally willing to hear others, he can be quietly stubborn and may conceal an awkward part of a story rather than confront its likely consequences. His service under Lord Alaric places these qualities under frequent scrutiny.
 
 ## Family
 
-Orryn's elder sister is [Lady Alyssa Grandison](/characters/alyssa-grandison/). Their father Steffon is brother to the Lord of Grandview, and their grandmother Lady Ellyn was born Meadows. Lord Alaric, Orryn's master, is his father's first cousin.
+Orryn is the youngest son of **[Ser Steffon Grandison](/characters/steffon-grandison/)** and **[Lady Maris Gower](/characters/maris-grandison/)**. His elder sister is **[Lady Alyssa Grandison](/characters/alyssa-grandison/)**, who is betrothed to Ser Edric Wagstaff of Greenward. Orryn was raised on the family's lands near **[Grandview](/places/grandview/)**, the castle of his uncle **[Lord Alester Grandison](/characters/alester-grandison/)**. His Grandison cousins include Arlan, heir to Grandview, and Lady Elenei, wife of Ser Addam Penrose.
+
+His paternal grandmother, **[Lady Ellyn Grandison](/characters/ellyn-grandison/)**, was a member of House Meadows. Through her, Orryn is related to **[Lord Alaric Meadows](/characters/alaric-meadows/)** of Grassy Vale, his father's first cousin. This kinship helped bring Orryn to Grassfield as a squire and connects his upbringing in the Stormlands with the affairs of a Reach household.
 
 ### Family tree
 
@@ -47,4 +51,10 @@ Orryn's elder sister is [Lady Alyssa Grandison](/characters/alyssa-grandison/). 
 
 ## History
 
-Orryn spent his childhood on Grandison lands near Grandview and was familiar with the castle from an early age. Around the wedding of his cousin Elenei to Ser Addam Penrose, he entered the service of Lord Alaric Meadows in Grassy Vale. In 208 AC, Orryn accompanied his lord in the business of his estate and on journeys through the Reach, including visits to Highgarden, the hearing over the Cress Hill dispute and a journey to Goldengrove. His duties include managing horses and correspondence, attending his lord's table, carrying messages and learning the conduct expected of a knight's squire.
+Orryn grew up near Grandview and was familiar with the castle's halls, household and servants from childhood. In the summer of his fourteenth year, the family gathered for the marriage of his cousin Elenei to Ser Addam Penrose. Orryn assisted with the difficult arrangements for visiting guests, including the allocation of chambers within the Old Lion and the inner ward. Soon afterward he departed Grandview to enter the service of Lord Alaric Meadows.
+
+The journey westward introduced Orryn to the difficulties of the roads and river crossings between the Stormlands and the Reach. He encountered members of House Penrose and accepted the loan of a dun gelding, Rook, under terms recorded in writing. At the Pear and Plough he met Ser Wystan, a veteran who told him about Lord Gawen Grandison's nine-day delay during the First Blackfyre Rebellion and the unanswered messages sent to Storm's End. The account followed Orryn to Grassfield, where his new lord demanded to know what he had learned.
+
+At Grassfield Keep, Orryn pledged himself as Alaric's squire and entered the company of other boys being trained for knighthood. He attended riding and weapons lessons, helped with guests, horses and written accounts, and became involved in the management of the orchard, where diseased trees required difficult decisions about labour and money. Questions concerning the Alder Mill, its old obligations and the use of the watercourses brought him into contact with the knightly houses beneath Meadows.
+
+During 208 AC, Orryn accompanied Alaric through Bitterbridge to Highgarden, where Matthos Meadows entered Ser Moryn Tyrell's service. He saw the competing concerns of the lordly families, witnessed disputes over tolls and jurisdiction, and later attended the great wedding gathering at Grassfield. In the dry summer that followed, he rode north with Alaric to Goldengrove to meet Lord Rycherd Rowan and discuss the wardship of Lord Harys Oakheart.

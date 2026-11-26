@@ -22,11 +22,15 @@ Alaric is lean, with light brown hair and hazel eyes. He dresses practically rat
 
 ## Character
 
-Alaric is tireless, observant of waste and fiercely protective of his family's position. He can also be controlling, sparing with praise and reluctant to admit a mistake. His tendency to oversee even small decisions earns him a reputation for diligence, but his officers may find themselves corrected publicly for work they have carried out well.
+Alaric is a diligent and capable lord who watches the running of his household closely. He knows the cost of hay, the work of the mills, the condition of his horses and the men responsible for the estate's accounts. Waste and neglect anger him, particularly when he believes the same carelessness is being excused by custom or deference. His concern for his family and his lands is genuine, and he expects the knights and officers who serve him to take their duties seriously.
+
+His diligence is accompanied by an exacting temperament. Alaric finds it difficult to leave a decision to others and can be reluctant to acknowledge that an officer or squire has understood a matter better than he has. He corrects mistakes publicly, remembers criticism and is sparing with praise. The strain between his need for capable servants and his determination to exercise personal control is felt throughout the household at Grassfield.
 
 ## Family
 
-His late father was the brother of Lady Ellyn Meadows, who married Lord Gawen Grandison of Grandview. Alaric is therefore first cousin to Ser Steffon Grandison and first cousin once removed to [Orryn Grandison](/characters/orryn-grandison/). Alaric married [Lady Jeyne Caswell](/characters/jeyne-meadows/), daughter of Lord Armond Caswell. Their children are [Leonette](/characters/leonette-meadows/), [Matthos](/characters/matthos-meadows/) and [Elyce](/characters/elyce-meadows/).
+Alaric is the son of a former Lord Meadows whose sister, **[Lady Ellyn Grandison](/characters/ellyn-grandison/)**, married **[Lord Gawen Grandison](/characters/gawen-grandison/)** of Grandview. He is consequently first cousin to **[Ser Steffon Grandison](/characters/steffon-grandison/)** and first cousin once removed to **[Orryn Grandison](/characters/orryn-grandison/)**, who entered his service as a squire. The ties between the two families provide a connection across the Reach–Stormlands border.
+
+Alaric married **[Lady Jeyne Caswell](/characters/jeyne-meadows/)**, daughter of Lord Armond Caswell of Bitterbridge. Jeyne's stepmother, Lady Brenna Tyrell, is a daughter of Lord Leo Tyrell. Alaric and Jeyne have three children: **[Leonette](/characters/leonette-meadows/)**, who married Ser Garlan Footly in 208 AC, **[Matthos](/characters/matthos-meadows/)**, the heir to Grassfield, and **[Elyce](/characters/elyce-meadows/)**. Jeyne was expecting another child before the end of the year.
 
 ### Family tree
 
@@ -51,4 +55,10 @@ His late father was the brother of Lady Ellyn Meadows, who married Lord Gawen Gr
 
 ## History
 
-Alaric took on duties at Grassfield in his mid-teens and inherited the lordship after the First Blackfyre Rebellion. At nineteen he had considered Daemon Blackfyre's cause, but served King Daeron II following the counsel of Lord Armond Caswell and Lady Brenna Tyrell. He later carried out the disposition of the Alder Mill after the rebellion. In 208 AC, he attended the hearing of the Cress Hill dispute, travelled to Highgarden with Orryn and visited Lord Rycherd Rowan at Goldengrove to discuss the possible marriage of his daughter Elyce to Lord Harys Oakheart.
+Alaric began assisting with the affairs of Grassfield Keep in his teens and inherited the lordship after the First Blackfyre Rebellion. As a young man he had hesitated over Daemon Blackfyre's cause before serving King Daeron II, following the counsel of Lord Armond Caswell and Lady Brenna Tyrell. Among the matters that occupied his early rule was the disposition of the Alder Mill after the forfeiture of lands held by House Graves. The terms of the award remained a source of argument among the local knightly families.
+
+When Orryn Grandison came from Grandview to become his squire, Alaric questioned him closely about the journey, an offered horse and the account of the Grandison muster at Redgrass Field. He required the boy to give an accurate account of what had occurred, rather than merely what he thought a lord would wish to hear. Orryn subsequently pledged himself in Alaric's service. Alaric also involved his squire in estate questions, among them the sickness of the east orchard and the distribution of water through the mill channels.
+
+In 208 AC, Alaric travelled with his son Matthos and Orryn to Bitterbridge and Highgarden. He discussed tolls, roads and the obligations of lordship with the Caswells and Tyrells, while Matthos entered the household of Ser Moryn Tyrell as a squire. That summer, Grassfield suffered from the drought that affected much of the Reach, and questions of fodder, horses and grain became increasingly urgent.
+
+Alaric hosted the wedding of his eldest daughter Leonette to Ser Garlan Footly. Shortly afterward, a proposal from Lady Arlanna Tyrell to marry Elyce to the young Lord Harys Oakheart raised a dispute over the rights of the families and Harys's guardian, Lord Rycherd Rowan. Alaric rode to **[Goldengrove](/places/goldengrove/)** to speak to Rowan himself. There the two lords discussed the boy's wardship, the proper authority over a marriage agreement and the requirements of each household during the dry summer.

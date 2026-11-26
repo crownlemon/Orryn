@@ -23,11 +23,15 @@ Jeyne has dark chestnut hair, brown eyes and a carefully composed expression. He
 
 ## Character
 
-Jeyne is observant, patient in company and fiercely protective of her children. Behind an agreeable manner she keeps a long memory for slights, favours servants who bring her information and can use courtesy to make a cutting point. She exercises considerable influence over the household's social affairs.
+Jeyne possesses a careful understanding of noble society and the ways in which kinship, seating, hospitality and marriage affect a house's standing. She is composed in public, observant of manners and quick to recognise the political meaning of a seemingly small concession. Her concern for her children is strong, and she treats the future of the Meadows family as a responsibility that cannot safely be left to chance.
+
+Her graciousness does not preclude resentment or cruelty. Jeyne seldom forgets a slight and knows how to rebuke someone without raising her voice. She encourages useful information from servants and companions and is capable of treating those who displease her with distant courtesy. Within Grassfield, her influence over visiting families, invitations and household arrangements makes her a formidable partner to Lord Alaric.
 
 ## Family
 
-Jeyne and Alaric have three children: [Leonette](/characters/leonette-meadows/), [Matthos](/characters/matthos-meadows/) and [Elyce](/characters/elyce-meadows/). In 208 AC she was expecting a fourth. Her Caswell kin, and her father's marriage to Lady Brenna Tyrell, maintain close links with Bitterbridge and Highgarden.
+Jeyne was born into **House Caswell of Bitterbridge** as a daughter of Lord Armond Caswell. After her father married Lady Brenna Tyrell, a daughter of Lord Leo Tyrell, Jeyne gained a direct stepfamily relationship with Highgarden. Her marriage to **[Lord Alaric Meadows](/characters/alaric-meadows/)** joined Grassfield to the Caswells and added to the web of marriages linking the great households of the Reach.
+
+Jeyne and Alaric have three children: **[Leonette](/characters/leonette-meadows/)**, who married Ser Garlan Footly of Tumbleton; **[Matthos](/characters/matthos-meadows/)**, heir to Grassfield and squire to Ser Moryn Tyrell; and **[Elyce](/characters/elyce-meadows/)**, the youngest daughter. Jeyne was expecting a fourth child in 208 AC.
 
 ### Family tree
 
@@ -52,4 +56,8 @@ Jeyne and Alaric have three children: [Leonette](/characters/leonette-meadows/),
 
 ## History
 
-Jeyne arranged the wedding of Leonette to Ser Garlan Footly, celebrated at Grassfield in 208 AC. She had earlier sounded out the Merryweathers about a possible marriage for Matthos, but no agreement was made. When Lady Arlanna Tyrell proposed a match for Elyce with Lord Harys Oakheart, Jeyne objected to her daughter being discussed without the knowledge or agreement of her parents.
+At Grassfield Keep, Jeyne oversees hospitality, visitors and the domestic affairs that carry consequences beyond the castle. She works closely with the steward and household officers when noble guests must be lodged, fed and seated according to their standing. Preparations for visiting families are not a minor matter to her: the wrong chamber or place at table may be taken as an insult.
+
+Before Lady Wylla Merryweather married Ser Androw Ashford, Jeyne explored the possibility of a future marriage between Wylla and her son Matthos. The approach was not accepted, and the Merryweathers chose an alliance with Ashford instead. Jeyne subsequently organised the wedding of her eldest daughter Leonette to Ser Garlan Footly, heir to Tumbleton. In the dry summer of 208 AC, the gathering brought numerous Reach and Stormlander guests to Grassfield and placed additional demands upon its provisions and horses.
+
+That same year Jeyne learned she was expecting another child. A proposal from Lady Arlanna Tyrell to marry Elyce to Lord Harys Oakheart, the young ward of Lord Rowan, reached Grassfield without prior agreement from Elyce's parents. Jeyne resented the manner of the approach and insisted that her daughter's marriage should not be settled through arrangements made elsewhere. Lord Alaric subsequently travelled to Goldengrove to discuss the matter with Rowan.

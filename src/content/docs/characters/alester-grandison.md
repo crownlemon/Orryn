@@ -22,11 +22,15 @@ Alester is tall and broad-shouldered, with dark brown hair beginning to grey, bl
 
 ## Character
 
-Alester is open-handed in public, brave and readily liked by his men. His affection for his household coexists with a tendency to overrate his own judgment and promise more than Grandview's revenues can support. He takes correction badly, especially from his younger brother Steffon, and may blame officers or circumstance when a grand plan fails.
+Alester is a warm and open-handed lord whose easy manner wins him friends among the men who serve him. He is personally brave and keen to be seen as generous, particularly in the hall and the practice yard. Grandview's people know his laugh and the readiness with which he offers a favour or announces a plan intended to improve their lot.
+
+His confidence is not always matched by sound management. Alester is prone to promise more than the estate can afford and dislikes being corrected, especially by his younger brother Ser Steffon, whose judgment of money and resources is often sound. Officers can find themselves asked to make an ambitious scheme work with fewer means than Alester supposes. He takes criticism as a challenge to his authority, and may remember the person who contradicted him longer than the problem itself.
 
 ## Family
 
-Alester is married to [Lady Lynesse Hertson](/characters/lynesse-grandison/). Their children are [Arlan Grandison](/characters/arlan-grandison/), heir to Grandview, and [Lady Elenei Grandison](/characters/elenei-grandison/), wife of Ser Addam Penrose. His younger brothers are [Ser Steffon Grandison](/characters/steffon-grandison/) and [Ser Raymont Grandison](/characters/raymont-grandison/); his sister is [Lady Alys Musgood](/characters/alys-musgood/).
+Alester is the eldest son of the late **[Lord Gawen Grandison](/characters/gawen-grandison/)** and **[Lady Ellyn Meadows](/characters/ellyn-grandison/)**, whose marriage connected the house to the Reach. His brothers are **[Ser Steffon Grandison](/characters/steffon-grandison/)** and **[Ser Raymont Grandison](/characters/raymont-grandison/)**; his sister **[Lady Alys](/characters/alys-musgood/)** married into House Musgood. Steffon maintains a separate household near Grandview, while Raymont serves at Storm's End.
+
+Alester married **[Lady Lynesse Hertson](/characters/lynesse-grandison/)**. Their son **[Arlan](/characters/arlan-grandison/)** is heir to Grandview and betrothed to Lady Alysanne Cafferen. Their daughter **[Elenei](/characters/elenei-grandison/)** married Ser Addam Penrose, strengthening ties with Parchments. Alester's nephew **[Orryn Grandison](/characters/orryn-grandison/)** serves their kinsman Lord Alaric Meadows at Grassfield Keep.
 
 ### Family tree
 
@@ -48,4 +52,8 @@ Alester is married to [Lady Lynesse Hertson](/characters/lynesse-grandison/). Th
 
 ## History
 
-At the outbreak of the First Blackfyre Rebellion in 196 AC, Alester urged his father to respond promptly to the call from Storm's End. The late Lord Gawen delayed his muster for nine days, an incident that continued to colour Grandview's reputation. Alester later succeeded him and became the head of the family. During the wedding of his daughter Elenei to Ser Addam Penrose, he received guests from the Penrose and Meadows families and entrusted the household with considerable preparations.
+During the First Blackfyre Rebellion of 196 AC, Alester wanted Grandview to answer the summons from Storm's End without delay. When his father Gawen hesitated, Alester urged him to ride for the king, reportedly speaking out before the assembled household. Lord Gawen did not yield. The family waited nine days before riding, and the Battle of the Redgrass Field had already been decided. The delay became a matter of lasting resentment and criticism, particularly for a son who had demanded action.
+
+After Gawen's death, Alester succeeded to Grandview and took responsibility for its lands, household and lesser bannermen. His manner was more expansive than his father's, and his generosity made him popular, but his ambitions sometimes taxed the resources of a lordship whose wealth depended on livestock, wool, timber and the roads through the western valleys.
+
+Alester later celebrated the marriage of his daughter Elenei to Ser Addam Penrose at Grandview. The occasion brought together the ruling family, the Grandison cousins and Penrose guests. Alester's wife Lynesse oversaw the arrangements, while the younger Orryn assisted with accommodation and household duties. The wedding also marked the beginning of Orryn's service under Lord Alaric Meadows of Grassy Vale.

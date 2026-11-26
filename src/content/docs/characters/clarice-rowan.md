@@ -24,11 +24,15 @@ Clarice is taller than her husband. She favours dark gowns and silver ornaments,
 
 ## Character
 
-Clarice is politically observant, protective of her family and attentive to the marriages and kinships that bind the Reach and Stormlands. She expects deference as a member of a powerful Hightower branch and can be dismissive of poorer houses. She does not accept that the senior Hightower line alone speaks for all the descendants of Garmund and Rhaena.
+Clarice pays close attention to rank, ancestry and the relationships through which noble families preserve their influence. As a daughter of Garmund Hightower and Princess Rhaena Targaryen, she is conscious both of Oldtown's standing and of the royal blood that passes through her children. She maintains close ties to her Penrose kin and expects the marriages of her family to be treated as matters of consequence.
+
+Her pride can make her severe. Clarice does not welcome condescension from the ruling Hightower line and is willing to challenge the suggestion that Lord Jon Hightower speaks for every descendant of Garmund and Rhaena. She is protective of Triston and Roslin and can be forceful when family dignity is threatened, while observing the exact forms of courtesy expected of a great lady.
 
 ## Family
 
-Clarice married Lord Rycherd around 180 AC. Their children include [Ser Triston Rowan](/characters/triston-rowan/), heir to Goldengrove, and [Lady Roslin Rowan](/characters/roslin-rowan/). Her younger sister Lady Alysanne married Ser Roland Penrose, whose brother Lord Ronnel serves King Daeron II as Master of Coin.
+Clarice married **[Lord Rycherd Rowan](/characters/rycherd-rowan/)** around 180 AC and became Lady of Goldengrove. Their children include **[Ser Triston Rowan](/characters/triston-rowan/)**, who is heir to the castle, and **[Lady Roslin Rowan](/characters/roslin-rowan/)**. Through Clarice's mother, Princess Rhaena Targaryen, they descend from Prince Daemon Targaryen.
+
+Her younger sister **Lady Alysanne Hightower** married Ser Roland Penrose, a younger brother of Lord Ronnel Penrose of Parchments. The connection is particularly important following Triston's betrothal to **Lady Joy Penrose**, daughter of Ronnel and Princess Elaena Targaryen. Clarice and Alysanne exchange letters, and the affairs of Parchments remain of interest at Goldengrove.
 
 ### Family tree
 
@@ -91,4 +95,8 @@ Clarice married Lord Rycherd around 180 AC. Their children include [Ser Triston 
 
 ## History
 
-In 208 AC, Clarice travelled with her family to Lady Leonette Meadows's wedding at Grassfield Keep, where she announced Triston's betrothal to Lady Joy Penrose. When Lord Alaric Meadows later arrived at Goldengrove, Clarice brought bread and salt herself to welcome him as a guest.
+Clarice belonged to a branch of the Hightowers whose marriages preserved the family's relations with descendants of House Targaryen. By her marriage to Rycherd Rowan, those connections were carried to one of the principal lordships of the northern Reach.
+
+In 208 AC, Clarice travelled with her husband and children to the wedding of Lady Leonette Meadows at Grassfield Keep. During the celebrations, she announced that the betrothal letters for Triston and Lady Joy Penrose had been sealed. The agreement brought Goldengrove into closer alliance with the household of the king's Master of Coin.
+
+Later in the year, when Lord Alaric Meadows came to Goldengrove, Clarice welcomed his party with bread and salt. At supper she recognised Alaric's squire Orryn as Ser Steffon Grandison's youngest son and asked him about a letter long promised to her sister Alysanne. Her familiarity with the Penroses and Grandisons linked a conversation at her husband's table to family affairs in Parchments and the Stormlands.

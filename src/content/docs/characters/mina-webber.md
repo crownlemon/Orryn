@@ -19,11 +19,15 @@ Mina is a tall woman who stands a head above her husband. She has the heavy feat
 
 ## Character
 
-Mina is forceful when the dignity of her own family is at stake. At Goldengrove's high table she is prepared to defend an absent relation even when her brother, the ruling lord, remains silent.
+Mina is protective of the standing of her birth family and unwilling to allow an insult to a Rowan knight to pass unchallenged. Her manner is direct and capable of silencing even her talkative husband, Ser Wendell Webber, when he intrudes upon a matter she considers improper.
+
+Marriage has connected her to House Webber, but Mina remains attentive to the dignity of Goldengrove and the reputation of her brothers. The contrast between her husband's expansive conversation and her own sharper interventions is noticeable in the company of the Rowan household.
 
 ## Family
 
-Her brothers are [Lord Rycherd Rowan](/characters/rycherd-rowan/) and [Ser Nyles Rowan](/characters/nyles-rowan/). She married Ser Wendell Webber, a kinsman of Lord Wyman Webber of Coldmoat. Their children include Bryce Webber and Myranda Webber.
+Mina is the sister of **[Lord Rycherd Rowan](/characters/rycherd-rowan/)** and **[Ser Nyles Rowan](/characters/nyles-rowan/)**. Rycherd rules Goldengrove and Nyles is a knight who rode south with Ser Olyvar Tyrell in 208 AC.
+
+She married **Ser Wendell Webber**, a knight of the Goldengrove household and a kinsman of Lord Wyman Webber of Coldmoat. Their children include Bryce and Myranda Webber, who have been present among the young people of the Rowan household. The marriage makes Ser Wendell a goodbrother to Lord Rycherd and gives the Webbers a close connection to Goldengrove.
 
 ### Family tree
 
@@ -86,4 +90,6 @@ Her brothers are [Lord Rycherd Rowan](/characters/rycherd-rowan/) and [Ser Nyles
 
 ## History
 
-During Lord Alaric Meadows's visit to Goldengrove in 208 AC, Mina sat beside her husband at the high table. When Robin Penrose mocked the conduct of Ser Nyles, Mina publicly defended her brother's knighthood.
+Mina lived among the household of Goldengrove during the events of 208 AC. She sat with Ser Wendell at Lord Rycherd's table when Lord Alaric Meadows came north to discuss the Oakheart wardship. Her husband spoke readily of his children and their prospects, and Mina restrained him when his remarks threatened to become intrusive.
+
+That same evening, talk of knights riding south towards the Dornish border turned into a question of whether men who had gone without a formal summons acted against the king's will. When Robin Penrose's remarks appeared to impugn Ser Nyles Rowan, Mina defended her brother before the company, declaring that he was a knight of the realm. Lord Rycherd allowed the moment to pass without further confrontation.
