@@ -48,3 +48,11 @@ Source: [A Wiki of Ice and Fire](https://awoiaf.westeros.org/). No wholesale imp
 - Do not publish private game-master notes or secret future plans inadvertently.
 
 The starting year and the complete source-document inventory remain to be verified.
+
+## House and place presentation
+
+Every published **noble house page** must display its sigil prominently in a consistent right-hand infobox, alongside its blazon (arms), seat, region, head, overlord and **Words**. Use the correct published or established campaign words; when no words have been established, show `Unknown` rather than inventing a motto. For heraldic images, use a local original vector based on the confirmed blazon or a properly licensed source; never misrepresent a generic sigil as the house's arms. The sigil represents a coat of arms, not the house words. Keep extended historical narratives in prose, and use a clear family tree and a simple list of vassal houses.
+
+Every **place page** should have a consistent infobox specifying its type, region, location, ruling house and other independently established facts. Illustrations of castles should not invent architecture; using the known ruling house's sigil as a family emblem is fine. Link a house's Seat field to its location page and the location's ruling-house field back to the house page.
+
+The vector coat of arms at `public/heraldry/rowan.svg` is an original design based on the established blazon of House Rowan, not a copy of a third-party illustration.
