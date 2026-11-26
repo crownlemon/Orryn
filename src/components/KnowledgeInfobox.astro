@@ -1,0 +1,27 @@
+---
+import { getEntity, identityRows, DEFAULT_DATE, type Moment } from '../data/knowledge/index';
+
+interface Props { entityId: string; asOf?: Moment; }
+const { entityId, asOf = DEFAULT_DATE } = Astro.props;
+const entity = getEntity(entityId);
+const rows = identityRows(entity, asOf);
+---
+<aside class:list={["orr-infobox", entity.kind === "house" ? "orr-house-infobox" : entity.kind === "place" ? "orr-place-infobox" : "orr-character-infobox"]} aria-label={entity.name + " facts"}>
+  <div class="orr-infobox-heading">{entity.name}</div>
+  <div class="orr-infobox-subtitle">{entity.subtitle ?? (entity.kind + " in " + asOf.year + " AC")}</div>
+  {entity.arms && (
+    <>
+      <div class="orr-infobox-arms">
+        <img src={entity.arms.image} alt={entity.name + ": " + entity.arms.blazon} loading="lazy" referrerpolicy="no-referrer" />
+      </div>
+      <div class="orr-infobox-caption">{entity.arms.blazon}</div>
+      <div class="orr-asset-credit">
+        Sigil by <a href={entity.arms.credit.url}>{entity.arms.credit.author}</a>
+        {" · "}<a href={entity.arms.credit.licenseUrl}>{entity.arms.credit.license}</a>
+      </div>
+    </>
+  )}
+  <dl>{rows.map(row => (
+    <div><dt>{row.label}</dt><dd>{row.link ? <a href={row.link}>{row.text}</a> : row.text}</dd></div>
+  ))}</dl>
+</aside>

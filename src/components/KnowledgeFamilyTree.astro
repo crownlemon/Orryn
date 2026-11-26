@@ -1,0 +1,88 @@
+---
+import {
+  getEntity, one, parents, children, partners, siblings,
+  DEFAULT_DATE, type Moment, type Entity
+} from '../data/knowledge/index';
+
+interface Props { personId?: string; houseId?: string; asOf?: Moment; }
+const { personId, houseId, asOf = DEFAULT_DATE } = Astro.props;
+const focus = personId ? getEntity(personId) : one(houseId!, "head", asOf);
+if (!focus || focus.kind !== "person") throw new Error("Family tree requires a person or house with head.");
+
+const upperPeople = parents(focus.id, asOf);
+const spouse = partners(focus.id, asOf)[0];
+const collateral = siblings(focus.id, asOf).sort((a,b) => a.name.localeCompare(b.name));
+const younger = children(focus.id, asOf).sort((a,b) => a.name.localeCompare(b.name));
+const middlePeople = [...collateral, focus, ...(spouse ? [spouse] : [])];
+
+const boxW = 185, boxH = 52, gap = 20;
+const width = Math.max(870, (Math.max(upperPeople.length,middlePeople.length,younger.length) + 1) * (boxW+gap));
+const yUpper = 25, yMid = 151, yLow = 300;
+type Node = {entity:Entity;x:number;y:number;center:number;isFocus:boolean};
+function position(items:Entity[], y:number):Node[] {
+  const total = items.length*boxW + Math.max(0,items.length-1)*gap;
+  const left = (width-total)/2;
+  return items.map((entity,i) => ({
+    entity,x:left+i*(boxW+gap),y,center:left+i*(boxW+gap)+boxW/2,isFocus:entity.id===focus!.id
+  }));
+}
+const upper = position(upperPeople,yUpper), middle = position(middlePeople,yMid), lower=position(younger,yLow);
+const main = middle.find(n=>n.isFocus)!;
+const mate = middle.find(n=>spouse && n.entity.id===spouse.id);
+const lineage = middle.filter(n=>n.entity.id!==spouse?.id);
+const centerOfParents = upper.reduce((s,n)=>s+n.center,0)/(upper.length||1);
+const childrenFrom = mate ? (main.center+mate.center)/2 : main.center;
+const treeLabel = "Family of " + focus.name + " in " + asOf.year + " AC";
+---
+<div class="orr-genealogy-panel orr-knowledge-tree">
+  <svg viewBox={"0 0 "+width+" 395"} xmlns="http://www.w3.org/2000/svg" role="img" aria-label={treeLabel}>
+    <g class="orr-tree-lines">
+      {upper.length===2 && <line x1={upper[0].center} y1={yUpper+boxH/2} x2={upper[1].center} y2={yUpper+boxH/2} />}
+      {upper.length>0 && (
+        <>
+          <line x1={centerOfParents} y1={yUpper+boxH} x2={centerOfParents} y2="121" />
+          <line x1={Math.min(centerOfParents,...lineage.map(n=>n.center))} y1="121" x2={Math.max(centerOfParents,...lineage.map(n=>n.center))} y2="121" />
+          {lineage.map(n=><line x1={n.center} y1="121" x2={n.center} y2={yMid}/>)}
+        </>
+      )}
+      {upper.length===0 && collateral.length>0 && (
+        <>
+          <line x1={Math.min(...lineage.map(n=>n.center))} y1="129" x2={Math.max(...lineage.map(n=>n.center))} y2="129"/>
+          {lineage.map(n=><line x1={n.center} y1="129" x2={n.center} y2={yMid}/>)}
+        </>
+      )}
+      {mate && <line x1={main.center} y1={yMid+boxH/2} x2={mate.center} y2={yMid+boxH/2}/>}
+      {lower.length>0 && (
+        <>
+          <line x1={childrenFrom} y1={yMid+boxH} x2={childrenFrom} y2="270"/>
+          <line x1={Math.min(childrenFrom,...lower.map(n=>n.center))} y1="270" x2={Math.max(childrenFrom,...lower.map(n=>n.center))} y2="270"/>
+          {lower.map(n=><line x1={n.center} y1="270" x2={n.center} y2={yLow}/>)}
+        </>
+      )}
+    </g>
+    <g class="orr-tree-row-labels">
+      {upper.length>0 && <text x="15" y={yUpper+20}>Parents</text>}
+      <text x="15" y={yMid+20}>Family</text>
+      {lower.length>0 && <text x="15" y={yLow+20}>Children</text>}
+    </g>
+    <g class="orr-tree-people">{[...upper,...middle,...lower].map(node=>(
+      <a href={node.entity.page ?? undefined} class:list={["orr-tree-person",node.isFocus&&"orr-tree-current",!node.entity.page&&"orr-tree-unlinked"]}>
+        <rect x={node.x} y={node.y} width={boxW} height={boxH} rx="3"/>
+        <text x={node.center} y={node.y+31}>{node.entity.name}</text>
+        {node.isFocus&&<circle cx={node.x+boxW-11} cy={node.y+10} r="5" fill="#855338"/>}
+      </a>
+    ))}</g>
+  </svg>
+</div>
+<style>
+.orr-knowledge-tree { overflow-x:auto; }
+.orr-knowledge-tree svg { display:block; min-width:900px; width:100%; height:auto; }
+.orr-knowledge-tree .orr-tree-lines line { stroke:#8b7454; stroke-width:2; }
+.orr-knowledge-tree .orr-tree-person rect { fill:#fffcf5; stroke:#c1ac89; stroke-width:1.5; }
+.orr-knowledge-tree .orr-tree-person text { font:15px Georgia,serif; text-anchor:middle; fill:#315d77; }
+.orr-knowledge-tree .orr-tree-current rect { fill:#e8d4ae; stroke:#845235; stroke-width:3; }
+.orr-knowledge-tree .orr-tree-current text { font-weight:bold; fill:#58331e; }
+.orr-knowledge-tree .orr-tree-unlinked { pointer-events:none; }
+.orr-knowledge-tree .orr-tree-unlinked text { fill:#594c3f; }
+.orr-knowledge-tree .orr-tree-row-labels text { font:italic 13px Georgia,serif; fill:#856a4e; }
+</style>

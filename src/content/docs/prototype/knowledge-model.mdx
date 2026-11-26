@@ -1,0 +1,47 @@
+---
+title: Knowledge Model Preview
+description: A development-branch demonstration of structured houses, people, seats and historical relationships.
+---
+
+import KnowledgeInfobox from '../../../components/KnowledgeInfobox.astro';
+import KnowledgeFamilyTree from '../../../components/KnowledgeFamilyTree.astro';
+
+This page tests the data-driven infoboxes and family trees. It exists only on the development branch; the established articles are unchanged.
+
+## House Rowan
+
+<KnowledgeInfobox entityId="house:rowan" />
+
+The house, its castle, hereditary lordship, and current holder are four separate records.
+
+### Rowan family
+
+<KnowledgeFamilyTree houseId="house:rowan" />
+
+## House Grandison
+
+<KnowledgeInfobox entityId="house:grandison" />
+
+### Grandison family
+
+<KnowledgeFamilyTree houseId="house:grandison" />
+
+## House Meadows
+
+<KnowledgeInfobox entityId="house:meadows" />
+
+### Meadows family
+
+<KnowledgeFamilyTree houseId="house:meadows" />
+
+## Character: Orryn Grandison
+
+<KnowledgeInfobox entityId="person:orryn-grandison" />
+
+### Orryn's family
+
+<KnowledgeFamilyTree personId="person:orryn-grandison" />
+
+## Historical consistency
+
+The data differentiates a 207 AC baseline from events that occurred in 208 AC. Leonette's marriage and Triston's betrothal are not present before Chapter 60. This is enforced by the validation script.
