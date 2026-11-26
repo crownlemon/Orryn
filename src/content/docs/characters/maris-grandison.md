@@ -1,0 +1,30 @@
+---
+title: Lady Maris Grandison
+description: Lady Maris Gower, wife of Ser Steffon and mother of Alyssa and Orryn.
+---
+
+**Lady Maris Grandison**, born **Gower**, is the wife of [Ser Steffon Grandison](/characters/steffon-grandison/) and mother of [Lady Alyssa Grandison](/characters/alyssa-grandison/) and [Orryn Grandison](/characters/orryn-grandison/). Her birth family holds Clovercross beneath House Grandison.
+
+| | |
+| --- | --- |
+| **Age** | Late thirties |
+| **House** | [Grandison](/houses/grandison/) |
+| **Seat** | Grandison lands near Grandview |
+| **Spouse** | [Ser Steffon Grandison](/characters/steffon-grandison/) |
+| **Children** | [Lady Alyssa](/characters/alyssa-grandison/), [Orryn](/characters/orryn-grandison/) |
+
+## Appearance
+
+Maris has light brown hair and kind blue eyes. She dresses in practical, well-made clothing suited to a household in which economy is taken seriously.
+
+## Character
+
+Maris is thrifty, competent and fiercely protective of her immediate family. Her gentleness does not always make her flexible: she can be suspicious of unfamiliar people and resentful of ambitions that draw her children away from home. She tends to judge new opportunities by the danger they might pose to the family she knows.
+
+## Family
+
+Maris's husband Steffon is a younger brother of the Lord of Grandview. Their daughter Alyssa is betrothed to Ser Edric Wagstaff, heir to Greenward, while their younger son Orryn serves at Grassfield Keep under Lord Alaric Meadows.
+
+## History
+
+Maris raised her children near Grandview, where her husband's family lands lay a short distance from the main castle. The decision to send Orryn to the Meadows household placed him among his mother's more prosperous Reach neighbours as well as his father's kin.

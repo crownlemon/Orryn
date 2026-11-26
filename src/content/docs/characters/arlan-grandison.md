@@ -1,0 +1,32 @@
+---
+title: Arlan Grandison
+description: Son and heir of Lord Alester Grandison of Grandview.
+---
+
+**Arlan Grandison** is the son and heir of [Lord Alester Grandison](/characters/alester-grandison/) and [Lady Lynesse Grandison](/characters/lynesse-grandison/) of Grandview. He is betrothed to Lady Alysanne Cafferen.
+
+| | |
+| --- | --- |
+| **Born** | c. 194 AC |
+| **Age** | 14 |
+| **House** | [Grandison](/houses/grandison/) |
+| **Title** | Heir to Grandview |
+| **Seat** | [Grandview](/places/grandview/) |
+| **Parents** | [Lord Alester Grandison](/characters/alester-grandison/) and [Lady Lynesse Grandison](/characters/lynesse-grandison/) |
+| **Betrothed** | Lady Alysanne Cafferen |
+
+## Appearance
+
+Arlan is tall for his age, athletic and broadening into manhood, with dark brown hair and blue-grey eyes.
+
+## Character
+
+Arlan enjoys riding, physical contests and the admiration that comes with success. He is also proud, eager to assert his rank and unkind when corrected or defeated. In company he resembles his father in confidence, but has not yet learned his father's gift for winning people after an argument.
+
+## Family
+
+Arlan is the elder brother of [Lady Elenei Grandison](/characters/elenei-grandison/). His cousins include [Lady Alyssa](/characters/alyssa-grandison/) and [Orryn Grandison](/characters/orryn-grandison/). His betrothal to Lady Alysanne Cafferen connects Grandview to another noble house of the western Stormlands.
+
+## History
+
+As heir to Grandview, Arlan is being raised to inherit an estate of wooded valleys, pasture, riding lands and loyal knightly families. His father's expectations and the obligations of his Cafferen betrothal shape his position in the family.
