@@ -12,7 +12,9 @@
         }
       ],
       "selected": "1d4R22r3ZLPlp8OvxUo_MFdZKeklxsswezxcf8CoXL0Y",
-      "status": "indexed_not_extracted"
+      "status": "narrative_text_imported_not_fact_extracted",
+      "paragraphs": 149,
+      "notesExcluded": false
     },
     {
       "number": 2,
@@ -25,7 +27,9 @@
         }
       ],
       "selected": "1kj00jS9qPN5WQZVlLZvpkVOr4seYeDk5trwIJFCsnDw",
-      "status": "indexed_not_extracted"
+      "status": "narrative_text_imported_not_fact_extracted",
+      "paragraphs": 236,
+      "notesExcluded": false
     },
     {
       "number": 3,
@@ -38,7 +42,9 @@
         }
       ],
       "selected": "1Dlm_W4cOmbcY0dxq7TfpR1THHjo2yySWc4i8uhmHB0w",
-      "status": "indexed_not_extracted"
+      "status": "narrative_text_imported_not_fact_extracted",
+      "paragraphs": 53,
+      "notesExcluded": false
     },
     {
       "number": 4,
@@ -51,7 +57,9 @@
         }
       ],
       "selected": "1v3WcVhcyUr7ARfWsMiuQ8om-CReFp0j5rdTih6VcGjU",
-      "status": "indexed_not_extracted"
+      "status": "narrative_text_imported_not_fact_extracted",
+      "paragraphs": 32,
+      "notesExcluded": false
     },
     {
       "number": 5,
@@ -64,7 +72,9 @@
         }
       ],
       "selected": "1jJyWWim74eB2BfEZ_upUOR7OnjW1Fak7iy9RnCdNwAI",
-      "status": "indexed_not_extracted"
+      "status": "narrative_text_imported_not_fact_extracted",
+      "paragraphs": 35,
+      "notesExcluded": false
     },
     {
       "number": 6,
@@ -77,7 +87,9 @@
         }
       ],
       "selected": "1MZQjG75RnmT5FtIE8Fj1uLXGtMLARz3AvWL5gkJWNvU",
-      "status": "indexed_not_extracted"
+      "status": "narrative_text_imported_not_fact_extracted",
+      "paragraphs": 30,
+      "notesExcluded": false
     },
     {
       "number": 7,
@@ -90,7 +102,9 @@
         }
       ],
       "selected": "1Gp0bZfuX9wwnlPCwKz4oq2Odz-xF4nEjRuSZlErMXms",
-      "status": "indexed_not_extracted"
+      "status": "narrative_text_imported_not_fact_extracted",
+      "paragraphs": 38,
+      "notesExcluded": false
     },
     {
       "number": 8,
@@ -103,7 +117,9 @@
         }
       ],
       "selected": "1d2SPW1-SnhfV7RjdbXDYdp5C3LZBstNUjKnQ9c5Oy2E",
-      "status": "indexed_not_extracted"
+      "status": "narrative_text_imported_not_fact_extracted",
+      "paragraphs": 32,
+      "notesExcluded": false
     },
     {
       "number": 9,
@@ -116,7 +132,9 @@
         }
       ],
       "selected": "1OrpCTggugQMIU4jlJqxAR7Q07mvfdjMMwDHokVEHVxA",
-      "status": "indexed_not_extracted"
+      "status": "narrative_text_imported_not_fact_extracted",
+      "paragraphs": 39,
+      "notesExcluded": false
     },
     {
       "number": 10,
@@ -129,7 +147,9 @@
         }
       ],
       "selected": "1un3nTJAuFK8no8lfccT4BSgOtfQgD0z5qSIJoJPbnuQ",
-      "status": "indexed_not_extracted"
+      "status": "narrative_text_imported_not_fact_extracted",
+      "paragraphs": 50,
+      "notesExcluded": false
     },
     {
       "number": 11,
