@@ -1,0 +1,44 @@
+---
+title: Grassy Vale
+description: A market town on the Blueburn near the Reach and Stormlands frontier.
+sidebar:
+  order: 4
+---
+
+<aside class="orr-infobox orr-place-infobox" aria-label="Grassy Vale">
+  <div class="orr-infobox-heading">Grassy Vale</div>
+  <div class="orr-infobox-subtitle">Market town in the Reach</div>
+  <div class="orr-infobox-arms"><img src="https://awoiaf.westeros.org/images/f/f6/House_Meadows.svg" alt="House Meadows: a border of multicoloured flowers on a green field" width="600" height="660" /></div>
+  <div class="orr-infobox-caption">Under House Meadows</div>
+  <div class="orr-asset-credit">Sigil: <a href="https://awoiaf.westeros.org/index.php/File:House_Meadows.svg">Abjiklam</a> · <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a></div>
+  <dl>
+    <div><dt>Type</dt><dd>Market town</dd></div>
+    <div><dt>Region</dt><dd>The Reach</dd></div>
+    <div><dt>River</dt><dd>Blueburn</dd></div>
+    <div><dt>Castle</dt><dd><a href="/places/grassfield-keep/">Grassfield Keep</a></dd></div>
+    <div><dt>Lord</dt><dd><a href="/characters/alaric-meadows/">Lord Alaric Meadows</a></dd></div>
+    <div><dt>House</dt><dd><a href="/houses/meadows/">House Meadows</a></dd></div>
+  </dl>
+</aside>
+
+**Grassy Vale** is a prosperous market town in the Reach, on the northern bank of the **Blueburn** near the border with the Stormlands. It is ruled by **[House Meadows](/houses/meadows/)** from **[Grassfield Keep](/places/grassfield-keep/)**, which rises above the settlement and the surrounding meadows.
+
+## Town
+
+Grassy Vale is a busy small town serving the surrounding farmland and the commerce between the Reach and western Stormlands. Its **bridge quarter** stands around the principal crossing of the Blueburn and contains a toll house, inns, stables, warehouses, mills, wharves, carters and wheelwrights. Along the river are stretches of willow-lined bank, mill channels and waterside workshops.
+
+The central **market square** contains covered grain stalls, cloth merchants, livestock trading places, shops, the market cross and the principal sept. Seasonal fairs and weekly markets bring farmers, traders and travellers into the town. Streets further from the square contain smiths, tanners, dyers, saddlers, coopers, carpenters and other craftsmen. The outer quarters give way to paddocks, barns, orchards, cottages and farms.
+
+Grassy Vale has a reeve's hall, public wells and a charitable house maintained by the Faith. Its reeve is **Tolman Haverill**, while **Dunstan Fallow**, a merchant and miller, is one of its wealthiest inhabitants.
+
+## Lands and trade
+
+The Blueburn valley is fertile, intensively cultivated country, with grain fields, orchards, cattle pasture, horse paddocks and extensive hay meadows. Drainage channels, river mills and maintained roads add to the region's productivity. Trade in grain, hay, wool, leather, horses, cattle and brewed drink supports the town's market.
+
+The western road leads across the regional frontier towards **[Grandview](/places/grandview/)**, seat of House Grandison. The two regions are connected by marriages, market trade, livestock traffic and visits between neighbouring families. Their landscapes differ: Grassy Vale is lower, greener and richer in market activity, while Grandview rises among the rugged uplands of the Stormlands.
+
+## House Meadows
+
+The town and its surrounding estates answer to **[Lord Alaric Meadows](/characters/alaric-meadows/)**. House Meadows administers the markets, tolls and customary services of the countryside, and receives the allegiance of local landed knightly families including Dunmere, Fenwick and Haye.
+
+In **208 AC**, a particularly dry summer made the district's wells, grain and fodder stores subjects of urgent household administration. Much of the business of keeping horses, mills and farms supplied centred upon the nearby castle of Grassfield Keep.
