@@ -1,0 +1,30 @@
+:root {
+  --sl-color-accent-low: #e9d7bf;
+  --sl-color-accent: #855338;
+  --sl-color-accent-high: #4b3025;
+  --sl-color-bg: #faf7f0;
+  --sl-color-bg-nav: #352b2a;
+  --sl-color-bg-sidebar: #f1eadd;
+  --sl-color-text: #342c27;
+  --sl-color-text-accent: #70432e;
+  --sl-color-hairline: #d7c6ad;
+  --sl-font: Georgia, 'Times New Roman', serif;
+}
+:root[data-theme='dark'] {
+  --sl-color-accent-low: #3f2e28;
+  --sl-color-accent: #d4b18d;
+  --sl-color-accent-high: #f2e2c9;
+  --sl-color-bg: #211d1b;
+  --sl-color-bg-nav: #211c1a;
+  --sl-color-bg-sidebar: #2d2522;
+  --sl-color-text: #f2e8d7;
+  --sl-color-text-accent: #dec39e;
+  --sl-color-hairline: #59483f;
+}
+.site-title { color: #f2e3cc !important; letter-spacing: 0.04em; font-variant: small-caps; }
+h1, h2, h3 { font-family: Georgia, 'Times New Roman', serif; }
+h1 { letter-spacing: 0.015em; }
+.sl-markdown-content a { text-underline-offset: 3px; }
+.sl-markdown-content blockquote { border-left: 3px solid #b29263; }
+.sl-markdown-content table { font-size: 0.94rem; }
+.hero h1 { font-variant: small-caps; }
