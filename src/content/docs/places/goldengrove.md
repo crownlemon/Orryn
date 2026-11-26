@@ -8,8 +8,9 @@ sidebar:
 <aside class="orr-infobox orr-place-infobox" aria-label="Goldengrove">
   <div class="orr-infobox-heading">Goldengrove</div>
   <div class="orr-infobox-subtitle">Castle in the Reach</div>
-  <a class="orr-infobox-arms" href="/houses/rowan/" aria-label="House Rowan"><img src="/heraldry/rowan.svg" alt="Golden tree on silver, the arms of House Rowan" width="144" height="176" loading="lazy" /></a>
+  <a class="orr-infobox-arms" href="/houses/rowan/" aria-label="House Rowan"><img src="https://awoiaf.westeros.org/images/9/9e/House_Rowan.svg" alt="House Rowan sigil: a golden tree on silver" width="600" height="660" referrerpolicy="no-referrer" loading="lazy" /></a>
   <div class="orr-infobox-caption">Seat of House Rowan</div>
+  <div class="orr-asset-credit">Sigil by <a href="https://awoiaf.westeros.org/index.php/File:House_Rowan.svg">Abjiklam</a> · <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a></div>
   <dl>
     <div><dt>Type</dt><dd>Castle</dd></div>
     <div><dt>Region</dt><dd><a href="/realm/the-reach/">The Reach</a></dd></div>
