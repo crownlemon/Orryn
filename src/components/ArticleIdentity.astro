@@ -1,0 +1,17 @@
+---
+import KnowledgeInfobox from './KnowledgeInfobox.astro';
+import { getEntity, DEFAULT_DATE, type Moment } from '../data/knowledge/index';
+
+interface Props {
+  entityId: string;
+  asOf?: Moment;
+}
+const {entityId,asOf=DEFAULT_DATE}=Astro.props;
+const e=getEntity(entityId);
+const categories:Record<string,string> = {
+  person:'Character',house:'Noble house',place:'Location',
+  region:'Region',title:'Title',event:'Historical event'
+};
+---
+<div class="orr-article-kicker">{categories[e.kind]} <span aria-hidden="true">·</span> {asOf.year} AC</div>
+<KnowledgeInfobox entityId={entityId} asOf={asOf}/>

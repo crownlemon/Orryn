@@ -6,7 +6,7 @@ const { entityId, asOf = DEFAULT_DATE } = Astro.props;
 const entity = getEntity(entityId);
 const rows = identityRows(entity, asOf);
 ---
-<aside class:list={["orr-infobox", entity.kind === "house" ? "orr-house-infobox" : entity.kind === "place" ? "orr-place-infobox" : "orr-character-infobox"]} aria-label={entity.name + " facts"}>
+<aside class:list={["orr-infobox", entity.kind === "house" ? "orr-house-infobox" : entity.kind === "place" ? "orr-place-infobox" : entity.kind === "person" ? "orr-character-infobox" : "orr-general-infobox"]} aria-label={entity.name + " facts"}>
   <div class="orr-infobox-heading">{entity.name}</div>
   <div class="orr-infobox-subtitle">{entity.subtitle ?? (entity.kind + " in " + asOf.year + " AC")}</div>
   {entity.arms && (

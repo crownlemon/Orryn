@@ -14054,5 +14054,43 @@
         "line": 2845
       }
     ]
+  },
+  {
+    "id": "fact:820",
+    "subject": "event:cress-hill-affair",
+    "predicate": "participant",
+    "object": "person:rycherd-rowan",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "from": {
+      "year": 208,
+      "chapter": 56
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1883
+      }
+    ]
+  },
+  {
+    "id": "fact:821",
+    "subject": "event:cress-hill-affair",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "from": {
+      "year": 208,
+      "chapter": 56
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1883
+      }
+    ]
   }
 ]

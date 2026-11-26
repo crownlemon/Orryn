@@ -190,3 +190,18 @@ h1 { letter-spacing: 0.015em; }
 .orr-person-family-tree svg[viewBox="0 0 1300 475"] { min-width:1210px; }
 .orr-person-family-tree a.orr-tree-person { cursor:pointer; }
 .orr-person-family-tree a.orr-tree-person:focus-visible rect { stroke:#855338; stroke-width:4; }
+
+
+/* Unified article furniture shared by every encyclopedia category. */
+.orr-article-kicker {
+  margin: .25rem 0 .65rem;
+  text-transform: uppercase;
+  font: 600 .73rem/1.5 system-ui, sans-serif;
+  letter-spacing: .09em;
+  color: var(--sl-color-gray-3);
+}
+.orr-article-kicker span { padding: 0 .35rem; color: var(--sl-color-gray-4); }
+.orr-general-infobox { width: min(18rem, 45%); }
+@media(max-width:650px) {
+  .orr-general-infobox { float:none;width:100%;max-width:400px;margin:0 auto 1.35rem; }
+}

@@ -16,6 +16,7 @@ export type Entity = {
   rank208?: string; regionalArea208?: string; geographicAnchor208?: string;
   legendaryFounder?: string; fieldSources?: Record<string,string[]>;
   titleNature?: 'hereditary_lordship' | 'dignity' | 'royal_appointment' | 'reach_appointment';
+  eventType?: string;
   worldbookReference?: { source:string; line:number };
   registryRole?: string; catalogStatus?: string; sourceLine208?: number;
   householdReference?: { source: string; line: number };
@@ -153,6 +154,16 @@ export function identityRows(entity: Entity, at: Moment = DEFAULT_DATE): Array<{
     add('Seat', one(entity.id, 'seat', at));
     add('Holder', incoming(entity.id, 'holds_title', at)[0]);
   }
-  if (entity.kind === 'event') literal('Year', entity.year ? entity.year + ' AC' : undefined);
+  if (entity.kind === 'region') {
+    const ruling = entities.find(h => h.kind === 'house' && h.rank208 === 'Ruling' && outgoing(h.id, 'region', at).some(r=>r.id === entity.id));
+    add('Ruling house', ruling);
+    add('Ruling seat', ruling ? one(ruling.id, 'seat', at) : undefined);
+    literal('Recorded houses', entities.filter(h=>h.kind==='house' && outgoing(h.id, 'region', at).some(r=>r.id===entity.id)).length);
+  }
+  if (entity.kind === 'event') {
+    literal('Date', entity.year ? entity.year + ' AC' : undefined);
+    literal('Type', entity.eventType);
+    add('Region', one(entity.id, 'region', at));
+  }
   return rows;
 }

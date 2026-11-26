@@ -5628,5 +5628,21 @@
       "line": 3554
     },
     "titleNature": "hereditary_lordship"
+  },
+  {
+    "id": "event:cress-hill-affair",
+    "kind": "event",
+    "name": "The Cress Hill Affair",
+    "page": "/events/cress-hill/",
+    "year": 208,
+    "chapter": 56,
+    "eventType": "judicial dispute",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 1883
+    }
   }
 ]
