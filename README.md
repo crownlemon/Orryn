@@ -23,6 +23,10 @@ Production build: `npm run build`. Output: `dist/`.
 
 This repository is public and the deployed website will also be public unless access protection is separately configured.
 
+## Language policy
+
+The published wiki and all design previews use **English only**: user interface, navigation, articles, infoboxes, captions, source notes and future imports. This applies even when planning and maintenance discussions occur in Dutch.
+
 ## Content
 
 Wiki articles live in `src/content/docs/`:
