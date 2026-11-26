@@ -18317,5 +18317,1595 @@
       }
     ],
     "role208": "Household knight at the Three Towers"
+  },
+  {
+    "id": "fact:1070",
+    "subject": "person:aegon-i-targaryen",
+    "predicate": "child_of",
+    "object": "person:aerion-targaryen-dragonstone",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1071",
+    "subject": "person:aegon-i-targaryen",
+    "predicate": "child_of",
+    "object": "person:valaena-velaryon",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1072",
+    "subject": "person:visenya-targaryen",
+    "predicate": "child_of",
+    "object": "person:aerion-targaryen-dragonstone",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1073",
+    "subject": "person:visenya-targaryen",
+    "predicate": "child_of",
+    "object": "person:valaena-velaryon",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1074",
+    "subject": "person:rhaenys-targaryen-conqueror",
+    "predicate": "child_of",
+    "object": "person:aerion-targaryen-dragonstone",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1075",
+    "subject": "person:rhaenys-targaryen-conqueror",
+    "predicate": "child_of",
+    "object": "person:valaena-velaryon",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1076",
+    "subject": "person:aenys-i-targaryen",
+    "predicate": "child_of",
+    "object": "person:aegon-i-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1077",
+    "subject": "person:aenys-i-targaryen",
+    "predicate": "child_of",
+    "object": "person:rhaenys-targaryen-conqueror",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1078",
+    "subject": "person:maegor-i-targaryen",
+    "predicate": "child_of",
+    "object": "person:aegon-i-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1079",
+    "subject": "person:maegor-i-targaryen",
+    "predicate": "child_of",
+    "object": "person:visenya-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1080",
+    "subject": "person:jaehaerys-i-targaryen",
+    "predicate": "child_of",
+    "object": "person:aenys-i-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1081",
+    "subject": "person:jaehaerys-i-targaryen",
+    "predicate": "child_of",
+    "object": "person:alyssa-velaryon",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1082",
+    "subject": "person:alysanne-targaryen",
+    "predicate": "child_of",
+    "object": "person:aenys-i-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1083",
+    "subject": "person:alysanne-targaryen",
+    "predicate": "child_of",
+    "object": "person:alyssa-velaryon",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1084",
+    "subject": "person:aemon-targaryen-jaehaerys",
+    "predicate": "child_of",
+    "object": "person:jaehaerys-i-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1085",
+    "subject": "person:aemon-targaryen-jaehaerys",
+    "predicate": "child_of",
+    "object": "person:alysanne-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1086",
+    "subject": "person:baelon-targaryen",
+    "predicate": "child_of",
+    "object": "person:jaehaerys-i-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1087",
+    "subject": "person:baelon-targaryen",
+    "predicate": "child_of",
+    "object": "person:alysanne-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1088",
+    "subject": "person:alyssa-targaryen",
+    "predicate": "child_of",
+    "object": "person:jaehaerys-i-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1089",
+    "subject": "person:alyssa-targaryen",
+    "predicate": "child_of",
+    "object": "person:alysanne-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1090",
+    "subject": "person:rhaenys-targaryen-queen-who-never-was",
+    "predicate": "child_of",
+    "object": "person:aemon-targaryen-jaehaerys",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1091",
+    "subject": "person:viserys-i-targaryen",
+    "predicate": "child_of",
+    "object": "person:baelon-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1092",
+    "subject": "person:viserys-i-targaryen",
+    "predicate": "child_of",
+    "object": "person:alyssa-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1093",
+    "subject": "person:daemon-targaryen",
+    "predicate": "child_of",
+    "object": "person:baelon-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1094",
+    "subject": "person:daemon-targaryen",
+    "predicate": "child_of",
+    "object": "person:alyssa-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1095",
+    "subject": "person:laena-velaryon",
+    "predicate": "child_of",
+    "object": "person:rhaenys-targaryen-queen-who-never-was",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1096",
+    "subject": "person:laena-velaryon",
+    "predicate": "child_of",
+    "object": "person:corlys-velaryon",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1097",
+    "subject": "person:laenor-velaryon",
+    "predicate": "child_of",
+    "object": "person:rhaenys-targaryen-queen-who-never-was",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1098",
+    "subject": "person:laenor-velaryon",
+    "predicate": "child_of",
+    "object": "person:corlys-velaryon",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1099",
+    "subject": "person:rhaenyra-targaryen",
+    "predicate": "child_of",
+    "object": "person:viserys-i-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1100",
+    "subject": "person:rhaenyra-targaryen",
+    "predicate": "child_of",
+    "object": "person:aemma-arryn",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1101",
+    "subject": "person:aegon-ii-targaryen",
+    "predicate": "child_of",
+    "object": "person:viserys-i-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1102",
+    "subject": "person:aegon-ii-targaryen",
+    "predicate": "child_of",
+    "object": "person:alicent-hightower",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1103",
+    "subject": "person:helaena-targaryen",
+    "predicate": "child_of",
+    "object": "person:viserys-i-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1104",
+    "subject": "person:helaena-targaryen",
+    "predicate": "child_of",
+    "object": "person:alicent-hightower",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1105",
+    "subject": "person:aemond-targaryen",
+    "predicate": "child_of",
+    "object": "person:viserys-i-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1106",
+    "subject": "person:aemond-targaryen",
+    "predicate": "child_of",
+    "object": "person:alicent-hightower",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1107",
+    "subject": "person:daeron-targaryen-viserys",
+    "predicate": "child_of",
+    "object": "person:viserys-i-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1108",
+    "subject": "person:daeron-targaryen-viserys",
+    "predicate": "child_of",
+    "object": "person:alicent-hightower",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1109",
+    "subject": "person:baela-targaryen",
+    "predicate": "child_of",
+    "object": "person:daemon-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1110",
+    "subject": "person:baela-targaryen",
+    "predicate": "child_of",
+    "object": "person:laena-velaryon",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1111",
+    "subject": "person:rhaena-targaryen",
+    "predicate": "child_of",
+    "object": "person:daemon-targaryen",
+    "sources": [
+      "awoiaf-rhaena-daemon"
+    ]
+  },
+  {
+    "id": "fact:1112",
+    "subject": "person:rhaena-targaryen",
+    "predicate": "child_of",
+    "object": "person:laena-velaryon",
+    "sources": [
+      "awoiaf-rhaena-daemon"
+    ]
+  },
+  {
+    "id": "fact:1113",
+    "subject": "person:aegon-iii-targaryen",
+    "predicate": "child_of",
+    "object": "person:daemon-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1114",
+    "subject": "person:aegon-iii-targaryen",
+    "predicate": "child_of",
+    "object": "person:rhaenyra-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1115",
+    "subject": "person:viserys-ii-targaryen",
+    "predicate": "child_of",
+    "object": "person:daemon-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1116",
+    "subject": "person:viserys-ii-targaryen",
+    "predicate": "child_of",
+    "object": "person:rhaenyra-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1117",
+    "subject": "person:daeron-i-targaryen",
+    "predicate": "child_of",
+    "object": "person:aegon-iii-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1118",
+    "subject": "person:daeron-i-targaryen",
+    "predicate": "child_of",
+    "object": "person:daenaera-velaryon",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1119",
+    "subject": "person:baelor-i-targaryen",
+    "predicate": "child_of",
+    "object": "person:aegon-iii-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1120",
+    "subject": "person:baelor-i-targaryen",
+    "predicate": "child_of",
+    "object": "person:daenaera-velaryon",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1121",
+    "subject": "person:daena-targaryen",
+    "predicate": "child_of",
+    "object": "person:aegon-iii-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1122",
+    "subject": "person:daena-targaryen",
+    "predicate": "child_of",
+    "object": "person:daenaera-velaryon",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1123",
+    "subject": "person:rhaena-targaryen-aegon-iii",
+    "predicate": "child_of",
+    "object": "person:aegon-iii-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1124",
+    "subject": "person:rhaena-targaryen-aegon-iii",
+    "predicate": "child_of",
+    "object": "person:daenaera-velaryon",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1125",
+    "subject": "person:elaena-targaryen",
+    "predicate": "child_of",
+    "object": "person:aegon-iii-targaryen",
+    "sources": [
+      "awoiaf-elaena"
+    ]
+  },
+  {
+    "id": "fact:1126",
+    "subject": "person:elaena-targaryen",
+    "predicate": "child_of",
+    "object": "person:daenaera-velaryon",
+    "sources": [
+      "awoiaf-elaena"
+    ]
+  },
+  {
+    "id": "fact:1127",
+    "subject": "person:aegon-iv-targaryen",
+    "predicate": "child_of",
+    "object": "person:viserys-ii-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1128",
+    "subject": "person:aegon-iv-targaryen",
+    "predicate": "child_of",
+    "object": "person:larra-rogare",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1129",
+    "subject": "person:naerys-targaryen",
+    "predicate": "child_of",
+    "object": "person:viserys-ii-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1130",
+    "subject": "person:naerys-targaryen",
+    "predicate": "child_of",
+    "object": "person:larra-rogare",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1131",
+    "subject": "person:aemon-dragonknight",
+    "predicate": "child_of",
+    "object": "person:viserys-ii-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1132",
+    "subject": "person:aemon-dragonknight",
+    "predicate": "child_of",
+    "object": "person:larra-rogare",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1133",
+    "subject": "person:daeron-ii-targaryen",
+    "predicate": "child_of",
+    "object": "person:aegon-iv-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1134",
+    "subject": "person:daeron-ii-targaryen",
+    "predicate": "child_of",
+    "object": "person:naerys-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1135",
+    "subject": "person:daenerys-targaryen-daeron",
+    "predicate": "child_of",
+    "object": "person:aegon-iv-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1136",
+    "subject": "person:daenerys-targaryen-daeron",
+    "predicate": "child_of",
+    "object": "person:naerys-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1137",
+    "subject": "person:baelor-breakspear",
+    "predicate": "child_of",
+    "object": "person:daeron-ii-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1138",
+    "subject": "person:baelor-breakspear",
+    "predicate": "child_of",
+    "object": "person:myriah-martell",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1139",
+    "subject": "person:aerys-targaryen",
+    "predicate": "child_of",
+    "object": "person:daeron-ii-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1140",
+    "subject": "person:aerys-targaryen",
+    "predicate": "child_of",
+    "object": "person:myriah-martell",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1141",
+    "subject": "person:rhaegel-targaryen",
+    "predicate": "child_of",
+    "object": "person:daeron-ii-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1142",
+    "subject": "person:rhaegel-targaryen",
+    "predicate": "child_of",
+    "object": "person:myriah-martell",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1143",
+    "subject": "person:maekar-targaryen",
+    "predicate": "child_of",
+    "object": "person:daeron-ii-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1144",
+    "subject": "person:maekar-targaryen",
+    "predicate": "child_of",
+    "object": "person:myriah-martell",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1145",
+    "subject": "person:daeron-targaryen-maekar",
+    "predicate": "child_of",
+    "object": "person:maekar-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1146",
+    "subject": "person:daeron-targaryen-maekar",
+    "predicate": "child_of",
+    "object": "person:dyanna-dayne",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1147",
+    "subject": "person:aerion-targaryen-maekar",
+    "predicate": "child_of",
+    "object": "person:maekar-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1148",
+    "subject": "person:aerion-targaryen-maekar",
+    "predicate": "child_of",
+    "object": "person:dyanna-dayne",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1149",
+    "subject": "person:aemon-targaryen-maekar",
+    "predicate": "child_of",
+    "object": "person:maekar-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1150",
+    "subject": "person:aemon-targaryen-maekar",
+    "predicate": "child_of",
+    "object": "person:dyanna-dayne",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1151",
+    "subject": "person:daella-targaryen-maekar",
+    "predicate": "child_of",
+    "object": "person:maekar-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1152",
+    "subject": "person:daella-targaryen-maekar",
+    "predicate": "child_of",
+    "object": "person:dyanna-dayne",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1153",
+    "subject": "person:aegon-targaryen-maekar",
+    "predicate": "child_of",
+    "object": "person:maekar-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1154",
+    "subject": "person:aegon-targaryen-maekar",
+    "predicate": "child_of",
+    "object": "person:dyanna-dayne",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1155",
+    "subject": "person:daemon-blackfyre",
+    "predicate": "child_of",
+    "object": "person:aegon-iv-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1156",
+    "subject": "person:daemon-blackfyre",
+    "predicate": "child_of",
+    "object": "person:daena-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1157",
+    "subject": "person:aegor-rivers",
+    "predicate": "child_of",
+    "object": "person:aegon-iv-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1158",
+    "subject": "person:aegor-rivers",
+    "predicate": "child_of",
+    "object": "person:barba-bracken",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1159",
+    "subject": "person:brynden-rivers",
+    "predicate": "child_of",
+    "object": "person:aegon-iv-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1160",
+    "subject": "person:brynden-rivers",
+    "predicate": "child_of",
+    "object": "person:melissa-blackwood",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1161",
+    "subject": "person:aegon-blackfyre",
+    "predicate": "child_of",
+    "object": "person:daemon-blackfyre",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1162",
+    "subject": "person:aegon-blackfyre",
+    "predicate": "child_of",
+    "object": "person:rohanne-of-tyrosh",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1163",
+    "subject": "person:aemon-blackfyre",
+    "predicate": "child_of",
+    "object": "person:daemon-blackfyre",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1164",
+    "subject": "person:aemon-blackfyre",
+    "predicate": "child_of",
+    "object": "person:rohanne-of-tyrosh",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1165",
+    "subject": "person:aegon-i-targaryen",
+    "predicate": "married_to",
+    "object": "person:visenya-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1166",
+    "subject": "person:aegon-i-targaryen",
+    "predicate": "married_to",
+    "object": "person:rhaenys-targaryen-conqueror",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1167",
+    "subject": "person:aenys-i-targaryen",
+    "predicate": "married_to",
+    "object": "person:alyssa-velaryon",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1168",
+    "subject": "person:jaehaerys-i-targaryen",
+    "predicate": "married_to",
+    "object": "person:alysanne-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1169",
+    "subject": "person:baelon-targaryen",
+    "predicate": "married_to",
+    "object": "person:alyssa-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1170",
+    "subject": "person:rhaenys-targaryen-queen-who-never-was",
+    "predicate": "married_to",
+    "object": "person:corlys-velaryon",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1171",
+    "subject": "person:viserys-i-targaryen",
+    "predicate": "married_to",
+    "object": "person:aemma-arryn",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1172",
+    "subject": "person:viserys-i-targaryen",
+    "predicate": "married_to",
+    "object": "person:alicent-hightower",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1173",
+    "subject": "person:daemon-targaryen",
+    "predicate": "married_to",
+    "object": "person:laena-velaryon",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1174",
+    "subject": "person:daemon-targaryen",
+    "predicate": "married_to",
+    "object": "person:rhaenyra-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1175",
+    "subject": "person:rhaenyra-targaryen",
+    "predicate": "married_to",
+    "object": "person:laenor-velaryon",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1176",
+    "subject": "person:aegon-ii-targaryen",
+    "predicate": "married_to",
+    "object": "person:helaena-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1177",
+    "subject": "person:aegon-iii-targaryen",
+    "predicate": "married_to",
+    "object": "person:daenaera-velaryon",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1178",
+    "subject": "person:viserys-ii-targaryen",
+    "predicate": "married_to",
+    "object": "person:larra-rogare",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1179",
+    "subject": "person:aegon-iv-targaryen",
+    "predicate": "married_to",
+    "object": "person:naerys-targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1180",
+    "subject": "person:daeron-ii-targaryen",
+    "predicate": "married_to",
+    "object": "person:myriah-martell",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1181",
+    "subject": "person:daenerys-targaryen-daeron",
+    "predicate": "married_to",
+    "object": "person:maron-martell",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1182",
+    "subject": "person:maekar-targaryen",
+    "predicate": "married_to",
+    "object": "person:dyanna-dayne",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1183",
+    "subject": "person:rhaegel-targaryen",
+    "predicate": "married_to",
+    "object": "person:alys-arryn-rhaegel",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1184",
+    "subject": "person:daemon-blackfyre",
+    "predicate": "married_to",
+    "object": "person:rohanne-of-tyrosh",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1185",
+    "subject": "person:myriah-martell",
+    "predicate": "sibling_of",
+    "object": "person:maron-martell",
+    "sources": [
+      "awoiaf-myriah"
+    ]
+  },
+  {
+    "id": "fact:1186",
+    "subject": "person:rhaena-targaryen",
+    "predicate": "sibling_of",
+    "object": "person:baela-targaryen",
+    "sources": [
+      "awoiaf-rhaena-daemon"
+    ]
+  },
+  {
+    "id": "fact:1187",
+    "subject": "person:aegon-i-targaryen",
+    "predicate": "holds_title",
+    "object": "title:king-of-the-seven-kingdoms",
+    "sources": [
+      "awoiaf-iron-throne"
+    ],
+    "from": {
+      "year": 1
+    },
+    "until": {
+      "year": 37
+    }
+  },
+  {
+    "id": "fact:1188",
+    "subject": "person:aenys-i-targaryen",
+    "predicate": "holds_title",
+    "object": "title:king-of-the-seven-kingdoms",
+    "sources": [
+      "awoiaf-iron-throne"
+    ],
+    "from": {
+      "year": 37
+    },
+    "until": {
+      "year": 42
+    }
+  },
+  {
+    "id": "fact:1189",
+    "subject": "person:maegor-i-targaryen",
+    "predicate": "holds_title",
+    "object": "title:king-of-the-seven-kingdoms",
+    "sources": [
+      "awoiaf-iron-throne"
+    ],
+    "from": {
+      "year": 42
+    },
+    "until": {
+      "year": 48
+    }
+  },
+  {
+    "id": "fact:1190",
+    "subject": "person:jaehaerys-i-targaryen",
+    "predicate": "holds_title",
+    "object": "title:king-of-the-seven-kingdoms",
+    "sources": [
+      "awoiaf-iron-throne"
+    ],
+    "from": {
+      "year": 48
+    },
+    "until": {
+      "year": 103
+    }
+  },
+  {
+    "id": "fact:1191",
+    "subject": "person:viserys-i-targaryen",
+    "predicate": "holds_title",
+    "object": "title:king-of-the-seven-kingdoms",
+    "sources": [
+      "awoiaf-iron-throne"
+    ],
+    "from": {
+      "year": 103
+    },
+    "until": {
+      "year": 129
+    }
+  },
+  {
+    "id": "fact:1192",
+    "subject": "person:aegon-ii-targaryen",
+    "predicate": "holds_title",
+    "object": "title:king-of-the-seven-kingdoms",
+    "sources": [
+      "awoiaf-iron-throne"
+    ],
+    "from": {
+      "year": 129
+    },
+    "until": {
+      "year": 131
+    }
+  },
+  {
+    "id": "fact:1193",
+    "subject": "person:aegon-iii-targaryen",
+    "predicate": "holds_title",
+    "object": "title:king-of-the-seven-kingdoms",
+    "sources": [
+      "awoiaf-iron-throne"
+    ],
+    "from": {
+      "year": 131
+    },
+    "until": {
+      "year": 157
+    }
+  },
+  {
+    "id": "fact:1194",
+    "subject": "person:daeron-i-targaryen",
+    "predicate": "holds_title",
+    "object": "title:king-of-the-seven-kingdoms",
+    "sources": [
+      "awoiaf-iron-throne"
+    ],
+    "from": {
+      "year": 157
+    },
+    "until": {
+      "year": 161
+    }
+  },
+  {
+    "id": "fact:1195",
+    "subject": "person:baelor-i-targaryen",
+    "predicate": "holds_title",
+    "object": "title:king-of-the-seven-kingdoms",
+    "sources": [
+      "awoiaf-iron-throne"
+    ],
+    "from": {
+      "year": 161
+    },
+    "until": {
+      "year": 171
+    }
+  },
+  {
+    "id": "fact:1196",
+    "subject": "person:viserys-ii-targaryen",
+    "predicate": "holds_title",
+    "object": "title:king-of-the-seven-kingdoms",
+    "sources": [
+      "awoiaf-iron-throne"
+    ],
+    "from": {
+      "year": 171
+    },
+    "until": {
+      "year": 172
+    }
+  },
+  {
+    "id": "fact:1197",
+    "subject": "person:aegon-iv-targaryen",
+    "predicate": "holds_title",
+    "object": "title:king-of-the-seven-kingdoms",
+    "sources": [
+      "awoiaf-iron-throne"
+    ],
+    "from": {
+      "year": 172
+    },
+    "until": {
+      "year": 184
+    }
+  },
+  {
+    "id": "fact:1198",
+    "subject": "person:daeron-ii-targaryen",
+    "predicate": "holds_title",
+    "object": "title:king-of-the-seven-kingdoms",
+    "sources": [
+      "awoiaf-iron-throne"
+    ],
+    "from": {
+      "year": 184
+    }
+  },
+  {
+    "id": "fact:1199",
+    "subject": "house:targaryen",
+    "predicate": "head",
+    "object": "person:daeron-ii-targaryen",
+    "sources": [
+      "awoiaf-daeron-ii"
+    ],
+    "from": {
+      "year": 184
+    }
+  },
+  {
+    "id": "fact:1200",
+    "subject": "person:baelor-breakspear",
+    "predicate": "heir_to",
+    "object": "house:targaryen",
+    "sources": [
+      "awoiaf-daeron-ii"
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:1201",
+    "subject": "person:baelor-breakspear",
+    "predicate": "holds_title",
+    "object": "title:hand-of-the-king",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:1202",
+    "subject": "person:baelor-breakspear",
+    "predicate": "holds_title",
+    "object": "title:prince-of-dragonstone",
+    "sources": [
+      "awoiaf-daeron-ii"
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:1203",
+    "subject": "person:maekar-targaryen",
+    "predicate": "holds_title",
+    "object": "title:prince-of-summerhall",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:1204",
+    "subject": "person:maekar-targaryen",
+    "predicate": "resides_at",
+    "object": "place:summerhall",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:1205",
+    "subject": "person:waynwood-unnamed-lord",
+    "predicate": "holds_title",
+    "object": "title:master-of-laws",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:1206",
+    "subject": "person:willem-wylde",
+    "predicate": "holds_title",
+    "object": "title:lord-commander-kingsguard",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:1207",
+    "subject": "person:brynden-rivers",
+    "predicate": "royal_intelligence_for",
+    "object": "house:targaryen",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:1208",
+    "subject": "person:ambrose-butterwell",
+    "predicate": "holds_title",
+    "object": "title:hand-of-the-king",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "until": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1209",
+    "subject": "house:waynwood",
+    "predicate": "head",
+    "object": "person:waynwood-unnamed-lord",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:1210",
+    "subject": "place:dragonstone",
+    "predicate": "region",
+    "object": "region:crownlands",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ]
+  },
+  {
+    "id": "fact:1211",
+    "subject": "title:prince-of-dragonstone",
+    "predicate": "seat",
+    "object": "place:dragonstone",
+    "sources": [
+      "awoiaf-daeron-ii"
+    ]
+  },
+  {
+    "id": "fact:1212",
+    "subject": "title:prince-of-summerhall",
+    "predicate": "seat",
+    "object": "place:summerhall",
+    "sources": [
+      "worldbook-v10"
+    ]
+  },
+  {
+    "id": "fact:1213",
+    "subject": "title:king-of-the-seven-kingdoms",
+    "predicate": "seat",
+    "object": "place:kings-landing",
+    "sources": [
+      "awoiaf-iron-throne"
+    ]
+  },
+  {
+    "id": "fact:1214",
+    "subject": "title:king-of-the-seven-kingdoms",
+    "predicate": "associated_house",
+    "object": "house:targaryen",
+    "sources": [
+      "awoiaf-iron-throne"
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:1215",
+    "subject": "event:battle-redgrass-field",
+    "predicate": "part_of",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-redgrass"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1216",
+    "subject": "event:battle-redgrass-field",
+    "predicate": "participant",
+    "object": "person:daeron-ii-targaryen",
+    "sources": [
+      "awoiaf-redgrass"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1217",
+    "subject": "person:daeron-ii-targaryen",
+    "predicate": "supported_crown_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1218",
+    "subject": "event:battle-redgrass-field",
+    "predicate": "participant",
+    "object": "person:baelor-breakspear",
+    "sources": [
+      "awoiaf-redgrass"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1219",
+    "subject": "person:baelor-breakspear",
+    "predicate": "supported_crown_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1220",
+    "subject": "event:battle-redgrass-field",
+    "predicate": "participant",
+    "object": "person:maekar-targaryen",
+    "sources": [
+      "awoiaf-redgrass"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1221",
+    "subject": "person:maekar-targaryen",
+    "predicate": "supported_crown_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1222",
+    "subject": "event:battle-redgrass-field",
+    "predicate": "participant",
+    "object": "person:brynden-rivers",
+    "sources": [
+      "awoiaf-redgrass"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1223",
+    "subject": "person:brynden-rivers",
+    "predicate": "supported_crown_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1224",
+    "subject": "event:battle-redgrass-field",
+    "predicate": "participant",
+    "object": "person:daemon-blackfyre",
+    "sources": [
+      "awoiaf-redgrass"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1225",
+    "subject": "person:daemon-blackfyre",
+    "predicate": "supported_rebellion_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1226",
+    "subject": "event:battle-redgrass-field",
+    "predicate": "participant",
+    "object": "person:aegor-rivers",
+    "sources": [
+      "awoiaf-redgrass"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1227",
+    "subject": "person:aegor-rivers",
+    "predicate": "supported_rebellion_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1228",
+    "subject": "person:quentyn-ball",
+    "predicate": "supported_rebellion_in",
+    "object": "event:first-blackfyre-rebellion",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1229",
+    "subject": "person:hayford-unnamed-hand",
+    "predicate": "participant",
+    "object": "event:battle-redgrass-field",
+    "sources": [
+      "awoiaf-redgrass"
+    ],
+    "asOf": {
+      "year": 196
+    }
   }
 ]

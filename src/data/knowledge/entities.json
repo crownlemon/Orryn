@@ -659,10 +659,12 @@
     "sourceLine208": 111,
     "sources": [
       "worldbook-v10",
-      "awoiaf-great-houses"
+      "awoiaf-great-houses",
+      "awoiaf-targaryen-lineage"
     ],
     "catalogStatus": "baseline_profile",
-    "page": "/houses/targaryen/"
+    "page": "/houses/targaryen/",
+    "words": "Fire and Blood"
   },
   {
     "id": "place:summerhall",
@@ -5383,7 +5385,8 @@
     "name": "Prince Aerys Targaryen",
     "birthHouse": "targaryen",
     "sources": [
-      "householdbook-v12"
+      "householdbook-v12",
+      "awoiaf-targaryen-lineage"
     ],
     "householdReference": {
       "source": "householdbook-v12",
@@ -6627,7 +6630,8 @@
     "name": "Prince Baelor Targaryen",
     "birthHouse": "targaryen",
     "sources": [
-      "householdbook-v12"
+      "householdbook-v12",
+      "awoiaf-daeron-ii"
     ],
     "householdReference": {
       "source": "householdbook-v12",
@@ -7920,5 +7924,972 @@
     },
     "page": "/characters/corwin-rogers/",
     "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:aegon-i-targaryen",
+    "kind": "person",
+    "name": "King Aegon I Targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/aegon-i-targaryen/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen",
+    "born": "27 BC",
+    "died": "37 AC",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:aenys-i-targaryen",
+    "kind": "person",
+    "name": "King Aenys I Targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/aenys-i-targaryen/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen",
+    "died": "42 AC",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:maegor-i-targaryen",
+    "kind": "person",
+    "name": "King Maegor I Targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/maegor-i-targaryen/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen",
+    "died": "48 AC",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:jaehaerys-i-targaryen",
+    "kind": "person",
+    "name": "King Jaehaerys I Targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/jaehaerys-i-targaryen/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen",
+    "died": "103 AC",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:viserys-i-targaryen",
+    "kind": "person",
+    "name": "King Viserys I Targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/viserys-i-targaryen/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen",
+    "died": "129 AC",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:aegon-ii-targaryen",
+    "kind": "person",
+    "name": "King Aegon II Targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/aegon-ii-targaryen/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen",
+    "died": "131 AC",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:aegon-iii-targaryen",
+    "kind": "person",
+    "name": "King Aegon III Targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/aegon-iii-targaryen/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen",
+    "died": "157 AC",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:daeron-i-targaryen",
+    "kind": "person",
+    "name": "King Daeron I Targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/daeron-i-targaryen/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen",
+    "died": "161 AC",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:baelor-i-targaryen",
+    "kind": "person",
+    "name": "King Baelor I Targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/baelor-i-targaryen/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen",
+    "died": "171 AC",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:viserys-ii-targaryen",
+    "kind": "person",
+    "name": "King Viserys II Targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/viserys-ii-targaryen/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen",
+    "died": "172 AC",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:aegon-iv-targaryen",
+    "kind": "person",
+    "name": "King Aegon IV Targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/aegon-iv-targaryen/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen",
+    "died": "184 AC",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:daeron-ii-targaryen",
+    "kind": "person",
+    "name": "King Daeron II Targaryen",
+    "sources": [
+      "awoiaf-daeron-ii"
+    ],
+    "page": "/characters/daeron-ii-targaryen/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen"
+  },
+  {
+    "id": "person:aerion-targaryen-dragonstone",
+    "kind": "person",
+    "name": "Lord Aerion Targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/aerion-targaryen-dragonstone/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen"
+  },
+  {
+    "id": "person:valaena-velaryon",
+    "kind": "person",
+    "name": "Lady Valaena Velaryon",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/valaena-velaryon/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "velaryon"
+  },
+  {
+    "id": "person:visenya-targaryen",
+    "kind": "person",
+    "name": "Queen Visenya Targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/visenya-targaryen/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen"
+  },
+  {
+    "id": "person:rhaenys-targaryen-conqueror",
+    "kind": "person",
+    "name": "Queen Rhaenys Targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/rhaenys-targaryen-conqueror/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen"
+  },
+  {
+    "id": "person:alyssa-velaryon",
+    "kind": "person",
+    "name": "Queen Alyssa Velaryon",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/alyssa-velaryon/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "velaryon"
+  },
+  {
+    "id": "person:alysanne-targaryen",
+    "kind": "person",
+    "name": "Queen Alysanne Targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/alysanne-targaryen/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen"
+  },
+  {
+    "id": "person:aemon-targaryen-jaehaerys",
+    "kind": "person",
+    "name": "Prince Aemon Targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/aemon-targaryen-jaehaerys/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen"
+  },
+  {
+    "id": "person:baelon-targaryen",
+    "kind": "person",
+    "name": "Prince Baelon Targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/baelon-targaryen/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen"
+  },
+  {
+    "id": "person:alyssa-targaryen",
+    "kind": "person",
+    "name": "Princess Alyssa Targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/alyssa-targaryen/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen"
+  },
+  {
+    "id": "person:rhaenys-targaryen-queen-who-never-was",
+    "kind": "person",
+    "name": "Princess Rhaenys Targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/rhaenys-targaryen-queen-who-never-was/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen"
+  },
+  {
+    "id": "person:corlys-velaryon",
+    "kind": "person",
+    "name": "Lord Corlys Velaryon",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/corlys-velaryon/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "velaryon"
+  },
+  {
+    "id": "person:laena-velaryon",
+    "kind": "person",
+    "name": "Lady Laena Velaryon",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/laena-velaryon/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "velaryon"
+  },
+  {
+    "id": "person:laenor-velaryon",
+    "kind": "person",
+    "name": "Ser Laenor Velaryon",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/laenor-velaryon/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "velaryon"
+  },
+  {
+    "id": "person:daemon-targaryen",
+    "kind": "person",
+    "name": "Prince Daemon Targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/daemon-targaryen/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen",
+    "died": "130 AC",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:aemma-arryn",
+    "kind": "person",
+    "name": "Queen Aemma Arryn",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/aemma-arryn/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "arryn"
+  },
+  {
+    "id": "person:alicent-hightower",
+    "kind": "person",
+    "name": "Queen Alicent Hightower",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/alicent-hightower/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "hightower"
+  },
+  {
+    "id": "person:rhaenyra-targaryen",
+    "kind": "person",
+    "name": "Queen Rhaenyra Targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/rhaenyra-targaryen/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen",
+    "died": "130 AC",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:helaena-targaryen",
+    "kind": "person",
+    "name": "Queen Helaena Targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/helaena-targaryen/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen"
+  },
+  {
+    "id": "person:aemond-targaryen",
+    "kind": "person",
+    "name": "Prince Aemond Targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/aemond-targaryen/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen"
+  },
+  {
+    "id": "person:daeron-targaryen-viserys",
+    "kind": "person",
+    "name": "Prince Daeron Targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/daeron-targaryen-viserys/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen"
+  },
+  {
+    "id": "person:baela-targaryen",
+    "kind": "person",
+    "name": "Lady Baela Targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/baela-targaryen/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen"
+  },
+  {
+    "id": "person:daenaera-velaryon",
+    "kind": "person",
+    "name": "Queen Daenaera Velaryon",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/daenaera-velaryon/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "velaryon"
+  },
+  {
+    "id": "person:daena-targaryen",
+    "kind": "person",
+    "name": "Princess Daena Targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/daena-targaryen/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen"
+  },
+  {
+    "id": "person:rhaena-targaryen-aegon-iii",
+    "kind": "person",
+    "name": "Princess Rhaena Targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/rhaena-targaryen-aegon-iii/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen"
+  },
+  {
+    "id": "person:larra-rogare",
+    "kind": "person",
+    "name": "Lady Larra Rogare",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/larra-rogare/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "rogare"
+  },
+  {
+    "id": "person:naerys-targaryen",
+    "kind": "person",
+    "name": "Queen Naerys Targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/naerys-targaryen/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen"
+  },
+  {
+    "id": "person:aemon-dragonknight",
+    "kind": "person",
+    "name": "Prince Aemon Targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/aemon-dragonknight/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen"
+  },
+  {
+    "id": "person:daenerys-targaryen-daeron",
+    "kind": "person",
+    "name": "Princess Daenerys Targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/daenerys-targaryen-daeron/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen",
+    "born": "172 AC"
+  },
+  {
+    "id": "person:maron-martell",
+    "kind": "person",
+    "name": "Prince Maron Martell",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/maron-martell/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "martell"
+  },
+  {
+    "id": "person:myriah-martell",
+    "kind": "person",
+    "name": "Queen Myriah Martell",
+    "sources": [
+      "awoiaf-myriah"
+    ],
+    "page": "/characters/myriah-martell/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "martell"
+  },
+  {
+    "id": "person:rhaegel-targaryen",
+    "kind": "person",
+    "name": "Prince Rhaegel Targaryen",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/rhaegel-targaryen/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen"
+  },
+  {
+    "id": "person:maekar-targaryen",
+    "kind": "person",
+    "name": "Prince Maekar Targaryen",
+    "sources": [
+      "awoiaf-maekar"
+    ],
+    "page": "/characters/maekar-targaryen/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen"
+  },
+  {
+    "id": "person:dyanna-dayne",
+    "kind": "person",
+    "name": "Lady Dyanna Dayne",
+    "sources": [
+      "awoiaf-maekar"
+    ],
+    "page": "/characters/dyanna-dayne/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "dayne"
+  },
+  {
+    "id": "person:daeron-targaryen-maekar",
+    "kind": "person",
+    "name": "Prince Daeron Targaryen",
+    "sources": [
+      "awoiaf-maekar"
+    ],
+    "page": "/characters/daeron-targaryen-maekar/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen"
+  },
+  {
+    "id": "person:aerion-targaryen-maekar",
+    "kind": "person",
+    "name": "Prince Aerion Targaryen",
+    "sources": [
+      "awoiaf-maekar"
+    ],
+    "page": "/characters/aerion-targaryen-maekar/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen"
+  },
+  {
+    "id": "person:aemon-targaryen-maekar",
+    "kind": "person",
+    "name": "Prince Aemon Targaryen",
+    "sources": [
+      "awoiaf-maekar"
+    ],
+    "page": "/characters/aemon-targaryen-maekar/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen",
+    "born": "198 AC"
+  },
+  {
+    "id": "person:daella-targaryen-maekar",
+    "kind": "person",
+    "name": "Princess Daella Targaryen",
+    "sources": [
+      "awoiaf-maekar"
+    ],
+    "page": "/characters/daella-targaryen-maekar/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen",
+    "born": "199 AC"
+  },
+  {
+    "id": "person:aegon-targaryen-maekar",
+    "kind": "person",
+    "name": "Prince Aegon Targaryen",
+    "sources": [
+      "awoiaf-maekar"
+    ],
+    "page": "/characters/aegon-targaryen-maekar/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen",
+    "born": "200 AC"
+  },
+  {
+    "id": "person:alys-arryn-rhaegel",
+    "kind": "person",
+    "name": "Lady Alys Arryn",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/alys-arryn-rhaegel/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "arryn"
+  },
+  {
+    "id": "person:daemon-blackfyre",
+    "kind": "person",
+    "name": "Daemon Blackfyre",
+    "sources": [
+      "awoiaf-daemon-blackfyre"
+    ],
+    "page": "/characters/daemon-blackfyre/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "blackfyre",
+    "born": "170 AC",
+    "died": "196 AC",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:aegor-rivers",
+    "kind": "person",
+    "name": "Ser Aegor Rivers",
+    "sources": [
+      "awoiaf-bittersteel"
+    ],
+    "page": "/characters/aegor-rivers/",
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "person:brynden-rivers",
+    "kind": "person",
+    "name": "Ser Brynden Rivers",
+    "sources": [
+      "awoiaf-bloodraven"
+    ],
+    "page": "/characters/brynden-rivers/",
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "person:barba-bracken",
+    "kind": "person",
+    "name": "Lady Barba Bracken",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/barba-bracken/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "bracken"
+  },
+  {
+    "id": "person:melissa-blackwood",
+    "kind": "person",
+    "name": "Lady Melissa Blackwood",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/melissa-blackwood/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "blackwood"
+  },
+  {
+    "id": "person:rohanne-of-tyrosh",
+    "kind": "person",
+    "name": "Rohanne of Tyrosh",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/characters/rohanne-of-tyrosh/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": null
+  },
+  {
+    "id": "person:aegon-blackfyre",
+    "kind": "person",
+    "name": "Aegon Blackfyre",
+    "sources": [
+      "awoiaf-daemon-blackfyre"
+    ],
+    "page": "/characters/aegon-blackfyre/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "blackfyre",
+    "died": "196 AC",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:aemon-blackfyre",
+    "kind": "person",
+    "name": "Aemon Blackfyre",
+    "sources": [
+      "awoiaf-daemon-blackfyre"
+    ],
+    "page": "/characters/aemon-blackfyre/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "blackfyre",
+    "died": "196 AC",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:quentyn-ball",
+    "kind": "person",
+    "name": "Ser Quentyn Ball",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "page": "/characters/quentyn-ball/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "ball",
+    "died": "196 AC",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:ambrose-butterwell",
+    "kind": "person",
+    "name": "Lord Ambrose Butterwell",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "page": "/characters/ambrose-butterwell/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "butterwell"
+  },
+  {
+    "id": "person:hayford-unnamed-hand",
+    "kind": "person",
+    "name": "Lord Hayford (given name unrecorded)",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "page": "/characters/hayford-unnamed-hand/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "hayford",
+    "died": "196 AC",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:waynwood-unnamed-lord",
+    "kind": "person",
+    "name": "Lord Waynwood (given name unrecorded)",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "page": "/characters/waynwood-unnamed-lord/",
+    "catalogStatus": "historical_profile",
+    "birthHouse": "waynwood"
+  },
+  {
+    "id": "house:blackfyre",
+    "kind": "house",
+    "name": "House Blackfyre",
+    "sources": [
+      "awoiaf-blackfyre-house"
+    ],
+    "page": "/houses/blackfyre/",
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "house:velaryon",
+    "kind": "house",
+    "name": "House Velaryon",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/houses/velaryon/",
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "house:bracken",
+    "kind": "house",
+    "name": "House Bracken",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/houses/bracken/",
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "house:blackwood",
+    "kind": "house",
+    "name": "House Blackwood",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/houses/blackwood/",
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "house:dayne",
+    "kind": "house",
+    "name": "House Dayne",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/houses/dayne/",
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "house:butterwell",
+    "kind": "house",
+    "name": "House Butterwell",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/houses/butterwell/",
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "house:hayford",
+    "kind": "house",
+    "name": "House Hayford",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/houses/hayford/",
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "house:waynwood",
+    "kind": "house",
+    "name": "House Waynwood",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/houses/waynwood/",
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "house:rogare",
+    "kind": "house",
+    "name": "House Rogare",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/houses/rogare/",
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "title:king-of-the-seven-kingdoms",
+    "kind": "title",
+    "name": "King of the Seven Kingdoms",
+    "sources": [
+      "awoiaf-iron-throne"
+    ],
+    "page": "/titles/king-of-the-seven-kingdoms/",
+    "catalogStatus": "historical_profile",
+    "titleNature": "hereditary_lordship"
+  },
+  {
+    "id": "title:hand-of-the-king",
+    "kind": "title",
+    "name": "Hand of the King",
+    "sources": [
+      "awoiaf-small-council"
+    ],
+    "page": "/titles/hand-of-the-king/",
+    "catalogStatus": "historical_profile",
+    "titleNature": "royal_appointment"
+  },
+  {
+    "id": "title:prince-of-dragonstone",
+    "kind": "title",
+    "name": "Prince of Dragonstone",
+    "sources": [
+      "awoiaf-daeron-ii"
+    ],
+    "page": "/titles/prince-of-dragonstone/",
+    "catalogStatus": "historical_profile",
+    "titleNature": "dignity"
+  },
+  {
+    "id": "title:prince-of-summerhall",
+    "kind": "title",
+    "name": "Prince of Summerhall",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "page": "/titles/prince-of-summerhall/",
+    "catalogStatus": "historical_profile",
+    "titleNature": "dignity"
+  },
+  {
+    "id": "title:master-of-laws",
+    "kind": "title",
+    "name": "Master of Laws",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "page": "/titles/master-of-laws/",
+    "catalogStatus": "historical_profile",
+    "titleNature": "royal_appointment"
+  },
+  {
+    "id": "title:lord-commander-kingsguard",
+    "kind": "title",
+    "name": "Lord Commander of the Kingsguard",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "page": "/titles/lord-commander-kingsguard/",
+    "catalogStatus": "historical_profile",
+    "titleNature": "royal_appointment"
+  },
+  {
+    "id": "title:grand-maester",
+    "kind": "title",
+    "name": "Grand Maester",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "page": "/titles/grand-maester/",
+    "catalogStatus": "historical_profile",
+    "titleNature": "royal_appointment"
+  },
+  {
+    "id": "title:master-of-whisperers",
+    "kind": "title",
+    "name": "Master of Whisperers",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "page": "/titles/master-of-whisperers/",
+    "catalogStatus": "historical_profile",
+    "titleNature": "royal_appointment"
+  },
+  {
+    "id": "place:dragonstone",
+    "kind": "place",
+    "name": "Dragonstone",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/places/dragonstone/",
+    "catalogStatus": "historical_profile",
+    "placeType": "castle"
+  },
+  {
+    "id": "event:battle-redgrass-field",
+    "kind": "event",
+    "name": "Battle of the Redgrass Field",
+    "sources": [
+      "awoiaf-redgrass"
+    ],
+    "page": "/events/battle-redgrass-field/",
+    "catalogStatus": "historical_profile",
+    "year": 196,
+    "eventType": "Battle"
+  },
+  {
+    "id": "event:dornish-union",
+    "kind": "event",
+    "name": "Accession of Dorne",
+    "sources": [
+      "awoiaf-daeron-ii"
+    ],
+    "page": "/events/dornish-union/",
+    "catalogStatus": "historical_profile",
+    "year": 187
+  },
+  {
+    "id": "event:legitimisation-of-aegon-ivs-bastards",
+    "kind": "event",
+    "name": "Legitimisation of Aegon IV's natural children",
+    "sources": [
+      "awoiaf-blackfyre"
+    ],
+    "page": "/events/legitimisation-of-aegon-ivs-bastards/",
+    "catalogStatus": "historical_profile",
+    "year": 184
+  },
+  {
+    "id": "event:great-council-101",
+    "kind": "event",
+    "name": "Great Council of 101 AC",
+    "sources": [
+      "awoiaf-targaryen-lineage"
+    ],
+    "page": "/events/great-council-101/",
+    "catalogStatus": "historical_profile",
+    "year": 101
   }
 ]

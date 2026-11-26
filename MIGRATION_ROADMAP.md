@@ -188,3 +188,7 @@ Imported 30 additional source-identified people from Householdbook v12, includin
 ## Milestone: Reader-facing chapter archive
 
 Added a dedicated /chapters/ contents page with all 67 numbered chapters, direct homepage actions and a sidebar entry with a collapsible, chronologically ordered archive. Both Chapter 67 alternatives remain accessible. All chapter texts remain unchanged. The chapter index is derived from the imported chapter inventory; update it when new chapters are added. Preview deployment and browser rendering still require verification.
+
+## Historical migration: Targaryen monarchy, royal court and Blackfyre crisis
+
+Reconstructed the twelve official reigns from Aegon I through Daeron II with bounded tenure records; Daeron's reign remains open at the current snapshot. Added connected royal genealogy, distinguishing duplicate royal names, and the Maekar/Summerhall branch. Linked the campaign's confirmed council appointments from Worldbook v10 paragraphs 1944–1958, retaining unconfirmed grand maester and formal intelligence title. Added Blackfyre genealogy and pre-207 historical events from consulted AWOIAF pages (source IDs attached). No future rulers or post-baseline deaths imported. Reused Elaena, Rhaena, Baelor and Aerys records. Added 85 entities and 160 facts, wrote 89 article files. Core in-memory checks passed; full build remains outstanding. Regional dynasty and vassal research remains incomplete. No main merge.

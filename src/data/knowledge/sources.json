@@ -70,5 +70,83 @@
     "title": "A Wiki of Ice and Fire: First Blackfyre Rebellion",
     "url": "https://awoiaf.westeros.org/index.php/Blackfyre_Rebellion",
     "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-targaryen-lineage",
+    "title": "A Wiki of Ice and Fire: House Targaryen",
+    "url": "https://awoiaf.westeros.org/index.php/House_Targaryen",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-iron-throne",
+    "title": "A Wiki of Ice and Fire: Iron Throne",
+    "url": "https://awoiaf.westeros.org/index.php/Iron_Throne",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-daeron-ii",
+    "title": "A Wiki of Ice and Fire: Daeron II Targaryen",
+    "url": "https://awoiaf.westeros.org/index.php/Daeron_II_Targaryen",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-elaena",
+    "title": "A Wiki of Ice and Fire: Elaena Targaryen",
+    "url": "https://awoiaf.westeros.org/index.php/Elaena_Targaryen",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-rhaena-daemon",
+    "title": "A Wiki of Ice and Fire: Rhaena Targaryen (daughter of Daemon)",
+    "url": "https://awoiaf.westeros.org/index.php/Rhaena_Targaryen_(daughter_of_Daemon)",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-maekar",
+    "title": "A Wiki of Ice and Fire: Maekar Targaryen",
+    "url": "https://awoiaf.westeros.org/index.php/Prince_Maekar",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-myriah",
+    "title": "A Wiki of Ice and Fire: Myriah Martell",
+    "url": "https://awoiaf.westeros.org/index.php/Myriah_Martell",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-blackfyre-house",
+    "title": "A Wiki of Ice and Fire: House Blackfyre",
+    "url": "https://awoiaf.westeros.org/index.php/House_Blackfyre",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-redgrass",
+    "title": "A Wiki of Ice and Fire: Battle of the Redgrass Field",
+    "url": "https://awoiaf.westeros.org/index.php/Battle_of_the_Redgrass_Field",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-bloodraven",
+    "title": "A Wiki of Ice and Fire: Brynden Rivers",
+    "url": "https://awoiaf.westeros.org/index.php/Brynden_Rivers",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-bittersteel",
+    "title": "A Wiki of Ice and Fire: Aegor Rivers",
+    "url": "https://awoiaf.westeros.org/index.php/Aegor_Rivers",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-daemon-blackfyre",
+    "title": "A Wiki of Ice and Fire: Daemon I Blackfyre",
+    "url": "https://awoiaf.westeros.org/index.php/Daemon_I_Blackfyre",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-small-council",
+    "title": "A Wiki of Ice and Fire: Small council",
+    "url": "https://awoiaf.westeros.org/index.php/Small_council",
+    "kind": "secondary"
   }
 ]
