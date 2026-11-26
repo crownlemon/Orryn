@@ -21,5 +21,7 @@ jobs:
         run: npm install --no-audit --no-fund
       - name: Validate knowledge model
         run: npm run validate:knowledge
+      - name: Audit regional atlas
+        run: npm run audit:atlas
       - name: Build Astro encyclopedia
         run: npm run build

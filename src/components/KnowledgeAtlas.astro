@@ -1,0 +1,50 @@
+---
+import { entities, outgoing, one, type Entity } from '../data/knowledge/index';
+
+interface Props { regionId: string; }
+const { regionId } = Astro.props;
+const region = entities.find(e => e.id === regionId && e.kind === 'region');
+if (!region) throw new Error('Unknown atlas region: ' + regionId);
+const rankOrder = ['Ruling','Royal','Great','Principal','Major','Minor','Knightly'];
+const allHouses = entities.filter(e=>e.kind==='house' && outgoing(e.id,'region').some(r=>r.id===regionId));
+const groups = rankOrder.map(rank => ({rank, houses:allHouses.filter(h=>h.rank208===rank).sort((a,b)=>a.name.localeCompare(b.name))})).filter(g=>g.houses.length>0);
+const vacant = entities.filter(e=>e.kind==='place' && e.registryRole==='unassigned_holding' && outgoing(e.id,'region').some(r=>r.id===regionId)).sort((a,b)=>a.name.localeCompare(b.name));
+---
+<section class="orr-atlas">
+  <h2>{region.name}</h2>
+  <p class="orr-atlas-intro">{allHouses.length} documented houses across {groups.length} Worldbook ranks. Seats without established occupants are shown separately.</p>
+  {groups.map(group=>(
+    <section class="orr-atlas-tier">
+      <h3>{group.rank} houses <span class="orr-atlas-count">({group.houses.length})</span></h3>
+      <table>
+        <thead><tr><th>House</th><th>Seat or holding</th><th>Immediate overlord</th></tr></thead>
+        <tbody>
+          {group.houses.map(h=>{
+            const seat=one(h.id,'seat');
+            const liege=one(h.id,'sworn_to');
+            return <tr>
+              <td>{h.page ? <a href={h.page}>{h.name}</a> : h.name}</td>
+              <td>{seat?.page ? <a href={seat.page}>{seat.name}</a> : seat?.name ?? 'Unrecorded'}</td>
+              <td>{liege ? (liege.page ? <a href={liege.page}>{liege.name}</a> : liege.name) : 'Royal authority'}</td>
+            </tr>;
+          })}
+        </tbody>
+      </table>
+    </section>
+  ))}
+  {vacant.length>0&&(
+    <section class="orr-atlas-tier">
+      <h3>Holdings without an established ruling house</h3>
+      <ul>{vacant.map(v=><li>{v.page?<a href={v.page}>{v.name}</a>:v.name}</li>)}</ul>
+    </section>
+  )}
+</section>
+<style>
+.orr-atlas { margin-top:2rem; }
+.orr-atlas-intro, .orr-atlas-count { color:var(--sl-color-gray-3); }
+.orr-atlas-tier { margin-block:1.7rem; }
+.orr-atlas-tier table { width:100%;border-collapse:collapse;font-size:.92rem; }
+.orr-atlas-tier th,.orr-atlas-tier td { padding:.53rem .65rem;border-bottom:1px solid var(--sl-color-gray-5);text-align:left;vertical-align:top; }
+.orr-atlas-tier th { font-weight:650;background:var(--sl-color-bg-inline-code); }
+@media(max-width:680px) {.orr-atlas-tier { overflow-x:auto; } .orr-atlas-tier table { min-width:580px; }}
+</style>

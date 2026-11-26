@@ -7,7 +7,8 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "validate:knowledge": "node scripts/validate-knowledge.mjs"
+    "validate:knowledge": "node scripts/validate-knowledge.mjs",
+    "audit:atlas": "node scripts/audit-atlas.mjs"
   },
   "dependencies": {
     "@astrojs/starlight": "latest",
