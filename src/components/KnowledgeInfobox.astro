@@ -22,6 +22,6 @@ const rows = identityRows(entity, asOf);
     </>
   )}
   <dl>{rows.map(row => (
-    <div><dt>{row.label}</dt><dd>{row.link ? <a href={row.link}>{row.text}</a> : row.text}</dd></div>
+    <div><dt>{row.label}</dt><dd>{row.links ? row.links.map((item,i) => <>{i>0 ? ", " : ""}{item.link ? <a href={item.link}>{item.name}</a> : item.name}</>) : row.link ? <a href={row.link}>{row.text}</a> : row.text}</dd></div>
   ))}</dl>
 </aside>

@@ -132,3 +132,18 @@ This round delivered:
 Unfinished: detailed family profiles for additional houses, full source-by-source AWOIAF historical import, art license review and browser acceptance. This is another *development milestone*, not a completion of all phases. Do not merge to main without the user's permission.
 
 Next recommended batch: the Ashford–Merryweather–Caswell marriages and overlapping households, followed by Hightower, Rowan collateral kin, and the Reach's published pre-208 lordships, with source-era checking at each step.
+
+
+## Milestone: Uniform encyclopedia article model (26 November 2026)
+
+The first branch preview revealed inconsistent handwritten and generated infoboxes, character-family diagrams and section schemes between the older published prose and newly authored articles.
+
+- Migrated all existing character, noble-house, place, realm and event articles to category-specific **MDX templates**, preserving their original written narrative and valid links.
+- Every article uses the same database-backed `ArticleIdentity` component; character and house pages share one generated `KnowledgeFamilyTree` system. The handwritten markup was retired from the published presentation and retained in Git history for data-parity checks.
+- Standardized category section order without inventing text for undocumented subjects.
+- Improved the infobox data model to display known birth houses, recorded birth dates, parents, children, spouses, heirs, titles and residences with working links when available.
+- Introduced a chronological Cress Hill event identity linked to the approved Worldbook.
+- Added `scripts/validate-articles.mjs` to prevent future pages diverging in template, heading order or entity ID.
+- Build and manual visual review are separate acceptance criteria; missing genealogical detail in earlier custom diagrams must be reconciled before final release.
+
+This is a presentation and schema-consistency milestone, not completion of the historic AWOIAF database. Next: audit the visible generated family trees and compare legacy diagrams with structured family records before expanding the world further.

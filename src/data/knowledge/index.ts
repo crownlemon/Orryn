@@ -11,6 +11,7 @@ export type Heraldry = {
 };
 export type Entity = {
   id: string; kind: EntityKind; name: string; page?: string; subtitle?: string;
+  born?: string; died?: string;
   words?: string | null; arms?: Heraldry; placeType?: string;
   age208?: number; birthHouse?: string; year?: number; chapter?: number; awoiaf?: string;
   rank208?: string; regionalArea208?: string; geographicAnchor208?: string;
@@ -113,57 +114,77 @@ export function factSources(fact: Fact): Evidence[] {
   });
 }
 
-export function identityRows(entity: Entity, at: Moment = DEFAULT_DATE): Array<{ label: string; text: string; link?: string }> {
-  const rows: Array<{ label: string; text: string; link?: string }> = [];
+export type DetailRow = {
+  label: string;
+  text: string;
+  link?: string;
+  links?: { name: string; link?: string }[];
+};
+
+export function identityRows(entity: Entity, at: Moment = DEFAULT_DATE): DetailRow[] {
+  const rows: DetailRow[] = [];
   const add = (label: string, target?: Entity) => {
     if (target) rows.push({ label, text: target.name, link: target.page });
   };
-  const literal = (label: string, text?: string | number | null) => {
-    if (text !== null && text !== undefined) rows.push({ label, text: String(text) });
+  const addMany = (label: string, targets: Entity[]) => {
+    if (targets.length) rows.push({
+      label, text: targets.map(x => x.name).join(', '),
+      links: targets.map(x => ({name:x.name,link:x.page}))
+    });
+  };
+  const literal = (label: string, value?: string | number | null) => {
+    if (value !== null && value !== undefined && value !== '') rows.push({label,text:String(value)});
   };
   if (entity.kind === 'house') {
-    add('Seat', one(entity.id, 'seat', at));
-    add('Region', one(entity.id, 'region', at));
-    add('Head', one(entity.id, 'head', at));
-    add('Heir', incoming(entity.id, 'heir_to', at)[0]);
-    add('Overlord', one(entity.id, 'sworn_to', at));
-    add('Title', incoming(entity.id, 'associated_house', at)[0]);
-    literal('Rank', entity.rank208);
-    literal('Words', entity.words ?? 'Unknown');
-    literal('Legendary founder', entity.legendaryFounder);
+    add('Seat', one(entity.id,'seat',at));
+    add('Region', one(entity.id,'region',at));
+    add('Head', one(entity.id,'head',at));
+    addMany('Heirs', incoming(entity.id,'heir_to',at));
+    add('Overlord',one(entity.id,'sworn_to',at));
+    addMany('Hereditary titles',incoming(entity.id,'associated_house',at).filter(t=>t.kind==='title'));
+    literal('Rank',entity.rank208);
+    literal('Words',entity.words??'Not recorded');
+    literal('Legendary founder',entity.legendaryFounder);
   }
   if (entity.kind === 'person') {
-    // Ages are a 208 AC snapshot, not dynamically derived birth dates.
-    if (at.year === 208) literal('Age', entity.ageDescription208 ?? entity.age208);
-    add('Father / mother', parents(entity.id, at)[0]);
-    add('Other parent', parents(entity.id, at)[1]);
-    add('Spouse', partners(entity.id, at)[0]);
-    add('House by birth', outgoing(entity.id, 'born_to_house', at)[0]);
-    add('Betrothed', betrothed(entity.id, at)[0]);
-    add('Title', outgoing(entity.id, 'holds_title', at)[0]);
-    add('Residence', one(entity.id, 'resides_at', at));
+    literal('Born',entity.born);
+    if (at.year === 208) literal('Age',entity.ageDescription208??entity.age208);
+    const byBirth = outgoing(entity.id,'born_to_house',at)[0] ??
+      (entity.birthHouse ? index.get('house:'+entity.birthHouse) : undefined);
+    if(byBirth) add('House by birth',byBirth);
+    else if(entity.birthHouse) literal('House by birth','House '+entity.birthHouse[0].toUpperCase()+entity.birthHouse.slice(1));
+    addMany('Parents',parents(entity.id,at));
+    addMany('Spouses',partners(entity.id,at));
+    addMany('Betrothed',betrothed(entity.id,at));
+    addMany('Children',children(entity.id,at));
+    addMany('Titles',outgoing(entity.id,'holds_title',at));
+    add('Heir to',outgoing(entity.id,'heir_to',at)[0]);
+    add('Residence',one(entity.id,'resides_at',at));
   }
   if (entity.kind === 'place') {
-    literal('Type', entity.placeType?.replace('_', ' '));
-    add('Region', one(entity.id, 'region', at));
-    add('Ruling house', one(entity.id, 'ruled_by', at));
-    const seated = incoming(entity.id, 'seat', at).find(e => e.kind === 'house');
-    add('Seat of', seated);
+    literal('Type',entity.placeType?.replace(/_/g,' '));
+    add('Region',one(entity.id,'region',at));
+    const ruling = incoming(entity.id,'seat',at).find(h=>h.kind==='house') ??
+      one(entity.id,'ruled_by',at);
+    add('House',ruling);
+    if(ruling) add('Lord',one(ruling.id,'head',at));
   }
   if (entity.kind === 'title') {
-    add('Seat', one(entity.id, 'seat', at));
-    add('Holder', incoming(entity.id, 'holds_title', at)[0]);
+    add('Seat',one(entity.id,'seat',at));
+    addMany('Holders',incoming(entity.id,'holds_title',at));
   }
   if (entity.kind === 'region') {
-    const ruling = entities.find(h => h.kind === 'house' && h.rank208 === 'Ruling' && outgoing(h.id, 'region', at).some(r=>r.id === entity.id));
-    add('Ruling house', ruling);
-    add('Ruling seat', ruling ? one(ruling.id, 'seat', at) : undefined);
-    literal('Recorded houses', entities.filter(h=>h.kind==='house' && outgoing(h.id, 'region', at).some(r=>r.id===entity.id)).length);
+    const ruling = entities.find(h => h.kind==='house' && h.rank208==='Ruling' && outgoing(h.id,'region',at).some(r=>r.id===entity.id));
+    add('Ruling house',ruling);
+    add('Ruling seat',ruling?one(ruling.id,'seat',at):undefined);
+    literal('Documented houses',entities.filter(h=>h.kind==='house' && outgoing(h.id,'region',at).some(r=>r.id===entity.id)).length);
   }
   if (entity.kind === 'event') {
-    literal('Date', entity.year ? entity.year + ' AC' : undefined);
-    literal('Type', entity.eventType);
-    add('Region', one(entity.id, 'region', at));
+    literal('Date',entity.year?entity.year+' AC':undefined);
+    literal('Type',entity.eventType);
+    add('Region',one(entity.id,'region',at));
+    addMany('Recorded participants',outgoing(entity.id,'participant',at));
   }
   return rows;
 }
+
