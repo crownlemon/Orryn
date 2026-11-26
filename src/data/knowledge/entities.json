@@ -488,7 +488,9 @@
     "birthHouse": "wagstaff",
     "sources": [
       "householdbook-v12"
-    ]
+    ],
+    "page": "/characters/edric-wagstaff/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:alysanne-cafferen",
@@ -497,7 +499,9 @@
     "birthHouse": "cafferen",
     "sources": [
       "householdbook-v12"
-    ]
+    ],
+    "page": "/characters/alysanne-cafferen/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:late-lord-meadows",
@@ -506,7 +510,9 @@
     "birthHouse": "meadows",
     "sources": [
       "householdbook-v12"
-    ]
+    ],
+    "page": "/characters/late-lord-meadows/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:alaric-meadows",
@@ -570,7 +576,9 @@
     "birthHouse": "footly",
     "sources": [
       "householdbook-v12"
-    ]
+    ],
+    "page": "/characters/garlan-footly/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:armond-caswell",
@@ -595,7 +603,9 @@
     "awoiaf": "https://awoiaf.westeros.org/index.php/First_Blackfyre_Rebellion",
     "sources": [
       "worldbook-v10"
-    ]
+    ],
+    "page": "/events/first-blackfyre-rebellion/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "event:marriage-leonette-garlan",
@@ -605,7 +615,9 @@
     "sources": [
       "chapter-60"
     ],
-    "chapter": 60
+    "chapter": 60,
+    "page": "/events/marriage-leonette-garlan/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "event:betrothal-triston-joy",
@@ -615,7 +627,9 @@
     "sources": [
       "chapter-60"
     ],
-    "chapter": 60
+    "chapter": 60,
+    "page": "/events/betrothal-triston-joy/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "place:storm-s-end",
@@ -630,7 +644,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/storm-s-end/"
   },
   {
     "id": "house:targaryen",
@@ -644,7 +659,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/targaryen/"
   },
   {
     "id": "place:summerhall",
@@ -659,7 +675,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/summerhall/"
   },
   {
     "id": "house:caron",
@@ -673,7 +690,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/caron/"
   },
   {
     "id": "place:nightsong",
@@ -688,7 +706,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/nightsong/"
   },
   {
     "id": "house:dondarrion",
@@ -702,7 +721,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/dondarrion/"
   },
   {
     "id": "place:blackhaven",
@@ -717,7 +737,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/blackhaven/"
   },
   {
     "id": "house:swann",
@@ -731,7 +752,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/swann/"
   },
   {
     "id": "place:stonehelm",
@@ -746,7 +768,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/stonehelm/"
   },
   {
     "id": "house:tarth",
@@ -760,7 +783,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/tarth/"
   },
   {
     "id": "place:evenfall-hall",
@@ -775,7 +799,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/evenfall-hall/"
   },
   {
     "id": "house:connington",
@@ -789,7 +814,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/connington/"
   },
   {
     "id": "place:griffin-s-roost",
@@ -804,7 +830,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/griffin-s-roost/"
   },
   {
     "id": "house:estermont",
@@ -818,7 +845,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/estermont/"
   },
   {
     "id": "place:greenstone",
@@ -833,7 +861,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/greenstone/"
   },
   {
     "id": "house:penrose",
@@ -863,7 +892,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/parchments/"
   },
   {
     "id": "house:selmy",
@@ -877,7 +907,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/selmy/"
   },
   {
     "id": "place:harvest-hall",
@@ -892,7 +923,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/harvest-hall/"
   },
   {
     "id": "house:buckler",
@@ -906,7 +938,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/buckler/"
   },
   {
     "id": "place:bronzegate",
@@ -921,7 +954,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/bronzegate/"
   },
   {
     "id": "house:cafferen",
@@ -935,7 +969,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/cafferen/"
   },
   {
     "id": "place:fawnton",
@@ -950,7 +985,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/fawnton/"
   },
   {
     "id": "house:errol",
@@ -964,7 +1000,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/errol/"
   },
   {
     "id": "place:haystack-hall",
@@ -979,7 +1016,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/haystack-hall/"
   },
   {
     "id": "house:fell",
@@ -993,7 +1031,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/fell/"
   },
   {
     "id": "place:felwood",
@@ -1008,7 +1047,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/felwood/"
   },
   {
     "id": "house:mertyns",
@@ -1022,7 +1062,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/mertyns/"
   },
   {
     "id": "place:mistwood",
@@ -1037,7 +1078,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/mistwood/"
   },
   {
     "id": "house:morrigen",
@@ -1051,7 +1093,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/morrigen/"
   },
   {
     "id": "place:crow-s-nest",
@@ -1066,7 +1109,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/crow-s-nest/"
   },
   {
     "id": "house:trant",
@@ -1080,7 +1124,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/trant/"
   },
   {
     "id": "place:gallowsgrey",
@@ -1095,7 +1140,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/gallowsgrey/"
   },
   {
     "id": "house:whitehead",
@@ -1109,7 +1155,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/whitehead/"
   },
   {
     "id": "place:weeping-town",
@@ -1124,7 +1171,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/weeping-town/"
   },
   {
     "id": "house:wylde",
@@ -1138,7 +1186,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/wylde/"
   },
   {
     "id": "place:rain-house",
@@ -1153,7 +1202,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/rain-house/"
   },
   {
     "id": "house:belgrave",
@@ -1167,7 +1217,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/belgrave/"
   },
   {
     "id": "place:belgrave-hall",
@@ -1182,7 +1233,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/belgrave-hall/"
   },
   {
     "id": "house:blackbriar",
@@ -1196,7 +1248,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/blackbriar/"
   },
   {
     "id": "place:briarholt",
@@ -1211,7 +1264,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/briarholt/"
   },
   {
     "id": "house:brackwater",
@@ -1225,7 +1279,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/brackwater/"
   },
   {
     "id": "place:brackwater",
@@ -1240,7 +1295,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/brackwater/"
   },
   {
     "id": "house:cole",
@@ -1254,7 +1310,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/cole/"
   },
   {
     "id": "place:cinderwatch",
@@ -1269,7 +1326,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/cinderwatch/"
   },
   {
     "id": "house:cragmere",
@@ -1283,7 +1341,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/cragmere/"
   },
   {
     "id": "place:cragmere",
@@ -1298,7 +1357,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/cragmere/"
   },
   {
     "id": "house:gower",
@@ -1312,7 +1372,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/gower/"
   },
   {
     "id": "place:clovercross",
@@ -1327,7 +1388,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/clovercross/"
   },
   {
     "id": "house:gullane",
@@ -1341,7 +1403,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/gullane/"
   },
   {
     "id": "place:gull-point",
@@ -1356,7 +1419,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/gull-point/"
   },
   {
     "id": "house:hertson",
@@ -1370,7 +1434,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/hertson/"
   },
   {
     "id": "place:cockcrow-castle",
@@ -1385,7 +1450,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/cockcrow-castle/"
   },
   {
     "id": "house:horpe",
@@ -1399,7 +1465,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/horpe/"
   },
   {
     "id": "place:duskwood-hall",
@@ -1414,7 +1481,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/duskwood-hall/"
   },
   {
     "id": "house:lonmouth",
@@ -1428,7 +1496,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/lonmouth/"
   },
   {
     "id": "place:hollowmouth",
@@ -1443,7 +1512,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/hollowmouth/"
   },
   {
     "id": "house:mereweather",
@@ -1457,7 +1527,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/mereweather/"
   },
   {
     "id": "place:merewatch",
@@ -1472,7 +1543,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/merewatch/"
   },
   {
     "id": "house:mosswyck",
@@ -1486,7 +1558,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/mosswyck/"
   },
   {
     "id": "place:mosswyck-hall",
@@ -1501,7 +1574,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/mosswyck-hall/"
   },
   {
     "id": "house:musgood",
@@ -1515,7 +1589,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/musgood/"
   },
   {
     "id": "place:silver-spring",
@@ -1530,7 +1605,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/silver-spring/"
   },
   {
     "id": "house:peasebury",
@@ -1544,7 +1620,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/peasebury/"
   },
   {
     "id": "place:poddingfield",
@@ -1559,7 +1636,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/poddingfield/"
   },
   {
     "id": "house:rainholt",
@@ -1573,7 +1651,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/rainholt/"
   },
   {
     "id": "place:rainholt-keep",
@@ -1588,7 +1667,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/rainholt-keep/"
   },
   {
     "id": "house:rainsward",
@@ -1602,7 +1682,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/rainsward/"
   },
   {
     "id": "place:rainward-hall",
@@ -1617,7 +1698,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/rainward-hall/"
   },
   {
     "id": "house:rogers",
@@ -1631,7 +1713,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/rogers/"
   },
   {
     "id": "place:amberly",
@@ -1646,7 +1729,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/amberly/"
   },
   {
     "id": "house:rookwell",
@@ -1660,7 +1744,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/rookwell/"
   },
   {
     "id": "place:rookwell-hall",
@@ -1675,7 +1760,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/rookwell-hall/"
   },
   {
     "id": "house:sablewood",
@@ -1689,7 +1775,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/sablewood/"
   },
   {
     "id": "place:pineward",
@@ -1704,7 +1791,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/pineward/"
   },
   {
     "id": "house:staedmon",
@@ -1718,7 +1806,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/staedmon/"
   },
   {
     "id": "place:broad-arch",
@@ -1733,7 +1822,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/broad-arch/"
   },
   {
     "id": "house:sweet",
@@ -1747,7 +1837,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/sweet/"
   },
   {
     "id": "place:honeymead",
@@ -1762,7 +1853,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/honeymead/"
   },
   {
     "id": "house:thornmere",
@@ -1776,7 +1868,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/thornmere/"
   },
   {
     "id": "place:thornmere-hall",
@@ -1791,7 +1884,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/thornmere-hall/"
   },
   {
     "id": "house:toyne",
@@ -1805,7 +1899,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/toyne/"
   },
   {
     "id": "place:heartwatch",
@@ -1820,7 +1915,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/heartwatch/"
   },
   {
     "id": "house:tudbury",
@@ -1834,7 +1930,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/tudbury/"
   },
   {
     "id": "place:tudbury-hall",
@@ -1849,7 +1946,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/tudbury-hall/"
   },
   {
     "id": "house:weatherwax",
@@ -1863,7 +1961,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/weatherwax/"
   },
   {
     "id": "place:wickwood-keep",
@@ -1878,7 +1977,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/wickwood-keep/"
   },
   {
     "id": "house:wensington",
@@ -1892,7 +1992,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/wensington/"
   },
   {
     "id": "place:trumpet-hill",
@@ -1907,7 +2008,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/trumpet-hill/"
   },
   {
     "id": "house:blackberry",
@@ -1921,7 +2023,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/blackberry/"
   },
   {
     "id": "place:bramblecross",
@@ -1936,7 +2039,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/bramblecross/"
   },
   {
     "id": "house:blackhull",
@@ -1950,7 +2054,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/blackhull/"
   },
   {
     "id": "place:blackhull",
@@ -1965,7 +2070,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/blackhull/"
   },
   {
     "id": "house:bolling",
@@ -1979,7 +2085,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/bolling/"
   },
   {
     "id": "place:stagbrook",
@@ -1994,7 +2101,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/stagbrook/"
   },
   {
     "id": "house:brownhill",
@@ -2008,7 +2116,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/brownhill/"
   },
   {
     "id": "place:brownhill-tower",
@@ -2023,7 +2132,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/brownhill-tower/"
   },
   {
     "id": "house:elmridge",
@@ -2037,7 +2147,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/elmridge/"
   },
   {
     "id": "place:elmbridge",
@@ -2052,7 +2163,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/elmbridge/"
   },
   {
     "id": "house:farrow",
@@ -2066,7 +2178,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/farrow/"
   },
   {
     "id": "place:farfield",
@@ -2081,7 +2194,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/farfield/"
   },
   {
     "id": "house:greenpools",
@@ -2095,7 +2209,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/greenpools/"
   },
   {
     "id": "place:greenpools",
@@ -2110,7 +2225,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/greenpools/"
   },
   {
     "id": "house:hardgrove",
@@ -2124,7 +2240,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/hardgrove/"
   },
   {
     "id": "place:old-barrow",
@@ -2139,7 +2256,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/old-barrow/"
   },
   {
     "id": "house:hasty",
@@ -2153,7 +2271,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/hasty/"
   },
   {
     "id": "place:hastebridge",
@@ -2168,7 +2287,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/hastebridge/"
   },
   {
     "id": "house:kellington",
@@ -2182,7 +2302,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/kellington/"
   },
   {
     "id": "place:kell-s-ford",
@@ -2197,7 +2318,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/kell-s-ford/"
   },
   {
     "id": "house:king-s-mountain",
@@ -2211,7 +2333,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/king-s-mountain/"
   },
   {
     "id": "place:king-s-mountain",
@@ -2226,7 +2349,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/king-s-mountain/"
   },
   {
     "id": "house:straw",
@@ -2240,7 +2364,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/straw/"
   },
   {
     "id": "place:strawfold",
@@ -2255,7 +2380,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/strawfold/"
   },
   {
     "id": "house:swygert",
@@ -2269,7 +2395,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/swygert/"
   },
   {
     "id": "place:swygert-tower",
@@ -2284,7 +2411,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/swygert-tower/"
   },
   {
     "id": "house:wagstaff",
@@ -2298,7 +2426,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/wagstaff/"
   },
   {
     "id": "place:greenward",
@@ -2313,7 +2442,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/greenward/"
   },
   {
     "id": "place:highgarden",
@@ -2328,7 +2458,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/highgarden/"
   },
   {
     "id": "house:florent",
@@ -2342,7 +2473,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/florent/"
   },
   {
     "id": "place:brightwater-keep",
@@ -2357,7 +2489,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/brightwater-keep/"
   },
   {
     "id": "house:hightower",
@@ -2400,7 +2533,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/oakheart/"
   },
   {
     "id": "place:old-oak",
@@ -2415,7 +2549,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/old-oak/"
   },
   {
     "id": "house:redwyne",
@@ -2445,7 +2580,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/arbor/"
   },
   {
     "id": "house:tarly",
@@ -2460,13 +2596,14 @@
       "worldbook-v10",
       "awoiaf-list"
     ],
-    "catalogStatus": "registered_no_article",
+    "catalogStatus": "baseline_profile",
     "words": "First in Battle",
     "fieldSources": {
       "words": [
         "awoiaf-list"
       ]
-    }
+    },
+    "page": "/houses/tarly/"
   },
   {
     "id": "place:horn-hill",
@@ -2481,7 +2618,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/horn-hill/"
   },
   {
     "id": "house:caswell",
@@ -2524,7 +2662,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/crane/"
   },
   {
     "id": "place:red-lake",
@@ -2539,7 +2678,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/red-lake/"
   },
   {
     "id": "house:merryweather",
@@ -2582,7 +2722,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/mullendore/"
   },
   {
     "id": "place:uplands",
@@ -2597,7 +2738,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/uplands/"
   },
   {
     "id": "house:peake",
@@ -2611,7 +2753,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/peake/"
   },
   {
     "id": "place:starpike",
@@ -2626,7 +2769,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/starpike/"
   },
   {
     "id": "house:roxton",
@@ -2640,7 +2784,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/roxton/"
   },
   {
     "id": "place:ring",
@@ -2655,7 +2800,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/ring/"
   },
   {
     "id": "house:vyrwel",
@@ -2669,7 +2815,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/vyrwel/"
   },
   {
     "id": "place:darkdell",
@@ -2684,7 +2831,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/darkdell/"
   },
   {
     "id": "house:ashford",
@@ -2727,7 +2875,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/blackbar/"
   },
   {
     "id": "place:bandallon",
@@ -2742,7 +2891,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/bandallon/"
   },
   {
     "id": "house:chester",
@@ -2756,7 +2906,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/chester/"
   },
   {
     "id": "place:greenshield",
@@ -2771,7 +2922,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/greenshield/"
   },
   {
     "id": "house:costayne",
@@ -2785,7 +2937,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/costayne/"
   },
   {
     "id": "place:three-towers",
@@ -2800,7 +2953,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/three-towers/"
   },
   {
     "id": "place:dunstonbury",
@@ -2815,7 +2969,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/dunstonbury/"
   },
   {
     "id": "house:footly",
@@ -2830,13 +2985,14 @@
       "worldbook-v10",
       "awoiaf-list"
     ],
-    "catalogStatus": "registered_no_article",
+    "catalogStatus": "baseline_profile",
     "words": "Tread Lightly Here",
     "fieldSources": {
       "words": [
         "awoiaf-list"
       ]
-    }
+    },
+    "page": "/houses/footly/"
   },
   {
     "id": "place:tumbleton",
@@ -2851,7 +3007,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/tumbleton/"
   },
   {
     "id": "house:grimm",
@@ -2865,7 +3022,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/grimm/"
   },
   {
     "id": "place:grimston",
@@ -2880,7 +3038,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/grimston/"
   },
   {
     "id": "house:hewett",
@@ -2894,7 +3053,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/hewett/"
   },
   {
     "id": "place:oakenshield",
@@ -2909,7 +3069,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/oakenshield/"
   },
   {
     "id": "house:serry",
@@ -2923,7 +3084,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/serry/"
   },
   {
     "id": "place:southshield",
@@ -2938,7 +3100,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/southshield/"
   },
   {
     "id": "house:ambrose",
@@ -2952,7 +3115,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/ambrose/"
   },
   {
     "id": "place:bellfield",
@@ -2967,7 +3131,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/bellfield/"
   },
   {
     "id": "house:appleton",
@@ -2981,7 +3146,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/appleton/"
   },
   {
     "id": "place:appleton",
@@ -2996,7 +3162,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/appleton/"
   },
   {
     "id": "house:ball",
@@ -3010,7 +3177,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/ball/"
   },
   {
     "id": "place:flintbank",
@@ -3025,7 +3193,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/flintbank/"
   },
   {
     "id": "house:beesbury",
@@ -3039,7 +3208,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/beesbury/"
   },
   {
     "id": "place:honeyholt",
@@ -3054,7 +3224,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/honeyholt/"
   },
   {
     "id": "house:bourney",
@@ -3068,7 +3239,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/bourney/"
   },
   {
     "id": "place:rushbank",
@@ -3083,7 +3255,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/rushbank/"
   },
   {
     "id": "house:bulwer",
@@ -3097,7 +3270,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/bulwer/"
   },
   {
     "id": "place:blackcrown",
@@ -3112,7 +3286,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/blackcrown/"
   },
   {
     "id": "house:cobb",
@@ -3126,7 +3301,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/cobb/"
   },
   {
     "id": "place:barley-tower",
@@ -3141,7 +3317,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/barley-tower/"
   },
   {
     "id": "house:cockshaw",
@@ -3155,7 +3332,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/cockshaw/"
   },
   {
     "id": "place:cockshaw-hall",
@@ -3170,7 +3348,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/cockshaw-hall/"
   },
   {
     "id": "house:cordwayner",
@@ -3184,7 +3363,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/cordwayner/"
   },
   {
     "id": "place:hammerhal",
@@ -3199,7 +3379,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/hammerhal/"
   },
   {
     "id": "house:cuy",
@@ -3213,7 +3394,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/cuy/"
   },
   {
     "id": "place:sunhouse",
@@ -3228,7 +3410,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/sunhouse/"
   },
   {
     "id": "house:dunn",
@@ -3242,7 +3425,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/dunn/"
   },
   {
     "id": "place:reedbank",
@@ -3257,7 +3441,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/reedbank/"
   },
   {
     "id": "house:foxglove",
@@ -3271,7 +3456,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/foxglove/"
   },
   {
     "id": "place:foxden-keep",
@@ -3286,7 +3472,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/foxden-keep/"
   },
   {
     "id": "house:graceford",
@@ -3300,7 +3487,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/graceford/"
   },
   {
     "id": "place:holyhall",
@@ -3315,7 +3503,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/holyhall/"
   },
   {
     "id": "house:graves",
@@ -3329,7 +3518,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/graves/"
   },
   {
     "id": "place:eaglegrave",
@@ -3344,7 +3534,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/eaglegrave/"
   },
   {
     "id": "house:hunt",
@@ -3358,7 +3549,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/hunt/"
   },
   {
     "id": "place:hartwood-hall",
@@ -3373,7 +3565,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/hartwood-hall/"
   },
   {
     "id": "house:kidwell",
@@ -3387,7 +3580,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/kidwell/"
   },
   {
     "id": "place:ivy-hall",
@@ -3402,7 +3596,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/ivy-hall/"
   },
   {
     "id": "house:leygood",
@@ -3416,7 +3611,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/leygood/"
   },
   {
     "id": "place:leygood-keep",
@@ -3431,7 +3627,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/leygood-keep/"
   },
   {
     "id": "house:lowther",
@@ -3445,7 +3642,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/lowther/"
   },
   {
     "id": "place:lowbank-hall",
@@ -3460,7 +3658,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/lowbank-hall/"
   },
   {
     "id": "house:norcross",
@@ -3474,7 +3673,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/norcross/"
   },
   {
     "id": "place:crossmead",
@@ -3489,7 +3689,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/crossmead/"
   },
   {
     "id": "house:norridge",
@@ -3503,7 +3704,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/norridge/"
   },
   {
     "id": "place:northridge",
@@ -3518,7 +3720,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/northridge/"
   },
   {
     "id": "house:oldflowers",
@@ -3532,7 +3735,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/oldflowers/"
   },
   {
     "id": "place:rosebury-hall",
@@ -3547,7 +3751,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/rosebury-hall/"
   },
   {
     "id": "house:rhysling",
@@ -3561,7 +3766,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/rhysling/"
   },
   {
     "id": "place:stonegate",
@@ -3576,7 +3782,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/stonegate/"
   },
   {
     "id": "house:risley",
@@ -3590,7 +3797,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/risley/"
   },
   {
     "id": "place:risley-glade",
@@ -3605,7 +3813,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/risley-glade/"
   },
   {
     "id": "house:rodden",
@@ -3619,7 +3828,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/rodden/"
   },
   {
     "id": "place:redbrook-hall",
@@ -3634,7 +3844,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/redbrook-hall/"
   },
   {
     "id": "house:shermer",
@@ -3648,7 +3859,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/shermer/"
   },
   {
     "id": "place:smithyton",
@@ -3663,7 +3875,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/smithyton/"
   },
   {
     "id": "house:sloane",
@@ -3677,7 +3890,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/sloane/"
   },
   {
     "id": "place:starfield",
@@ -3692,7 +3906,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/starfield/"
   },
   {
     "id": "house:stackhouse",
@@ -3706,7 +3921,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/stackhouse/"
   },
   {
     "id": "place:hayrick-hall",
@@ -3721,7 +3937,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/hayrick-hall/"
   },
   {
     "id": "house:varner",
@@ -3735,7 +3952,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/varner/"
   },
   {
     "id": "place:wheatbridge",
@@ -3750,7 +3968,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/wheatbridge/"
   },
   {
     "id": "house:webber",
@@ -3794,7 +4013,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/whitegrove/"
   },
   {
     "id": "house:willum",
@@ -3808,7 +4028,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/willum/"
   },
   {
     "id": "place:three-swords",
@@ -3823,7 +4044,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/three-swords/"
   },
   {
     "id": "house:bridges",
@@ -3837,7 +4059,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/bridges/"
   },
   {
     "id": "place:twin-arches",
@@ -3852,7 +4075,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/twin-arches/"
   },
   {
     "id": "house:bushy",
@@ -3866,7 +4090,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/bushy/"
   },
   {
     "id": "place:hedgefort",
@@ -3881,7 +4106,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/hedgefort/"
   },
   {
     "id": "house:conklyn",
@@ -3895,7 +4121,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/conklyn/"
   },
   {
     "id": "place:alderbank",
@@ -3910,7 +4137,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/alderbank/"
   },
   {
     "id": "house:cupps",
@@ -3924,7 +4152,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/cupps/"
   },
   {
     "id": "place:cupwell",
@@ -3939,7 +4168,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/cupwell/"
   },
   {
     "id": "house:dunmere",
@@ -3953,7 +4183,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/dunmere/"
   },
   {
     "id": "place:dunmere-hall",
@@ -3968,7 +4199,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/dunmere-hall/"
   },
   {
     "id": "house:durwell",
@@ -3982,7 +4214,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/durwell/"
   },
   {
     "id": "place:durr-s-well",
@@ -3997,7 +4230,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/durr-s-well/"
   },
   {
     "id": "house:fenwick",
@@ -4011,7 +4245,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/fenwick/"
   },
   {
     "id": "place:fenwick-tower",
@@ -4026,7 +4261,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/fenwick-tower/"
   },
   {
     "id": "house:greenhill",
@@ -4040,7 +4276,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/greenhill/"
   },
   {
     "id": "place:greenhill-hall",
@@ -4055,7 +4292,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/greenhill-hall/"
   },
   {
     "id": "house:hastwyck",
@@ -4069,7 +4307,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/hastwyck/"
   },
   {
     "id": "place:hasteford",
@@ -4084,7 +4323,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/hasteford/"
   },
   {
     "id": "house:haye",
@@ -4098,7 +4338,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/haye/"
   },
   {
     "id": "place:haywick",
@@ -4113,7 +4354,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/haywick/"
   },
   {
     "id": "house:hutcheson",
@@ -4127,7 +4369,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/hutcheson/"
   },
   {
     "id": "place:hutchbrook",
@@ -4142,7 +4385,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/hutchbrook/"
   },
   {
     "id": "house:inchfield",
@@ -4156,7 +4400,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/inchfield/"
   },
   {
     "id": "place:inchfield",
@@ -4171,7 +4416,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/inchfield/"
   },
   {
     "id": "house:lyberr",
@@ -4185,7 +4431,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/lyberr/"
   },
   {
     "id": "place:limewick",
@@ -4200,7 +4447,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/limewick/"
   },
   {
     "id": "house:middlebury",
@@ -4214,7 +4462,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/middlebury/"
   },
   {
     "id": "place:middlebury-hall",
@@ -4229,7 +4478,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/middlebury-hall/"
   },
   {
     "id": "house:orme",
@@ -4243,7 +4493,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/orme/"
   },
   {
     "id": "place:orme-s-holt",
@@ -4258,7 +4509,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/orme-s-holt/"
   },
   {
     "id": "house:osgrey",
@@ -4272,7 +4524,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/osgrey/"
   },
   {
     "id": "place:standfast",
@@ -4287,7 +4540,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/standfast/"
   },
   {
     "id": "house:pommingham",
@@ -4301,7 +4555,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/pommingham/"
   },
   {
     "id": "place:pommingham",
@@ -4316,7 +4571,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/pommingham/"
   },
   {
     "id": "house:redding",
@@ -4330,7 +4586,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/redding/"
   },
   {
     "id": "place:redmead",
@@ -4345,7 +4602,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/redmead/"
   },
   {
     "id": "house:redpool",
@@ -4359,7 +4617,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/redpool/"
   },
   {
     "id": "place:redpool",
@@ -4374,7 +4633,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/redpool/"
   },
   {
     "id": "house:uffering",
@@ -4388,7 +4648,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/uffering/"
   },
   {
     "id": "place:overbrook",
@@ -4403,7 +4664,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/overbrook/"
   },
   {
     "id": "house:westbrook",
@@ -4417,7 +4679,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/westbrook/"
   },
   {
     "id": "place:westbrook-tower",
@@ -4432,7 +4695,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/westbrook-tower/"
   },
   {
     "id": "house:woodwright",
@@ -4446,7 +4710,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/woodwright/"
   },
   {
     "id": "place:sawbridge",
@@ -4461,7 +4726,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/sawbridge/"
   },
   {
     "id": "house:wythers",
@@ -4475,7 +4741,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/wythers/"
   },
   {
     "id": "place:withybank",
@@ -4490,7 +4757,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/withybank/"
   },
   {
     "id": "house:yelshire",
@@ -4504,7 +4772,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/houses/yelshire/"
   },
   {
     "id": "place:yellow-dell",
@@ -4519,7 +4788,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/places/yellow-dell/"
   },
   {
     "id": "person:lyman-verrall",
@@ -4532,7 +4802,8 @@
       "source": "householdbook-v12",
       "line": 361
     },
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/characters/lyman-verrall/"
   },
   {
     "id": "person:everard-blythe",
@@ -4545,7 +4816,8 @@
       "source": "householdbook-v12",
       "line": 362
     },
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/characters/everard-blythe/"
   },
   {
     "id": "person:wyman-latham",
@@ -4558,7 +4830,8 @@
       "source": "householdbook-v12",
       "line": 363
     },
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/characters/wyman-latham/"
   },
   {
     "id": "person:maester-perrin",
@@ -4571,7 +4844,8 @@
       "source": "householdbook-v12",
       "line": 364
     },
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/characters/maester-perrin/"
   },
   {
     "id": "person:septon-lorimer",
@@ -4584,7 +4858,8 @@
       "source": "householdbook-v12",
       "line": 365
     },
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/characters/septon-lorimer/"
   },
   {
     "id": "person:bertram-corliss",
@@ -4597,7 +4872,8 @@
       "source": "householdbook-v12",
       "line": 367
     },
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/characters/bertram-corliss/"
   },
   {
     "id": "person:tobin-whitlow",
@@ -4610,7 +4886,8 @@
       "source": "householdbook-v12",
       "line": 368
     },
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/characters/tobin-whitlow/"
   },
   {
     "id": "person:lucan-marwick",
@@ -4623,7 +4900,8 @@
       "source": "householdbook-v12",
       "line": 369
     },
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/characters/lucan-marwick/"
   },
   {
     "id": "person:marya-caswell",
@@ -4636,7 +4914,8 @@
       "source": "householdbook-v12",
       "line": 371
     },
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/characters/marya-caswell/"
   },
   {
     "id": "person:septa-lenora",
@@ -4649,7 +4928,8 @@
       "source": "householdbook-v12",
       "line": 372
     },
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/characters/septa-lenora/"
   },
   {
     "id": "person:osric-dunmere",
@@ -4662,7 +4942,8 @@
       "source": "householdbook-v12",
       "line": 375
     },
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/characters/osric-dunmere/"
   },
   {
     "id": "person:baldric-haye",
@@ -4675,7 +4956,8 @@
       "source": "householdbook-v12",
       "line": 376
     },
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/characters/baldric-haye/"
   },
   {
     "id": "person:perkin-fenwick",
@@ -4688,7 +4970,8 @@
       "source": "householdbook-v12",
       "line": 377
     },
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/characters/perkin-fenwick/"
   },
   {
     "id": "person:piers-fallow",
@@ -4701,7 +4984,8 @@
       "source": "householdbook-v12",
       "line": 378
     },
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/characters/piers-fallow/"
   },
   {
     "id": "person:tolman-haverill",
@@ -4714,7 +4998,8 @@
       "source": "householdbook-v12",
       "line": 380
     },
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/characters/tolman-haverill/"
   },
   {
     "id": "person:dunstan-fallow",
@@ -4727,7 +5012,8 @@
       "source": "householdbook-v12",
       "line": 381
     },
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/characters/dunstan-fallow/"
   },
   {
     "id": "person:aldous-trent",
@@ -4740,7 +5026,8 @@
       "source": "householdbook-v12",
       "line": 382
     },
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/characters/aldous-trent/"
   },
   {
     "id": "person:garlan-fossoway",
@@ -4753,7 +5040,8 @@
       "source": "householdbook-v12",
       "line": 385
     },
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "baseline_profile",
+    "page": "/characters/garlan-fossoway/"
   },
   {
     "id": "person:wylla-merryweather",
@@ -4810,7 +5098,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 948
-    }
+    },
+    "page": "/characters/alysanne-baratheon/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:lyonel-baratheon",
@@ -4854,7 +5144,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 1093
-    }
+    },
+    "page": "/characters/ormund-baratheon/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:boremund-baratheon",
@@ -4868,7 +5160,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 1011
-    }
+    },
+    "page": "/characters/boremund-baratheon/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:ellyn-baratheon",
@@ -4882,7 +5176,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 1032
-    }
+    },
+    "page": "/characters/ellyn-baratheon/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:edwyn-baratheon",
@@ -4896,7 +5192,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 1052
-    }
+    },
+    "page": "/characters/edwyn-baratheon/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:gowen-baratheon",
@@ -4910,7 +5208,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 1072
-    }
+    },
+    "page": "/characters/gowen-baratheon/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:tya-lannister",
@@ -4923,7 +5223,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 1073
-    }
+    },
+    "page": "/characters/tya-lannister/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:morton-caron",
@@ -4936,7 +5238,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 920
-    }
+    },
+    "page": "/characters/morton-caron/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:armond-caron",
@@ -4949,7 +5253,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 924
-    }
+    },
+    "page": "/characters/armond-caron/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:corwin-swann",
@@ -4962,7 +5268,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 925
-    }
+    },
+    "page": "/characters/corwin-swann/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:unnamed-peasebury-daughter",
@@ -4977,7 +5285,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 1113
-    }
+    },
+    "page": "/characters/unnamed-peasebury-daughter/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:ronnel-penrose",
@@ -5090,7 +5400,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 1152
-    }
+    },
+    "page": "/characters/aerys-targaryen/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "title:lord-of-storms-end",
@@ -5138,14 +5450,15 @@
     "id": "house:lannister",
     "kind": "house",
     "name": "House Lannister",
-    "catalogStatus": "reference_only",
+    "catalogStatus": "baseline_profile",
     "sources": [
       "householdbook-v12"
     ],
     "householdReference": {
       "source": "householdbook-v12",
       "line": 1073
-    }
+    },
+    "page": "/houses/lannister/"
   },
   {
     "id": "person:leo-tyrell",
@@ -5204,7 +5517,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 2765
-    }
+    },
+    "page": "/characters/alys-tyrell/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:harlen-tyrell",
@@ -5218,7 +5533,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 2531
-    }
+    },
+    "page": "/characters/harlen-tyrell/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:moryn-tyrell",
@@ -5247,7 +5564,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 2765
-    }
+    },
+    "page": "/characters/melessa-tyrell/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:ceryse-oakheart",
@@ -5291,7 +5610,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 2765
-    }
+    },
+    "page": "/characters/lenora-tyrell/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:brenna-caswell",
@@ -5334,7 +5655,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 2511
-    }
+    },
+    "page": "/characters/gormon-peake/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:theomar-redwyne",
@@ -5363,7 +5686,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 2847
-    }
+    },
+    "page": "/characters/arron-redwyne/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:hugh-redwyne",
@@ -5377,7 +5702,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 2532
-    }
+    },
+    "page": "/characters/hugh-redwyne/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:melara-redwyne",
@@ -5391,7 +5718,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 2847
-    }
+    },
+    "page": "/characters/melara-redwyne/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:arstan-blackbar",
@@ -5405,7 +5734,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 2847
-    }
+    },
+    "page": "/characters/arstan-blackbar/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:ashford-unnamed-lord",
@@ -5419,7 +5750,9 @@
       "source": "householdbook-v12",
       "line": 2511
     },
-    "givenNameUnestablished": true
+    "givenNameUnestablished": true,
+    "page": "/characters/ashford-unnamed-lord/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:ormund-hewett",
@@ -5433,7 +5766,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 3222
-    }
+    },
+    "page": "/characters/ormund-hewett/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:roderick-tarly",
@@ -5447,7 +5782,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 3232
-    }
+    },
+    "page": "/characters/roderick-tarly/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:denys-tarly",
@@ -5461,7 +5798,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 2534
-    }
+    },
+    "page": "/characters/denys-tarly/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:gyles-peake",
@@ -5475,7 +5814,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 2533
-    }
+    },
+    "page": "/characters/gyles-peake/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:will-risley",
@@ -5489,7 +5830,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 2535
-    }
+    },
+    "page": "/characters/will-risley/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:luthor-risley",
@@ -5502,7 +5845,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 2535
-    }
+    },
+    "page": "/characters/luthor-risley/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:harys-oakheart",
@@ -5516,7 +5861,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 3553
-    }
+    },
+    "page": "/characters/harys-oakheart/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:oakheart-late-lord",
@@ -5531,7 +5878,9 @@
       "line": 3554
     },
     "givenNameUnestablished": true,
-    "deceasedBy208": true
+    "deceasedBy208": true,
+    "page": "/characters/oakheart-late-lord/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:gwayne-oakheart",
@@ -5544,7 +5893,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 3562
-    }
+    },
+    "page": "/characters/gwayne-oakheart/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "title:lord-of-highgarden",
@@ -5751,7 +6102,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 3656
-    }
+    },
+    "page": "/characters/simon-staunton/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:lucas-inchfield",
@@ -5765,7 +6118,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 3657
-    }
+    },
+    "page": "/characters/lucas-inchfield/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:caswell-first-wife",
@@ -5779,7 +6134,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 2101
-    }
+    },
+    "page": "/characters/caswell-first-wife/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:cleyton-caswell",
@@ -5807,7 +6164,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 2196
-    }
+    },
+    "page": "/characters/ashford-unnamed-lady/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:robert-ashford",
@@ -5848,7 +6207,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 1353
-    }
+    },
+    "page": "/characters/pearse-caron/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:merryweather-unnamed-lord",
@@ -5863,7 +6224,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 2316
-    }
+    },
+    "page": "/characters/merryweather-unnamed-lord/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:odessa-merryweather",
@@ -5875,7 +6238,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 2316
-    }
+    },
+    "page": "/characters/odessa-merryweather/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:lymond-merryweather",
@@ -5932,7 +6297,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 3079
-    }
+    },
+    "page": "/characters/corenna-hightower/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:janna-hightower",
@@ -5946,7 +6313,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 3079
-    }
+    },
+    "page": "/characters/janna-hightower/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:abelar-hightower",
@@ -5975,7 +6344,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 3079
-    }
+    },
+    "page": "/characters/daenora-hightower/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:lynora-hightower",
@@ -5989,7 +6360,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 3079
-    }
+    },
+    "page": "/characters/lynora-hightower/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:quenton-hightower",
@@ -6003,7 +6376,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 3079
-    }
+    },
+    "page": "/characters/quenton-hightower/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:martyn-bulwer",
@@ -6016,7 +6391,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 3079
-    }
+    },
+    "page": "/characters/martyn-bulwer/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:aelora-hightower",
@@ -6029,7 +6406,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 3078
-    }
+    },
+    "page": "/characters/aelora-hightower/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:rosamund-hightower",
@@ -6042,7 +6421,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 3078
-    }
+    },
+    "page": "/characters/rosamund-hightower/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:harys-beesbury",
@@ -6055,7 +6436,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 3078
-    }
+    },
+    "page": "/characters/harys-beesbury/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "person:triston-mullendore",
@@ -6068,7 +6451,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 3078
-    }
+    },
+    "page": "/characters/triston-mullendore/",
+    "catalogStatus": "baseline_profile"
   },
   {
     "id": "title:lord-of-bitterbridge",
@@ -6153,5 +6538,692 @@
       "line": 3647
     },
     "page": "/titles/lord-of-coldmoat/"
+  },
+  {
+    "id": "person:dondarrion-unnamed-lord",
+    "kind": "person",
+    "name": "Lord Dondarrion (given name unrecorded)",
+    "birthHouse": "dondarrion",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1256
+    },
+    "givenNameUnestablished": true,
+    "page": "/characters/dondarrion-unnamed-lord/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:ravella-dondarrion",
+    "kind": "person",
+    "name": "Lady Ravella Dondarrion",
+    "birthHouse": "selmy",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1256
+    },
+    "page": "/characters/ravella-dondarrion/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:roland-dondarrion",
+    "kind": "person",
+    "name": "Ser Roland Dondarrion",
+    "birthHouse": "dondarrion",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1256
+    },
+    "deceasedBy208": true,
+    "page": "/characters/roland-dondarrion/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:myrielle-dondarrion",
+    "kind": "person",
+    "name": "Lady Myrielle Dondarrion",
+    "birthHouse": "caron",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1256
+    },
+    "page": "/characters/myrielle-dondarrion/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:bryen-dondarrion",
+    "kind": "person",
+    "name": "Bryen Dondarrion",
+    "birthHouse": "dondarrion",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1256
+    },
+    "deceasedBy208": true,
+    "page": "/characters/bryen-dondarrion/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:jena-targaryen",
+    "kind": "person",
+    "name": "Princess Jena Targaryen",
+    "birthHouse": "dondarrion",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1256
+    },
+    "page": "/characters/jena-targaryen/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:baelor-breakspear",
+    "kind": "person",
+    "name": "Prince Baelor Targaryen",
+    "birthHouse": "targaryen",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1256
+    },
+    "page": "/characters/baelor-breakspear/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:valarr-targaryen",
+    "kind": "person",
+    "name": "Prince Valarr Targaryen",
+    "birthHouse": "targaryen",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1256
+    },
+    "page": "/characters/valarr-targaryen/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:matarys-targaryen",
+    "kind": "person",
+    "name": "Prince Matarys Targaryen",
+    "birthHouse": "targaryen",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1256
+    },
+    "page": "/characters/matarys-targaryen/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:manfred-dondarrion",
+    "kind": "person",
+    "name": "Ser Manfred Dondarrion",
+    "birthHouse": "dondarrion",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1256
+    },
+    "page": "/characters/manfred-dondarrion/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:caron-late-lord",
+    "kind": "person",
+    "name": "Former Lord Caron",
+    "birthHouse": "caron",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1353
+    },
+    "givenNameUnestablished": true,
+    "deceasedBy208": true,
+    "page": "/characters/caron-late-lord/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:caron-late-lady",
+    "kind": "person",
+    "name": "Former Lady Caron",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1353
+    },
+    "givenNameUnestablished": true,
+    "deceasedBy208": true,
+    "page": "/characters/caron-late-lady/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:harlan-caron",
+    "kind": "person",
+    "name": "Ser Harlan Caron",
+    "birthHouse": "caron",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1353
+    },
+    "page": "/characters/harlan-caron/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:rosamund-caron",
+    "kind": "person",
+    "name": "Lady Rosamund Caron",
+    "birthHouse": "swann",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1354
+    },
+    "page": "/characters/rosamund-caron/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:ellyn-caron",
+    "kind": "person",
+    "name": "Lady Ellyn Caron",
+    "birthHouse": "caron",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1354
+    },
+    "page": "/characters/ellyn-caron/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:gawen-swann",
+    "kind": "person",
+    "name": "Lord Gawen Swann",
+    "birthHouse": "swann",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1493
+    },
+    "page": "/characters/gawen-swann/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:mylenda-swann",
+    "kind": "person",
+    "name": "Lady Mylenda Swann",
+    "birthHouse": "buckler",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1493
+    },
+    "page": "/characters/mylenda-swann/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:gulian-swann",
+    "kind": "person",
+    "name": "Ser Gulian Swann",
+    "birthHouse": "swann",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1493
+    },
+    "page": "/characters/gulian-swann/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:marissa-swann",
+    "kind": "person",
+    "name": "Lady Marissa Swann",
+    "birthHouse": "morrigen",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1493
+    },
+    "page": "/characters/marissa-swann/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:steffon-swann",
+    "kind": "person",
+    "name": "Steffon Swann",
+    "birthHouse": "swann",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1493
+    },
+    "age208": 16,
+    "page": "/characters/steffon-swann/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:balon-swann",
+    "kind": "person",
+    "name": "Ser Balon Swann",
+    "birthHouse": "swann",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1493
+    },
+    "page": "/characters/balon-swann/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:harys-swann",
+    "kind": "person",
+    "name": "Ser Harys Swann",
+    "birthHouse": "swann",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1493
+    },
+    "page": "/characters/harys-swann/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:rolph-wagstaff",
+    "kind": "person",
+    "name": "Ser Rolph Wagstaff",
+    "birthHouse": "wagstaff",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1532
+    },
+    "page": "/characters/rolph-wagstaff/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:olwen-wagstaff",
+    "kind": "person",
+    "name": "Lady Olwen Wagstaff",
+    "birthHouse": "bolling",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1532
+    },
+    "page": "/characters/olwen-wagstaff/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:gower-late-lord",
+    "kind": "person",
+    "name": "Former Lord Gower",
+    "birthHouse": "gower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1605
+    },
+    "givenNameUnestablished": true,
+    "deceasedBy208": true,
+    "page": "/characters/gower-late-lord/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:hester-gower",
+    "kind": "person",
+    "name": "Lady Hester Gower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1605
+    },
+    "page": "/characters/hester-gower/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:aymer-gower",
+    "kind": "person",
+    "name": "Lord Aymer Gower",
+    "birthHouse": "gower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1605
+    },
+    "page": "/characters/aymer-gower/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:isolde-gower",
+    "kind": "person",
+    "name": "Lady Isolde Gower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1605
+    },
+    "page": "/characters/isolde-gower/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:rickard-gower",
+    "kind": "person",
+    "name": "Rickard Gower",
+    "birthHouse": "gower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1605
+    },
+    "page": "/characters/rickard-gower/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:hugh-hertson",
+    "kind": "person",
+    "name": "Ser Hugh Hertson",
+    "birthHouse": "hertson",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1697
+    },
+    "deceasedBy208": true,
+    "page": "/characters/hugh-hertson/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:marian-hertson",
+    "kind": "person",
+    "name": "Lady Marian Hertson",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1697
+    },
+    "page": "/characters/marian-hertson/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:wilmar-hertson",
+    "kind": "person",
+    "name": "Lord Wilmar Hertson",
+    "birthHouse": "hertson",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1697
+    },
+    "page": "/characters/wilmar-hertson/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:dermot-hertson",
+    "kind": "person",
+    "name": "Ser Dermot Hertson",
+    "birthHouse": "hertson",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1697
+    },
+    "page": "/characters/dermot-hertson/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:cafferen-unnamed-lord",
+    "kind": "person",
+    "name": "Lord Cafferen (given name unrecorded)",
+    "birthHouse": "cafferen",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1770
+    },
+    "givenNameUnestablished": true,
+    "page": "/characters/cafferen-unnamed-lord/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:cafferen-unnamed-lady",
+    "kind": "person",
+    "name": "Lady Cafferen (given name unrecorded)",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1770
+    },
+    "givenNameUnestablished": true,
+    "page": "/characters/cafferen-unnamed-lady/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:merrit-cafferen",
+    "kind": "person",
+    "name": "Ser Merrit Cafferen",
+    "birthHouse": "cafferen",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1770
+    },
+    "page": "/characters/merrit-cafferen/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:peasebury-unnamed-lord",
+    "kind": "person",
+    "name": "Lord Peasebury (given name unrecorded)",
+    "birthHouse": "peasebury",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1863
+    },
+    "givenNameUnestablished": true,
+    "page": "/characters/peasebury-unnamed-lord/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:hilda-peasebury",
+    "kind": "person",
+    "name": "Lady Hilda Peasebury",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1863
+    },
+    "page": "/characters/hilda-peasebury/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:garrett-peasebury",
+    "kind": "person",
+    "name": "Ser Garrett Peasebury",
+    "birthHouse": "peasebury",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1863
+    },
+    "page": "/characters/garrett-peasebury/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:elinor-peake",
+    "kind": "person",
+    "name": "Lady Elinor Peake",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2423
+    },
+    "page": "/characters/elinor-peake/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:edmund-peake",
+    "kind": "person",
+    "name": "Ser Edmund Peake",
+    "birthHouse": "peake",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2423
+    },
+    "age208": 22,
+    "page": "/characters/edmund-peake/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:blackbar-late-lord",
+    "kind": "person",
+    "name": "Former Lord Blackbar",
+    "birthHouse": "blackbar",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2877
+    },
+    "givenNameUnestablished": true,
+    "deceasedBy208": true,
+    "page": "/characters/blackbar-late-lord/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:meredyth-blackbar",
+    "kind": "person",
+    "name": "Lady Meredyth Blackbar",
+    "birthHouse": "blackbar",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2877
+    },
+    "page": "/characters/meredyth-blackbar/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:eustace-florent",
+    "kind": "person",
+    "name": "Lord Eustace Florent",
+    "birthHouse": "florent",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3030
+    },
+    "age208": 53,
+    "page": "/characters/eustace-florent/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:raynard-florent",
+    "kind": "person",
+    "name": "Ser Raynard Florent",
+    "birthHouse": "florent",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3030
+    },
+    "age208": 23,
+    "page": "/characters/raynard-florent/",
+    "catalogStatus": "baseline_profile"
   }
 ]

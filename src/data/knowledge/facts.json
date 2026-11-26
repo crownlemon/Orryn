@@ -15362,5 +15362,1787 @@
         "line": 3647
       }
     ]
+  },
+  {
+    "id": "fact:893",
+    "subject": "person:dondarrion-unnamed-lord",
+    "predicate": "married_to",
+    "object": "person:ravella-dondarrion",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1256
+      }
+    ]
+  },
+  {
+    "id": "fact:894",
+    "subject": "person:roland-dondarrion",
+    "predicate": "child_of",
+    "object": "person:dondarrion-unnamed-lord",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1256
+      }
+    ]
+  },
+  {
+    "id": "fact:895",
+    "subject": "person:roland-dondarrion",
+    "predicate": "child_of",
+    "object": "person:ravella-dondarrion",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1256
+      }
+    ]
+  },
+  {
+    "id": "fact:896",
+    "subject": "person:jena-targaryen",
+    "predicate": "child_of",
+    "object": "person:dondarrion-unnamed-lord",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1256
+      }
+    ]
+  },
+  {
+    "id": "fact:897",
+    "subject": "person:jena-targaryen",
+    "predicate": "child_of",
+    "object": "person:ravella-dondarrion",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1256
+      }
+    ]
+  },
+  {
+    "id": "fact:898",
+    "subject": "person:manfred-dondarrion",
+    "predicate": "child_of",
+    "object": "person:dondarrion-unnamed-lord",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1256
+      }
+    ]
+  },
+  {
+    "id": "fact:899",
+    "subject": "person:manfred-dondarrion",
+    "predicate": "child_of",
+    "object": "person:ravella-dondarrion",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1256
+      }
+    ]
+  },
+  {
+    "id": "fact:900",
+    "subject": "person:roland-dondarrion",
+    "predicate": "married_to",
+    "object": "person:myrielle-dondarrion",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1256
+      }
+    ]
+  },
+  {
+    "id": "fact:901",
+    "subject": "person:bryen-dondarrion",
+    "predicate": "child_of",
+    "object": "person:roland-dondarrion",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1256
+      }
+    ]
+  },
+  {
+    "id": "fact:902",
+    "subject": "person:bryen-dondarrion",
+    "predicate": "child_of",
+    "object": "person:myrielle-dondarrion",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1256
+      }
+    ]
+  },
+  {
+    "id": "fact:903",
+    "subject": "person:jena-targaryen",
+    "predicate": "married_to",
+    "object": "person:baelor-breakspear",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1256
+      }
+    ]
+  },
+  {
+    "id": "fact:904",
+    "subject": "person:valarr-targaryen",
+    "predicate": "child_of",
+    "object": "person:jena-targaryen",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1256
+      }
+    ]
+  },
+  {
+    "id": "fact:905",
+    "subject": "person:valarr-targaryen",
+    "predicate": "child_of",
+    "object": "person:baelor-breakspear",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1256
+      }
+    ]
+  },
+  {
+    "id": "fact:906",
+    "subject": "person:matarys-targaryen",
+    "predicate": "child_of",
+    "object": "person:jena-targaryen",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1256
+      }
+    ]
+  },
+  {
+    "id": "fact:907",
+    "subject": "person:matarys-targaryen",
+    "predicate": "child_of",
+    "object": "person:baelor-breakspear",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1256
+      }
+    ]
+  },
+  {
+    "id": "fact:908",
+    "subject": "house:dondarrion",
+    "predicate": "head",
+    "object": "person:dondarrion-unnamed-lord",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1256
+      }
+    ]
+  },
+  {
+    "id": "fact:909",
+    "subject": "person:manfred-dondarrion",
+    "predicate": "heir_to",
+    "object": "house:dondarrion",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1256
+      }
+    ]
+  },
+  {
+    "id": "fact:910",
+    "subject": "person:caron-late-lord",
+    "predicate": "married_to",
+    "object": "person:caron-late-lady",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1353
+      }
+    ]
+  },
+  {
+    "id": "fact:911",
+    "subject": "person:ashford-unnamed-lady",
+    "predicate": "child_of",
+    "object": "person:caron-late-lord",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1353
+      }
+    ]
+  },
+  {
+    "id": "fact:912",
+    "subject": "person:ashford-unnamed-lady",
+    "predicate": "child_of",
+    "object": "person:caron-late-lady",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1353
+      }
+    ]
+  },
+  {
+    "id": "fact:913",
+    "subject": "person:myrielle-dondarrion",
+    "predicate": "child_of",
+    "object": "person:caron-late-lord",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1353
+      }
+    ]
+  },
+  {
+    "id": "fact:914",
+    "subject": "person:myrielle-dondarrion",
+    "predicate": "child_of",
+    "object": "person:caron-late-lady",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1353
+      }
+    ]
+  },
+  {
+    "id": "fact:915",
+    "subject": "person:harlan-caron",
+    "predicate": "child_of",
+    "object": "person:caron-late-lord",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1353
+      }
+    ]
+  },
+  {
+    "id": "fact:916",
+    "subject": "person:harlan-caron",
+    "predicate": "child_of",
+    "object": "person:caron-late-lady",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1353
+      }
+    ]
+  },
+  {
+    "id": "fact:917",
+    "subject": "person:pearse-caron",
+    "predicate": "child_of",
+    "object": "person:caron-late-lord",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1353
+      }
+    ]
+  },
+  {
+    "id": "fact:918",
+    "subject": "person:pearse-caron",
+    "predicate": "child_of",
+    "object": "person:caron-late-lady",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1353
+      }
+    ]
+  },
+  {
+    "id": "fact:919",
+    "subject": "person:morton-caron",
+    "predicate": "child_of",
+    "object": "person:caron-late-lord",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1353
+      }
+    ]
+  },
+  {
+    "id": "fact:920",
+    "subject": "person:morton-caron",
+    "predicate": "child_of",
+    "object": "person:caron-late-lady",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1353
+      }
+    ]
+  },
+  {
+    "id": "fact:921",
+    "subject": "person:pearse-caron",
+    "predicate": "married_to",
+    "object": "person:rosamund-caron",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1354
+      }
+    ]
+  },
+  {
+    "id": "fact:922",
+    "subject": "person:armond-caron",
+    "predicate": "child_of",
+    "object": "person:pearse-caron",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1354
+      }
+    ]
+  },
+  {
+    "id": "fact:923",
+    "subject": "person:armond-caron",
+    "predicate": "child_of",
+    "object": "person:rosamund-caron",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1354
+      }
+    ]
+  },
+  {
+    "id": "fact:924",
+    "subject": "person:ellyn-caron",
+    "predicate": "child_of",
+    "object": "person:pearse-caron",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1354
+      }
+    ]
+  },
+  {
+    "id": "fact:925",
+    "subject": "person:ellyn-caron",
+    "predicate": "child_of",
+    "object": "person:rosamund-caron",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1354
+      }
+    ]
+  },
+  {
+    "id": "fact:926",
+    "subject": "house:caron",
+    "predicate": "head",
+    "object": "person:pearse-caron",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1354
+      }
+    ]
+  },
+  {
+    "id": "fact:927",
+    "subject": "person:armond-caron",
+    "predicate": "heir_to",
+    "object": "house:caron",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1354
+      }
+    ]
+  },
+  {
+    "id": "fact:928",
+    "subject": "person:gawen-swann",
+    "predicate": "married_to",
+    "object": "person:mylenda-swann",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1493
+      }
+    ]
+  },
+  {
+    "id": "fact:929",
+    "subject": "person:rosamund-caron",
+    "predicate": "child_of",
+    "object": "person:gawen-swann",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1493
+      }
+    ]
+  },
+  {
+    "id": "fact:930",
+    "subject": "person:rosamund-caron",
+    "predicate": "child_of",
+    "object": "person:mylenda-swann",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1493
+      }
+    ]
+  },
+  {
+    "id": "fact:931",
+    "subject": "person:gulian-swann",
+    "predicate": "child_of",
+    "object": "person:gawen-swann",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1493
+      }
+    ]
+  },
+  {
+    "id": "fact:932",
+    "subject": "person:gulian-swann",
+    "predicate": "child_of",
+    "object": "person:mylenda-swann",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1493
+      }
+    ]
+  },
+  {
+    "id": "fact:933",
+    "subject": "person:balon-swann",
+    "predicate": "child_of",
+    "object": "person:gawen-swann",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1493
+      }
+    ]
+  },
+  {
+    "id": "fact:934",
+    "subject": "person:balon-swann",
+    "predicate": "child_of",
+    "object": "person:mylenda-swann",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1493
+      }
+    ]
+  },
+  {
+    "id": "fact:935",
+    "subject": "person:harys-swann",
+    "predicate": "child_of",
+    "object": "person:gawen-swann",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1493
+      }
+    ]
+  },
+  {
+    "id": "fact:936",
+    "subject": "person:harys-swann",
+    "predicate": "child_of",
+    "object": "person:mylenda-swann",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1493
+      }
+    ]
+  },
+  {
+    "id": "fact:937",
+    "subject": "person:gulian-swann",
+    "predicate": "married_to",
+    "object": "person:marissa-swann",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1493
+      }
+    ]
+  },
+  {
+    "id": "fact:938",
+    "subject": "person:steffon-swann",
+    "predicate": "child_of",
+    "object": "person:gulian-swann",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1493
+      }
+    ]
+  },
+  {
+    "id": "fact:939",
+    "subject": "person:steffon-swann",
+    "predicate": "child_of",
+    "object": "person:marissa-swann",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1493
+      }
+    ]
+  },
+  {
+    "id": "fact:940",
+    "subject": "person:corwin-swann",
+    "predicate": "child_of",
+    "object": "person:gulian-swann",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1493
+      }
+    ]
+  },
+  {
+    "id": "fact:941",
+    "subject": "person:corwin-swann",
+    "predicate": "child_of",
+    "object": "person:marissa-swann",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1493
+      }
+    ]
+  },
+  {
+    "id": "fact:942",
+    "subject": "person:gawen-swann",
+    "predicate": "sibling_of",
+    "object": "person:alysanne-baratheon",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1493
+      }
+    ]
+  },
+  {
+    "id": "fact:943",
+    "subject": "house:swann",
+    "predicate": "head",
+    "object": "person:gawen-swann",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1493
+      }
+    ]
+  },
+  {
+    "id": "fact:944",
+    "subject": "person:gulian-swann",
+    "predicate": "heir_to",
+    "object": "house:swann",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1493
+      }
+    ]
+  },
+  {
+    "id": "fact:945",
+    "subject": "person:rolph-wagstaff",
+    "predicate": "married_to",
+    "object": "person:olwen-wagstaff",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1532
+      }
+    ]
+  },
+  {
+    "id": "fact:946",
+    "subject": "person:edric-wagstaff",
+    "predicate": "child_of",
+    "object": "person:rolph-wagstaff",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1532
+      }
+    ]
+  },
+  {
+    "id": "fact:947",
+    "subject": "person:edric-wagstaff",
+    "predicate": "child_of",
+    "object": "person:olwen-wagstaff",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1532
+      }
+    ]
+  },
+  {
+    "id": "fact:948",
+    "subject": "person:edric-wagstaff",
+    "predicate": "heir_to",
+    "object": "house:wagstaff",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1532
+      }
+    ]
+  },
+  {
+    "id": "fact:949",
+    "subject": "person:gower-late-lord",
+    "predicate": "married_to",
+    "object": "person:hester-gower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1605
+      }
+    ]
+  },
+  {
+    "id": "fact:950",
+    "subject": "person:aymer-gower",
+    "predicate": "child_of",
+    "object": "person:gower-late-lord",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1605
+      }
+    ]
+  },
+  {
+    "id": "fact:951",
+    "subject": "person:aymer-gower",
+    "predicate": "child_of",
+    "object": "person:hester-gower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1605
+      }
+    ]
+  },
+  {
+    "id": "fact:952",
+    "subject": "person:maris-grandison",
+    "predicate": "child_of",
+    "object": "person:gower-late-lord",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1605
+      }
+    ]
+  },
+  {
+    "id": "fact:953",
+    "subject": "person:maris-grandison",
+    "predicate": "child_of",
+    "object": "person:hester-gower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1605
+      }
+    ]
+  },
+  {
+    "id": "fact:954",
+    "subject": "person:aymer-gower",
+    "predicate": "married_to",
+    "object": "person:isolde-gower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1605
+      }
+    ]
+  },
+  {
+    "id": "fact:955",
+    "subject": "person:rickard-gower",
+    "predicate": "child_of",
+    "object": "person:aymer-gower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1605
+      }
+    ]
+  },
+  {
+    "id": "fact:956",
+    "subject": "person:rickard-gower",
+    "predicate": "child_of",
+    "object": "person:isolde-gower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1605
+      }
+    ]
+  },
+  {
+    "id": "fact:957",
+    "subject": "house:gower",
+    "predicate": "head",
+    "object": "person:aymer-gower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1605
+      }
+    ]
+  },
+  {
+    "id": "fact:958",
+    "subject": "person:rickard-gower",
+    "predicate": "heir_to",
+    "object": "house:gower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1605
+      }
+    ]
+  },
+  {
+    "id": "fact:959",
+    "subject": "person:hugh-hertson",
+    "predicate": "married_to",
+    "object": "person:marian-hertson",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1697
+      }
+    ]
+  },
+  {
+    "id": "fact:960",
+    "subject": "person:wilmar-hertson",
+    "predicate": "child_of",
+    "object": "person:hugh-hertson",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1697
+      }
+    ]
+  },
+  {
+    "id": "fact:961",
+    "subject": "person:wilmar-hertson",
+    "predicate": "child_of",
+    "object": "person:marian-hertson",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1697
+      }
+    ]
+  },
+  {
+    "id": "fact:962",
+    "subject": "person:lynesse-grandison",
+    "predicate": "child_of",
+    "object": "person:hugh-hertson",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1697
+      }
+    ]
+  },
+  {
+    "id": "fact:963",
+    "subject": "person:lynesse-grandison",
+    "predicate": "child_of",
+    "object": "person:marian-hertson",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1697
+      }
+    ]
+  },
+  {
+    "id": "fact:964",
+    "subject": "person:dermot-hertson",
+    "predicate": "child_of",
+    "object": "person:hugh-hertson",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1697
+      }
+    ]
+  },
+  {
+    "id": "fact:965",
+    "subject": "person:dermot-hertson",
+    "predicate": "child_of",
+    "object": "person:marian-hertson",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1697
+      }
+    ]
+  },
+  {
+    "id": "fact:966",
+    "subject": "house:hertson",
+    "predicate": "head",
+    "object": "person:wilmar-hertson",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1697
+      }
+    ]
+  },
+  {
+    "id": "fact:967",
+    "subject": "person:cafferen-unnamed-lord",
+    "predicate": "married_to",
+    "object": "person:cafferen-unnamed-lady",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1770
+      }
+    ]
+  },
+  {
+    "id": "fact:968",
+    "subject": "person:merrit-cafferen",
+    "predicate": "child_of",
+    "object": "person:cafferen-unnamed-lord",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1770
+      }
+    ]
+  },
+  {
+    "id": "fact:969",
+    "subject": "person:merrit-cafferen",
+    "predicate": "child_of",
+    "object": "person:cafferen-unnamed-lady",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1770
+      }
+    ]
+  },
+  {
+    "id": "fact:970",
+    "subject": "person:alysanne-cafferen",
+    "predicate": "child_of",
+    "object": "person:cafferen-unnamed-lord",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1770
+      }
+    ]
+  },
+  {
+    "id": "fact:971",
+    "subject": "person:alysanne-cafferen",
+    "predicate": "child_of",
+    "object": "person:cafferen-unnamed-lady",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1770
+      }
+    ]
+  },
+  {
+    "id": "fact:972",
+    "subject": "house:cafferen",
+    "predicate": "head",
+    "object": "person:cafferen-unnamed-lord",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1770
+      }
+    ]
+  },
+  {
+    "id": "fact:973",
+    "subject": "person:merrit-cafferen",
+    "predicate": "heir_to",
+    "object": "house:cafferen",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1770
+      }
+    ]
+  },
+  {
+    "id": "fact:974",
+    "subject": "person:peasebury-unnamed-lord",
+    "predicate": "married_to",
+    "object": "person:hilda-peasebury",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1863
+      }
+    ]
+  },
+  {
+    "id": "fact:975",
+    "subject": "person:unnamed-peasebury-daughter",
+    "predicate": "child_of",
+    "object": "person:peasebury-unnamed-lord",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1863
+      }
+    ]
+  },
+  {
+    "id": "fact:976",
+    "subject": "person:unnamed-peasebury-daughter",
+    "predicate": "child_of",
+    "object": "person:hilda-peasebury",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1863
+      }
+    ]
+  },
+  {
+    "id": "fact:977",
+    "subject": "house:peasebury",
+    "predicate": "head",
+    "object": "person:peasebury-unnamed-lord",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1863
+      }
+    ]
+  },
+  {
+    "id": "fact:978",
+    "subject": "person:gormon-peake",
+    "predicate": "married_to",
+    "object": "person:elinor-peake",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2423
+      }
+    ]
+  },
+  {
+    "id": "fact:979",
+    "subject": "person:edmund-peake",
+    "predicate": "child_of",
+    "object": "person:gormon-peake",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2423
+      }
+    ]
+  },
+  {
+    "id": "fact:980",
+    "subject": "person:edmund-peake",
+    "predicate": "child_of",
+    "object": "person:elinor-peake",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2423
+      }
+    ]
+  },
+  {
+    "id": "fact:981",
+    "subject": "person:gyles-peake",
+    "predicate": "child_of",
+    "object": "person:elinor-peake",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2423
+      }
+    ]
+  },
+  {
+    "id": "fact:982",
+    "subject": "house:peake",
+    "predicate": "head",
+    "object": "person:gormon-peake",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2423
+      }
+    ]
+  },
+  {
+    "id": "fact:983",
+    "subject": "person:edmund-peake",
+    "predicate": "heir_to",
+    "object": "house:peake",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2423
+      }
+    ]
+  },
+  {
+    "id": "fact:984",
+    "subject": "person:blackbar-late-lord",
+    "predicate": "married_to",
+    "object": "person:melara-redwyne",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2877
+      }
+    ]
+  },
+  {
+    "id": "fact:985",
+    "subject": "person:arstan-blackbar",
+    "predicate": "child_of",
+    "object": "person:blackbar-late-lord",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2877
+      }
+    ]
+  },
+  {
+    "id": "fact:986",
+    "subject": "person:meredyth-blackbar",
+    "predicate": "child_of",
+    "object": "person:arstan-blackbar",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2877
+      }
+    ]
+  },
+  {
+    "id": "fact:987",
+    "subject": "person:meredyth-blackbar",
+    "predicate": "child_of",
+    "object": "person:janna-hightower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2877
+      }
+    ]
+  },
+  {
+    "id": "fact:988",
+    "subject": "house:blackbar",
+    "predicate": "head",
+    "object": "person:arstan-blackbar",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2877
+      }
+    ]
+  },
+  {
+    "id": "fact:989",
+    "subject": "person:raynard-florent",
+    "predicate": "child_of",
+    "object": "person:eustace-florent",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3030
+      }
+    ]
+  },
+  {
+    "id": "fact:990",
+    "subject": "house:florent",
+    "predicate": "head",
+    "object": "person:eustace-florent",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3030
+      }
+    ]
+  },
+  {
+    "id": "fact:991",
+    "subject": "person:raynard-florent",
+    "predicate": "heir_to",
+    "object": "house:florent",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3030
+      }
+    ]
   }
 ]
