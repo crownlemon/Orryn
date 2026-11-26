@@ -5,9 +5,12 @@ template: splash
 hero:
   tagline: Houses, histories, characters and rivalries in a Westeros whose future has not yet been written.
   actions:
+    - text: Read the chapters
+      link: /chapters/
+      icon: right-arrow
     - text: Explore House Rowan
       link: /houses/rowan/
-      icon: right-arrow
+      variant: minimal
     - text: Meet Lord Rycherd
       link: /characters/rycherd-rowan/
       variant: minimal
@@ -16,6 +19,9 @@ hero:
 import { Card, CardGrid } from '@astrojs/starlight/components';
 
 <CardGrid>
+  <Card title="Chapters">
+    Read the story of Orryn Grandison in chronological order. [Browse the full chapter archive](/chapters/), [begin at Chapter 1](/chapters/chapter-01/) or [open the latest chapter](/chapters/chapter-67/).
+  </Card>
   <Card title="Noble Houses">
     Explore the families, seats and allegiances of the Seven Kingdoms, including [Rowan](/houses/rowan/), [Grandison](/houses/grandison/) and [Meadows](/houses/meadows/).
   </Card>
