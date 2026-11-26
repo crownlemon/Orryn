@@ -66,3 +66,15 @@ House Rowan and Goldengrove use the same unchanged SVG artwork by Abjiklam from 
 The raw artwork is linked from AWOIAF's MediaWiki image store; credits are placed beneath each use. Future migration to locally hosted, unmodified copies is desirable for reliability. The canonical file paths use MediaWiki's image hashes: 9/9e Rowan, 2/2a Grandison, f/f6 Meadows.
 
 Households refer to the **208 AC** continuity. Public character information must not reveal a private plot fact merely because it exists in the Householdbook; in particular, omit unplayed personal secrets and proposed distant future outcomes. Chapter text takes precedence over older family-state notes (e.g., Elenei's actual marriage and Mina's established identity).
+
+## Character article presentation
+
+All character articles use the same in-world structure:
+
+1. A concise introductory identification and a right-side biographical infobox with the available **Born**, **Age**, house, position or title, residence, parents, spouse, children and betrothal where pertinent. Use the correct distinction between hereditary seat and current residence.
+2. **Appearance**, only if the chapters or household sources establish a physical description; do not invent one to complete a template.
+3. **Character**, with substantive prose explaining traits and contrasting conduct rather than merely listing virtues and faults.
+4. **Family**, with established relatives and a **Family tree** subsection. Trees should use names alone, with meaningful connectors for siblings, marriages and descent; dashed lines distinguish betrothals from marriages. The current subject is visually highlighted and known character names are clickable. Do not add unnamed ancestors merely to close an incomplete tree.
+5. **History**, grounded in the chronology of actual events. Main protagonists and substantial political figures generally support longer histories than minor relatives. Never pad entries with stock character detail or project notes.
+
+The pilot house diagrams are repeated in the published character articles with individual highlighting. Before adding many more families, factor these into a reusable renderer or a maintained generation step so all instances remain synchronized.

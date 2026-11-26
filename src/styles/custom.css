@@ -183,3 +183,10 @@ h1 { letter-spacing: 0.015em; }
 .orr-character-infobox .orr-infobox-subtitle { padding-bottom:.65rem; }
 .orr-character-infobox dd { overflow-wrap:anywhere; }
 @media(max-width:650px){ .orr-character-infobox{float:none;width:100%;max-width:400px;margin:0 auto 1.35rem;} }
+
+/* Preserve legible name sizes instead of shrinking whole trees to page width. */
+.orr-person-family-tree svg[viewBox="0 0 1570 470"] { min-width:1420px; }
+.orr-person-family-tree svg[viewBox="0 0 1530 465"] { min-width:1400px; }
+.orr-person-family-tree svg[viewBox="0 0 1300 475"] { min-width:1210px; }
+.orr-person-family-tree a.orr-tree-person { cursor:pointer; }
+.orr-person-family-tree a.orr-tree-person:focus-visible rect { stroke:#855338; stroke-width:4; }
