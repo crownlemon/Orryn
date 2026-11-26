@@ -156,3 +156,11 @@ This is a presentation and schema-consistency milestone, not completion of the h
 - The family-branch layout is an intentional interim alternative to a single large SVG; a visual browser review remains necessary. Legacy diagrams also contain names not yet in the knowledge graph, including Bryce and Myranda Webber. Recover their actual parentage from Chapter 66 before adding new facts rather than promoting a diagram alone to primary evidence.
 
 Next: recover the Rowan/Webber and Meadows/Grandison collateral data from primary texts; add Ashford–Merryweather–Caswell, then Hightower profiles and documented offices. Continue published pre-207 AC historical research and expand regional articles; no speculative later events or unreviewed secrets. No merge to main.
+
+## Milestone: Five connected dynasties and coverage audit (26 November 2026)
+
+Re-read Householdbook v12 paragraphs 2097–2326, 2939–2947, 3073–3085, 3537, 3644–3660 and Chapter 66. Added five linked house/seat profiles and their named kin, including Coldmoat, Bitterbridge, Ashford, Longtable and Oldtown. The six work batches were Rowan–Webber, Caswell, Ashford, Merryweather, Hightower, and an integrity/coverage audit. New articles: 29; new entities: 28; new facts: 55. Total 431 entities and 868 facts. Coverage (registered entities / with article): {"region":[2,2],"house":[138,12],"place":[140,9],"title":[15,0],"person":[132,62],"event":[4,1]}.
+
+The proposed father of Lord Jon remains unconfirmed; unnamed Hightower daughters are not invented. Myranda's father is established in Chapter 66; her mother is not promoted from resemblance alone. Cleyton's relationship is nephew, not cousin, in the corrected household register. No later Coldmoat inheritance or marriages are imported. Baseline profiles are not complete biographies; published history still requires external verification. In-memory checks: unique entity and fact IDs, referential integrity, max two parents, shared component presence in newly authored pages passed. CI build and browser acceptance not yet independently confirmed.
+
+Next: further household extraction, title article model, pre-207 published history and chapter chronology. Main remains unchanged.

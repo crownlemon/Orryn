@@ -14092,5 +14092,987 @@
         "line": 1883
       }
     ]
+  },
+  {
+    "id": "fact:822",
+    "subject": "person:bryce-webber",
+    "predicate": "child_of",
+    "object": "person:wendell-webber",
+    "sources": [
+      "chapter-66"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 66
+    }
+  },
+  {
+    "id": "fact:823",
+    "subject": "person:myranda-webber",
+    "predicate": "child_of",
+    "object": "person:wendell-webber",
+    "sources": [
+      "chapter-66"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 66
+    }
+  },
+  {
+    "id": "fact:824",
+    "subject": "person:bryce-webber",
+    "predicate": "child_of",
+    "object": "person:mina-webber",
+    "sources": [
+      "chapter-66"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 66
+    }
+  },
+  {
+    "id": "fact:825",
+    "subject": "person:rohanne-webber",
+    "predicate": "child_of",
+    "object": "person:wyman-webber",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3652
+      }
+    ]
+  },
+  {
+    "id": "fact:826",
+    "subject": "person:rohanne-webber",
+    "predicate": "married_to",
+    "object": "person:simon-staunton",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3652
+      }
+    ]
+  },
+  {
+    "id": "fact:827",
+    "subject": "house:webber",
+    "predicate": "head",
+    "object": "person:wyman-webber",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3652
+      }
+    ]
+  },
+  {
+    "id": "fact:828",
+    "subject": "person:rohanne-webber",
+    "predicate": "heir_to",
+    "object": "house:webber",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3652
+      }
+    ]
+  },
+  {
+    "id": "fact:829",
+    "subject": "person:lucas-inchfield",
+    "predicate": "household_member_of",
+    "object": "house:webber",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3658
+      }
+    ],
+    "role208": "Castellan of Coldmoat"
+  },
+  {
+    "id": "fact:830",
+    "subject": "person:jeyne-meadows",
+    "predicate": "child_of",
+    "object": "person:caswell-first-wife",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2101
+      }
+    ]
+  },
+  {
+    "id": "fact:831",
+    "subject": "person:armond-caswell",
+    "predicate": "married_to",
+    "object": "person:caswell-first-wife",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2101
+      }
+    ],
+    "until": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:832",
+    "subject": "house:caswell",
+    "predicate": "head",
+    "object": "person:armond-caswell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2101
+      }
+    ]
+  },
+  {
+    "id": "fact:833",
+    "subject": "person:joffrey-caswell",
+    "predicate": "heir_to",
+    "object": "house:caswell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2101
+      }
+    ]
+  },
+  {
+    "id": "fact:834",
+    "subject": "person:ashford-unnamed-lord",
+    "predicate": "married_to",
+    "object": "person:ashford-unnamed-lady",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2196
+      }
+    ]
+  },
+  {
+    "id": "fact:835",
+    "subject": "person:androw-ashford",
+    "predicate": "child_of",
+    "object": "person:ashford-unnamed-lord",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2196
+      }
+    ]
+  },
+  {
+    "id": "fact:836",
+    "subject": "person:androw-ashford",
+    "predicate": "child_of",
+    "object": "person:ashford-unnamed-lady",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2196
+      }
+    ]
+  },
+  {
+    "id": "fact:837",
+    "subject": "person:robert-ashford",
+    "predicate": "child_of",
+    "object": "person:ashford-unnamed-lord",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2196
+      }
+    ]
+  },
+  {
+    "id": "fact:838",
+    "subject": "person:robert-ashford",
+    "predicate": "child_of",
+    "object": "person:ashford-unnamed-lady",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2196
+      }
+    ]
+  },
+  {
+    "id": "fact:839",
+    "subject": "person:gwin-ashford",
+    "predicate": "child_of",
+    "object": "person:ashford-unnamed-lord",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2196
+      }
+    ]
+  },
+  {
+    "id": "fact:840",
+    "subject": "person:gwin-ashford",
+    "predicate": "child_of",
+    "object": "person:ashford-unnamed-lady",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2196
+      }
+    ]
+  },
+  {
+    "id": "fact:841",
+    "subject": "person:ashford-unnamed-lady",
+    "predicate": "sibling_of",
+    "object": "person:pearse-caron",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2196
+      }
+    ]
+  },
+  {
+    "id": "fact:842",
+    "subject": "house:ashford",
+    "predicate": "head",
+    "object": "person:ashford-unnamed-lord",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2196
+      }
+    ]
+  },
+  {
+    "id": "fact:843",
+    "subject": "person:androw-ashford",
+    "predicate": "heir_to",
+    "object": "house:ashford",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2196
+      }
+    ]
+  },
+  {
+    "id": "fact:844",
+    "subject": "person:androw-ashford",
+    "predicate": "married_to",
+    "object": "person:wylla-merryweather",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2196
+      }
+    ]
+  },
+  {
+    "id": "fact:845",
+    "subject": "person:merryweather-unnamed-lord",
+    "predicate": "married_to",
+    "object": "person:odessa-merryweather",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2316
+      }
+    ]
+  },
+  {
+    "id": "fact:846",
+    "subject": "person:lymond-merryweather",
+    "predicate": "child_of",
+    "object": "person:merryweather-unnamed-lord",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2316
+      }
+    ]
+  },
+  {
+    "id": "fact:847",
+    "subject": "person:lymond-merryweather",
+    "predicate": "child_of",
+    "object": "person:odessa-merryweather",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2316
+      }
+    ]
+  },
+  {
+    "id": "fact:848",
+    "subject": "person:alyn-merryweather",
+    "predicate": "child_of",
+    "object": "person:merryweather-unnamed-lord",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2316
+      }
+    ]
+  },
+  {
+    "id": "fact:849",
+    "subject": "person:alyn-merryweather",
+    "predicate": "child_of",
+    "object": "person:odessa-merryweather",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2316
+      }
+    ]
+  },
+  {
+    "id": "fact:850",
+    "subject": "person:wylla-merryweather",
+    "predicate": "child_of",
+    "object": "person:merryweather-unnamed-lord",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2316
+      }
+    ]
+  },
+  {
+    "id": "fact:851",
+    "subject": "person:wylla-merryweather",
+    "predicate": "child_of",
+    "object": "person:odessa-merryweather",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2316
+      }
+    ]
+  },
+  {
+    "id": "fact:852",
+    "subject": "house:merryweather",
+    "predicate": "head",
+    "object": "person:merryweather-unnamed-lord",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2316
+      }
+    ]
+  },
+  {
+    "id": "fact:853",
+    "subject": "person:lymond-merryweather",
+    "predicate": "heir_to",
+    "object": "house:merryweather",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2316
+      }
+    ]
+  },
+  {
+    "id": "fact:854",
+    "subject": "person:alyn-merryweather",
+    "predicate": "household_member_of",
+    "object": "house:rowan",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 60
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2316
+      }
+    ],
+    "from": {
+      "year": 208,
+      "chapter": 60
+    },
+    "role208": "Household knight at Goldengrove"
+  },
+  {
+    "id": "fact:855",
+    "subject": "person:jon-hightower",
+    "predicate": "married_to",
+    "object": "person:corenna-hightower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3079
+      }
+    ]
+  },
+  {
+    "id": "fact:856",
+    "subject": "person:janna-hightower",
+    "predicate": "child_of",
+    "object": "person:jon-hightower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3079
+      }
+    ]
+  },
+  {
+    "id": "fact:857",
+    "subject": "person:janna-hightower",
+    "predicate": "child_of",
+    "object": "person:corenna-hightower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3079
+      }
+    ]
+  },
+  {
+    "id": "fact:858",
+    "subject": "person:abelar-hightower",
+    "predicate": "child_of",
+    "object": "person:jon-hightower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3079
+      }
+    ]
+  },
+  {
+    "id": "fact:859",
+    "subject": "person:abelar-hightower",
+    "predicate": "child_of",
+    "object": "person:corenna-hightower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3079
+      }
+    ]
+  },
+  {
+    "id": "fact:860",
+    "subject": "person:lynora-hightower",
+    "predicate": "child_of",
+    "object": "person:jon-hightower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3079
+      }
+    ]
+  },
+  {
+    "id": "fact:861",
+    "subject": "person:lynora-hightower",
+    "predicate": "child_of",
+    "object": "person:corenna-hightower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3079
+      }
+    ]
+  },
+  {
+    "id": "fact:862",
+    "subject": "person:janna-hightower",
+    "predicate": "married_to",
+    "object": "person:arstan-blackbar",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3079
+      }
+    ]
+  },
+  {
+    "id": "fact:863",
+    "subject": "person:abelar-hightower",
+    "predicate": "married_to",
+    "object": "person:daenora-hightower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3079
+      }
+    ]
+  },
+  {
+    "id": "fact:864",
+    "subject": "person:lynora-hightower",
+    "predicate": "married_to",
+    "object": "person:martyn-bulwer",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3079
+      }
+    ]
+  },
+  {
+    "id": "fact:865",
+    "subject": "person:quenton-hightower",
+    "predicate": "child_of",
+    "object": "person:abelar-hightower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3079
+      }
+    ]
+  },
+  {
+    "id": "fact:866",
+    "subject": "person:quenton-hightower",
+    "predicate": "child_of",
+    "object": "person:daenora-hightower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3079
+      }
+    ]
+  },
+  {
+    "id": "fact:867",
+    "subject": "house:hightower",
+    "predicate": "head",
+    "object": "person:jon-hightower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3079
+      }
+    ]
+  },
+  {
+    "id": "fact:868",
+    "subject": "person:abelar-hightower",
+    "predicate": "heir_to",
+    "object": "house:hightower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3079
+      }
+    ]
+  },
+  {
+    "id": "fact:869",
+    "subject": "person:martyn-bulwer",
+    "predicate": "heir_to",
+    "object": "house:bulwer",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3079
+      }
+    ]
+  },
+  {
+    "id": "fact:870",
+    "subject": "person:aelora-hightower",
+    "predicate": "child_of",
+    "object": "person:garmund-hightower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3078
+      }
+    ]
+  },
+  {
+    "id": "fact:871",
+    "subject": "person:aelora-hightower",
+    "predicate": "child_of",
+    "object": "person:rhaena-targaryen",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3078
+      }
+    ]
+  },
+  {
+    "id": "fact:872",
+    "subject": "person:rosamund-hightower",
+    "predicate": "child_of",
+    "object": "person:garmund-hightower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3078
+      }
+    ]
+  },
+  {
+    "id": "fact:873",
+    "subject": "person:rosamund-hightower",
+    "predicate": "child_of",
+    "object": "person:rhaena-targaryen",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3078
+      }
+    ]
+  },
+  {
+    "id": "fact:874",
+    "subject": "person:aelora-hightower",
+    "predicate": "married_to",
+    "object": "person:harys-beesbury",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3078
+      }
+    ]
+  },
+  {
+    "id": "fact:875",
+    "subject": "person:rosamund-hightower",
+    "predicate": "married_to",
+    "object": "person:triston-mullendore",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3078
+      }
+    ]
+  },
+  {
+    "id": "fact:876",
+    "subject": "person:garmund-hightower",
+    "predicate": "married_to",
+    "object": "person:rhaena-targaryen",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3078
+      }
+    ]
   }
 ]

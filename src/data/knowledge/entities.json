@@ -298,7 +298,8 @@
     "birthHouse": "webber",
     "sources": [
       "householdbook-v12"
-    ]
+    ],
+    "page": "/characters/wendell-webber/"
   },
   {
     "id": "person:joy-penrose",
@@ -317,7 +318,8 @@
     "birthHouse": "hightower",
     "sources": [
       "householdbook-v12"
-    ]
+    ],
+    "page": "/characters/garmund-hightower/"
   },
   {
     "id": "person:rhaena-targaryen",
@@ -326,7 +328,8 @@
     "birthHouse": "targaryen",
     "sources": [
       "householdbook-v12"
-    ]
+    ],
+    "page": "/characters/rhaena-targaryen/"
   },
   {
     "id": "person:alysanne-penrose",
@@ -570,7 +573,13 @@
     "birthHouse": "caswell",
     "sources": [
       "householdbook-v12"
-    ]
+    ],
+    "age208": 52,
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2112
+    },
+    "page": "/characters/armond-caswell/"
   },
   {
     "id": "event:first-blackfyre-rebellion",
@@ -2356,7 +2365,7 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "page": "/houses/hightower/"
   },
   {
     "id": "place:oldtown",
@@ -2371,7 +2380,7 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "page": "/places/oldtown/"
   },
   {
     "id": "house:oakheart",
@@ -2480,7 +2489,7 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "page": "/houses/caswell/"
   },
   {
     "id": "place:bitterbridge",
@@ -2495,7 +2504,7 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "page": "/places/bitterbridge/"
   },
   {
     "id": "house:crane",
@@ -2538,7 +2547,7 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "page": "/houses/merryweather/"
   },
   {
     "id": "place:longtable",
@@ -2553,7 +2562,7 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "page": "/places/longtable/"
   },
   {
     "id": "house:mullendore",
@@ -2683,7 +2692,7 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "page": "/houses/ashford/"
   },
   {
     "id": "place:ashford",
@@ -2698,7 +2707,7 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "page": "/places/ashford/"
   },
   {
     "id": "house:blackbar",
@@ -3749,7 +3758,7 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "page": "/houses/webber/"
   },
   {
     "id": "place:coldmoat",
@@ -3764,7 +3773,7 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "page": "/places/coldmoat/"
   },
   {
     "id": "place:whitegrove",
@@ -4751,7 +4760,8 @@
       "source": "householdbook-v12",
       "line": 386
     },
-    "catalogStatus": "registered_no_article"
+    "birthHouse": "merryweather",
+    "page": "/characters/wylla-merryweather/"
   },
   {
     "id": "person:androw-ashford",
@@ -4764,7 +4774,8 @@
       "source": "householdbook-v12",
       "line": 387
     },
-    "catalogStatus": "registered_no_article"
+    "birthHouse": "ashford",
+    "page": "/characters/androw-ashford/"
   },
   {
     "id": "person:edric-baratheon",
@@ -5282,7 +5293,8 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 2511
-    }
+    },
+    "page": "/characters/brenna-caswell/"
   },
   {
     "id": "person:joffrey-caswell",
@@ -5296,7 +5308,8 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 2511
-    }
+    },
+    "page": "/characters/joffrey-caswell/"
   },
   {
     "id": "person:gormon-peake",
@@ -5652,6 +5665,388 @@
     "worldbookReference": {
       "source": "worldbook-v10",
       "line": 1883
+    }
+  },
+  {
+    "id": "person:bryce-webber",
+    "kind": "person",
+    "name": "Bryce Webber",
+    "sources": [
+      "chapter-66"
+    ],
+    "age208": 16,
+    "birthHouse": "webber",
+    "page": "/characters/bryce-webber/"
+  },
+  {
+    "id": "person:myranda-webber",
+    "kind": "person",
+    "name": "Myranda Webber",
+    "sources": [
+      "chapter-66"
+    ],
+    "ageDescription208": "about 15",
+    "birthHouse": "webber",
+    "page": "/characters/myranda-webber/"
+  },
+  {
+    "id": "person:wyman-webber",
+    "kind": "person",
+    "name": "Lord Wyman Webber",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "ageDescription208": "about 55",
+    "birthHouse": "webber",
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3646
+    },
+    "page": "/characters/wyman-webber/"
+  },
+  {
+    "id": "person:rohanne-webber",
+    "kind": "person",
+    "name": "Lady Rohanne Webber",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "ageDescription208": "about 22",
+    "birthHouse": "webber",
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3651
+    },
+    "page": "/characters/rohanne-webber/"
+  },
+  {
+    "id": "person:simon-staunton",
+    "kind": "person",
+    "name": "Ser Simon Staunton",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "birthHouse": "staunton",
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3656
+    }
+  },
+  {
+    "id": "person:lucas-inchfield",
+    "kind": "person",
+    "name": "Ser Lucas Inchfield",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "ageDescription208": "about 42",
+    "birthHouse": "inchfield",
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3657
+    }
+  },
+  {
+    "id": "person:caswell-first-wife",
+    "kind": "person",
+    "name": "First wife of Lord Armond Caswell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "givenNameUnestablished": true,
+    "deceasedBy208": true,
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2101
+    }
+  },
+  {
+    "id": "person:cleyton-caswell",
+    "kind": "person",
+    "name": "Ser Cleyton Caswell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "birthHouse": "caswell",
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2172
+    },
+    "page": "/characters/cleyton-caswell/"
+  },
+  {
+    "id": "person:ashford-unnamed-lady",
+    "kind": "person",
+    "name": "Lady Ashford (given name unrecorded)",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "givenNameUnestablished": true,
+    "birthHouse": "caron",
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2196
+    }
+  },
+  {
+    "id": "person:robert-ashford",
+    "kind": "person",
+    "name": "Ser Robert Ashford",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "birthHouse": "ashford",
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2196
+    },
+    "page": "/characters/robert-ashford/"
+  },
+  {
+    "id": "person:gwin-ashford",
+    "kind": "person",
+    "name": "Lady Gwin Ashford",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "birthHouse": "ashford",
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2196
+    },
+    "page": "/characters/gwin-ashford/"
+  },
+  {
+    "id": "person:pearse-caron",
+    "kind": "person",
+    "name": "Lord Pearse Caron",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "birthHouse": "caron",
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1353
+    }
+  },
+  {
+    "id": "person:merryweather-unnamed-lord",
+    "kind": "person",
+    "name": "Lord Merryweather (given name unrecorded)",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "givenNameUnestablished": true,
+    "age208": 50,
+    "birthHouse": "merryweather",
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2316
+    }
+  },
+  {
+    "id": "person:odessa-merryweather",
+    "kind": "person",
+    "name": "Lady Odessa Merryweather",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2316
+    }
+  },
+  {
+    "id": "person:lymond-merryweather",
+    "kind": "person",
+    "name": "Ser Lymond Merryweather",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "birthHouse": "merryweather",
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2316
+    },
+    "page": "/characters/lymond-merryweather/"
+  },
+  {
+    "id": "person:alyn-merryweather",
+    "kind": "person",
+    "name": "Ser Alyn Merryweather",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "birthHouse": "merryweather",
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2316
+    },
+    "page": "/characters/alyn-merryweather/"
+  },
+  {
+    "id": "person:jon-hightower",
+    "kind": "person",
+    "name": "Lord Jon Hightower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "age208": 52,
+    "birthHouse": "hightower",
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3079
+    },
+    "page": "/characters/jon-hightower/"
+  },
+  {
+    "id": "person:corenna-hightower",
+    "kind": "person",
+    "name": "Lady Corenna Hightower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "age208": 52,
+    "birthHouse": "costayne",
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3079
+    }
+  },
+  {
+    "id": "person:janna-hightower",
+    "kind": "person",
+    "name": "Lady Janna Blackbar",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "age208": 33,
+    "birthHouse": "hightower",
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3079
+    }
+  },
+  {
+    "id": "person:abelar-hightower",
+    "kind": "person",
+    "name": "Ser Abelar Hightower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "age208": 29,
+    "birthHouse": "hightower",
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3079
+    },
+    "page": "/characters/abelar-hightower/"
+  },
+  {
+    "id": "person:daenora-hightower",
+    "kind": "person",
+    "name": "Lady Daenora Hightower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "age208": 27,
+    "birthHouse": "velaryon",
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3079
+    }
+  },
+  {
+    "id": "person:lynora-hightower",
+    "kind": "person",
+    "name": "Lady Lynora Bulwer",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "age208": 22,
+    "birthHouse": "hightower",
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3079
+    }
+  },
+  {
+    "id": "person:quenton-hightower",
+    "kind": "person",
+    "name": "Quenton Hightower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "age208": 7,
+    "birthHouse": "hightower",
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3079
+    }
+  },
+  {
+    "id": "person:martyn-bulwer",
+    "kind": "person",
+    "name": "Ser Martyn Bulwer",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "birthHouse": "bulwer",
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3079
+    }
+  },
+  {
+    "id": "person:aelora-hightower",
+    "kind": "person",
+    "name": "Lady Aelora Hightower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "birthHouse": "hightower",
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3078
+    }
+  },
+  {
+    "id": "person:rosamund-hightower",
+    "kind": "person",
+    "name": "Lady Rosamund Hightower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "birthHouse": "hightower",
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3078
+    }
+  },
+  {
+    "id": "person:harys-beesbury",
+    "kind": "person",
+    "name": "Lord Harys Beesbury",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "birthHouse": "beesbury",
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3078
+    }
+  },
+  {
+    "id": "person:triston-mullendore",
+    "kind": "person",
+    "name": "Lord Triston Mullendore",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "birthHouse": "mullendore",
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3078
     }
   }
 ]
