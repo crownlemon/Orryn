@@ -43,29 +43,61 @@ A dispute at **[Cress Hill](/events/cress-hill/)** raised questions of jurisdict
 
 ## Family tree
 
-<div class="orr-genealogy-panel">
-<svg class="orr-genealogy" viewBox="0 0 1460 465" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Rycherd, Mina and Nyles Rowan as siblings; Clarice's Hightower kin; Rycherd and Clarice's children">
-<g class="tree-lines">
- <path d="M1090 44 H1150 M1120 44 V140 H1060 V195 M1120 140 H1320 V195"/>
- <path d="M125 195 V150 H825 V195 M395 150 V195"/>
- <path d="M485 219 H505 M910 219 H940 M925 219 V345 H760 V385 M925 345 H1120 V385"/>
+<div class="orr-genealogy-panel orr-person-family-tree"><svg viewBox="0 0 1570 470" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="House Rowan family tree: siblings Rycherd, Mina and Nyles; marriages to Clarice Hightower and Wendell Webber; the children of both marriages">
+<g class="orr-tree-lines"><path d="M128 225 V171 H838 V225 M360 171 V225 M1245 59 H1290 M1268 59 V171 H1100 V225 M1268 171 H1400 V225 M460 250 H480 M470 250 V350 H140 V390 M470 350 H365 V390 M950 250 H980 M965 250 V350 H870 V390 M965 350 H1165 V390" /><path class="orr-tree-betrothal" d="M720 414 H755" /></g>
+<g class="orr-tree-people"><a href="/characters/nyles-rowan/" class="orr-tree-person">
+<rect x="30" y="225" width="195" height="47" rx="3" />
+<text x="127.5" y="254">Ser Nyles Rowan</text>
+</a>
+<a href="/characters/mina-webber/" class="orr-tree-person">
+<rect x="260" y="225" width="200" height="47" rx="3" />
+<text x="360" y="254">Lady Mina Rowan</text>
+</a>
+<g  class="orr-tree-person">
+<rect x="480" y="225" width="215" height="47" rx="3" />
+<text x="587.5" y="254">Ser Wendell Webber</text>
 </g>
-<g class="tree-nodes">
- <rect x="890" y="20" width="200" height="48" rx="3"/><rect x="1150" y="20" width="240" height="48" rx="3"/>
- <rect x="35" y="195" width="180" height="48" rx="3"/><rect x="305" y="195" width="180" height="48" rx="3"/><rect x="505" y="195" width="230" height="48" rx="3"/><rect x="740" y="195" width="170" height="48" rx="3"/><rect x="940" y="195" width="240" height="48" rx="3"/><rect x="1210" y="195" width="220" height="48" rx="3"/>
- <rect x="650" y="385" width="220" height="48" rx="3"/><rect x="1000" y="385" width="240" height="48" rx="3"/>
+<a href="/characters/rycherd-rowan/" class="orr-tree-person">
+<rect x="725" y="225" width="225" height="47" rx="3" />
+<text x="837.5" y="254">Lord Rycherd Rowan</text>
+</a>
+<a href="/characters/clarice-rowan/" class="orr-tree-person">
+<rect x="980" y="225" width="240" height="47" rx="3" />
+<text x="1100" y="254">Lady Clarice Hightower</text>
+</a>
+<g  class="orr-tree-person">
+<rect x="1270" y="225" width="260" height="47" rx="3" />
+<text x="1400" y="254">Lady Alysanne Hightower</text>
 </g>
-<g class="tree-names">
- <text x="990" y="49">Garmund Hightower</text><text x="1270" y="49">Princess Rhaena</text>
- <a href="/characters/nyles-rowan/"><text x="125" y="225">Ser Nyles Rowan</text></a>
- <a href="/characters/mina-webber/"><text x="395" y="225">Lady Mina Rowan</text></a>
- <text x="620" y="225">Ser Wendell Webber</text>
- <a href="/characters/rycherd-rowan/"><text x="825" y="225">Lord Rycherd Rowan</text></a>
- <a href="/characters/clarice-rowan/"><text x="1060" y="225">Lady Clarice Hightower</text></a>
- <text x="1320" y="225">Lady Alysanne</text>
- <a href="/characters/triston-rowan/"><text x="760" y="415">Ser Triston Rowan</text></a>
- <a href="/characters/roslin-rowan/"><text x="1120" y="415">Lady Roslin Rowan</text></a>
+<g  class="orr-tree-person">
+<rect x="1040" y="35" width="205" height="47" rx="3" />
+<text x="1142.5" y="64">Garmund Hightower</text>
 </g>
+<g  class="orr-tree-person">
+<rect x="1290" y="35" width="220" height="47" rx="3" />
+<text x="1400" y="64">Princess Rhaena Targaryen</text>
+</g>
+<g  class="orr-tree-person">
+<rect x="45" y="390" width="190" height="47" rx="3" />
+<text x="140" y="419">Bryce Webber</text>
+</g>
+<g  class="orr-tree-person">
+<rect x="260" y="390" width="210" height="47" rx="3" />
+<text x="365" y="419">Myranda Webber</text>
+</g>
+<g  class="orr-tree-person">
+<rect x="535" y="390" width="185" height="47" rx="3" />
+<text x="627.5" y="419">Lady Joy Penrose</text>
+</g>
+<a href="/characters/triston-rowan/" class="orr-tree-person">
+<rect x="755" y="390" width="230" height="47" rx="3" />
+<text x="870" y="419">Ser Triston Rowan</text>
+</a>
+<a href="/characters/roslin-rowan/" class="orr-tree-person">
+<rect x="1060" y="390" width="210" height="47" rx="3" />
+<text x="1165" y="419">Lady Roslin Rowan</text>
+</a></g>
+<text class="orr-tree-note" x="737" y="451">Betrothed</text>
 </svg></div>
 <p>Rycherd, Nyles and Mina are siblings. Lady Mina is married to Ser Wendell Webber; Lord Rycherd and Lady Clarice are the parents of Ser Triston and Lady Roslin. Triston is betrothed to Lady Joy Penrose.</p>
 
