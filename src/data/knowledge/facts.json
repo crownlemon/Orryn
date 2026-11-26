@@ -10804,7 +10804,7 @@
   },
   {
     "id": "fact:639",
-    "subject": "person:garlan-fossoway",
+    "subject": "person:garlan-footly",
     "predicate": "visits_house",
     "object": "house:meadows",
     "role208": "recurring visitor",
@@ -17612,5 +17612,710 @@
     "asOf": {
       "year": 208
     }
+  },
+  {
+    "id": "fact:1031",
+    "subject": "person:hobart-elmridge",
+    "predicate": "married_to",
+    "object": "person:edith-elmridge",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1960
+      }
+    ]
+  },
+  {
+    "id": "fact:1032",
+    "subject": "house:elmridge",
+    "predicate": "head",
+    "object": "person:hobart-elmridge",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1940
+      }
+    ]
+  },
+  {
+    "id": "fact:1033",
+    "subject": "person:dudley-bushy",
+    "predicate": "married_to",
+    "object": "person:joan-bushy",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2008
+      }
+    ]
+  },
+  {
+    "id": "fact:1034",
+    "subject": "house:bushy",
+    "predicate": "head",
+    "object": "person:dudley-bushy",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1988
+      }
+    ]
+  },
+  {
+    "id": "fact:1035",
+    "subject": "person:hal-graves",
+    "predicate": "child_of",
+    "object": "person:margery-graves",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2056
+      }
+    ]
+  },
+  {
+    "id": "fact:1036",
+    "subject": "person:rosamund-graves",
+    "predicate": "child_of",
+    "object": "person:margery-graves",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2056
+      }
+    ]
+  },
+  {
+    "id": "fact:1037",
+    "subject": "house:graves",
+    "predicate": "head",
+    "object": "person:margery-graves",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2036
+      }
+    ]
+  },
+  {
+    "id": "fact:1038",
+    "subject": "person:hal-graves",
+    "predicate": "heir_to",
+    "object": "house:graves",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2036
+      }
+    ]
+  },
+  {
+    "id": "fact:1039",
+    "subject": "person:cedric-dunmere",
+    "predicate": "child_of",
+    "object": "person:marlon-dunmere",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2719
+      }
+    ]
+  },
+  {
+    "id": "fact:1040",
+    "subject": "person:osric-dunmere",
+    "predicate": "child_of",
+    "object": "person:marlon-dunmere",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2719
+      }
+    ]
+  },
+  {
+    "id": "fact:1041",
+    "subject": "person:merel-dunmere",
+    "predicate": "child_of",
+    "object": "person:marlon-dunmere",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2719
+      }
+    ]
+  },
+  {
+    "id": "fact:1042",
+    "subject": "person:marlon-dunmere",
+    "predicate": "sibling_of",
+    "object": "person:septa-lenora",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2719
+      }
+    ]
+  },
+  {
+    "id": "fact:1043",
+    "subject": "house:dunmere",
+    "predicate": "head",
+    "object": "person:marlon-dunmere",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2719
+      }
+    ]
+  },
+  {
+    "id": "fact:1044",
+    "subject": "house:roxton",
+    "predicate": "head",
+    "object": "person:luthor-roxton",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3262
+      }
+    ]
+  },
+  {
+    "id": "fact:1045",
+    "subject": "house:risley",
+    "predicate": "head",
+    "object": "person:walder-risley",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3725
+      }
+    ]
+  },
+  {
+    "id": "fact:1046",
+    "subject": "person:eden-risley",
+    "predicate": "heir_to",
+    "object": "house:risley",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3725
+      }
+    ]
+  },
+  {
+    "id": "fact:1047",
+    "subject": "person:eden-risley",
+    "predicate": "child_of",
+    "object": "person:walder-risley",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3725
+      }
+    ]
+  },
+  {
+    "id": "fact:1048",
+    "subject": "person:walder-risley",
+    "predicate": "sibling_of",
+    "object": "person:luthor-risley",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3272
+      }
+    ]
+  },
+  {
+    "id": "fact:1049",
+    "subject": "person:lyman-beesbury",
+    "predicate": "child_of",
+    "object": "person:harys-beesbury",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3296
+      }
+    ]
+  },
+  {
+    "id": "fact:1050",
+    "subject": "person:lyman-beesbury",
+    "predicate": "child_of",
+    "object": "person:aelora-hightower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3296
+      }
+    ]
+  },
+  {
+    "id": "fact:1051",
+    "subject": "house:beesbury",
+    "predicate": "head",
+    "object": "person:harys-beesbury",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3296
+      }
+    ]
+  },
+  {
+    "id": "fact:1052",
+    "subject": "person:lyman-beesbury",
+    "predicate": "heir_to",
+    "object": "house:beesbury",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3296
+      }
+    ]
+  },
+  {
+    "id": "fact:1053",
+    "subject": "house:leygood",
+    "predicate": "head",
+    "object": "person:osmund-leygood",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3330
+      }
+    ]
+  },
+  {
+    "id": "fact:1054",
+    "subject": "house:osgrey",
+    "predicate": "head",
+    "object": "person:eustace-osgrey",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3665
+      }
+    ]
+  },
+  {
+    "id": "fact:1055",
+    "subject": "person:alysanne-osgrey",
+    "predicate": "child_of",
+    "object": "person:eustace-osgrey",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3669
+      }
+    ]
+  },
+  {
+    "id": "fact:1056",
+    "subject": "house:cockshaw",
+    "predicate": "head",
+    "object": "person:alyn-cockshaw",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3676
+      }
+    ]
+  },
+  {
+    "id": "fact:1057",
+    "subject": "person:alyn-cockshaw",
+    "predicate": "sibling_of",
+    "object": "person:brienne-vyrwel",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3676
+      }
+    ]
+  },
+  {
+    "id": "fact:1058",
+    "subject": "person:martyn-vyrwel",
+    "predicate": "married_to",
+    "object": "person:brienne-vyrwel",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3687
+      }
+    ]
+  },
+  {
+    "id": "fact:1059",
+    "subject": "house:vyrwel",
+    "predicate": "head",
+    "object": "person:martyn-vyrwel",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3683
+      }
+    ]
+  },
+  {
+    "id": "fact:1060",
+    "subject": "person:allard-costayne",
+    "predicate": "married_to",
+    "object": "person:jeyne-costayne",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3698
+      }
+    ]
+  },
+  {
+    "id": "fact:1061",
+    "subject": "person:allard-costayne",
+    "predicate": "sibling_of",
+    "object": "person:tommen-costayne",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3702
+      }
+    ]
+  },
+  {
+    "id": "fact:1062",
+    "subject": "house:costayne",
+    "predicate": "head",
+    "object": "person:allard-costayne",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3694
+      }
+    ]
+  },
+  {
+    "id": "fact:1063",
+    "subject": "house:wagstaff",
+    "predicate": "head",
+    "object": "person:rolph-wagstaff",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1542
+      }
+    ]
+  },
+  {
+    "id": "fact:1064",
+    "subject": "house:hewett",
+    "predicate": "head",
+    "object": "person:ormund-hewett",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3228
+      }
+    ]
+  },
+  {
+    "id": "fact:1065",
+    "subject": "house:tarly",
+    "predicate": "head",
+    "object": "person:roderick-tarly",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3238
+      }
+    ]
+  },
+  {
+    "id": "fact:1066",
+    "subject": "house:mullendore",
+    "predicate": "head",
+    "object": "person:triston-mullendore",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3078
+      }
+    ]
+  },
+  {
+    "id": "fact:1067",
+    "subject": "person:owen-blackbar",
+    "predicate": "household_member_of",
+    "object": "house:tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3340
+      }
+    ],
+    "role208": "Steward of Highgarden"
+  },
+  {
+    "id": "fact:1068",
+    "subject": "person:lyman-beesbury",
+    "predicate": "household_member_of",
+    "object": "house:tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3296
+      }
+    ],
+    "role208": "Lord Treasurer at Highgarden"
+  },
+  {
+    "id": "fact:1069",
+    "subject": "person:argrave-defiant",
+    "predicate": "household_member_of",
+    "object": "house:costayne",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3706
+      }
+    ],
+    "role208": "Household knight at the Three Towers"
   }
 ]

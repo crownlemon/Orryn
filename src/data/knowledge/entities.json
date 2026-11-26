@@ -5032,20 +5032,6 @@
     "page": "/characters/aldous-trent/"
   },
   {
-    "id": "person:garlan-fossoway",
-    "kind": "person",
-    "name": "Ser Garlan Fossoway",
-    "sources": [
-      "householdbook-v12"
-    ],
-    "householdReference": {
-      "source": "householdbook-v12",
-      "line": 385
-    },
-    "catalogStatus": "baseline_profile",
-    "page": "/characters/garlan-fossoway/"
-  },
-  {
     "id": "person:wylla-merryweather",
     "kind": "person",
     "name": "Lady Wylla Merryweather",
@@ -7477,6 +7463,462 @@
     "year": 157,
     "eventType": "War",
     "page": "/events/conquest-of-dorne/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:hobart-elmridge",
+    "kind": "person",
+    "name": "Ser Hobart Elmridge",
+    "birthHouse": "elmridge",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1940
+    },
+    "age208": 47,
+    "page": "/characters/hobart-elmridge/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:edith-elmridge",
+    "kind": "person",
+    "name": "Lady Edith Elmridge",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1960
+    },
+    "age208": 44,
+    "page": "/characters/edith-elmridge/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:dudley-bushy",
+    "kind": "person",
+    "name": "Ser Dudley Bushy",
+    "birthHouse": "bushy",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1988
+    },
+    "age208": 52,
+    "page": "/characters/dudley-bushy/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:joan-bushy",
+    "kind": "person",
+    "name": "Lady Joan Bushy",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2008
+    },
+    "age208": 48,
+    "page": "/characters/joan-bushy/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:margery-graves",
+    "kind": "person",
+    "name": "Lady Margery Graves",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2036
+    },
+    "age208": 55,
+    "page": "/characters/margery-graves/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:hal-graves",
+    "kind": "person",
+    "name": "Ser Hal Graves",
+    "birthHouse": "graves",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2056
+    },
+    "age208": 24,
+    "page": "/characters/hal-graves/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:rosamund-graves",
+    "kind": "person",
+    "name": "Lady Rosamund Graves",
+    "birthHouse": "graves",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2076
+    },
+    "page": "/characters/rosamund-graves/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:marlon-dunmere",
+    "kind": "person",
+    "name": "Ser Marlon Dunmere",
+    "birthHouse": "dunmere",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2719
+    },
+    "age208": 54,
+    "page": "/characters/marlon-dunmere/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:cedric-dunmere",
+    "kind": "person",
+    "name": "Ser Cedric Dunmere",
+    "birthHouse": "dunmere",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2719
+    },
+    "page": "/characters/cedric-dunmere/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:merel-dunmere",
+    "kind": "person",
+    "name": "Merel Dunmere",
+    "birthHouse": "dunmere",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2719
+    },
+    "page": "/characters/merel-dunmere/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:luthor-roxton",
+    "kind": "person",
+    "name": "Lord Luthor Roxton",
+    "birthHouse": "roxton",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3262
+    },
+    "age208": 57,
+    "page": "/characters/luthor-roxton/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:walder-risley",
+    "kind": "person",
+    "name": "Lord Walder Risley",
+    "birthHouse": "risley",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3721
+    },
+    "page": "/characters/walder-risley/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:eden-risley",
+    "kind": "person",
+    "name": "Ser Eden Risley",
+    "birthHouse": "risley",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3725
+    },
+    "page": "/characters/eden-risley/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:lyman-beesbury",
+    "kind": "person",
+    "name": "Ser Lyman Beesbury",
+    "birthHouse": "beesbury",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3296
+    },
+    "age208": 35,
+    "page": "/characters/lyman-beesbury/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:osmund-leygood",
+    "kind": "person",
+    "name": "Lord Osmund Leygood",
+    "birthHouse": "leygood",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3330
+    },
+    "age208": 56,
+    "page": "/characters/osmund-leygood/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:owen-blackbar",
+    "kind": "person",
+    "name": "Ser Owen Blackbar",
+    "birthHouse": "blackbar",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3340
+    },
+    "age208": 31,
+    "page": "/characters/owen-blackbar/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:meriel-vyrwel",
+    "kind": "person",
+    "name": "Lady Meriel Vyrwel",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3354
+    },
+    "page": "/characters/meriel-vyrwel/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:eustace-osgrey",
+    "kind": "person",
+    "name": "Ser Eustace Osgrey",
+    "birthHouse": "osgrey",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3665
+    },
+    "page": "/characters/eustace-osgrey/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:alysanne-osgrey",
+    "kind": "person",
+    "name": "Alysanne Osgrey",
+    "birthHouse": "osgrey",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3669
+    },
+    "page": "/characters/alysanne-osgrey/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:alyn-cockshaw",
+    "kind": "person",
+    "name": "Lord Alyn Cockshaw",
+    "birthHouse": "cockshaw",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3676
+    },
+    "page": "/characters/alyn-cockshaw/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:martyn-vyrwel",
+    "kind": "person",
+    "name": "Lord Martyn Vyrwel",
+    "birthHouse": "vyrwel",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3683
+    },
+    "page": "/characters/martyn-vyrwel/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:brienne-vyrwel",
+    "kind": "person",
+    "name": "Lady Brienne Vyrwel",
+    "birthHouse": "cockshaw",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3687
+    },
+    "page": "/characters/brienne-vyrwel/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:allard-costayne",
+    "kind": "person",
+    "name": "Lord Allard Costayne",
+    "birthHouse": "costayne",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3694
+    },
+    "page": "/characters/allard-costayne/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:jeyne-costayne",
+    "kind": "person",
+    "name": "Lady Jeyne Costayne",
+    "birthHouse": "foxglove",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3698
+    },
+    "page": "/characters/jeyne-costayne/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:tommen-costayne",
+    "kind": "person",
+    "name": "Ser Tommen Costayne",
+    "birthHouse": "costayne",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3702
+    },
+    "page": "/characters/tommen-costayne/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:argrave-defiant",
+    "kind": "person",
+    "name": "Ser Argrave the Defiant",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3706
+    },
+    "page": "/characters/argrave-defiant/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:buford-bulwer",
+    "kind": "person",
+    "name": "Ser Buford Bulwer",
+    "birthHouse": "bulwer",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3713
+    },
+    "page": "/characters/buford-bulwer/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:aubrey-ambrose",
+    "kind": "person",
+    "name": "Ser Aubrey Ambrose",
+    "birthHouse": "ambrose",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3732
+    },
+    "page": "/characters/aubrey-ambrose/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:willem-wylde",
+    "kind": "person",
+    "name": "Ser Willem Wylde",
+    "birthHouse": "wylde",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3740
+    },
+    "page": "/characters/willem-wylde/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "person:corwin-rogers",
+    "kind": "person",
+    "name": "Ser Corwin Rogers",
+    "birthHouse": "rogers",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3747
+    },
+    "page": "/characters/corwin-rogers/",
     "catalogStatus": "baseline_profile"
   }
 ]

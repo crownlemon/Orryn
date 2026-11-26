@@ -2,6 +2,7 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
 export default defineConfig({
+  redirects: { '/characters/garlan-fossoway/': '/characters/garlan-footly/' },
   integrations: [
     starlight({
       title: 'The Orryn Chronicles',
