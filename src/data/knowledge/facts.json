@@ -17144,5 +17144,473 @@
         "line": 3030
       }
     ]
+  },
+  {
+    "id": "fact:992",
+    "subject": "region:north",
+    "predicate": "ruled_by",
+    "object": "house:stark",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:993",
+    "subject": "region:north",
+    "predicate": "seat",
+    "object": "place:winterfell",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:994",
+    "subject": "place:winterfell",
+    "predicate": "region",
+    "object": "region:north",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:995",
+    "subject": "house:stark",
+    "predicate": "region",
+    "object": "region:north",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:996",
+    "subject": "house:stark",
+    "predicate": "seat",
+    "object": "place:winterfell",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:997",
+    "subject": "region:vale",
+    "predicate": "ruled_by",
+    "object": "house:arryn",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:998",
+    "subject": "region:vale",
+    "predicate": "seat",
+    "object": "place:eyrie",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:999",
+    "subject": "place:eyrie",
+    "predicate": "region",
+    "object": "region:vale",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:1000",
+    "subject": "house:arryn",
+    "predicate": "region",
+    "object": "region:vale",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:1001",
+    "subject": "house:arryn",
+    "predicate": "seat",
+    "object": "place:eyrie",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:1002",
+    "subject": "region:riverlands",
+    "predicate": "ruled_by",
+    "object": "house:tully",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:1003",
+    "subject": "region:riverlands",
+    "predicate": "seat",
+    "object": "place:riverrun",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:1004",
+    "subject": "place:riverrun",
+    "predicate": "region",
+    "object": "region:riverlands",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:1005",
+    "subject": "house:tully",
+    "predicate": "region",
+    "object": "region:riverlands",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:1006",
+    "subject": "house:tully",
+    "predicate": "seat",
+    "object": "place:riverrun",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:1007",
+    "subject": "region:westerlands",
+    "predicate": "ruled_by",
+    "object": "house:lannister",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:1008",
+    "subject": "region:westerlands",
+    "predicate": "seat",
+    "object": "place:casterly-rock",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:1009",
+    "subject": "place:casterly-rock",
+    "predicate": "region",
+    "object": "region:westerlands",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:1010",
+    "subject": "house:lannister",
+    "predicate": "region",
+    "object": "region:westerlands",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:1011",
+    "subject": "house:lannister",
+    "predicate": "seat",
+    "object": "place:casterly-rock",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:1012",
+    "subject": "region:iron-islands",
+    "predicate": "ruled_by",
+    "object": "house:greyjoy",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:1013",
+    "subject": "region:iron-islands",
+    "predicate": "seat",
+    "object": "place:pyke",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:1014",
+    "subject": "place:pyke",
+    "predicate": "region",
+    "object": "region:iron-islands",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:1015",
+    "subject": "house:greyjoy",
+    "predicate": "region",
+    "object": "region:iron-islands",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:1016",
+    "subject": "house:greyjoy",
+    "predicate": "seat",
+    "object": "place:pyke",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:1017",
+    "subject": "region:dorne",
+    "predicate": "ruled_by",
+    "object": "house:martell",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:1018",
+    "subject": "region:dorne",
+    "predicate": "seat",
+    "object": "place:sunspear",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:1019",
+    "subject": "place:sunspear",
+    "predicate": "region",
+    "object": "region:dorne",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:1020",
+    "subject": "house:martell",
+    "predicate": "region",
+    "object": "region:dorne",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:1021",
+    "subject": "house:martell",
+    "predicate": "seat",
+    "object": "place:sunspear",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:1022",
+    "subject": "region:crownlands",
+    "predicate": "ruled_by",
+    "object": "house:targaryen",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:1023",
+    "subject": "region:crownlands",
+    "predicate": "seat",
+    "object": "place:kings-landing",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:1024",
+    "subject": "place:kings-landing",
+    "predicate": "region",
+    "object": "region:crownlands",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:1025",
+    "subject": "house:targaryen",
+    "predicate": "region",
+    "object": "region:crownlands",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:1026",
+    "subject": "place:kings-landing",
+    "predicate": "ruled_by",
+    "object": "house:targaryen",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:1027",
+    "subject": "region:reach",
+    "predicate": "ruled_by",
+    "object": "house:tyrell",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:1028",
+    "subject": "region:reach",
+    "predicate": "seat",
+    "object": "place:highgarden",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:1029",
+    "subject": "region:stormlands",
+    "predicate": "ruled_by",
+    "object": "house:baratheon",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:1030",
+    "subject": "region:stormlands",
+    "predicate": "seat",
+    "object": "place:storm-s-end",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    }
   }
 ]

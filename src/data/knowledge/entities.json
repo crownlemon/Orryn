@@ -602,7 +602,8 @@
     "year": 196,
     "awoiaf": "https://awoiaf.westeros.org/index.php/First_Blackfyre_Rebellion",
     "sources": [
-      "worldbook-v10"
+      "worldbook-v10",
+      "awoiaf-blackfyre"
     ],
     "page": "/events/first-blackfyre-rebellion/",
     "catalogStatus": "baseline_profile"
@@ -657,7 +658,8 @@
     "geographicAnchor208": "Marcher foothills near Reach border",
     "sourceLine208": 111,
     "sources": [
-      "worldbook-v10"
+      "worldbook-v10",
+      "awoiaf-great-houses"
     ],
     "catalogStatus": "baseline_profile",
     "page": "/houses/targaryen/"
@@ -5452,7 +5454,8 @@
     "name": "House Lannister",
     "catalogStatus": "baseline_profile",
     "sources": [
-      "householdbook-v12"
+      "householdbook-v12",
+      "awoiaf-great-houses"
     ],
     "householdReference": {
       "source": "householdbook-v12",
@@ -7224,6 +7227,256 @@
     },
     "age208": 23,
     "page": "/characters/raynard-florent/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "region:north",
+    "kind": "region",
+    "name": "The North",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "page": "/realm/north/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "house:stark",
+    "kind": "house",
+    "name": "House Stark",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "page": "/houses/stark/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "place:winterfell",
+    "kind": "place",
+    "name": "Winterfell",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "page": "/places/winterfell/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "region:vale",
+    "kind": "region",
+    "name": "The Vale of Arryn",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "page": "/realm/vale/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "house:arryn",
+    "kind": "house",
+    "name": "House Arryn",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "page": "/houses/arryn/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "place:eyrie",
+    "kind": "place",
+    "name": "The Eyrie",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "page": "/places/eyrie/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "region:riverlands",
+    "kind": "region",
+    "name": "The Riverlands",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "page": "/realm/riverlands/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "house:tully",
+    "kind": "house",
+    "name": "House Tully",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "page": "/houses/tully/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "place:riverrun",
+    "kind": "place",
+    "name": "Riverrun",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "page": "/places/riverrun/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "region:westerlands",
+    "kind": "region",
+    "name": "The Westerlands",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "page": "/realm/westerlands/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "place:casterly-rock",
+    "kind": "place",
+    "name": "Casterly Rock",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "page": "/places/casterly-rock/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "region:iron-islands",
+    "kind": "region",
+    "name": "The Iron Islands",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "page": "/realm/iron-islands/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "house:greyjoy",
+    "kind": "house",
+    "name": "House Greyjoy",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "page": "/houses/greyjoy/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "place:pyke",
+    "kind": "place",
+    "name": "Pyke",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "page": "/places/pyke/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "region:dorne",
+    "kind": "region",
+    "name": "Dorne",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "page": "/realm/dorne/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "house:martell",
+    "kind": "house",
+    "name": "House Nymeros Martell",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "page": "/houses/martell/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "place:sunspear",
+    "kind": "place",
+    "name": "Sunspear",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "page": "/places/sunspear/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "region:crownlands",
+    "kind": "region",
+    "name": "The Crownlands",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "page": "/realm/crownlands/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "place:kings-landing",
+    "kind": "place",
+    "name": "King's Landing",
+    "sources": [
+      "awoiaf-great-houses"
+    ],
+    "page": "/places/kings-landing/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "event:aegons-conquest",
+    "kind": "event",
+    "name": "Aegon's Conquest",
+    "sources": [
+      "awoiaf-history"
+    ],
+    "year": 1,
+    "eventType": "Conquest",
+    "page": "/events/aegons-conquest/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "event:faith-militant-uprising",
+    "kind": "event",
+    "name": "Faith Militant uprising",
+    "sources": [
+      "awoiaf-history"
+    ],
+    "year": 41,
+    "eventType": "Religious conflict",
+    "page": "/events/faith-militant-uprising/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "event:dance-of-the-dragons",
+    "kind": "event",
+    "name": "Dance of the Dragons",
+    "sources": [
+      "awoiaf-history"
+    ],
+    "year": 129,
+    "eventType": "War of succession",
+    "page": "/events/dance-of-the-dragons/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "event:death-of-last-dragon",
+    "kind": "event",
+    "name": "Death of the last dragon",
+    "sources": [
+      "awoiaf-history"
+    ],
+    "year": 153,
+    "eventType": "Historical event",
+    "page": "/events/death-of-last-dragon/",
+    "catalogStatus": "baseline_profile"
+  },
+  {
+    "id": "event:conquest-of-dorne",
+    "kind": "event",
+    "name": "Conquest of Dorne",
+    "sources": [
+      "awoiaf-history"
+    ],
+    "year": 157,
+    "eventType": "War",
+    "page": "/events/conquest-of-dorne/",
     "catalogStatus": "baseline_profile"
   }
 ]

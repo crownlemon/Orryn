@@ -176,3 +176,7 @@ Migrated all registered graph entities to navigable baseline articles, without r
 ## Milestone: Complete chapter source index
 
 Indexed 67 numbered chapters across 72 source documents. Selected explicit version 2 revisions for 32–35; retained both conflicting Chapter 67 texts without deciding their canonical order. All 67 chapter routes are navigable, with source links; archive prose and event extraction are not yet migrated. Do not treat indexed chapters as completed historical articles.
+
+## Milestone: All nine regions and historical canon seed
+
+Added the seven missing region pages and dated-baseline ruling dynasties and principal seats, using the pre-Conquest/Conquest discussion in AWOIAF Great houses, not its present-day house status table. Added five historical event profiles from the AWOIAF timeline and enriched the First Blackfyre Rebellion. Regional ruling houses and seats are now explicit relationships, so the Crownlands and Summerhall are not conflated. This is a historical seed; complete pre-207 house/person/location research remains open. No later events imported. Current graph: 506 entities and 1022 facts, {"region":9,"house":143,"place":147,"title":21,"person":177,"event":9}. All have baseline article routes; chapter source index is separate.

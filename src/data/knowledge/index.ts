@@ -176,9 +176,9 @@ export function identityRows(entity: Entity, at: Moment = DEFAULT_DATE): DetailR
     addMany('Holders',incoming(entity.id,'holds_title',at));
   }
   if (entity.kind === 'region') {
-    const ruling = entities.find(h => h.kind==='house' && h.rank208==='Ruling' && outgoing(h.id,'region',at).some(r=>r.id===entity.id));
+    const ruling = one(entity.id,'ruled_by',at) ?? entities.find(h => h.kind==='house' && h.rank208==='Ruling' && outgoing(h.id,'region',at).some(r=>r.id===entity.id));
     add('Ruling house',ruling);
-    add('Ruling seat',ruling?one(ruling.id,'seat',at):undefined);
+    add('Ruling seat',one(entity.id,'seat',at) ?? (ruling?one(ruling.id,'seat',at):undefined));
     literal('Documented houses',entities.filter(h=>h.kind==='house' && outgoing(h.id,'region',at).some(r=>r.id===entity.id)).length);
   }
   if (entity.kind === 'event') {

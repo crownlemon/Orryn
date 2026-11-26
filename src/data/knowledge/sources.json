@@ -46,5 +46,29 @@
     "title": "Chapter 66: Whose Man",
     "url": "https://docs.google.com/document/d/1HOGFwfwXrgCr_5QTrpLBA0-y71Uln83e19u7wkU1V6A/edit",
     "kind": "internal"
+  },
+  {
+    "id": "awoiaf-great-houses",
+    "title": "A Wiki of Ice and Fire: Great houses",
+    "url": "https://awoiaf.westeros.org/index.php?title=Great_houses&oldid=329543",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-history",
+    "title": "A Wiki of Ice and Fire: Timeline of major events",
+    "url": "https://awoiaf.westeros.org/index.php/Timeline_of_major_events",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-seven-kingdoms",
+    "title": "A Wiki of Ice and Fire: Seven Kingdoms",
+    "url": "https://awoiaf.westeros.org/index.php/Seven_kingdoms",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-blackfyre",
+    "title": "A Wiki of Ice and Fire: First Blackfyre Rebellion",
+    "url": "https://awoiaf.westeros.org/index.php/Blackfyre_Rebellion",
+    "kind": "secondary"
   }
 ]
