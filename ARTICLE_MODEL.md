@@ -51,9 +51,13 @@ Canonical sections:
 
 Use only verified facts from played chapters and approved records. The event's chronological identity is maintained independently of its participants and outcomes.
 
+## Title and office
+
+Canonical sections: Nature of the title; Holders; History (only where verified). Distinguish hereditary lordships, dignities and personal appointments. A snapshot of current holders is not a complete succession history. Titles use the shared identity component and no family tree.
+
 ## Implementation and quality gate
 
-All encyclopedia articles under `characters`, `houses`, `places`, `realm`, and `events` are MDX. Use the same stable `entityId` that appears in `entities.json`, and never add standalone handcrafted infoboxes or genealogical SVGs. A new person or house must have a structured record and source provenance before publication.
+All encyclopedia articles under `characters`, `houses`, `places`, `realm`, `events`, and `titles` are MDX. Use the same stable `entityId` that appears in `entities.json`, and never add standalone handcrafted infoboxes or genealogical SVGs. A new person or house must have a structured record and source provenance before publication.
 
 Run `npm run validate:articles`, `npm run validate:knowledge`, `npm run audit:atlas`, and `npm run build` before merging. CI enforces these conditions on the development branch.
 

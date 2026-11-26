@@ -11,7 +11,8 @@ const categories={
   houses:{kind:'house',headings:['History','Family','Lordship and household','Events in 208 AC'],tree:'houseId'},
   places:{kind:'place',headings:['Description','History','Lordship','Events in 208 AC']},
   realm:{kind:'region',headings:['Geography','History and government','Houses and places']},
-  events:{kind:'event',headings:['Account','Background','Consequences']}
+  events:{kind:'event',headings:['Account','Background','Consequences']},
+  titles:{kind:'title',headings:['Nature of the title','Holders','History']}
 };
 const errors=[],counts={};
 function check(ok,msg){if(!ok)errors.push(msg)}

@@ -13,6 +13,7 @@ export default defineConfig({
         { label: 'Characters', items: [{ autogenerate: { directory: 'characters' } }] },
         { label: 'Places', items: [{ autogenerate: { directory: 'places' } }] },
         { label: 'The Realm', items: [{ autogenerate: { directory: 'realm' } }] },
+        { label: 'Titles & Offices', items: [{ autogenerate: { directory: 'titles' } }] },
         { label: 'Politics & Events', items: [{ autogenerate: { directory: 'events' } }] }
       ]
     })

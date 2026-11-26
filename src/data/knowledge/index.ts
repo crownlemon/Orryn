@@ -170,6 +170,8 @@ export function identityRows(entity: Entity, at: Moment = DEFAULT_DATE): DetailR
     if(ruling) add('Lord',one(ruling.id,'head',at));
   }
   if (entity.kind === 'title') {
+    literal('Nature',entity.titleNature?.replace(/_/g,' '));
+    add('Associated house',one(entity.id,'associated_house',at));
     add('Seat',one(entity.id,'seat',at));
     addMany('Holders',incoming(entity.id,'holds_title',at));
   }

@@ -209,7 +209,9 @@
     "name": "Lord of Goldengrove",
     "sources": [
       "worldbook-v10"
-    ]
+    ],
+    "titleNature": "hereditary_lordship",
+    "page": "/titles/lord-of-goldengrove/"
   },
   {
     "id": "title:lord-of-grandview",
@@ -217,7 +219,9 @@
     "name": "Lord of Grandview",
     "sources": [
       "worldbook-v10"
-    ]
+    ],
+    "titleNature": "hereditary_lordship",
+    "page": "/titles/lord-of-grandview/"
   },
   {
     "id": "title:lord-of-grassfield",
@@ -225,7 +229,9 @@
     "name": "Lord of Grassfield Keep",
     "sources": [
       "worldbook-v10"
-    ]
+    ],
+    "titleNature": "hereditary_lordship",
+    "page": "/titles/lord-of-grassfield/"
   },
   {
     "id": "person:rycherd-rowan",
@@ -5096,7 +5102,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 895
-    }
+    },
+    "titleNature": "hereditary_lordship",
+    "page": "/titles/lord-of-storms-end/"
   },
   {
     "id": "title:lord-of-parchments",
@@ -5108,7 +5116,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 1149
-    }
+    },
+    "titleNature": "hereditary_lordship",
+    "page": "/titles/lord-of-parchments/"
   },
   {
     "id": "title:master-of-coin",
@@ -5120,7 +5130,9 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 1149
-    }
+    },
+    "titleNature": "royal_appointment",
+    "page": "/titles/master-of-coin/"
   },
   {
     "id": "house:lannister",
@@ -5545,7 +5557,8 @@
       "source": "householdbook-v12",
       "line": 2509
     },
-    "titleNature": "hereditary_lordship"
+    "titleNature": "hereditary_lordship",
+    "page": "/titles/lord-of-highgarden/"
   },
   {
     "id": "title:warden-of-the-south",
@@ -5558,7 +5571,8 @@
     "worldbookReference": {
       "source": "worldbook-v10",
       "line": 1697
-    }
+    },
+    "page": "/titles/warden-of-the-south/"
   },
   {
     "id": "title:high-marshal-of-the-reach",
@@ -5571,7 +5585,8 @@
     "worldbookReference": {
       "source": "worldbook-v10",
       "line": 1697
-    }
+    },
+    "page": "/titles/high-marshal-of-the-reach/"
   },
   {
     "id": "title:lord-of-the-arbor",
@@ -5584,7 +5599,8 @@
       "source": "householdbook-v12",
       "line": 2845
     },
-    "titleNature": "hereditary_lordship"
+    "titleNature": "hereditary_lordship",
+    "page": "/titles/lord-of-the-arbor/"
   },
   {
     "id": "title:master-of-ships",
@@ -5597,7 +5613,8 @@
       "source": "householdbook-v12",
       "line": 2845
     },
-    "titleNature": "royal_appointment"
+    "titleNature": "royal_appointment",
+    "page": "/titles/master-of-ships/"
   },
   {
     "id": "title:lord-seneschal-of-highgarden",
@@ -5610,7 +5627,8 @@
       "source": "householdbook-v12",
       "line": 3302
     },
-    "titleNature": "reach_appointment"
+    "titleNature": "reach_appointment",
+    "page": "/titles/lord-seneschal-of-highgarden/"
   },
   {
     "id": "title:lord-admiral-of-the-reach",
@@ -5623,7 +5641,8 @@
       "source": "householdbook-v12",
       "line": 3224
     },
-    "titleNature": "reach_appointment"
+    "titleNature": "reach_appointment",
+    "page": "/titles/lord-admiral-of-the-reach/"
   },
   {
     "id": "title:marshal-of-the-dornish-marches",
@@ -5636,7 +5655,8 @@
       "source": "householdbook-v12",
       "line": 3234
     },
-    "titleNature": "reach_appointment"
+    "titleNature": "reach_appointment",
+    "page": "/titles/marshal-of-the-dornish-marches/"
   },
   {
     "id": "title:lord-of-old-oak",
@@ -5649,7 +5669,8 @@
       "source": "householdbook-v12",
       "line": 3554
     },
-    "titleNature": "hereditary_lordship"
+    "titleNature": "hereditary_lordship",
+    "page": "/titles/lord-of-old-oak/"
   },
   {
     "id": "event:cress-hill-affair",
@@ -6048,5 +6069,89 @@
       "source": "householdbook-v12",
       "line": 3078
     }
+  },
+  {
+    "id": "title:lord-of-bitterbridge",
+    "kind": "title",
+    "name": "Lord of Bitterbridge",
+    "titleNature": "hereditary_lordship",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2112
+    },
+    "page": "/titles/lord-of-bitterbridge/"
+  },
+  {
+    "id": "title:defender-of-the-fords",
+    "kind": "title",
+    "name": "Defender of the Fords",
+    "titleNature": "dignity",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2112
+    },
+    "page": "/titles/defender-of-the-fords/"
+  },
+  {
+    "id": "title:lord-of-ashford",
+    "kind": "title",
+    "name": "Lord of Ashford",
+    "titleNature": "hereditary_lordship",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2209
+    },
+    "page": "/titles/lord-of-ashford/"
+  },
+  {
+    "id": "title:lord-of-longtable",
+    "kind": "title",
+    "name": "Lord of Longtable",
+    "titleNature": "hereditary_lordship",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2326
+    },
+    "page": "/titles/lord-of-longtable/"
+  },
+  {
+    "id": "title:lord-of-oldtown",
+    "kind": "title",
+    "name": "Lord of Oldtown",
+    "titleNature": "hereditary_lordship",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3085
+    },
+    "page": "/titles/lord-of-oldtown/"
+  },
+  {
+    "id": "title:lord-of-coldmoat",
+    "kind": "title",
+    "name": "Lord of Coldmoat",
+    "titleNature": "hereditary_lordship",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3647
+    },
+    "page": "/titles/lord-of-coldmoat/"
   }
 ]

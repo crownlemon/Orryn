@@ -14244,7 +14244,7 @@
   {
     "id": "fact:831",
     "subject": "person:armond-caswell",
-    "predicate": "married_to",
+    "predicate": "former_spouse_of",
     "object": "person:caswell-first-wife",
     "sources": [
       "householdbook-v12"
@@ -14255,7 +14255,7 @@
         "line": 2101
       }
     ],
-    "until": {
+    "asOf": {
       "year": 208
     }
   },
@@ -15072,6 +15072,294 @@
       {
         "source": "householdbook-v12",
         "line": 3078
+      }
+    ]
+  },
+  {
+    "id": "fact:877",
+    "subject": "person:armond-caswell",
+    "predicate": "holds_title",
+    "object": "title:lord-of-bitterbridge",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2112
+      }
+    ]
+  },
+  {
+    "id": "fact:878",
+    "subject": "title:lord-of-bitterbridge",
+    "predicate": "associated_house",
+    "object": "house:caswell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2112
+      }
+    ]
+  },
+  {
+    "id": "fact:879",
+    "subject": "title:lord-of-bitterbridge",
+    "predicate": "seat",
+    "object": "place:bitterbridge",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2112
+      }
+    ]
+  },
+  {
+    "id": "fact:880",
+    "subject": "person:armond-caswell",
+    "predicate": "holds_title",
+    "object": "title:defender-of-the-fords",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2112
+      }
+    ]
+  },
+  {
+    "id": "fact:881",
+    "subject": "person:ashford-unnamed-lord",
+    "predicate": "holds_title",
+    "object": "title:lord-of-ashford",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2209
+      }
+    ]
+  },
+  {
+    "id": "fact:882",
+    "subject": "title:lord-of-ashford",
+    "predicate": "associated_house",
+    "object": "house:ashford",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2209
+      }
+    ]
+  },
+  {
+    "id": "fact:883",
+    "subject": "title:lord-of-ashford",
+    "predicate": "seat",
+    "object": "place:ashford",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2209
+      }
+    ]
+  },
+  {
+    "id": "fact:884",
+    "subject": "person:merryweather-unnamed-lord",
+    "predicate": "holds_title",
+    "object": "title:lord-of-longtable",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2326
+      }
+    ]
+  },
+  {
+    "id": "fact:885",
+    "subject": "title:lord-of-longtable",
+    "predicate": "associated_house",
+    "object": "house:merryweather",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2326
+      }
+    ]
+  },
+  {
+    "id": "fact:886",
+    "subject": "title:lord-of-longtable",
+    "predicate": "seat",
+    "object": "place:longtable",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2326
+      }
+    ]
+  },
+  {
+    "id": "fact:887",
+    "subject": "person:jon-hightower",
+    "predicate": "holds_title",
+    "object": "title:lord-of-oldtown",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3085
+      }
+    ]
+  },
+  {
+    "id": "fact:888",
+    "subject": "title:lord-of-oldtown",
+    "predicate": "associated_house",
+    "object": "house:hightower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3085
+      }
+    ]
+  },
+  {
+    "id": "fact:889",
+    "subject": "title:lord-of-oldtown",
+    "predicate": "seat",
+    "object": "place:oldtown",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3085
+      }
+    ]
+  },
+  {
+    "id": "fact:890",
+    "subject": "person:wyman-webber",
+    "predicate": "holds_title",
+    "object": "title:lord-of-coldmoat",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3647
+      }
+    ]
+  },
+  {
+    "id": "fact:891",
+    "subject": "title:lord-of-coldmoat",
+    "predicate": "associated_house",
+    "object": "house:webber",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3647
+      }
+    ]
+  },
+  {
+    "id": "fact:892",
+    "subject": "title:lord-of-coldmoat",
+    "predicate": "seat",
+    "object": "place:coldmoat",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3647
       }
     ]
   }
