@@ -14,6 +14,14 @@ All public-facing content of The Orryn Chronicles is written in **English only**
 3. **Published ASOIAF source material** supplies historical background up to the game's divergence point, where compatible with the game's established continuity.
 4. **A Wiki of Ice and Fire** is a useful secondary reference and finding aid. Its summaries are checked where possible rather than being automatically adopted.
 
+## Encyclopedia article standards
+
+- **Character pages:** show `Born` prominently, followed by `Age` when helpful. Use a source-documented day, month and year only if established. Otherwise give an appropriately qualified approximate birth year (for example, *c. 154–155 AC*) or *Birth date unknown*, never invent a precise date. If an age is reported, identify the year or source state to which it applies.
+- **House pages:** include a family tree for the established branch, clearly distinguishing spouses, children, siblings and proposed betrothals. Unknown relations remain unfilled.
+- **Sworn houses:** use a simple, directly scannable list of houses and seats, classified by their source-defined rank when helpful. Do not infer vassalage from friendship, marriage, residence or military cooperation.
+- **Writing:** favor coherent historical prose and a small number of substantive headings. Avoid repeating the infobox in separate sections or making headings merely to accommodate a sentence.
+- **Time:** distinguish the historical starting situation from later approved developments. A proposed match should not appear as a marriage until it has occurred in the accepted chronology.
+
 ## Status of claims
 
 Articles distinguish **confirmed events**, **character beliefs and rumours**, **proposals and ambitions**, and **unresolved questions**. Later book-canon events are not presumed inevitable in this alternative timeline.
