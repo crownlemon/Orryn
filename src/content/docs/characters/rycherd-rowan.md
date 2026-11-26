@@ -1,6 +1,6 @@
 ---
 title: Lord Rycherd Rowan
-description: Lord of Goldengrove and hereditary Marshal of the Northmarch.
+description: Lord of [Goldengrove](/places/goldengrove/) and hereditary Marshal of the Northmarch.
 sidebar:
   order: 1
 ---
@@ -13,7 +13,7 @@ sidebar:
 | **Age** | 53 |
 | **Titles** | Lord of Goldengrove; Marshal of the Northmarch |
 | **House** | [Rowan](/houses/rowan/) |
-| **Seat** | Goldengrove |
+| **Seat** | [Goldengrove](/places/goldengrove/) |
 | **Spouse** | Lady Clarice Hightower |
 | **Children** | Ser Triston Rowan; Lady Roslin Rowan |
 | **Allegiance** | House Tyrell |
