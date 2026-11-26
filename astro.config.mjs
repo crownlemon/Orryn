@@ -11,6 +11,7 @@ export default defineConfig({
         { label: 'Main page', link: '/' },
         { label: 'Noble Houses', items: [{ autogenerate: { directory: 'houses' } }] },
         { label: 'Characters', items: [{ autogenerate: { directory: 'characters' } }] },
+        { label: 'Places', items: [{ autogenerate: { directory: 'places' } }] },
         { label: 'The Realm', items: [{ autogenerate: { directory: 'realm' } }] },
         { label: 'Politics & Events', items: [{ autogenerate: { directory: 'events' } }] }
       ]
