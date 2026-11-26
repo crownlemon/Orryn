@@ -18,6 +18,10 @@ sidebar:
 | **Children** | Ser Triston Rowan; Lady Roslin Rowan |
 | **Allegiance** | House Tyrell |
 
+## Appearance
+
+Rycherd is broad through the chest, with a heavy, weather-beaten face and greying hair at his temples. He is shorter than his wife, Lady Clarice. His fingers are thick, and he wears rings. At the wedding of Lady Leonette Meadows, he wore a cloak bearing the golden tree of House Rowan. He speaks in a slow, measured voice.
+
 ## Character
 
 Rycherd is an experienced lord, knowledgeable about landed obligations and skilled in negotiation. He maintains friendships and reciprocal duties among the lesser houses of his region and demands respect for the precedence of Goldengrove. An affront to his standing is seldom forgotten and may become a matter of lordly consequence rather than a passing personal quarrel.
