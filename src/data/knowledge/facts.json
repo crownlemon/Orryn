@@ -1,0 +1,788 @@
+[
+  {
+    "id": "fact:1",
+    "subject": "house:rowan",
+    "predicate": "seat",
+    "object": "place:goldengrove",
+    "sources": [
+      "worldbook-v10"
+    ]
+  },
+  {
+    "id": "fact:2",
+    "subject": "house:rowan",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ]
+  },
+  {
+    "id": "fact:3",
+    "subject": "house:rowan",
+    "predicate": "sworn_to",
+    "object": "house:tyrell",
+    "sources": [
+      "worldbook-v10"
+    ]
+  },
+  {
+    "id": "fact:4",
+    "subject": "house:rowan",
+    "predicate": "head",
+    "object": "person:rycherd-rowan",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  {
+    "id": "fact:5",
+    "subject": "person:rycherd-rowan",
+    "predicate": "holds_title",
+    "object": "title:lord-of-goldengrove",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  {
+    "id": "fact:6",
+    "subject": "title:lord-of-goldengrove",
+    "predicate": "seat",
+    "object": "place:goldengrove",
+    "sources": [
+      "worldbook-v10"
+    ]
+  },
+  {
+    "id": "fact:7",
+    "subject": "place:goldengrove",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ]
+  },
+  {
+    "id": "fact:8",
+    "subject": "house:grandison",
+    "predicate": "seat",
+    "object": "place:grandview",
+    "sources": [
+      "worldbook-v10"
+    ]
+  },
+  {
+    "id": "fact:9",
+    "subject": "house:grandison",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ]
+  },
+  {
+    "id": "fact:10",
+    "subject": "house:grandison",
+    "predicate": "sworn_to",
+    "object": "house:baratheon",
+    "sources": [
+      "worldbook-v10"
+    ]
+  },
+  {
+    "id": "fact:11",
+    "subject": "house:grandison",
+    "predicate": "head",
+    "object": "person:alester-grandison",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  {
+    "id": "fact:12",
+    "subject": "person:alester-grandison",
+    "predicate": "holds_title",
+    "object": "title:lord-of-grandview",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  {
+    "id": "fact:13",
+    "subject": "title:lord-of-grandview",
+    "predicate": "seat",
+    "object": "place:grandview",
+    "sources": [
+      "worldbook-v10"
+    ]
+  },
+  {
+    "id": "fact:14",
+    "subject": "place:grandview",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ]
+  },
+  {
+    "id": "fact:15",
+    "subject": "house:meadows",
+    "predicate": "seat",
+    "object": "place:grassfield-keep",
+    "sources": [
+      "worldbook-v10"
+    ]
+  },
+  {
+    "id": "fact:16",
+    "subject": "house:meadows",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ]
+  },
+  {
+    "id": "fact:17",
+    "subject": "house:meadows",
+    "predicate": "sworn_to",
+    "object": "house:tyrell",
+    "sources": [
+      "worldbook-v10"
+    ]
+  },
+  {
+    "id": "fact:18",
+    "subject": "house:meadows",
+    "predicate": "head",
+    "object": "person:alaric-meadows",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  {
+    "id": "fact:19",
+    "subject": "person:alaric-meadows",
+    "predicate": "holds_title",
+    "object": "title:lord-of-grassfield",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  {
+    "id": "fact:20",
+    "subject": "title:lord-of-grassfield",
+    "predicate": "seat",
+    "object": "place:grassfield-keep",
+    "sources": [
+      "worldbook-v10"
+    ]
+  },
+  {
+    "id": "fact:21",
+    "subject": "place:grassfield-keep",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ]
+  },
+  {
+    "id": "fact:22",
+    "subject": "place:grassy-vale",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ]
+  },
+  {
+    "id": "fact:23",
+    "subject": "place:grassy-vale",
+    "predicate": "ruled_by",
+    "object": "house:meadows",
+    "sources": [
+      "worldbook-v10"
+    ]
+  },
+  {
+    "id": "fact:24",
+    "subject": "place:grassfield-keep",
+    "predicate": "near",
+    "object": "place:grassy-vale",
+    "sources": [
+      "worldbook-v10"
+    ]
+  },
+  {
+    "id": "fact:25",
+    "subject": "person:triston-rowan",
+    "predicate": "child_of",
+    "object": "person:rycherd-rowan",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:26",
+    "subject": "person:triston-rowan",
+    "predicate": "child_of",
+    "object": "person:clarice-rowan",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:27",
+    "subject": "person:roslin-rowan",
+    "predicate": "child_of",
+    "object": "person:rycherd-rowan",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:28",
+    "subject": "person:roslin-rowan",
+    "predicate": "child_of",
+    "object": "person:clarice-rowan",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:29",
+    "subject": "person:clarice-rowan",
+    "predicate": "child_of",
+    "object": "person:garmund-hightower",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:30",
+    "subject": "person:clarice-rowan",
+    "predicate": "child_of",
+    "object": "person:rhaena-targaryen",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:31",
+    "subject": "person:alysanne-penrose",
+    "predicate": "child_of",
+    "object": "person:garmund-hightower",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:32",
+    "subject": "person:alysanne-penrose",
+    "predicate": "child_of",
+    "object": "person:rhaena-targaryen",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:33",
+    "subject": "person:alester-grandison",
+    "predicate": "child_of",
+    "object": "person:gawen-grandison",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:34",
+    "subject": "person:alester-grandison",
+    "predicate": "child_of",
+    "object": "person:ellyn-grandison",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:35",
+    "subject": "person:steffon-grandison",
+    "predicate": "child_of",
+    "object": "person:gawen-grandison",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:36",
+    "subject": "person:steffon-grandison",
+    "predicate": "child_of",
+    "object": "person:ellyn-grandison",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:37",
+    "subject": "person:raymont-grandison",
+    "predicate": "child_of",
+    "object": "person:gawen-grandison",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:38",
+    "subject": "person:raymont-grandison",
+    "predicate": "child_of",
+    "object": "person:ellyn-grandison",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:39",
+    "subject": "person:alys-musgood",
+    "predicate": "child_of",
+    "object": "person:gawen-grandison",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:40",
+    "subject": "person:alys-musgood",
+    "predicate": "child_of",
+    "object": "person:ellyn-grandison",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:41",
+    "subject": "person:arlan-grandison",
+    "predicate": "child_of",
+    "object": "person:alester-grandison",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:42",
+    "subject": "person:arlan-grandison",
+    "predicate": "child_of",
+    "object": "person:lynesse-grandison",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:43",
+    "subject": "person:elenei-grandison",
+    "predicate": "child_of",
+    "object": "person:alester-grandison",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:44",
+    "subject": "person:elenei-grandison",
+    "predicate": "child_of",
+    "object": "person:lynesse-grandison",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:45",
+    "subject": "person:alyssa-grandison",
+    "predicate": "child_of",
+    "object": "person:steffon-grandison",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:46",
+    "subject": "person:alyssa-grandison",
+    "predicate": "child_of",
+    "object": "person:maris-grandison",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:47",
+    "subject": "person:orryn-grandison",
+    "predicate": "child_of",
+    "object": "person:steffon-grandison",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:48",
+    "subject": "person:orryn-grandison",
+    "predicate": "child_of",
+    "object": "person:maris-grandison",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:49",
+    "subject": "person:alaric-meadows",
+    "predicate": "child_of",
+    "object": "person:late-lord-meadows",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:50",
+    "subject": "person:jeyne-meadows",
+    "predicate": "child_of",
+    "object": "person:armond-caswell",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:51",
+    "subject": "person:leonette-meadows",
+    "predicate": "child_of",
+    "object": "person:alaric-meadows",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:52",
+    "subject": "person:leonette-meadows",
+    "predicate": "child_of",
+    "object": "person:jeyne-meadows",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:53",
+    "subject": "person:matthos-meadows",
+    "predicate": "child_of",
+    "object": "person:alaric-meadows",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:54",
+    "subject": "person:matthos-meadows",
+    "predicate": "child_of",
+    "object": "person:jeyne-meadows",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:55",
+    "subject": "person:elyce-meadows",
+    "predicate": "child_of",
+    "object": "person:alaric-meadows",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:56",
+    "subject": "person:elyce-meadows",
+    "predicate": "child_of",
+    "object": "person:jeyne-meadows",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:57",
+    "subject": "person:rycherd-rowan",
+    "predicate": "married_to",
+    "object": "person:clarice-rowan",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:58",
+    "subject": "person:mina-webber",
+    "predicate": "married_to",
+    "object": "person:wendell-webber",
+    "sources": [
+      "chapter-66"
+    ]
+  },
+  {
+    "id": "fact:59",
+    "subject": "person:gawen-grandison",
+    "predicate": "married_to",
+    "object": "person:ellyn-grandison",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:60",
+    "subject": "person:alester-grandison",
+    "predicate": "married_to",
+    "object": "person:lynesse-grandison",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:61",
+    "subject": "person:steffon-grandison",
+    "predicate": "married_to",
+    "object": "person:maris-grandison",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:62",
+    "subject": "person:alaric-meadows",
+    "predicate": "married_to",
+    "object": "person:jeyne-meadows",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:63",
+    "subject": "person:elenei-grandison",
+    "predicate": "married_to",
+    "object": "person:addam-penrose",
+    "sources": [
+      "chapter-02"
+    ],
+    "from": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:64",
+    "subject": "person:leonette-meadows",
+    "predicate": "married_to",
+    "object": "person:garlan-footly",
+    "sources": [
+      "chapter-60"
+    ],
+    "from": {
+      "year": 208,
+      "chapter": 60
+    }
+  },
+  {
+    "id": "fact:65",
+    "subject": "person:triston-rowan",
+    "predicate": "betrothed_to",
+    "object": "person:joy-penrose",
+    "sources": [
+      "chapter-60"
+    ],
+    "from": {
+      "year": 208,
+      "chapter": 60
+    }
+  },
+  {
+    "id": "fact:66",
+    "subject": "person:alyssa-grandison",
+    "predicate": "betrothed_to",
+    "object": "person:edric-wagstaff",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:67",
+    "subject": "person:arlan-grandison",
+    "predicate": "betrothed_to",
+    "object": "person:alysanne-cafferen",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:68",
+    "subject": "person:rycherd-rowan",
+    "predicate": "sibling_of",
+    "object": "person:nyles-rowan",
+    "sources": [
+      "chapter-66"
+    ]
+  },
+  {
+    "id": "fact:69",
+    "subject": "person:rycherd-rowan",
+    "predicate": "sibling_of",
+    "object": "person:mina-webber",
+    "sources": [
+      "chapter-66"
+    ]
+  },
+  {
+    "id": "fact:70",
+    "subject": "person:ellyn-grandison",
+    "predicate": "sibling_of",
+    "object": "person:late-lord-meadows",
+    "sources": [
+      "householdbook-v12"
+    ]
+  },
+  {
+    "id": "fact:71",
+    "subject": "person:orryn-grandison",
+    "predicate": "serves",
+    "object": "person:alaric-meadows",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "from": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:72",
+    "subject": "person:orryn-grandison",
+    "predicate": "resides_at",
+    "object": "place:grassfield-keep",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "from": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:73",
+    "subject": "person:leonette-meadows",
+    "predicate": "resides_at",
+    "object": "place:grassy-vale",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "until": {
+      "year": 208,
+      "chapter": 60
+    }
+  },
+  {
+    "id": "fact:74",
+    "subject": "person:triston-rowan",
+    "predicate": "heir_to",
+    "object": "house:rowan",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  {
+    "id": "fact:75",
+    "subject": "person:arlan-grandison",
+    "predicate": "heir_to",
+    "object": "house:grandison",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  {
+    "id": "fact:76",
+    "subject": "person:matthos-meadows",
+    "predicate": "heir_to",
+    "object": "house:meadows",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  {
+    "id": "fact:77",
+    "subject": "event:marriage-leonette-garlan",
+    "predicate": "participant",
+    "object": "person:leonette-meadows",
+    "sources": [
+      "chapter-60"
+    ]
+  },
+  {
+    "id": "fact:78",
+    "subject": "event:marriage-leonette-garlan",
+    "predicate": "participant",
+    "object": "person:garlan-footly",
+    "sources": [
+      "chapter-60"
+    ]
+  },
+  {
+    "id": "fact:79",
+    "subject": "event:marriage-leonette-garlan",
+    "predicate": "place",
+    "object": "place:grassfield-keep",
+    "sources": [
+      "chapter-60"
+    ]
+  },
+  {
+    "id": "fact:80",
+    "subject": "event:betrothal-triston-joy",
+    "predicate": "participant",
+    "object": "person:triston-rowan",
+    "sources": [
+      "chapter-60"
+    ]
+  },
+  {
+    "id": "fact:81",
+    "subject": "event:betrothal-triston-joy",
+    "predicate": "participant",
+    "object": "person:joy-penrose",
+    "sources": [
+      "chapter-60"
+    ]
+  }
+]

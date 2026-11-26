@@ -1,0 +1,50 @@
+[
+  {
+    "id": "awoiaf-list",
+    "title": "A Wiki of Ice and Fire: List of Houses",
+    "url": "https://awoiaf.westeros.org/index.php/List_of_houses",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-house-template",
+    "title": "A Wiki of Ice and Fire: Infobox house",
+    "url": "https://awoiaf.westeros.org/index.php/Template:Infobox_house/doc",
+    "kind": "schema"
+  },
+  {
+    "id": "awoiaf-character",
+    "title": "A Wiki of Ice and Fire: Infobox character",
+    "url": "https://awoiaf.westeros.org/index.php/Module:Infobox_character",
+    "kind": "schema"
+  },
+  {
+    "id": "worldbook-v10",
+    "title": "Stormlands Worldbook v10",
+    "url": "https://docs.google.com/document/d/1RT_qQ7jmQDvva_0LKl-xt8w64VymwXKxhJN34DHVCQ8/edit",
+    "kind": "internal"
+  },
+  {
+    "id": "householdbook-v12",
+    "title": "Stormlands Householdbook v12",
+    "url": "https://docs.google.com/document/d/1HOPI0viIxt9HUd-DZARNAjJ1Jb_NNCJhJOcxSyVgaTc/edit",
+    "kind": "internal"
+  },
+  {
+    "id": "chapter-02",
+    "title": "Chapter 2: The Green Hangings",
+    "url": "https://docs.google.com/document/d/1kj00jS9qPN5WQZVlLZvpkVOr4seYeDk5trwIJFCsnDw/edit",
+    "kind": "internal"
+  },
+  {
+    "id": "chapter-60",
+    "title": "Chapter 60: The Wedding Guests",
+    "url": "https://docs.google.com/document/d/12F6SzVSQcgYZusgHK4DqI8RpWPNAJUF0sR8oNBHn2Pg/edit",
+    "kind": "internal"
+  },
+  {
+    "id": "chapter-66",
+    "title": "Chapter 66: Whose Man",
+    "url": "https://docs.google.com/document/d/1HOGFwfwXrgCr_5QTrpLBA0-y71Uln83e19u7wkU1V6A/edit",
+    "kind": "internal"
+  }
+]

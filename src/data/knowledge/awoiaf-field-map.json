@@ -1,0 +1,79 @@
+{
+  "method": "Follow AWOIAF template fields/categories for article architecture; store temporal facts and relationships separately.",
+  "baseline": {
+    "year": 208,
+    "chapter": 67,
+    "preStoryYear": 207
+  },
+  "templates": {
+    "house": {
+      "url": "https://awoiaf.westeros.org/index.php/Template:Infobox_house/doc",
+      "fields": [
+        "name",
+        "arms",
+        "region",
+        "seat",
+        "lord",
+        "heir",
+        "words",
+        "titles",
+        "overlord",
+        "founder",
+        "cadet_branch",
+        "extinction"
+      ]
+    },
+    "person": {
+      "url": "https://awoiaf.westeros.org/index.php/Module:Infobox_character",
+      "fields": [
+        "name",
+        "birth",
+        "death",
+        "culture",
+        "father",
+        "mother",
+        "spouse",
+        "children",
+        "titles",
+        "allegiance"
+      ]
+    },
+    "place": {
+      "url": "https://awoiaf.westeros.org/index.php/Category:Castles",
+      "fields": [
+        "name",
+        "region",
+        "placeType",
+        "ruler",
+        "history"
+      ]
+    },
+    "title": {
+      "url": "https://awoiaf.westeros.org/index.php/Lord_of_Goldengrove",
+      "fields": [
+        "name",
+        "seat",
+        "holders",
+        "house"
+      ]
+    },
+    "event": {
+      "url": "https://awoiaf.westeros.org/index.php/First_Blackfyre_Rebellion",
+      "fields": [
+        "name",
+        "date",
+        "location",
+        "participants",
+        "outcome"
+      ]
+    }
+  },
+  "rules": [
+    "A house, physical seat, hereditary office, and current holder are four distinct entities.",
+    "Category membership does not prove family or vassal relationship.",
+    "No unplayed future event is imported as established history.",
+    "Null house words means unestablished; never invent words or affiliations.",
+    "Source identifiers identify evidence; wiki text remains separate from editorial documentation."
+  ],
+  "status": "Exploratory mapping, not a completed reverse-engineering of all MediaWiki templates."
+}
