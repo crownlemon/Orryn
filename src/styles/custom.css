@@ -161,3 +161,7 @@ h1 { letter-spacing: 0.015em; }
   font: 10px/1.5 system-ui, sans-serif;
 }
 .orr-asset-credit a { text-underline-offset: 2px; }
+
+/* Linked family members in genealogy diagrams. */
+.orr-genealogy .tree-names a text { fill: #315d77; text-decoration: underline; text-underline-offset: 3px; }
+.orr-genealogy .tree-names a:hover text { fill: #855338; }
