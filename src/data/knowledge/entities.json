@@ -127,7 +127,8 @@
       "words": [
         "awoiaf-list"
       ]
-    }
+    },
+    "page": "/houses/tyrell/"
   },
   {
     "id": "house:baratheon",
@@ -2410,7 +2411,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "registered_no_article",
+    "page": "/houses/redwyne/"
   },
   {
     "id": "place:arbor",
@@ -5111,6 +5113,511 @@
     "householdReference": {
       "source": "householdbook-v12",
       "line": 1073
+    }
+  },
+  {
+    "id": "person:leo-tyrell",
+    "kind": "person",
+    "name": "Lord Leo Tyrell",
+    "birthHouse": "tyrell",
+    "ageDescription208": "about 66",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2509
+    },
+    "page": "/characters/leo-tyrell/"
+  },
+  {
+    "id": "person:arlanna-tyrell",
+    "kind": "person",
+    "name": "Lady Arlanna Tyrell",
+    "birthHouse": "peake",
+    "ageDescription208": "about 60",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2509
+    },
+    "page": "/characters/arlanna-tyrell/"
+  },
+  {
+    "id": "person:garth-tyrell",
+    "kind": "person",
+    "name": "Ser Garth Tyrell",
+    "birthHouse": "tyrell",
+    "ageDescription208": "40",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2511
+    },
+    "page": "/characters/garth-tyrell/"
+  },
+  {
+    "id": "person:alys-tyrell",
+    "kind": "person",
+    "name": "Lady Alys Tyrell",
+    "birthHouse": "redwyne",
+    "ageDescription208": "about 38",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2765
+    }
+  },
+  {
+    "id": "person:harlen-tyrell",
+    "kind": "person",
+    "name": "Ser Harlen Tyrell",
+    "birthHouse": "tyrell",
+    "ageDescription208": "18",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2531
+    }
+  },
+  {
+    "id": "person:moryn-tyrell",
+    "kind": "person",
+    "name": "Ser Moryn Tyrell",
+    "birthHouse": "tyrell",
+    "ageDescription208": "37",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2511
+    },
+    "page": "/characters/moryn-tyrell/"
+  },
+  {
+    "id": "person:melessa-tyrell",
+    "kind": "person",
+    "name": "Lady Melessa Tyrell",
+    "birthHouse": "ashford",
+    "ageDescription208": "about 36",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2765
+    }
+  },
+  {
+    "id": "person:ceryse-oakheart",
+    "kind": "person",
+    "name": "Lady Ceryse Oakheart",
+    "birthHouse": "tyrell",
+    "ageDescription208": "35",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2615
+    },
+    "page": "/characters/ceryse-oakheart/"
+  },
+  {
+    "id": "person:olyvar-tyrell",
+    "kind": "person",
+    "name": "Ser Olyvar Tyrell",
+    "birthHouse": "tyrell",
+    "ageDescription208": "33",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2511
+    },
+    "page": "/characters/olyvar-tyrell/"
+  },
+  {
+    "id": "person:lenora-tyrell",
+    "kind": "person",
+    "name": "Lady Lenora Tyrell",
+    "birthHouse": "hewett",
+    "ageDescription208": "about 30",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2765
+    }
+  },
+  {
+    "id": "person:brenna-caswell",
+    "kind": "person",
+    "name": "Lady Brenna Caswell",
+    "birthHouse": "tyrell",
+    "ageDescription208": "31",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2511
+    }
+  },
+  {
+    "id": "person:joffrey-caswell",
+    "kind": "person",
+    "name": "Joffrey Caswell",
+    "birthHouse": "caswell",
+    "ageDescription208": "15",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2511
+    }
+  },
+  {
+    "id": "person:gormon-peake",
+    "kind": "person",
+    "name": "Lord Gormon Peake",
+    "birthHouse": "peake",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2511
+    }
+  },
+  {
+    "id": "person:theomar-redwyne",
+    "kind": "person",
+    "name": "Lord Theomar Redwyne",
+    "birthHouse": "redwyne",
+    "ageDescription208": "58",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2847
+    },
+    "page": "/characters/theomar-redwyne/"
+  },
+  {
+    "id": "person:arron-redwyne",
+    "kind": "person",
+    "name": "Ser Arron Redwyne",
+    "birthHouse": "redwyne",
+    "ageDescription208": "35",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2847
+    }
+  },
+  {
+    "id": "person:hugh-redwyne",
+    "kind": "person",
+    "name": "Hugh Redwyne",
+    "birthHouse": "redwyne",
+    "ageDescription208": "15",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2532
+    }
+  },
+  {
+    "id": "person:melara-redwyne",
+    "kind": "person",
+    "name": "Lady Melara Redwyne",
+    "birthHouse": "redwyne",
+    "ageDescription208": "about 55",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2847
+    }
+  },
+  {
+    "id": "person:arstan-blackbar",
+    "kind": "person",
+    "name": "Lord Arstan Blackbar",
+    "birthHouse": "blackbar",
+    "ageDescription208": "37",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2847
+    }
+  },
+  {
+    "id": "person:ashford-unnamed-lord",
+    "kind": "person",
+    "name": "Lord Ashford (given name unrecorded)",
+    "birthHouse": "ashford",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2511
+    },
+    "givenNameUnestablished": true
+  },
+  {
+    "id": "person:ormund-hewett",
+    "kind": "person",
+    "name": "Lord Ormund Hewett",
+    "birthHouse": "hewett",
+    "ageDescription208": "63",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3222
+    }
+  },
+  {
+    "id": "person:roderick-tarly",
+    "kind": "person",
+    "name": "Lord Roderick Tarly",
+    "birthHouse": "tarly",
+    "ageDescription208": "64",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3232
+    }
+  },
+  {
+    "id": "person:denys-tarly",
+    "kind": "person",
+    "name": "Ser Denys Tarly",
+    "birthHouse": "tarly",
+    "ageDescription208": "20",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2534
+    }
+  },
+  {
+    "id": "person:gyles-peake",
+    "kind": "person",
+    "name": "Gyles Peake",
+    "birthHouse": "peake",
+    "ageDescription208": "16",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2533
+    }
+  },
+  {
+    "id": "person:will-risley",
+    "kind": "person",
+    "name": "Will Risley",
+    "birthHouse": "risley",
+    "ageDescription208": "17",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2535
+    }
+  },
+  {
+    "id": "person:luthor-risley",
+    "kind": "person",
+    "name": "Ser Luthor Risley",
+    "birthHouse": "risley",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2535
+    }
+  },
+  {
+    "id": "person:harys-oakheart",
+    "kind": "person",
+    "name": "Lord Harys Oakheart",
+    "birthHouse": "oakheart",
+    "ageDescription208": "13",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3553
+    }
+  },
+  {
+    "id": "person:oakheart-late-lord",
+    "kind": "person",
+    "name": "The late Lord Oakheart (given name unrecorded)",
+    "birthHouse": "oakheart",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3554
+    },
+    "givenNameUnestablished": true,
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:gwayne-oakheart",
+    "kind": "person",
+    "name": "Ser Gwayne Oakheart",
+    "birthHouse": "oakheart",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3562
+    }
+  },
+  {
+    "id": "title:lord-of-highgarden",
+    "kind": "title",
+    "name": "Lord of Highgarden",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2509
+    }
+  },
+  {
+    "id": "title:warden-of-the-south",
+    "kind": "title",
+    "name": "Warden of the South",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1697
+    }
+  },
+  {
+    "id": "title:high-marshal-of-the-reach",
+    "kind": "title",
+    "name": "High Marshal of the Reach",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1697
+    }
+  },
+  {
+    "id": "title:lord-of-the-arbor",
+    "kind": "title",
+    "name": "Lord of the Arbor",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2845
+    }
+  },
+  {
+    "id": "title:master-of-ships",
+    "kind": "title",
+    "name": "Master of Ships",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2845
+    }
+  },
+  {
+    "id": "title:lord-seneschal-of-highgarden",
+    "kind": "title",
+    "name": "Lord Seneschal of Highgarden",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3302
+    }
+  },
+  {
+    "id": "title:lord-admiral-of-the-reach",
+    "kind": "title",
+    "name": "Lord Admiral of the Reach",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3224
+    }
+  },
+  {
+    "id": "title:marshal-of-the-dornish-marches",
+    "kind": "title",
+    "name": "Marshal of the Dornish Marches",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3234
+    }
+  },
+  {
+    "id": "title:lord-of-old-oak",
+    "kind": "title",
+    "name": "Lord of Old Oak",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3554
     }
   }
 ]

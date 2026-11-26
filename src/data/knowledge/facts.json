@@ -12455,5 +12455,1694 @@
         "line": 1073
       }
     ]
+  },
+  {
+    "id": "fact:727",
+    "subject": "person:garth-tyrell",
+    "predicate": "child_of",
+    "object": "person:leo-tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2511
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:728",
+    "subject": "person:garth-tyrell",
+    "predicate": "child_of",
+    "object": "person:arlanna-tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2511
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:729",
+    "subject": "person:moryn-tyrell",
+    "predicate": "child_of",
+    "object": "person:leo-tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2511
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:730",
+    "subject": "person:moryn-tyrell",
+    "predicate": "child_of",
+    "object": "person:arlanna-tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2511
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:731",
+    "subject": "person:ceryse-oakheart",
+    "predicate": "child_of",
+    "object": "person:leo-tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2511
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:732",
+    "subject": "person:ceryse-oakheart",
+    "predicate": "child_of",
+    "object": "person:arlanna-tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2511
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:733",
+    "subject": "person:olyvar-tyrell",
+    "predicate": "child_of",
+    "object": "person:leo-tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2511
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:734",
+    "subject": "person:olyvar-tyrell",
+    "predicate": "child_of",
+    "object": "person:arlanna-tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2511
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:735",
+    "subject": "person:brenna-caswell",
+    "predicate": "child_of",
+    "object": "person:leo-tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2511
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:736",
+    "subject": "person:brenna-caswell",
+    "predicate": "child_of",
+    "object": "person:arlanna-tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2511
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:737",
+    "subject": "person:harlen-tyrell",
+    "predicate": "child_of",
+    "object": "person:garth-tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2765
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:738",
+    "subject": "person:harlen-tyrell",
+    "predicate": "child_of",
+    "object": "person:alys-tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2765
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:739",
+    "subject": "person:joffrey-caswell",
+    "predicate": "child_of",
+    "object": "person:armond-caswell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2511
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:740",
+    "subject": "person:joffrey-caswell",
+    "predicate": "child_of",
+    "object": "person:brenna-caswell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2511
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:741",
+    "subject": "person:alys-tyrell",
+    "predicate": "child_of",
+    "object": "person:theomar-redwyne",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2847
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:742",
+    "subject": "person:arron-redwyne",
+    "predicate": "child_of",
+    "object": "person:theomar-redwyne",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2847
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:743",
+    "subject": "person:hugh-redwyne",
+    "predicate": "child_of",
+    "object": "person:arron-redwyne",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2847
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:744",
+    "subject": "person:arstan-blackbar",
+    "predicate": "child_of",
+    "object": "person:melara-redwyne",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2847
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:745",
+    "subject": "person:lenora-tyrell",
+    "predicate": "child_of",
+    "object": "person:ormund-hewett",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3222
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:746",
+    "subject": "person:gyles-peake",
+    "predicate": "child_of",
+    "object": "person:gormon-peake",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2533
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:747",
+    "subject": "person:harys-oakheart",
+    "predicate": "child_of",
+    "object": "person:oakheart-late-lord",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3554
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:748",
+    "subject": "person:harys-oakheart",
+    "predicate": "child_of",
+    "object": "person:ceryse-oakheart",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3554
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:749",
+    "subject": "person:leo-tyrell",
+    "predicate": "married_to",
+    "object": "person:arlanna-tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2511
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:750",
+    "subject": "person:garth-tyrell",
+    "predicate": "married_to",
+    "object": "person:alys-tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2511
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:751",
+    "subject": "person:moryn-tyrell",
+    "predicate": "married_to",
+    "object": "person:melessa-tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2765
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:752",
+    "subject": "person:olyvar-tyrell",
+    "predicate": "married_to",
+    "object": "person:lenora-tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2765
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:753",
+    "subject": "person:armond-caswell",
+    "predicate": "married_to",
+    "object": "person:brenna-caswell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2511
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:754",
+    "subject": "person:ceryse-oakheart",
+    "predicate": "married_to",
+    "object": "person:oakheart-late-lord",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2511
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:755",
+    "subject": "person:arlanna-tyrell",
+    "predicate": "sibling_of",
+    "object": "person:gormon-peake",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2511
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:756",
+    "subject": "person:melessa-tyrell",
+    "predicate": "sibling_of",
+    "object": "person:ashford-unnamed-lord",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2511
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:757",
+    "subject": "person:melara-redwyne",
+    "predicate": "sibling_of",
+    "object": "person:theomar-redwyne",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2847
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:758",
+    "subject": "person:luthor-risley",
+    "predicate": "uncle_of",
+    "object": "person:will-risley",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2535
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:759",
+    "subject": "person:brenna-caswell",
+    "predicate": "step_parent_of",
+    "object": "person:jeyne-meadows",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2742
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:760",
+    "subject": "person:leo-tyrell",
+    "predicate": "born_to_house",
+    "object": "house:tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2509
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:761",
+    "subject": "person:arlanna-tyrell",
+    "predicate": "born_to_house",
+    "object": "house:peake",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2511
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:762",
+    "subject": "person:garth-tyrell",
+    "predicate": "born_to_house",
+    "object": "house:tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2511
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:763",
+    "subject": "person:alys-tyrell",
+    "predicate": "born_to_house",
+    "object": "house:redwyne",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2765
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:764",
+    "subject": "person:moryn-tyrell",
+    "predicate": "born_to_house",
+    "object": "house:tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2511
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:765",
+    "subject": "person:melessa-tyrell",
+    "predicate": "born_to_house",
+    "object": "house:ashford",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2765
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:766",
+    "subject": "person:ceryse-oakheart",
+    "predicate": "born_to_house",
+    "object": "house:tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2511
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:767",
+    "subject": "person:olyvar-tyrell",
+    "predicate": "born_to_house",
+    "object": "house:tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2511
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:768",
+    "subject": "person:lenora-tyrell",
+    "predicate": "born_to_house",
+    "object": "house:hewett",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2765
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:769",
+    "subject": "person:brenna-caswell",
+    "predicate": "born_to_house",
+    "object": "house:tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2511
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:770",
+    "subject": "person:harlen-tyrell",
+    "predicate": "born_to_house",
+    "object": "house:tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2765
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:771",
+    "subject": "person:joffrey-caswell",
+    "predicate": "born_to_house",
+    "object": "house:caswell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2511
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:772",
+    "subject": "person:harys-oakheart",
+    "predicate": "born_to_house",
+    "object": "house:oakheart",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3554
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:773",
+    "subject": "person:hugh-redwyne",
+    "predicate": "born_to_house",
+    "object": "house:redwyne",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2847
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:774",
+    "subject": "house:tyrell",
+    "predicate": "head",
+    "object": "person:leo-tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2509
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:775",
+    "subject": "person:garth-tyrell",
+    "predicate": "heir_to",
+    "object": "house:tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2509
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:776",
+    "subject": "person:leo-tyrell",
+    "predicate": "holds_title",
+    "object": "title:lord-of-highgarden",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2509
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:777",
+    "subject": "title:lord-of-highgarden",
+    "predicate": "associated_house",
+    "object": "house:tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2509
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:778",
+    "subject": "title:lord-of-highgarden",
+    "predicate": "seat",
+    "object": "place:highgarden",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2509
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:779",
+    "subject": "house:redwyne",
+    "predicate": "head",
+    "object": "person:theomar-redwyne",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2845
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:780",
+    "subject": "person:theomar-redwyne",
+    "predicate": "holds_title",
+    "object": "title:lord-of-the-arbor",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2845
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:781",
+    "subject": "title:lord-of-the-arbor",
+    "predicate": "associated_house",
+    "object": "house:redwyne",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2845
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:782",
+    "subject": "house:oakheart",
+    "predicate": "head",
+    "object": "person:harys-oakheart",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3554
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:783",
+    "subject": "person:harys-oakheart",
+    "predicate": "holds_title",
+    "object": "title:lord-of-old-oak",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3554
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:784",
+    "subject": "title:lord-of-old-oak",
+    "predicate": "associated_house",
+    "object": "house:oakheart",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3554
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:785",
+    "subject": "title:lord-of-old-oak",
+    "predicate": "seat",
+    "object": "place:old-oak",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3554
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:786",
+    "subject": "person:harlen-tyrell",
+    "predicate": "heir_to",
+    "object": "house:tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2765
+      }
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "heirOrder208": 2
+  },
+  {
+    "id": "fact:787",
+    "subject": "person:leo-tyrell",
+    "predicate": "holds_title",
+    "object": "title:warden-of-the-south",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1697
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:788",
+    "subject": "title:warden-of-the-south",
+    "predicate": "associated_house",
+    "object": "house:tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1697
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:789",
+    "subject": "person:leo-tyrell",
+    "predicate": "holds_title",
+    "object": "title:high-marshal-of-the-reach",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1697
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:790",
+    "subject": "title:high-marshal-of-the-reach",
+    "predicate": "associated_house",
+    "object": "house:tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1697
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:791",
+    "subject": "person:theomar-redwyne",
+    "predicate": "holds_title",
+    "object": "title:master-of-ships",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2845
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:792",
+    "subject": "title:master-of-ships",
+    "predicate": "associated_house",
+    "object": "house:redwyne",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2845
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:793",
+    "subject": "person:arron-redwyne",
+    "predicate": "holds_title",
+    "object": "title:lord-seneschal-of-highgarden",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3302
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:794",
+    "subject": "title:lord-seneschal-of-highgarden",
+    "predicate": "associated_house",
+    "object": "house:redwyne",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3302
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:795",
+    "subject": "person:ormund-hewett",
+    "predicate": "holds_title",
+    "object": "title:lord-admiral-of-the-reach",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3224
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:796",
+    "subject": "title:lord-admiral-of-the-reach",
+    "predicate": "associated_house",
+    "object": "house:hewett",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3224
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:797",
+    "subject": "person:roderick-tarly",
+    "predicate": "holds_title",
+    "object": "title:marshal-of-the-dornish-marches",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3234
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:798",
+    "subject": "title:marshal-of-the-dornish-marches",
+    "predicate": "associated_house",
+    "object": "house:tarly",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3234
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:799",
+    "subject": "person:harys-oakheart",
+    "predicate": "resides_at",
+    "object": "place:goldengrove",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3554
+      }
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "role208": "political hostage and ward of Lord Rowan"
+  },
+  {
+    "id": "fact:800",
+    "subject": "person:ceryse-oakheart",
+    "predicate": "regent_for",
+    "object": "person:harys-oakheart",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3554
+      }
+    ],
+    "asOf": {
+      "year": 207
+    }
+  },
+  {
+    "id": "fact:801",
+    "subject": "person:gyles-peake",
+    "predicate": "resides_at",
+    "object": "place:highgarden",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2533
+      }
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:802",
+    "subject": "person:matthos-meadows",
+    "predicate": "serves",
+    "object": "person:moryn-tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2536
+      }
+    ],
+    "from": {
+      "year": 208,
+      "chapter": 52
+    }
+  },
+  {
+    "id": "fact:803",
+    "subject": "person:will-risley",
+    "predicate": "serves",
+    "object": "person:moryn-tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2535
+      }
+    ],
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:804",
+    "subject": "person:leo-tyrell",
+    "predicate": "household_member_of",
+    "object": "house:tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2522
+      }
+    ],
+    "role208": "Lord of Highgarden and ruler of the Reach",
+    "rosterGroup208": "lords_family",
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:805",
+    "subject": "person:arlanna-tyrell",
+    "predicate": "household_member_of",
+    "object": "house:tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2523
+      }
+    ],
+    "role208": "Lady of Highgarden; oversees the household and court",
+    "rosterGroup208": "lords_family",
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:806",
+    "subject": "person:garth-tyrell",
+    "predicate": "household_member_of",
+    "object": "house:tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2524
+      }
+    ],
+    "role208": "elder son and heir",
+    "rosterGroup208": "lords_family",
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:807",
+    "subject": "person:alys-tyrell",
+    "predicate": "household_member_of",
+    "object": "house:tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2525
+      }
+    ],
+    "role208": "wife of Ser Garth, née Redwyne",
+    "rosterGroup208": "lords_family",
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:808",
+    "subject": "person:moryn-tyrell",
+    "predicate": "household_member_of",
+    "object": "house:tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2526
+      }
+    ],
+    "role208": "second son of Lord Leo",
+    "rosterGroup208": "lords_family",
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:809",
+    "subject": "person:ceryse-oakheart",
+    "predicate": "household_member_of",
+    "object": "house:tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2527
+      }
+    ],
+    "role208": "daughter of Lord Leo; regent of Old Oak (residence not established)",
+    "rosterGroup208": "lords_family",
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:810",
+    "subject": "person:olyvar-tyrell",
+    "predicate": "household_member_of",
+    "object": "house:tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2528
+      }
+    ],
+    "role208": "youngest son of Lord Leo",
+    "rosterGroup208": "lords_family",
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:811",
+    "subject": "person:brenna-caswell",
+    "predicate": "household_member_of",
+    "object": "house:tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2529
+      }
+    ],
+    "role208": "daughter of Lord Leo; wife of Lord Armond Caswell (residence at Highgarden not established)",
+    "rosterGroup208": "lords_family",
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:812",
+    "subject": "person:harlen-tyrell",
+    "predicate": "household_member_of",
+    "object": "house:tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2531
+      }
+    ],
+    "role208": "son of Ser Garth; next in succession after Garth",
+    "rosterGroup208": "lords_family",
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:813",
+    "subject": "person:hugh-redwyne",
+    "predicate": "household_member_of",
+    "object": "house:tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2532
+      }
+    ],
+    "role208": "young noble at Highgarden; son of Ser Arron Redwyne",
+    "rosterGroup208": "visitor",
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:814",
+    "subject": "person:gyles-peake",
+    "predicate": "household_member_of",
+    "object": "house:tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2533
+      }
+    ],
+    "role208": "resident noble hostage, son of Lord Gormon Peake",
+    "rosterGroup208": "visitor",
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:815",
+    "subject": "person:denys-tarly",
+    "predicate": "household_member_of",
+    "object": "house:tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2534
+      }
+    ],
+    "role208": "young knight in Ser Olyvar's company, without independent command",
+    "rosterGroup208": "household_knight",
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:816",
+    "subject": "person:will-risley",
+    "predicate": "household_member_of",
+    "object": "house:tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2535
+      }
+    ],
+    "role208": "squire to Ser Moryn Tyrell",
+    "rosterGroup208": "squire_and_page",
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:817",
+    "subject": "person:matthos-meadows",
+    "predicate": "household_member_of",
+    "object": "house:tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2536
+      }
+    ],
+    "role208": "squire to Ser Moryn Tyrell from Chapter 52",
+    "rosterGroup208": "squire_and_page",
+    "asOf": {
+      "year": 208
+    }
+  },
+  {
+    "id": "fact:818",
+    "subject": "person:arron-redwyne",
+    "predicate": "household_member_of",
+    "object": "house:tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3302
+      }
+    ],
+    "role208": "Lord Seneschal of Highgarden, appointed by Lord Leo",
+    "rosterGroup208": "household_officer",
+    "asOf": {
+      "year": 208
+    }
   }
 ]
