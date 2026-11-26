@@ -34,9 +34,8 @@
     "sources": [
       "householdbook-v12"
     ],
-    "asOf": {
-      "year": 208,
-      "chapter": 67
+    "from": {
+      "year": 207
     }
   },
   {
@@ -47,9 +46,8 @@
     "sources": [
       "householdbook-v12"
     ],
-    "asOf": {
-      "year": 208,
-      "chapter": 67
+    "from": {
+      "year": 207
     }
   },
   {
@@ -105,9 +103,8 @@
     "sources": [
       "householdbook-v12"
     ],
-    "asOf": {
-      "year": 208,
-      "chapter": 67
+    "from": {
+      "year": 207
     }
   },
   {
@@ -118,9 +115,8 @@
     "sources": [
       "householdbook-v12"
     ],
-    "asOf": {
-      "year": 208,
-      "chapter": 67
+    "from": {
+      "year": 207
     }
   },
   {
@@ -176,9 +172,8 @@
     "sources": [
       "householdbook-v12"
     ],
-    "asOf": {
-      "year": 208,
-      "chapter": 67
+    "from": {
+      "year": 207
     }
   },
   {
@@ -189,9 +184,8 @@
     "sources": [
       "householdbook-v12"
     ],
-    "asOf": {
-      "year": 208,
-      "chapter": 67
+    "from": {
+      "year": 207
     }
   },
   {
@@ -709,9 +703,8 @@
     "sources": [
       "householdbook-v12"
     ],
-    "asOf": {
-      "year": 208,
-      "chapter": 67
+    "from": {
+      "year": 207
     }
   },
   {
@@ -722,9 +715,8 @@
     "sources": [
       "householdbook-v12"
     ],
-    "asOf": {
-      "year": 208,
-      "chapter": 67
+    "from": {
+      "year": 207
     }
   },
   {
@@ -735,9 +727,8 @@
     "sources": [
       "householdbook-v12"
     ],
-    "asOf": {
-      "year": 208,
-      "chapter": 67
+    "from": {
+      "year": 207
     }
   },
   {
@@ -747,7 +738,11 @@
     "object": "person:leonette-meadows",
     "sources": [
       "chapter-60"
-    ]
+    ],
+    "from": {
+      "year": 208,
+      "chapter": 60
+    }
   },
   {
     "id": "fact:78",
@@ -756,7 +751,11 @@
     "object": "person:garlan-footly",
     "sources": [
       "chapter-60"
-    ]
+    ],
+    "from": {
+      "year": 208,
+      "chapter": 60
+    }
   },
   {
     "id": "fact:79",
@@ -765,7 +764,11 @@
     "object": "place:grassfield-keep",
     "sources": [
       "chapter-60"
-    ]
+    ],
+    "from": {
+      "year": 208,
+      "chapter": 60
+    }
   },
   {
     "id": "fact:80",
@@ -774,7 +777,11 @@
     "object": "person:triston-rowan",
     "sources": [
       "chapter-60"
-    ]
+    ],
+    "from": {
+      "year": 208,
+      "chapter": 60
+    }
   },
   {
     "id": "fact:81",
@@ -783,6 +790,10 @@
     "object": "person:joy-penrose",
     "sources": [
       "chapter-60"
-    ]
+    ],
+    "from": {
+      "year": 208,
+      "chapter": 60
+    }
   }
 ]

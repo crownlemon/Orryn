@@ -26,6 +26,7 @@ for (const e of entities) {
       e.id + ': linked article does not exist: ' + base);
   }
   if (e.arms) check(Boolean(e.arms.credit?.license && e.arms.credit?.url), e.id + ': image missing credit');
+  check(Array.isArray(e.sources) && e.sources.length>0 && e.sources.every(s=>evidence.has(s)),e.id+': entity provenance missing');
 }
 for (const f of facts) {
   check(ids.has(f.subject), f.id + ': unknown subject: ' + f.subject);

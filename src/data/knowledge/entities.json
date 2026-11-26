@@ -3,13 +3,21 @@
     "id": "region:reach",
     "kind": "region",
     "name": "The Reach",
-    "page": "/realm/the-reach/"
+    "page": "/realm/the-reach/",
+    "sources": [
+      "worldbook-v10",
+      "awoiaf-list"
+    ]
   },
   {
     "id": "region:stormlands",
     "kind": "region",
     "name": "The Stormlands",
-    "page": "/realm/the-stormlands/"
+    "page": "/realm/the-stormlands/",
+    "sources": [
+      "worldbook-v10",
+      "awoiaf-list"
+    ]
   },
   {
     "id": "house:rowan",
@@ -28,7 +36,12 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
       }
     },
-    "awoiaf": "https://awoiaf.westeros.org/index.php/House_Rowan"
+    "awoiaf": "https://awoiaf.westeros.org/index.php/House_Rowan",
+    "sources": [
+      "awoiaf-list",
+      "worldbook-v10",
+      "householdbook-v12"
+    ]
   },
   {
     "id": "house:grandison",
@@ -47,7 +60,12 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
       }
     },
-    "awoiaf": "https://awoiaf.westeros.org/index.php/House_Grandison"
+    "awoiaf": "https://awoiaf.westeros.org/index.php/House_Grandison",
+    "sources": [
+      "awoiaf-list",
+      "worldbook-v10",
+      "householdbook-v12"
+    ]
   },
   {
     "id": "house:meadows",
@@ -66,62 +84,94 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
       }
     },
-    "awoiaf": "https://awoiaf.westeros.org/index.php/House_Meadows"
+    "awoiaf": "https://awoiaf.westeros.org/index.php/House_Meadows",
+    "sources": [
+      "awoiaf-list",
+      "worldbook-v10",
+      "householdbook-v12"
+    ]
   },
   {
     "id": "house:tyrell",
     "kind": "house",
     "name": "House Tyrell",
-    "subtitle": "of Highgarden"
+    "subtitle": "of Highgarden",
+    "sources": [
+      "awoiaf-list"
+    ]
   },
   {
     "id": "house:baratheon",
     "kind": "house",
     "name": "House Baratheon",
-    "subtitle": "of Storm's End"
+    "subtitle": "of Storm's End",
+    "sources": [
+      "awoiaf-list"
+    ]
   },
   {
     "id": "place:goldengrove",
     "kind": "place",
     "name": "Goldengrove",
     "placeType": "castle",
-    "page": "/places/goldengrove/"
+    "page": "/places/goldengrove/",
+    "sources": [
+      "worldbook-v10"
+    ]
   },
   {
     "id": "place:grandview",
     "kind": "place",
     "name": "Grandview",
     "placeType": "castle",
-    "page": "/places/grandview/"
+    "page": "/places/grandview/",
+    "sources": [
+      "worldbook-v10"
+    ]
   },
   {
     "id": "place:grassfield-keep",
     "kind": "place",
     "name": "Grassfield Keep",
     "placeType": "castle",
-    "page": "/places/grassfield-keep/"
+    "page": "/places/grassfield-keep/",
+    "sources": [
+      "worldbook-v10"
+    ]
   },
   {
     "id": "place:grassy-vale",
     "kind": "place",
     "name": "Grassy Vale",
     "placeType": "market_town",
-    "page": "/places/grassy-vale/"
+    "page": "/places/grassy-vale/",
+    "sources": [
+      "worldbook-v10"
+    ]
   },
   {
     "id": "title:lord-of-goldengrove",
     "kind": "title",
-    "name": "Lord of Goldengrove"
+    "name": "Lord of Goldengrove",
+    "sources": [
+      "worldbook-v10"
+    ]
   },
   {
     "id": "title:lord-of-grandview",
     "kind": "title",
-    "name": "Lord of Grandview"
+    "name": "Lord of Grandview",
+    "sources": [
+      "worldbook-v10"
+    ]
   },
   {
     "id": "title:lord-of-grassfield",
     "kind": "title",
-    "name": "Lord of Grassfield Keep"
+    "name": "Lord of Grassfield Keep",
+    "sources": [
+      "worldbook-v10"
+    ]
   },
   {
     "id": "person:rycherd-rowan",
@@ -129,7 +179,10 @@
     "name": "Lord Rycherd Rowan",
     "page": "/characters/rycherd-rowan/",
     "age208": 53,
-    "birthHouse": "rowan"
+    "birthHouse": "rowan",
+    "sources": [
+      "householdbook-v12"
+    ]
   },
   {
     "id": "person:clarice-rowan",
@@ -137,7 +190,10 @@
     "name": "Lady Clarice Rowan",
     "page": "/characters/clarice-rowan/",
     "age208": 54,
-    "birthHouse": "hightower"
+    "birthHouse": "hightower",
+    "sources": [
+      "householdbook-v12"
+    ]
   },
   {
     "id": "person:triston-rowan",
@@ -145,7 +201,10 @@
     "name": "Ser Triston Rowan",
     "page": "/characters/triston-rowan/",
     "age208": 23,
-    "birthHouse": "rowan"
+    "birthHouse": "rowan",
+    "sources": [
+      "householdbook-v12"
+    ]
   },
   {
     "id": "person:roslin-rowan",
@@ -153,107 +212,155 @@
     "name": "Lady Roslin Rowan",
     "page": "/characters/roslin-rowan/",
     "age208": 17,
-    "birthHouse": "rowan"
+    "birthHouse": "rowan",
+    "sources": [
+      "householdbook-v12"
+    ]
   },
   {
     "id": "person:nyles-rowan",
     "kind": "person",
     "name": "Ser Nyles Rowan",
     "page": "/characters/nyles-rowan/",
-    "birthHouse": "rowan"
+    "birthHouse": "rowan",
+    "sources": [
+      "householdbook-v12"
+    ]
   },
   {
     "id": "person:mina-webber",
     "kind": "person",
     "name": "Lady Mina Webber",
     "page": "/characters/mina-webber/",
-    "birthHouse": "rowan"
+    "birthHouse": "rowan",
+    "sources": [
+      "householdbook-v12"
+    ]
   },
   {
     "id": "person:wendell-webber",
     "kind": "person",
     "name": "Ser Wendell Webber",
-    "birthHouse": "webber"
+    "birthHouse": "webber",
+    "sources": [
+      "householdbook-v12"
+    ]
   },
   {
     "id": "person:joy-penrose",
     "kind": "person",
     "name": "Lady Joy Penrose",
-    "birthHouse": "penrose"
+    "birthHouse": "penrose",
+    "sources": [
+      "householdbook-v12"
+    ]
   },
   {
     "id": "person:garmund-hightower",
     "kind": "person",
     "name": "Garmund Hightower",
-    "birthHouse": "hightower"
+    "birthHouse": "hightower",
+    "sources": [
+      "householdbook-v12"
+    ]
   },
   {
     "id": "person:rhaena-targaryen",
     "kind": "person",
     "name": "Princess Rhaena Targaryen",
-    "birthHouse": "targaryen"
+    "birthHouse": "targaryen",
+    "sources": [
+      "householdbook-v12"
+    ]
   },
   {
     "id": "person:alysanne-penrose",
     "kind": "person",
     "name": "Lady Alysanne Penrose",
-    "birthHouse": "hightower"
+    "birthHouse": "hightower",
+    "sources": [
+      "householdbook-v12"
+    ]
   },
   {
     "id": "person:gawen-grandison",
     "kind": "person",
     "name": "Lord Gawen Grandison",
     "page": "/characters/gawen-grandison/",
-    "birthHouse": "grandison"
+    "birthHouse": "grandison",
+    "sources": [
+      "householdbook-v12"
+    ]
   },
   {
     "id": "person:ellyn-grandison",
     "kind": "person",
     "name": "Lady Ellyn Grandison",
     "page": "/characters/ellyn-grandison/",
-    "birthHouse": "meadows"
+    "birthHouse": "meadows",
+    "sources": [
+      "householdbook-v12"
+    ]
   },
   {
     "id": "person:alester-grandison",
     "kind": "person",
     "name": "Lord Alester Grandison",
     "page": "/characters/alester-grandison/",
-    "birthHouse": "grandison"
+    "birthHouse": "grandison",
+    "sources": [
+      "householdbook-v12"
+    ]
   },
   {
     "id": "person:lynesse-grandison",
     "kind": "person",
     "name": "Lady Lynesse Grandison",
     "page": "/characters/lynesse-grandison/",
-    "birthHouse": "hertson"
+    "birthHouse": "hertson",
+    "sources": [
+      "householdbook-v12"
+    ]
   },
   {
     "id": "person:steffon-grandison",
     "kind": "person",
     "name": "Ser Steffon Grandison",
     "page": "/characters/steffon-grandison/",
-    "birthHouse": "grandison"
+    "birthHouse": "grandison",
+    "sources": [
+      "householdbook-v12"
+    ]
   },
   {
     "id": "person:maris-grandison",
     "kind": "person",
     "name": "Lady Maris Grandison",
     "page": "/characters/maris-grandison/",
-    "birthHouse": "gower"
+    "birthHouse": "gower",
+    "sources": [
+      "householdbook-v12"
+    ]
   },
   {
     "id": "person:raymont-grandison",
     "kind": "person",
     "name": "Ser Raymont Grandison",
     "page": "/characters/raymont-grandison/",
-    "birthHouse": "grandison"
+    "birthHouse": "grandison",
+    "sources": [
+      "householdbook-v12"
+    ]
   },
   {
     "id": "person:alys-musgood",
     "kind": "person",
     "name": "Lady Alys Musgood",
     "page": "/characters/alys-musgood/",
-    "birthHouse": "grandison"
+    "birthHouse": "grandison",
+    "sources": [
+      "householdbook-v12"
+    ]
   },
   {
     "id": "person:arlan-grandison",
@@ -261,7 +368,10 @@
     "name": "Arlan Grandison",
     "page": "/characters/arlan-grandison/",
     "age208": 14,
-    "birthHouse": "grandison"
+    "birthHouse": "grandison",
+    "sources": [
+      "householdbook-v12"
+    ]
   },
   {
     "id": "person:elenei-grandison",
@@ -269,7 +379,10 @@
     "name": "Lady Elenei Penrose",
     "page": "/characters/elenei-grandison/",
     "age208": 16,
-    "birthHouse": "grandison"
+    "birthHouse": "grandison",
+    "sources": [
+      "householdbook-v12"
+    ]
   },
   {
     "id": "person:alyssa-grandison",
@@ -277,7 +390,10 @@
     "name": "Lady Alyssa Grandison",
     "page": "/characters/alyssa-grandison/",
     "age208": 16,
-    "birthHouse": "grandison"
+    "birthHouse": "grandison",
+    "sources": [
+      "householdbook-v12"
+    ]
   },
   {
     "id": "person:orryn-grandison",
@@ -285,31 +401,46 @@
     "name": "Orryn Grandison",
     "page": "/characters/orryn-grandison/",
     "age208": 14,
-    "birthHouse": "grandison"
+    "birthHouse": "grandison",
+    "sources": [
+      "householdbook-v12"
+    ]
   },
   {
     "id": "person:addam-penrose",
     "kind": "person",
     "name": "Ser Addam Penrose",
-    "birthHouse": "penrose"
+    "birthHouse": "penrose",
+    "sources": [
+      "householdbook-v12"
+    ]
   },
   {
     "id": "person:edric-wagstaff",
     "kind": "person",
     "name": "Ser Edric Wagstaff",
-    "birthHouse": "wagstaff"
+    "birthHouse": "wagstaff",
+    "sources": [
+      "householdbook-v12"
+    ]
   },
   {
     "id": "person:alysanne-cafferen",
     "kind": "person",
     "name": "Lady Alysanne Cafferen",
-    "birthHouse": "cafferen"
+    "birthHouse": "cafferen",
+    "sources": [
+      "householdbook-v12"
+    ]
   },
   {
     "id": "person:late-lord-meadows",
     "kind": "person",
     "name": "Lord Meadows (given name unknown)",
-    "birthHouse": "meadows"
+    "birthHouse": "meadows",
+    "sources": [
+      "householdbook-v12"
+    ]
   },
   {
     "id": "person:alaric-meadows",
@@ -317,7 +448,10 @@
     "name": "Lord Alaric Meadows",
     "page": "/characters/alaric-meadows/",
     "age208": 30,
-    "birthHouse": "meadows"
+    "birthHouse": "meadows",
+    "sources": [
+      "householdbook-v12"
+    ]
   },
   {
     "id": "person:jeyne-meadows",
@@ -325,7 +459,10 @@
     "name": "Lady Jeyne Meadows",
     "page": "/characters/jeyne-meadows/",
     "age208": 28,
-    "birthHouse": "caswell"
+    "birthHouse": "caswell",
+    "sources": [
+      "householdbook-v12"
+    ]
   },
   {
     "id": "person:leonette-meadows",
@@ -333,7 +470,10 @@
     "name": "Lady Leonette Footly",
     "page": "/characters/leonette-meadows/",
     "age208": 14,
-    "birthHouse": "meadows"
+    "birthHouse": "meadows",
+    "sources": [
+      "householdbook-v12"
+    ]
   },
   {
     "id": "person:matthos-meadows",
@@ -341,7 +481,10 @@
     "name": "Matthos Meadows",
     "page": "/characters/matthos-meadows/",
     "age208": 14,
-    "birthHouse": "meadows"
+    "birthHouse": "meadows",
+    "sources": [
+      "householdbook-v12"
+    ]
   },
   {
     "id": "person:elyce-meadows",
@@ -349,37 +492,57 @@
     "name": "Lady Elyce Meadows",
     "page": "/characters/elyce-meadows/",
     "age208": 12,
-    "birthHouse": "meadows"
+    "birthHouse": "meadows",
+    "sources": [
+      "householdbook-v12"
+    ]
   },
   {
     "id": "person:garlan-footly",
     "kind": "person",
     "name": "Ser Garlan Footly",
-    "birthHouse": "footly"
+    "birthHouse": "footly",
+    "sources": [
+      "householdbook-v12"
+    ]
   },
   {
     "id": "person:armond-caswell",
     "kind": "person",
     "name": "Lord Armond Caswell",
-    "birthHouse": "caswell"
+    "birthHouse": "caswell",
+    "sources": [
+      "householdbook-v12"
+    ]
   },
   {
     "id": "event:first-blackfyre-rebellion",
     "kind": "event",
     "name": "First Blackfyre Rebellion",
     "year": 196,
-    "awoiaf": "https://awoiaf.westeros.org/index.php/First_Blackfyre_Rebellion"
+    "awoiaf": "https://awoiaf.westeros.org/index.php/First_Blackfyre_Rebellion",
+    "sources": [
+      "worldbook-v10"
+    ]
   },
   {
     "id": "event:marriage-leonette-garlan",
     "kind": "event",
     "name": "Marriage of Leonette Meadows and Garlan Footly",
-    "year": 208
+    "year": 208,
+    "sources": [
+      "chapter-60"
+    ],
+    "chapter": 60
   },
   {
     "id": "event:betrothal-triston-joy",
     "kind": "event",
     "name": "Betrothal of Triston Rowan and Joy Penrose",
-    "year": 208
+    "year": 208,
+    "sources": [
+      "chapter-60"
+    ],
+    "chapter": 60
   }
 ]

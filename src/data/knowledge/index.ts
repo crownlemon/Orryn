@@ -12,7 +12,8 @@ export type Heraldry = {
 export type Entity = {
   id: string; kind: EntityKind; name: string; page?: string; subtitle?: string;
   words?: string | null; arms?: Heraldry; placeType?: string;
-  age208?: number; birthHouse?: string; year?: number; awoiaf?: string;
+  age208?: number; birthHouse?: string; year?: number; chapter?: number; awoiaf?: string;
+  sources?: string[];
 };
 export type Fact = {
   id: string; subject: string; predicate: string; object: string; sources: string[];
