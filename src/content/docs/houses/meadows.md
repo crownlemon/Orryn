@@ -41,12 +41,23 @@ A proposed marriage between **[Lady Elyce Meadows](/characters/elyce-meadows/)**
 
 ## Family tree
 
-<div class="orr-genealogy-panel">
-<svg class="orr-genealogy" viewBox="0 0 1100 490" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Meadows family tree from the previous lord and his sister Ellyn to Alaric and his three children">
- <g class="tree-lines"><path d="M265 22 V0 H625 V22 M265 69 V202"/><path d="M415 225 H490 M452 225 V320 H180 V380 M452 320 H498 V380 M452 320 H820 V380"/></g>
- <g class="tree-nodes"><rect x="170" y="22" width="190" height="47" rx="3"/><rect x="510" y="22" width="230" height="47" rx="3"/><rect x="170" y="202" width="245" height="47" rx="3"/><rect x="490" y="202" width="225" height="47" rx="3"/><rect x="80" y="380" width="200" height="47" rx="3"/><rect x="388" y="380" width="220" height="47" rx="3"/><rect x="725" y="380" width="190" height="47" rx="3"/></g>
- <g class="tree-names"><text x="265" y="50">Lord Meadows</text><a href="/characters/ellyn-grandison/"><text x="625" y="50">Lady Ellyn Grandison</text></a><a href="/characters/alaric-meadows/"><text x="292.5" y="230">Lord Alaric Meadows</text></a><a href="/characters/jeyne-meadows/"><text x="602.5" y="230">Lady Jeyne Caswell</text></a><a href="/characters/leonette-meadows/"><text x="180" y="408">Lady Leonette</text></a><a href="/characters/matthos-meadows/"><text x="498" y="408">Matthos Meadows</text></a><a href="/characters/elyce-meadows/"><text x="820" y="408">Lady Elyce</text></a></g>
- 
+<div class="orr-genealogy-panel orr-person-family-tree">
+<svg viewBox="0 0 1300 475" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Family of Lord Alaric Meadows, descendants of the previous Lord Meadows and his sister Ellyn, with the related Grandison branch">
+<g class="orr-tree-lines">
+<path d="M218 35 V13 H718 V35 M218 82 V225 M830 59 H870 M850 59 V174 H878 V225 M330 250 H375 M353 250 V351 H125 V390 M353 351 H358 V390 M353 351 H578 V390 M990 250 H1015 M1003 250 V351 H895 V390 M1003 351 H1130 V390" />
+</g>
+<g class="orr-tree-people"><g  class="orr-tree-person"><rect x="100" y="35" width="235" height="47" rx="3" /><text x="217.5" y="64">Lord Meadows</text></g>
+<a href="/characters/ellyn-grandison/" class="orr-tree-person"><rect x="605" y="35" width="225" height="47" rx="3" /><text x="717.5" y="64">Lady Ellyn Meadows</text></a>
+<a href="/characters/gawen-grandison/" class="orr-tree-person"><rect x="870" y="35" width="215" height="47" rx="3" /><text x="977.5" y="64">Lord Gawen Grandison</text></a>
+<a href="/characters/alaric-meadows/" class="orr-tree-person"><rect x="100" y="225" width="230" height="47" rx="3" /><text x="215" y="254">Lord Alaric Meadows</text></a>
+<a href="/characters/jeyne-meadows/" class="orr-tree-person"><rect x="375" y="225" width="235" height="47" rx="3" /><text x="492.5" y="254">Lady Jeyne Caswell</text></a>
+<a href="/characters/steffon-grandison/" class="orr-tree-person"><rect x="765" y="225" width="225" height="47" rx="3" /><text x="877.5" y="254">Ser Steffon Grandison</text></a>
+<a href="/characters/maris-grandison/" class="orr-tree-person"><rect x="1015" y="225" width="230" height="47" rx="3" /><text x="1130" y="254">Lady Maris Gower</text></a>
+<a href="/characters/leonette-meadows/" class="orr-tree-person"><rect x="20" y="390" width="210" height="47" rx="3" /><text x="125" y="419">Lady Leonette Footly</text></a>
+<a href="/characters/matthos-meadows/" class="orr-tree-person"><rect x="255" y="390" width="205" height="47" rx="3" /><text x="357.5" y="419">Matthos Meadows</text></a>
+<a href="/characters/elyce-meadows/" class="orr-tree-person"><rect x="480" y="390" width="195" height="47" rx="3" /><text x="577.5" y="419">Lady Elyce Meadows</text></a>
+<a href="/characters/alyssa-grandison/" class="orr-tree-person"><rect x="795" y="390" width="200" height="47" rx="3" /><text x="895" y="419">Lady Alyssa Grandison</text></a>
+<a href="/characters/orryn-grandison/" class="orr-tree-person"><rect x="1020" y="390" width="220" height="47" rx="3" /><text x="1130" y="419">Orryn Grandison</text></a></g>
 </svg></div>
 
 Lord Alaric is the son of a former Lord Meadows and nephew of Lady Ellyn Grandison, née Meadows. He and Lady Jeyne have three children: **[Leonette](/characters/leonette-meadows/)**, **[Matthos](/characters/matthos-meadows/)** and **[Elyce](/characters/elyce-meadows/)**.
