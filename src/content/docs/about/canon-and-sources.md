@@ -3,6 +3,10 @@ title: Canon and Sources
 description: Editorial policy for historical lore and the Orryn timeline.
 ---
 
+## Publication language
+
+All public-facing content of The Orryn Chronicles is written in **English only**, including navigation labels, article headings, infoboxes, captions, timelines, reference notes, and future chapter imports. Source material in other languages should be translated into English rather than displayed bilingually.
+
 ## Source hierarchy
 
 1. **Approved Orryn chapters** establish what happens in the played story.
