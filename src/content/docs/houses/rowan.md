@@ -10,8 +10,9 @@ sidebar:
 <aside class="orr-infobox orr-house-infobox" aria-label="House Rowan heraldry and details">
   <div class="orr-infobox-heading">House Rowan</div>
   <div class="orr-infobox-subtitle">of Goldengrove</div>
-  <div class="orr-infobox-arms"><img src="/heraldry/rowan.svg" alt="House Rowan sigil: a golden tree on silver" width="220" height="270" /></div>
+  <div class="orr-infobox-arms"><img src="https://awoiaf.westeros.org/images/9/9e/House_Rowan.svg" alt="House Rowan sigil: a finely branched golden tree with detailed leaves and exposed roots upon a silver shield" width="600" height="660" referrerpolicy="no-referrer" /></div>
   <div class="orr-infobox-caption">A golden tree on silver</div>
+  <div class="orr-asset-credit">Sigil by <a href="https://awoiaf.westeros.org/index.php/File:House_Rowan.svg">Abjiklam</a> · <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a></div>
   <dl>
     <div><dt>Seat</dt><dd><a href="/places/goldengrove/">Goldengrove</a></dd></div>
     <div><dt>Region</dt><dd><a href="/realm/the-reach/">The Reach</a></dd></div>
