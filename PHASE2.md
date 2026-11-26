@@ -64,3 +64,18 @@ Creating this branch does not itself privatize the repository or the Cloudflare 
 3. Extract an inventory of the Worldbook and Householdbook entities, with unknowns and conflicts flagged rather than completed by guesswork.
 4. Convert the existing article templates to data-driven components after review.
 5. Only then extend the import to wider Westeros and earlier history.
+
+## Milestone: Regional baseline import (26 November 2026)
+
+Completed on the development branch:
+- All 139 Worldbook 208 AC house-and-holding entries inventoried: 60 Stormlands, 79 Reach.
+- All 69 House-section headings from Householdbook v12 indexed, representing 46 distinct house names and their addenda.
+- 137 house entities and 140 place entities represented in the knowledge network, without adding fictional heads for vacant estates.
+- Houses, holdings, political tiers, geographical anchors and direct overlord relationships attached to the 208 AC Worldbook entries.
+- Atlas generated from the records at /prototype/regional-atlas/ (a development-branch route, not a claim it is available on the public site).
+- AWOIAF's documented house infobox parameter names mapped, with words for selected verified houses and provenance.
+- Validation in npm run validate:knowledge and npm run audit:atlas, plus an Astro build workflow in GitHub Actions.
+
+The regional records are grounded in the Worldbook, not automatically verified as published AWOIAF canon. Worldbook political ranks are a project convention and should not be misrepresented as rankings from the published setting. All unfilled house words remain null. No public articles have been automatically generated for the newly indexed families.
+
+Remaining before full region publication: inspect additional AWOIAF templates, distinguish published vs project additions for each house, resolve name/seat aliases, enrich the 208 AC headships, verify the images and licenses, write substantive source-grounded prose, generate crosslinks and validate a preview build visually. The existing 23 character pages remain authored prose on main.
