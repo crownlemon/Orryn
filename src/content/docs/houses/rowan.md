@@ -44,30 +44,30 @@ A dispute at **[Cress Hill](/events/cress-hill/)** raised questions of jurisdict
 ## Family tree
 
 <div class="orr-genealogy-panel">
-<svg class="orr-genealogy" viewBox="0 0 960 415" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="rowan-tree-title rowan-tree-description">
-  <title id="rowan-tree-title">House Rowan family tree</title>
-  <desc id="rowan-tree-description">Lord Rycherd Rowan and Ser Nyles Rowan are brothers. Lord Rycherd married Lady Clarice Hightower, daughter of Garmund Hightower and Princess Rhaena Targaryen, and sister of Lady Alysanne Hightower. Rycherd and Clarice are parents of Ser Triston and Lady Roslin Rowan. Ser Triston is betrothed to Lady Joy Penrose.</desc>
-  <g class="tree-lines">
-    <path d="M675 52 H720 M697 52 V108 H610 V154 M697 108 H816 V154"/>
-    <path d="M105 154 V112 H355 V154"/>
-    <path d="M445 174 H520 M445 182 H520 M483 182 V285 H471 V315 M483 285 H720 V315"/>
-    <path class="tree-betrothal" d="M255 338 H375"/>
-  </g>
-  <g class="tree-nodes">
-    <rect x="475" y="28" width="200" height="46" rx="3"/><rect x="720" y="28" width="215" height="46" rx="3"/>
-    <rect x="20" y="154" width="170" height="46" rx="3"/><rect x="265" y="154" width="180" height="46" rx="3"/>
-    <rect x="520" y="154" width="180" height="46" rx="3"/><rect x="720" y="154" width="192" height="46" rx="3"/>
-    <rect x="65" y="315" width="190" height="46" rx="3"/><rect x="375" y="315" width="192" height="46" rx="3"/><rect x="625" y="315" width="190" height="46" rx="3"/>
-  </g>
-  <g class="tree-names">
-    <text x="575" y="56">Garmund Hightower</text><text x="827" y="56">Princess Rhaena</text>
-    <text x="105" y="182">Ser Nyles Rowan</text><text x="355" y="182">Lord Rycherd Rowan</text>
-    <text x="610" y="182">Lady Clarice Hightower</text><text x="816" y="182">Lady Alysanne</text>
-    <text x="160" y="343">Lady Joy Penrose</text><text x="471" y="343">Ser Triston Rowan</text><text x="720" y="343">Lady Roslin Rowan</text>
-  </g>
-  <text class="tree-label" x="316" y="327">betrothed</text>
-</svg>
-</div>
+<svg class="orr-genealogy" viewBox="0 0 1460 465" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Rycherd, Mina and Nyles Rowan as siblings; Clarice's Hightower kin; Rycherd and Clarice's children">
+<g class="tree-lines">
+ <path d="M1090 44 H1150 M1120 44 V140 H1060 V195 M1120 140 H1320 V195"/>
+ <path d="M125 195 V150 H825 V195 M395 150 V195"/>
+ <path d="M485 219 H505 M910 219 H940 M925 219 V345 H760 V385 M925 345 H1120 V385"/>
+</g>
+<g class="tree-nodes">
+ <rect x="890" y="20" width="200" height="48" rx="3"/><rect x="1150" y="20" width="240" height="48" rx="3"/>
+ <rect x="35" y="195" width="180" height="48" rx="3"/><rect x="305" y="195" width="180" height="48" rx="3"/><rect x="505" y="195" width="230" height="48" rx="3"/><rect x="740" y="195" width="170" height="48" rx="3"/><rect x="940" y="195" width="240" height="48" rx="3"/><rect x="1210" y="195" width="220" height="48" rx="3"/>
+ <rect x="650" y="385" width="220" height="48" rx="3"/><rect x="1000" y="385" width="240" height="48" rx="3"/>
+</g>
+<g class="tree-names">
+ <text x="990" y="49">Garmund Hightower</text><text x="1270" y="49">Princess Rhaena</text>
+ <a href="/characters/nyles-rowan/"><text x="125" y="225">Ser Nyles Rowan</text></a>
+ <a href="/characters/mina-webber/"><text x="395" y="225">Lady Mina Rowan</text></a>
+ <text x="620" y="225">Ser Wendell Webber</text>
+ <a href="/characters/rycherd-rowan/"><text x="825" y="225">Lord Rycherd Rowan</text></a>
+ <a href="/characters/clarice-rowan/"><text x="1060" y="225">Lady Clarice Hightower</text></a>
+ <text x="1320" y="225">Lady Alysanne</text>
+ <a href="/characters/triston-rowan/"><text x="760" y="415">Ser Triston Rowan</text></a>
+ <a href="/characters/roslin-rowan/"><text x="1120" y="415">Lady Roslin Rowan</text></a>
+</g>
+</svg></div>
+<p>Rycherd, Nyles and Mina are siblings. Lady Mina is married to Ser Wendell Webber; Lord Rycherd and Lady Clarice are the parents of Ser Triston and Lady Roslin. Triston is betrothed to Lady Joy Penrose.</p>
 
 ## Sworn houses
 
