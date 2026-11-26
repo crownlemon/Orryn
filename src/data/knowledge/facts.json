@@ -14040,7 +14040,7 @@
       }
     ],
     "role208": "young noble at Highgarden; son of Ser Arron Redwyne",
-    "rosterGroup208": "visitor",
+    "rosterGroup208": "court_attendant",
     "asOf": {
       "year": 208
     }
@@ -14060,7 +14060,7 @@
       }
     ],
     "role208": "resident noble hostage, son of Lord Gormon Peake",
-    "rosterGroup208": "visitor",
+    "rosterGroup208": "court_attendant",
     "asOf": {
       "year": 208
     }
@@ -14144,5 +14144,23 @@
     "asOf": {
       "year": 208
     }
+  },
+  {
+    "id": "fact:819",
+    "subject": "title:lord-of-the-arbor",
+    "predicate": "seat",
+    "object": "place:arbor",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 207
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2845
+      }
+    ]
   }
 ]
