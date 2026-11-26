@@ -41,7 +41,11 @@
       "awoiaf-list",
       "worldbook-v10",
       "householdbook-v12"
-    ]
+    ],
+    "rank208": "Great",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Northmarch",
+    "sourceLine208": 1186
   },
   {
     "id": "house:grandison",
@@ -65,7 +69,11 @@
       "awoiaf-list",
       "worldbook-v10",
       "householdbook-v12"
-    ]
+    ],
+    "rank208": "Major",
+    "regionalArea208": "NW",
+    "geographicAnchor208": "Western Stormlands valleys",
+    "sourceLine208": 176
   },
   {
     "id": "house:meadows",
@@ -89,7 +97,11 @@
       "awoiaf-list",
       "worldbook-v10",
       "householdbook-v12"
-    ]
+    ],
+    "rank208": "Major",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Above Grassy Vale",
+    "sourceLine208": 1279
   },
   {
     "id": "house:tyrell",
@@ -97,8 +109,13 @@
     "name": "House Tyrell",
     "subtitle": "of Highgarden",
     "sources": [
-      "awoiaf-list"
-    ]
+      "awoiaf-list",
+      "worldbook-v10"
+    ],
+    "rank208": "Ruling",
+    "regionalArea208": "C",
+    "geographicAnchor208": "Mander",
+    "sourceLine208": 1161
   },
   {
     "id": "house:baratheon",
@@ -106,8 +123,13 @@
     "name": "House Baratheon",
     "subtitle": "of Storm's End",
     "sources": [
-      "awoiaf-list"
-    ]
+      "awoiaf-list",
+      "worldbook-v10"
+    ],
+    "rank208": "Ruling",
+    "regionalArea208": "NE",
+    "geographicAnchor208": "Headland above Shipbreaker Bay",
+    "sourceLine208": 106
   },
   {
     "id": "place:goldengrove",
@@ -117,7 +139,11 @@
     "page": "/places/goldengrove/",
     "sources": [
       "worldbook-v10"
-    ]
+    ],
+    "rank208": "Great",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Northmarch",
+    "sourceLine208": 1186
   },
   {
     "id": "place:grandview",
@@ -127,7 +153,11 @@
     "page": "/places/grandview/",
     "sources": [
       "worldbook-v10"
-    ]
+    ],
+    "rank208": "Major",
+    "regionalArea208": "NW",
+    "geographicAnchor208": "Western Stormlands valleys",
+    "sourceLine208": 176
   },
   {
     "id": "place:grassfield-keep",
@@ -137,7 +167,11 @@
     "page": "/places/grassfield-keep/",
     "sources": [
       "worldbook-v10"
-    ]
+    ],
+    "rank208": "Major",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Above Grassy Vale",
+    "sourceLine208": 1279
   },
   {
     "id": "place:grassy-vale",
@@ -544,5 +578,3893 @@
       "chapter-60"
     ],
     "chapter": 60
+  },
+  {
+    "id": "place:storm-s-end",
+    "kind": "place",
+    "name": "Storm’s End",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Ruling",
+    "regionalArea208": "NE",
+    "geographicAnchor208": "Headland above Shipbreaker Bay",
+    "sourceLine208": 106,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:targaryen",
+    "kind": "house",
+    "name": "House Targaryen",
+    "subtitle": "of Summerhall",
+    "rank208": "Royal",
+    "regionalArea208": "W",
+    "geographicAnchor208": "Marcher foothills near Reach border",
+    "sourceLine208": 111,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:summerhall",
+    "kind": "place",
+    "name": "Summerhall",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Royal",
+    "regionalArea208": "W",
+    "geographicAnchor208": "Marcher foothills near Reach border",
+    "sourceLine208": 111,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:caron",
+    "kind": "house",
+    "name": "House Caron",
+    "subtitle": "of Nightsong",
+    "rank208": "Great",
+    "regionalArea208": "W",
+    "geographicAnchor208": "Western Dornish Marches",
+    "sourceLine208": 116,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:nightsong",
+    "kind": "place",
+    "name": "Nightsong",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Great",
+    "regionalArea208": "W",
+    "geographicAnchor208": "Western Dornish Marches",
+    "sourceLine208": 116,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:dondarrion",
+    "kind": "house",
+    "name": "House Dondarrion",
+    "subtitle": "of Blackhaven",
+    "rank208": "Great",
+    "regionalArea208": "SW",
+    "geographicAnchor208": "Dornish Marches",
+    "sourceLine208": 121,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:blackhaven",
+    "kind": "place",
+    "name": "Blackhaven",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Great",
+    "regionalArea208": "SW",
+    "geographicAnchor208": "Dornish Marches",
+    "sourceLine208": 121,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:swann",
+    "kind": "house",
+    "name": "House Swann",
+    "subtitle": "of Stonehelm",
+    "rank208": "Great",
+    "regionalArea208": "S",
+    "geographicAnchor208": "Eastern Marches",
+    "sourceLine208": 126,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:stonehelm",
+    "kind": "place",
+    "name": "Stonehelm",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Great",
+    "regionalArea208": "S",
+    "geographicAnchor208": "Eastern Marches",
+    "sourceLine208": 126,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:tarth",
+    "kind": "house",
+    "name": "House Tarth",
+    "subtitle": "of Evenfall Hall",
+    "rank208": "Great",
+    "regionalArea208": "E offshore",
+    "geographicAnchor208": "Island of Tarth",
+    "sourceLine208": 131,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:evenfall-hall",
+    "kind": "place",
+    "name": "Evenfall Hall",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Great",
+    "regionalArea208": "E offshore",
+    "geographicAnchor208": "Island of Tarth",
+    "sourceLine208": 131,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:connington",
+    "kind": "house",
+    "name": "House Connington",
+    "subtitle": "of Griffin’s Roost",
+    "rank208": "Principal",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Shipbreaker Bay",
+    "sourceLine208": 136,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:griffin-s-roost",
+    "kind": "place",
+    "name": "Griffin’s Roost",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Principal",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Shipbreaker Bay",
+    "sourceLine208": 136,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:estermont",
+    "kind": "house",
+    "name": "House Estermont",
+    "subtitle": "of Greenstone",
+    "rank208": "Principal",
+    "regionalArea208": "SE offshore",
+    "geographicAnchor208": "Island of Estermont",
+    "sourceLine208": 141,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:greenstone",
+    "kind": "place",
+    "name": "Greenstone",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Principal",
+    "regionalArea208": "SE offshore",
+    "geographicAnchor208": "Island of Estermont",
+    "sourceLine208": 141,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:penrose",
+    "kind": "house",
+    "name": "House Penrose",
+    "subtitle": "of Parchments",
+    "rank208": "Principal",
+    "regionalArea208": "C",
+    "geographicAnchor208": "Inland road junction toward Shipbreaker Bay",
+    "sourceLine208": 146,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:parchments",
+    "kind": "place",
+    "name": "Parchments",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Principal",
+    "regionalArea208": "C",
+    "geographicAnchor208": "Inland road junction toward Shipbreaker Bay",
+    "sourceLine208": 146,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:selmy",
+    "kind": "house",
+    "name": "House Selmy",
+    "subtitle": "of Harvest Hall",
+    "rank208": "Principal",
+    "regionalArea208": "W",
+    "geographicAnchor208": "Dornish Marches",
+    "sourceLine208": 151,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:harvest-hall",
+    "kind": "place",
+    "name": "Harvest Hall",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Principal",
+    "regionalArea208": "W",
+    "geographicAnchor208": "Dornish Marches",
+    "sourceLine208": 151,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:buckler",
+    "kind": "house",
+    "name": "House Buckler",
+    "subtitle": "of Bronzegate",
+    "rank208": "Major",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Crownlands approach",
+    "sourceLine208": 156,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:bronzegate",
+    "kind": "place",
+    "name": "Bronzegate",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Major",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Crownlands approach",
+    "sourceLine208": 156,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:cafferen",
+    "kind": "house",
+    "name": "House Cafferen",
+    "subtitle": "of Fawnton",
+    "rank208": "Major",
+    "regionalArea208": "NW",
+    "geographicAnchor208": "Western road from Grandview country toward Marches",
+    "sourceLine208": 161,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:fawnton",
+    "kind": "place",
+    "name": "Fawnton",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Major",
+    "regionalArea208": "NW",
+    "geographicAnchor208": "Western road from Grandview country toward Marches",
+    "sourceLine208": 161,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:errol",
+    "kind": "house",
+    "name": "House Errol",
+    "subtitle": "of Haystack Hall",
+    "rank208": "Major",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Grain country south of Bronzegate",
+    "sourceLine208": 166,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:haystack-hall",
+    "kind": "place",
+    "name": "Haystack Hall",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Major",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Grain country south of Bronzegate",
+    "sourceLine208": 166,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:fell",
+    "kind": "house",
+    "name": "House Fell",
+    "subtitle": "of Felwood",
+    "rank208": "Major",
+    "regionalArea208": "C",
+    "geographicAnchor208": "Wooded ridge west of Storm’s End approaches",
+    "sourceLine208": 171,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:felwood",
+    "kind": "place",
+    "name": "Felwood",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Major",
+    "regionalArea208": "C",
+    "geographicAnchor208": "Wooded ridge west of Storm’s End approaches",
+    "sourceLine208": 171,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:mertyns",
+    "kind": "house",
+    "name": "House Mertyns",
+    "subtitle": "of Mistwood",
+    "rank208": "Major",
+    "regionalArea208": "S",
+    "geographicAnchor208": "Rainwood",
+    "sourceLine208": 181,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:mistwood",
+    "kind": "place",
+    "name": "Mistwood",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Major",
+    "regionalArea208": "S",
+    "geographicAnchor208": "Rainwood",
+    "sourceLine208": 181,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:morrigen",
+    "kind": "house",
+    "name": "House Morrigen",
+    "subtitle": "of Crow’s Nest",
+    "rank208": "Major",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Wooded coastal approaches south of Griffin’s Roost",
+    "sourceLine208": 186,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:crow-s-nest",
+    "kind": "place",
+    "name": "Crow’s Nest",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Major",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Wooded coastal approaches south of Griffin’s Roost",
+    "sourceLine208": 186,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:trant",
+    "kind": "house",
+    "name": "House Trant",
+    "subtitle": "of Gallowsgrey",
+    "rank208": "Major",
+    "regionalArea208": "C",
+    "geographicAnchor208": "Ridge road toward Rainwood",
+    "sourceLine208": 191,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:gallowsgrey",
+    "kind": "place",
+    "name": "Gallowsgrey",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Major",
+    "regionalArea208": "C",
+    "geographicAnchor208": "Ridge road toward Rainwood",
+    "sourceLine208": 191,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:whitehead",
+    "kind": "house",
+    "name": "House Whitehead",
+    "subtitle": "of the Weeping Town",
+    "rank208": "Major",
+    "regionalArea208": "SE",
+    "geographicAnchor208": "Cape Wrath coast",
+    "sourceLine208": 196,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:weeping-town",
+    "kind": "place",
+    "name": "the Weeping Town",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Major",
+    "regionalArea208": "SE",
+    "geographicAnchor208": "Cape Wrath coast",
+    "sourceLine208": 196,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:wylde",
+    "kind": "house",
+    "name": "House Wylde",
+    "subtitle": "of Rain House",
+    "rank208": "Major",
+    "regionalArea208": "SE",
+    "geographicAnchor208": "Cape Wrath country",
+    "sourceLine208": 201,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:rain-house",
+    "kind": "place",
+    "name": "Rain House",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Major",
+    "regionalArea208": "SE",
+    "geographicAnchor208": "Cape Wrath country",
+    "sourceLine208": 201,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:belgrave",
+    "kind": "house",
+    "name": "House Belgrave",
+    "subtitle": "of Belgrave Hall",
+    "rank208": "Minor",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Northern road inside Buckler territory",
+    "sourceLine208": 214,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:belgrave-hall",
+    "kind": "place",
+    "name": "Belgrave Hall",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Northern road inside Buckler territory",
+    "sourceLine208": 214,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:blackbriar",
+    "kind": "house",
+    "name": "House Blackbriar",
+    "subtitle": "of Briarholt",
+    "rank208": "Minor",
+    "regionalArea208": "SE",
+    "geographicAnchor208": "Woodland on inland road to Weeping Town",
+    "sourceLine208": 219,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:briarholt",
+    "kind": "place",
+    "name": "Briarholt",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "SE",
+    "geographicAnchor208": "Woodland on inland road to Weeping Town",
+    "sourceLine208": 219,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:brackwater",
+    "kind": "house",
+    "name": "House Brackwater",
+    "subtitle": "of Brackwater",
+    "rank208": "Minor",
+    "regionalArea208": "SE",
+    "geographicAnchor208": "Tidal river mouth west of Weeping Town",
+    "sourceLine208": 224,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:brackwater",
+    "kind": "place",
+    "name": "Brackwater",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "SE",
+    "geographicAnchor208": "Tidal river mouth west of Weeping Town",
+    "sourceLine208": 224,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:cole",
+    "kind": "house",
+    "name": "House Cole",
+    "subtitle": "of Cinderwatch",
+    "rank208": "Minor",
+    "regionalArea208": "SW",
+    "geographicAnchor208": "Watch hill on Blackhaven’s Dornish approach",
+    "sourceLine208": 229,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:cinderwatch",
+    "kind": "place",
+    "name": "Cinderwatch",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "SW",
+    "geographicAnchor208": "Watch hill on Blackhaven’s Dornish approach",
+    "sourceLine208": 229,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:cragmere",
+    "kind": "house",
+    "name": "House Cragmere",
+    "subtitle": "of Cragmere",
+    "rank208": "Minor",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Rocky creek below Griffin’s Roost coastal heights",
+    "sourceLine208": 234,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:cragmere",
+    "kind": "place",
+    "name": "Cragmere",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Rocky creek below Griffin’s Roost coastal heights",
+    "sourceLine208": 234,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:gower",
+    "kind": "house",
+    "name": "House Gower",
+    "subtitle": "of Clovercross",
+    "rank208": "Minor",
+    "regionalArea208": "NW",
+    "geographicAnchor208": "Moated manor a morning’s ride southwest of Grandview",
+    "sourceLine208": 239,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:clovercross",
+    "kind": "place",
+    "name": "Clovercross",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "NW",
+    "geographicAnchor208": "Moated manor a morning’s ride southwest of Grandview",
+    "sourceLine208": 239,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:gullane",
+    "kind": "house",
+    "name": "House Gullane",
+    "subtitle": "of Gull Point",
+    "rank208": "Minor",
+    "regionalArea208": "SE",
+    "geographicAnchor208": "Headland east of Weeping Town harbour",
+    "sourceLine208": 244,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:gull-point",
+    "kind": "place",
+    "name": "Gull Point",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "SE",
+    "geographicAnchor208": "Headland east of Weeping Town harbour",
+    "sourceLine208": 244,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:hertson",
+    "kind": "house",
+    "name": "House Hertson",
+    "subtitle": "of Cockcrow Castle",
+    "rank208": "Minor",
+    "regionalArea208": "C",
+    "geographicAnchor208": "Rise on road south of Parchments",
+    "sourceLine208": 249,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:cockcrow-castle",
+    "kind": "place",
+    "name": "Cockcrow Castle",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "C",
+    "geographicAnchor208": "Rise on road south of Parchments",
+    "sourceLine208": 249,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:horpe",
+    "kind": "house",
+    "name": "House Horpe",
+    "subtitle": "of Duskwood Hall",
+    "rank208": "Minor",
+    "regionalArea208": "W",
+    "geographicAnchor208": "Wooded fold on lower road to Nightsong",
+    "sourceLine208": 254,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:duskwood-hall",
+    "kind": "place",
+    "name": "Duskwood Hall",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "W",
+    "geographicAnchor208": "Wooded fold on lower road to Nightsong",
+    "sourceLine208": 254,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:lonmouth",
+    "kind": "house",
+    "name": "House Lonmouth",
+    "subtitle": "of Hollowmouth",
+    "rank208": "Minor",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Sheltered inlet on Shipbreaker Bay",
+    "sourceLine208": 259,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:hollowmouth",
+    "kind": "place",
+    "name": "Hollowmouth",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Sheltered inlet on Shipbreaker Bay",
+    "sourceLine208": 259,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:mereweather",
+    "kind": "house",
+    "name": "House Mereweather",
+    "subtitle": "of Merewatch",
+    "rank208": "Minor",
+    "regionalArea208": "S",
+    "geographicAnchor208": "Rainwood, in Mistwood district",
+    "sourceLine208": 264,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:merewatch",
+    "kind": "place",
+    "name": "Merewatch",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "S",
+    "geographicAnchor208": "Rainwood, in Mistwood district",
+    "sourceLine208": 264,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:mosswyck",
+    "kind": "house",
+    "name": "House Mosswyck",
+    "subtitle": "of Mosswyck Hall",
+    "rank208": "Minor",
+    "regionalArea208": "SE",
+    "geographicAnchor208": "Wet woodland inland from Rain House",
+    "sourceLine208": 269,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:mosswyck-hall",
+    "kind": "place",
+    "name": "Mosswyck Hall",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "SE",
+    "geographicAnchor208": "Wet woodland inland from Rain House",
+    "sourceLine208": 269,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:musgood",
+    "kind": "house",
+    "name": "House Musgood",
+    "subtitle": "of Silver Spring",
+    "rank208": "Minor",
+    "regionalArea208": "C",
+    "geographicAnchor208": "Spring at western edge of Felwood",
+    "sourceLine208": 274,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:silver-spring",
+    "kind": "place",
+    "name": "Silver Spring",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "C",
+    "geographicAnchor208": "Spring at western edge of Felwood",
+    "sourceLine208": 274,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:peasebury",
+    "kind": "house",
+    "name": "House Peasebury",
+    "subtitle": "of Poddingfield",
+    "rank208": "Minor",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Inland road between Haystack Hall country and Bronzegate",
+    "sourceLine208": 279,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:poddingfield",
+    "kind": "place",
+    "name": "Poddingfield",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Inland road between Haystack Hall country and Bronzegate",
+    "sourceLine208": 279,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:rainholt",
+    "kind": "house",
+    "name": "House Rainholt",
+    "subtitle": "of Rainholt Keep",
+    "rank208": "Minor",
+    "regionalArea208": "S",
+    "geographicAnchor208": "Fortified rise on road into Mistwood",
+    "sourceLine208": 284,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:rainholt-keep",
+    "kind": "place",
+    "name": "Rainholt Keep",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "S",
+    "geographicAnchor208": "Fortified rise on road into Mistwood",
+    "sourceLine208": 284,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:rainsward",
+    "kind": "house",
+    "name": "House Rainsward",
+    "subtitle": "of Rainward Hall",
+    "rank208": "Minor",
+    "regionalArea208": "SE",
+    "geographicAnchor208": "Exposed ridge on coastal approach to Rain House",
+    "sourceLine208": 289,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:rainward-hall",
+    "kind": "place",
+    "name": "Rainward Hall",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "SE",
+    "geographicAnchor208": "Exposed ridge on coastal approach to Rain House",
+    "sourceLine208": 289,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:rogers",
+    "kind": "house",
+    "name": "House Rogers",
+    "subtitle": "of Amberly",
+    "rank208": "Minor",
+    "regionalArea208": "S",
+    "geographicAnchor208": "Western Rainwood road toward Mistwood",
+    "sourceLine208": 294,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:amberly",
+    "kind": "place",
+    "name": "Amberly",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "S",
+    "geographicAnchor208": "Western Rainwood road toward Mistwood",
+    "sourceLine208": 294,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:rookwell",
+    "kind": "house",
+    "name": "House Rookwell",
+    "subtitle": "of Rookwell Hall",
+    "rank208": "Minor",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Spring and junction behind Crow’s Nest",
+    "sourceLine208": 299,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:rookwell-hall",
+    "kind": "place",
+    "name": "Rookwell Hall",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Spring and junction behind Crow’s Nest",
+    "sourceLine208": 299,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:sablewood",
+    "kind": "house",
+    "name": "House Sablewood",
+    "subtitle": "of Pineward",
+    "rank208": "Minor",
+    "regionalArea208": "SE",
+    "geographicAnchor208": "Pinewoods inland of Rain House",
+    "sourceLine208": 304,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:pineward",
+    "kind": "place",
+    "name": "Pineward",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "SE",
+    "geographicAnchor208": "Pinewoods inland of Rain House",
+    "sourceLine208": 304,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:staedmon",
+    "kind": "house",
+    "name": "House Staedmon",
+    "subtitle": "of Broad Arch",
+    "rank208": "Minor",
+    "regionalArea208": "C",
+    "geographicAnchor208": "Stone bridge on inland road north of Rainwood",
+    "sourceLine208": 309,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:broad-arch",
+    "kind": "place",
+    "name": "Broad Arch",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "C",
+    "geographicAnchor208": "Stone bridge on inland road north of Rainwood",
+    "sourceLine208": 309,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:sweet",
+    "kind": "house",
+    "name": "House Sweet",
+    "subtitle": "of Honeymead",
+    "rank208": "Minor",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Meadows on branch of Haystack Hall road",
+    "sourceLine208": 322,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:honeymead",
+    "kind": "place",
+    "name": "Honeymead",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Meadows on branch of Haystack Hall road",
+    "sourceLine208": 322,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:thornmere",
+    "kind": "house",
+    "name": "House Thornmere",
+    "subtitle": "of Thornmere Hall",
+    "rank208": "Minor",
+    "regionalArea208": "S",
+    "geographicAnchor208": "Western Cape Wrath, Mistwood side of Merewatch boundary",
+    "sourceLine208": 327,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:thornmere-hall",
+    "kind": "place",
+    "name": "Thornmere Hall",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "S",
+    "geographicAnchor208": "Western Cape Wrath, Mistwood side of Merewatch boundary",
+    "sourceLine208": 327,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:toyne",
+    "kind": "house",
+    "name": "House Toyne",
+    "subtitle": "of Heartwatch",
+    "rank208": "Minor",
+    "regionalArea208": "S",
+    "geographicAnchor208": "Ridge above crossing upstream of Stonehelm",
+    "sourceLine208": 332,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:heartwatch",
+    "kind": "place",
+    "name": "Heartwatch",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "S",
+    "geographicAnchor208": "Ridge above crossing upstream of Stonehelm",
+    "sourceLine208": 332,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:tudbury",
+    "kind": "house",
+    "name": "House Tudbury",
+    "subtitle": "of Tudbury Hall",
+    "rank208": "Minor",
+    "regionalArea208": "C",
+    "geographicAnchor208": "Farmed valley below Felwood’s southern ridge",
+    "sourceLine208": 337,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:tudbury-hall",
+    "kind": "place",
+    "name": "Tudbury Hall",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "C",
+    "geographicAnchor208": "Farmed valley below Felwood’s southern ridge",
+    "sourceLine208": 337,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:weatherwax",
+    "kind": "house",
+    "name": "House Weatherwax",
+    "subtitle": "of Wickwood Keep",
+    "rank208": "Minor",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Woodland estate on road to Crow’s Nest",
+    "sourceLine208": 342,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:wickwood-keep",
+    "kind": "place",
+    "name": "Wickwood Keep",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Woodland estate on road to Crow’s Nest",
+    "sourceLine208": 342,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:wensington",
+    "kind": "house",
+    "name": "House Wensington",
+    "subtitle": "of Trumpet Hill",
+    "rank208": "Minor",
+    "regionalArea208": "NE",
+    "geographicAnchor208": "Beacon hill on inland approach to Storm’s End",
+    "sourceLine208": 347,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:trumpet-hill",
+    "kind": "place",
+    "name": "Trumpet Hill",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "NE",
+    "geographicAnchor208": "Beacon hill on inland approach to Storm’s End",
+    "sourceLine208": 347,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:blackberry",
+    "kind": "house",
+    "name": "House Blackberry",
+    "subtitle": "of Bramblecross",
+    "rank208": "Knightly",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Hedged crossroads in Honeymead lands",
+    "sourceLine208": 352,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:bramblecross",
+    "kind": "place",
+    "name": "Bramblecross",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Hedged crossroads in Honeymead lands",
+    "sourceLine208": 352,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:blackhull",
+    "kind": "house",
+    "name": "House Blackhull",
+    "subtitle": "of Blackhull",
+    "rank208": "Knightly",
+    "regionalArea208": "NE",
+    "geographicAnchor208": "Sheltered landing near Storm’s End on Shipbreaker Bay",
+    "sourceLine208": 357,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:blackhull",
+    "kind": "place",
+    "name": "Blackhull",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "NE",
+    "geographicAnchor208": "Sheltered landing near Storm’s End on Shipbreaker Bay",
+    "sourceLine208": 357,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:bolling",
+    "kind": "house",
+    "name": "House Bolling",
+    "subtitle": "of Stagbrook",
+    "rank208": "Knightly",
+    "regionalArea208": "NE",
+    "geographicAnchor208": "Brook crossing in inland Storm’s End demesne",
+    "sourceLine208": 362,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:stagbrook",
+    "kind": "place",
+    "name": "Stagbrook",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "NE",
+    "geographicAnchor208": "Brook crossing in inland Storm’s End demesne",
+    "sourceLine208": 362,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:brownhill",
+    "kind": "house",
+    "name": "House Brownhill",
+    "subtitle": "of Brownhill Tower",
+    "rank208": "Knightly",
+    "regionalArea208": "SE",
+    "geographicAnchor208": "Low hill on inland road to Rain House",
+    "sourceLine208": 367,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:brownhill-tower",
+    "kind": "place",
+    "name": "Brownhill Tower",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "SE",
+    "geographicAnchor208": "Low hill on inland road to Rain House",
+    "sourceLine208": 367,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:elmridge",
+    "kind": "house",
+    "name": "House Elmridge",
+    "subtitle": "of Elmbridge",
+    "rank208": "Knightly",
+    "regionalArea208": "NW",
+    "geographicAnchor208": "Mill bridge on Elm Brook below Grandview village",
+    "sourceLine208": 372,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:elmbridge",
+    "kind": "place",
+    "name": "Elmbridge",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "NW",
+    "geographicAnchor208": "Mill bridge on Elm Brook below Grandview village",
+    "sourceLine208": 372,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:farrow",
+    "kind": "house",
+    "name": "House Farrow",
+    "subtitle": "of Farfield",
+    "rank208": "Knightly",
+    "regionalArea208": "NW",
+    "geographicAnchor208": "Open farmland on western approach to Fawnton",
+    "sourceLine208": 377,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:farfield",
+    "kind": "place",
+    "name": "Farfield",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "NW",
+    "geographicAnchor208": "Open farmland on western approach to Fawnton",
+    "sourceLine208": 377,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:greenpools",
+    "kind": "house",
+    "name": "House Greenpools",
+    "subtitle": "of Greenpools",
+    "rank208": "Knightly",
+    "regionalArea208": "SE offshore",
+    "geographicAnchor208": "Freshwater pools inland from Greenstone",
+    "sourceLine208": 382,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:greenpools",
+    "kind": "place",
+    "name": "Greenpools",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "SE offshore",
+    "geographicAnchor208": "Freshwater pools inland from Greenstone",
+    "sourceLine208": 382,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:hardgrove",
+    "kind": "house",
+    "name": "House Hardgrove",
+    "subtitle": "of Old Barrow",
+    "rank208": "Knightly",
+    "regionalArea208": "S",
+    "geographicAnchor208": "Tower on northern approach to Merewatch",
+    "sourceLine208": 387,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:old-barrow",
+    "kind": "place",
+    "name": "Old Barrow",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "S",
+    "geographicAnchor208": "Tower on northern approach to Merewatch",
+    "sourceLine208": 387,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:hasty",
+    "kind": "house",
+    "name": "House Hasty",
+    "subtitle": "of Hastebridge",
+    "rank208": "Knightly",
+    "regionalArea208": "NE",
+    "geographicAnchor208": "Narrow bridge on inland road to Storm’s End",
+    "sourceLine208": 392,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:hastebridge",
+    "kind": "place",
+    "name": "Hastebridge",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "NE",
+    "geographicAnchor208": "Narrow bridge on inland road to Storm’s End",
+    "sourceLine208": 392,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:kellington",
+    "kind": "house",
+    "name": "House Kellington",
+    "subtitle": "of Kell’s Ford",
+    "rank208": "Knightly",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Ford on lesser route near Bronzegate",
+    "sourceLine208": 397,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:kell-s-ford",
+    "kind": "place",
+    "name": "Kell’s Ford",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Ford on lesser route near Bronzegate",
+    "sourceLine208": 397,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:king-s-mountain",
+    "kind": "house",
+    "name": "House King’s Mountain",
+    "subtitle": "of King’s Mountain",
+    "rank208": "Knightly",
+    "regionalArea208": "SW",
+    "geographicAnchor208": "Marcher shoulder on road between Summerhall and Blackhaven country",
+    "sourceLine208": 402,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:king-s-mountain",
+    "kind": "place",
+    "name": "King’s Mountain",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "SW",
+    "geographicAnchor208": "Marcher shoulder on road between Summerhall and Blackhaven country",
+    "sourceLine208": 402,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:straw",
+    "kind": "house",
+    "name": "House Straw",
+    "subtitle": "of Strawfold",
+    "rank208": "Knightly",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Grain and sheep estate in Haystack Hall district",
+    "sourceLine208": 407,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:strawfold",
+    "kind": "place",
+    "name": "Strawfold",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Grain and sheep estate in Haystack Hall district",
+    "sourceLine208": 407,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:swygert",
+    "kind": "house",
+    "name": "House Swygert",
+    "subtitle": "of Swygert Tower",
+    "rank208": "Knightly",
+    "regionalArea208": "C",
+    "geographicAnchor208": "Tower watching wooded approach to Gallowsgrey",
+    "sourceLine208": 412,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:swygert-tower",
+    "kind": "place",
+    "name": "Swygert Tower",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "C",
+    "geographicAnchor208": "Tower watching wooded approach to Gallowsgrey",
+    "sourceLine208": 412,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:wagstaff",
+    "kind": "house",
+    "name": "House Wagstaff",
+    "subtitle": "of Greenward",
+    "rank208": "Knightly",
+    "regionalArea208": "NW",
+    "geographicAnchor208": "River meadows half a day south of Grandview",
+    "sourceLine208": 417,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:greenward",
+    "kind": "place",
+    "name": "Greenward",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "NW",
+    "geographicAnchor208": "River meadows half a day south of Grandview",
+    "sourceLine208": 417,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:highgarden",
+    "kind": "place",
+    "name": "Highgarden",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Ruling",
+    "regionalArea208": "C",
+    "geographicAnchor208": "Mander",
+    "sourceLine208": 1161,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:florent",
+    "kind": "house",
+    "name": "House Florent",
+    "subtitle": "of Brightwater Keep",
+    "rank208": "Great",
+    "regionalArea208": "SW",
+    "geographicAnchor208": "Lower Reach",
+    "sourceLine208": 1166,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:brightwater-keep",
+    "kind": "place",
+    "name": "Brightwater Keep",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Great",
+    "regionalArea208": "SW",
+    "geographicAnchor208": "Lower Reach",
+    "sourceLine208": 1166,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:hightower",
+    "kind": "house",
+    "name": "House Hightower",
+    "subtitle": "of Oldtown",
+    "rank208": "Great",
+    "regionalArea208": "SW",
+    "geographicAnchor208": "Honeywine mouth",
+    "sourceLine208": 1171,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:oldtown",
+    "kind": "place",
+    "name": "Oldtown",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Great",
+    "regionalArea208": "SW",
+    "geographicAnchor208": "Honeywine mouth",
+    "sourceLine208": 1171,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:oakheart",
+    "kind": "house",
+    "name": "House Oakheart",
+    "subtitle": "of Old Oak",
+    "rank208": "Great",
+    "regionalArea208": "NW",
+    "geographicAnchor208": "Western approaches",
+    "sourceLine208": 1176,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:old-oak",
+    "kind": "place",
+    "name": "Old Oak",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Great",
+    "regionalArea208": "NW",
+    "geographicAnchor208": "Western approaches",
+    "sourceLine208": 1176,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:redwyne",
+    "kind": "house",
+    "name": "House Redwyne",
+    "subtitle": "of the Arbor",
+    "rank208": "Great",
+    "regionalArea208": "SW offshore",
+    "geographicAnchor208": "Redwyne Straits",
+    "sourceLine208": 1181,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:arbor",
+    "kind": "place",
+    "name": "the Arbor",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Great",
+    "regionalArea208": "SW offshore",
+    "geographicAnchor208": "Redwyne Straits",
+    "sourceLine208": 1181,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:tarly",
+    "kind": "house",
+    "name": "House Tarly",
+    "subtitle": "of Horn Hill",
+    "rank208": "Great",
+    "regionalArea208": "SE",
+    "geographicAnchor208": "Western Dornish Marches",
+    "sourceLine208": 1191,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:horn-hill",
+    "kind": "place",
+    "name": "Horn Hill",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Great",
+    "regionalArea208": "SE",
+    "geographicAnchor208": "Western Dornish Marches",
+    "sourceLine208": 1191,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:caswell",
+    "kind": "house",
+    "name": "House Caswell",
+    "subtitle": "of Bitterbridge",
+    "rank208": "Principal",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Roseroad crossing of the Mander",
+    "sourceLine208": 1196,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:bitterbridge",
+    "kind": "place",
+    "name": "Bitterbridge",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Principal",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Roseroad crossing of the Mander",
+    "sourceLine208": 1196,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:crane",
+    "kind": "house",
+    "name": "House Crane",
+    "subtitle": "of Red Lake",
+    "rank208": "Principal",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Red Lake",
+    "sourceLine208": 1201,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:red-lake",
+    "kind": "place",
+    "name": "Red Lake",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Principal",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Red Lake",
+    "sourceLine208": 1201,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:merryweather",
+    "kind": "house",
+    "name": "House Merryweather",
+    "subtitle": "of Longtable",
+    "rank208": "Principal",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Mander",
+    "sourceLine208": 1206,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:longtable",
+    "kind": "place",
+    "name": "Longtable",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Principal",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Mander",
+    "sourceLine208": 1206,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:mullendore",
+    "kind": "house",
+    "name": "House Mullendore",
+    "subtitle": "of Uplands",
+    "rank208": "Principal",
+    "regionalArea208": "SW",
+    "geographicAnchor208": "Inland from Oldtown coast",
+    "sourceLine208": 1211,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:uplands",
+    "kind": "place",
+    "name": "Uplands",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Principal",
+    "regionalArea208": "SW",
+    "geographicAnchor208": "Inland from Oldtown coast",
+    "sourceLine208": 1211,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:peake",
+    "kind": "house",
+    "name": "House Peake",
+    "subtitle": "of Starpike",
+    "rank208": "Principal",
+    "regionalArea208": "SE",
+    "geographicAnchor208": "Western marcher foothills",
+    "sourceLine208": 1216,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:starpike",
+    "kind": "place",
+    "name": "Starpike",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Principal",
+    "regionalArea208": "SE",
+    "geographicAnchor208": "Western marcher foothills",
+    "sourceLine208": 1216,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:roxton",
+    "kind": "house",
+    "name": "House Roxton",
+    "subtitle": "of the Ring",
+    "rank208": "Principal",
+    "regionalArea208": "NE",
+    "geographicAnchor208": "Ridge above the upper Blueburn",
+    "sourceLine208": 1221,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:ring",
+    "kind": "place",
+    "name": "the Ring",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Principal",
+    "regionalArea208": "NE",
+    "geographicAnchor208": "Ridge above the upper Blueburn",
+    "sourceLine208": 1221,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:vyrwel",
+    "kind": "house",
+    "name": "House Vyrwel",
+    "subtitle": "of Darkdell",
+    "rank208": "Principal",
+    "regionalArea208": "NW",
+    "geographicAnchor208": "Wooded valley inland from Old Oak",
+    "sourceLine208": 1226,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:darkdell",
+    "kind": "place",
+    "name": "Darkdell",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Principal",
+    "regionalArea208": "NW",
+    "geographicAnchor208": "Wooded valley inland from Old Oak",
+    "sourceLine208": 1226,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:ashford",
+    "kind": "house",
+    "name": "House Ashford",
+    "subtitle": "of Ashford",
+    "rank208": "Major",
+    "regionalArea208": "S",
+    "geographicAnchor208": "Cockleswent and Ashford Meadow",
+    "sourceLine208": 1231,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:ashford",
+    "kind": "place",
+    "name": "Ashford",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Major",
+    "regionalArea208": "S",
+    "geographicAnchor208": "Cockleswent and Ashford Meadow",
+    "sourceLine208": 1231,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:blackbar",
+    "kind": "house",
+    "name": "House Blackbar",
+    "subtitle": "of Bandallon",
+    "rank208": "Major",
+    "regionalArea208": "W",
+    "geographicAnchor208": "Mainland coastal road above Shield approaches",
+    "sourceLine208": 1236,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:bandallon",
+    "kind": "place",
+    "name": "Bandallon",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Major",
+    "regionalArea208": "W",
+    "geographicAnchor208": "Mainland coastal road above Shield approaches",
+    "sourceLine208": 1236,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:chester",
+    "kind": "house",
+    "name": "House Chester",
+    "subtitle": "of Greenshield",
+    "rank208": "Major",
+    "regionalArea208": "W offshore",
+    "geographicAnchor208": "Greenshield at the Mander mouth",
+    "sourceLine208": 1241,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:greenshield",
+    "kind": "place",
+    "name": "Greenshield",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Major",
+    "regionalArea208": "W offshore",
+    "geographicAnchor208": "Greenshield at the Mander mouth",
+    "sourceLine208": 1241,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:costayne",
+    "kind": "house",
+    "name": "House Costayne",
+    "subtitle": "of Three Towers",
+    "rank208": "Major",
+    "regionalArea208": "SW",
+    "geographicAnchor208": "Coast south of Oldtown",
+    "sourceLine208": 1246,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:three-towers",
+    "kind": "place",
+    "name": "Three Towers",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Major",
+    "regionalArea208": "SW",
+    "geographicAnchor208": "Coast south of Oldtown",
+    "sourceLine208": 1246,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:dunstonbury",
+    "kind": "place",
+    "name": "Dunstonbury",
+    "placeType": "holding",
+    "registryRole": "unassigned_holding",
+    "rank208": "Major",
+    "regionalArea208": "C",
+    "geographicAnchor208": "Mander between Highgarden and Longtable. Ruling house open.",
+    "sourceLine208": 1251,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:footly",
+    "kind": "house",
+    "name": "House Footly",
+    "subtitle": "of Tumbleton",
+    "rank208": "Major",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Upper Mander",
+    "sourceLine208": 1256,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:tumbleton",
+    "kind": "place",
+    "name": "Tumbleton",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Major",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Upper Mander",
+    "sourceLine208": 1256,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:grimm",
+    "kind": "house",
+    "name": "House Grimm",
+    "subtitle": "of Grimston",
+    "rank208": "Major",
+    "regionalArea208": "W offshore",
+    "geographicAnchor208": "Greyshield",
+    "sourceLine208": 1269,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:grimston",
+    "kind": "place",
+    "name": "Grimston",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Major",
+    "regionalArea208": "W offshore",
+    "geographicAnchor208": "Greyshield",
+    "sourceLine208": 1269,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:hewett",
+    "kind": "house",
+    "name": "House Hewett",
+    "subtitle": "of Oakenshield",
+    "rank208": "Major",
+    "regionalArea208": "W offshore",
+    "geographicAnchor208": "Castle above Oakenshield harbour",
+    "sourceLine208": 1274,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:oakenshield",
+    "kind": "place",
+    "name": "Oakenshield",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Major",
+    "regionalArea208": "W offshore",
+    "geographicAnchor208": "Castle above Oakenshield harbour",
+    "sourceLine208": 1274,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:serry",
+    "kind": "house",
+    "name": "House Serry",
+    "subtitle": "of Southshield",
+    "rank208": "Major",
+    "regionalArea208": "W offshore",
+    "geographicAnchor208": "Southshield at the Mander mouth",
+    "sourceLine208": 1284,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:southshield",
+    "kind": "place",
+    "name": "Southshield",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Major",
+    "regionalArea208": "W offshore",
+    "geographicAnchor208": "Southshield at the Mander mouth",
+    "sourceLine208": 1284,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:ambrose",
+    "kind": "house",
+    "name": "House Ambrose",
+    "subtitle": "of Bellfield",
+    "rank208": "Minor",
+    "regionalArea208": "SW",
+    "geographicAnchor208": "Farming estate on inland approach to Oldtown",
+    "sourceLine208": 1289,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:bellfield",
+    "kind": "place",
+    "name": "Bellfield",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "SW",
+    "geographicAnchor208": "Farming estate on inland approach to Oldtown",
+    "sourceLine208": 1289,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:appleton",
+    "kind": "house",
+    "name": "House Appleton",
+    "subtitle": "of Appleton",
+    "rank208": "Minor",
+    "regionalArea208": "SE",
+    "geographicAnchor208": "Orchards on a road out of Starpike’s foothills",
+    "sourceLine208": 1294,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:appleton",
+    "kind": "place",
+    "name": "Appleton",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "SE",
+    "geographicAnchor208": "Orchards on a road out of Starpike’s foothills",
+    "sourceLine208": 1294,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:ball",
+    "kind": "house",
+    "name": "House Ball",
+    "subtitle": "of Flintbank",
+    "rank208": "Minor",
+    "regionalArea208": "C",
+    "geographicAnchor208": "Bluffs above a Mander crossing west of Highgarden",
+    "sourceLine208": 1299,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:flintbank",
+    "kind": "place",
+    "name": "Flintbank",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "C",
+    "geographicAnchor208": "Bluffs above a Mander crossing west of Highgarden",
+    "sourceLine208": 1299,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:beesbury",
+    "kind": "house",
+    "name": "House Beesbury",
+    "subtitle": "of Honeyholt",
+    "rank208": "Minor",
+    "regionalArea208": "SW",
+    "geographicAnchor208": "Honeywine",
+    "sourceLine208": 1304,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:honeyholt",
+    "kind": "place",
+    "name": "Honeyholt",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "SW",
+    "geographicAnchor208": "Honeywine",
+    "sourceLine208": 1304,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:bourney",
+    "kind": "house",
+    "name": "House Bourney",
+    "subtitle": "of Rushbank",
+    "rank208": "Minor",
+    "regionalArea208": "NE",
+    "geographicAnchor208": "Reach side of upper Blackwater, road toward Tumbleton",
+    "sourceLine208": 1309,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:rushbank",
+    "kind": "place",
+    "name": "Rushbank",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "NE",
+    "geographicAnchor208": "Reach side of upper Blackwater, road toward Tumbleton",
+    "sourceLine208": 1309,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:bulwer",
+    "kind": "house",
+    "name": "House Bulwer",
+    "subtitle": "of Blackcrown",
+    "rank208": "Minor",
+    "regionalArea208": "SW",
+    "geographicAnchor208": "Coast near Oldtown",
+    "sourceLine208": 1314,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:blackcrown",
+    "kind": "place",
+    "name": "Blackcrown",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "SW",
+    "geographicAnchor208": "Coast near Oldtown",
+    "sourceLine208": 1314,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:cobb",
+    "kind": "house",
+    "name": "House Cobb",
+    "subtitle": "of Barley Tower",
+    "rank208": "Minor",
+    "regionalArea208": "C",
+    "geographicAnchor208": "Arable land on Roseroad east of Highgarden",
+    "sourceLine208": 1319,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:barley-tower",
+    "kind": "place",
+    "name": "Barley Tower",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "C",
+    "geographicAnchor208": "Arable land on Roseroad east of Highgarden",
+    "sourceLine208": 1319,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:cockshaw",
+    "kind": "house",
+    "name": "House Cockshaw",
+    "subtitle": "of Cockshaw Hall",
+    "rank208": "Minor",
+    "regionalArea208": "S",
+    "geographicAnchor208": "Wooded ridge above road into Ashford",
+    "sourceLine208": 1324,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:cockshaw-hall",
+    "kind": "place",
+    "name": "Cockshaw Hall",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "S",
+    "geographicAnchor208": "Wooded ridge above road into Ashford",
+    "sourceLine208": 1324,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:cordwayner",
+    "kind": "house",
+    "name": "House Cordwayner",
+    "subtitle": "of Hammerhal",
+    "rank208": "Minor",
+    "regionalArea208": "NE",
+    "geographicAnchor208": "Stream crossing between the Ring and Bitterbridge",
+    "sourceLine208": 1329,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:hammerhal",
+    "kind": "place",
+    "name": "Hammerhal",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "NE",
+    "geographicAnchor208": "Stream crossing between the Ring and Bitterbridge",
+    "sourceLine208": 1329,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:cuy",
+    "kind": "house",
+    "name": "House Cuy",
+    "subtitle": "of Sunhouse",
+    "rank208": "Minor",
+    "regionalArea208": "SW",
+    "geographicAnchor208": "Southern coast",
+    "sourceLine208": 1334,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:sunhouse",
+    "kind": "place",
+    "name": "Sunhouse",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "SW",
+    "geographicAnchor208": "Southern coast",
+    "sourceLine208": 1334,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:dunn",
+    "kind": "house",
+    "name": "House Dunn",
+    "subtitle": "of Reedbank",
+    "rank208": "Minor",
+    "regionalArea208": "S",
+    "geographicAnchor208": "Cockleswent meadows downstream of Ashford",
+    "sourceLine208": 1339,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:reedbank",
+    "kind": "place",
+    "name": "Reedbank",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "S",
+    "geographicAnchor208": "Cockleswent meadows downstream of Ashford",
+    "sourceLine208": 1339,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:foxglove",
+    "kind": "house",
+    "name": "House Foxglove",
+    "subtitle": "of Foxden Keep",
+    "rank208": "Minor",
+    "regionalArea208": "SW",
+    "geographicAnchor208": "Wooded ridge inland of Brightwater Keep",
+    "sourceLine208": 1344,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:foxden-keep",
+    "kind": "place",
+    "name": "Foxden Keep",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "SW",
+    "geographicAnchor208": "Wooded ridge inland of Brightwater Keep",
+    "sourceLine208": 1344,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:graceford",
+    "kind": "house",
+    "name": "House Graceford",
+    "subtitle": "of Holyhall",
+    "rank208": "Minor",
+    "regionalArea208": "C",
+    "geographicAnchor208": "Road junction south of Highgarden",
+    "sourceLine208": 1349,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:holyhall",
+    "kind": "place",
+    "name": "Holyhall",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "C",
+    "geographicAnchor208": "Road junction south of Highgarden",
+    "sourceLine208": 1349,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:graves",
+    "kind": "house",
+    "name": "House Graves",
+    "subtitle": "of Eaglegrave",
+    "rank208": "Minor",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Grassy Vale ridge above road toward Longtable",
+    "sourceLine208": 1354,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:eaglegrave",
+    "kind": "place",
+    "name": "Eaglegrave",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Grassy Vale ridge above road toward Longtable",
+    "sourceLine208": 1354,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:hunt",
+    "kind": "house",
+    "name": "House Hunt",
+    "subtitle": "of Hartwood Hall",
+    "rank208": "Minor",
+    "regionalArea208": "SE",
+    "geographicAnchor208": "Woodland below Horn Hill on foothill road",
+    "sourceLine208": 1359,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:hartwood-hall",
+    "kind": "place",
+    "name": "Hartwood Hall",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "SE",
+    "geographicAnchor208": "Woodland below Horn Hill on foothill road",
+    "sourceLine208": 1359,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:kidwell",
+    "kind": "house",
+    "name": "House Kidwell",
+    "subtitle": "of Ivy Hall",
+    "rank208": "Minor",
+    "regionalArea208": "S",
+    "geographicAnchor208": "Wooded tributary above Ashford",
+    "sourceLine208": 1364,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:ivy-hall",
+    "kind": "place",
+    "name": "Ivy Hall",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "S",
+    "geographicAnchor208": "Wooded tributary above Ashford",
+    "sourceLine208": 1364,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:leygood",
+    "kind": "house",
+    "name": "House Leygood",
+    "subtitle": "of Leygood Keep",
+    "rank208": "Minor",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Highgarden road into Northmarch near Rowan lands",
+    "sourceLine208": 1377,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:leygood-keep",
+    "kind": "place",
+    "name": "Leygood Keep",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Highgarden road into Northmarch near Rowan lands",
+    "sourceLine208": 1377,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:lowther",
+    "kind": "house",
+    "name": "House Lowther",
+    "subtitle": "of Lowbank Hall",
+    "rank208": "Minor",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Low ground on southern approach to Red Lake",
+    "sourceLine208": 1382,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:lowbank-hall",
+    "kind": "place",
+    "name": "Lowbank Hall",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Low ground on southern approach to Red Lake",
+    "sourceLine208": 1382,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:norcross",
+    "kind": "house",
+    "name": "House Norcross",
+    "subtitle": "of Crossmead",
+    "rank208": "Minor",
+    "regionalArea208": "C",
+    "geographicAnchor208": "Fork north of Highgarden toward Goldengrove",
+    "sourceLine208": 1387,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:crossmead",
+    "kind": "place",
+    "name": "Crossmead",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "C",
+    "geographicAnchor208": "Fork north of Highgarden toward Goldengrove",
+    "sourceLine208": 1387,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:norridge",
+    "kind": "house",
+    "name": "House Norridge",
+    "subtitle": "of Northridge",
+    "rank208": "Minor",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Ridge on southern Northmarch edge",
+    "sourceLine208": 1392,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:northridge",
+    "kind": "place",
+    "name": "Northridge",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Ridge on southern Northmarch edge",
+    "sourceLine208": 1392,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:oldflowers",
+    "kind": "house",
+    "name": "House Oldflowers",
+    "subtitle": "of Rosebury Hall",
+    "rank208": "Minor",
+    "regionalArea208": "C",
+    "geographicAnchor208": "Old garden estates west of Highgarden",
+    "sourceLine208": 1397,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:rosebury-hall",
+    "kind": "place",
+    "name": "Rosebury Hall",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "C",
+    "geographicAnchor208": "Old garden estates west of Highgarden",
+    "sourceLine208": 1397,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:rhysling",
+    "kind": "house",
+    "name": "House Rhysling",
+    "subtitle": "of Stonegate",
+    "rank208": "Minor",
+    "regionalArea208": "SW offshore",
+    "geographicAnchor208": "Pass between Arbor vineyards and southern shore",
+    "sourceLine208": 1402,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:stonegate",
+    "kind": "place",
+    "name": "Stonegate",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "SW offshore",
+    "geographicAnchor208": "Pass between Arbor vineyards and southern shore",
+    "sourceLine208": 1402,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:risley",
+    "kind": "house",
+    "name": "House Risley",
+    "subtitle": "of Risley Glade",
+    "rank208": "Minor",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Wooded clearing north of Bitterbridge",
+    "sourceLine208": 1407,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:risley-glade",
+    "kind": "place",
+    "name": "Risley Glade",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Wooded clearing north of Bitterbridge",
+    "sourceLine208": 1407,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:rodden",
+    "kind": "house",
+    "name": "House Rodden",
+    "subtitle": "of Redbrook Hall",
+    "rank208": "Minor",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Tributary crossing below Tumbleton",
+    "sourceLine208": 1412,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:redbrook-hall",
+    "kind": "place",
+    "name": "Redbrook Hall",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Tributary crossing below Tumbleton",
+    "sourceLine208": 1412,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:shermer",
+    "kind": "house",
+    "name": "House Shermer",
+    "subtitle": "of Smithyton",
+    "rank208": "Minor",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Smithing settlement on road into Goldengrove",
+    "sourceLine208": 1417,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:smithyton",
+    "kind": "place",
+    "name": "Smithyton",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Smithing settlement on road into Goldengrove",
+    "sourceLine208": 1417,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:sloane",
+    "kind": "house",
+    "name": "House Sloane",
+    "subtitle": "of Starfield",
+    "rank208": "Minor",
+    "regionalArea208": "NE",
+    "geographicAnchor208": "Upland east of the Ring",
+    "sourceLine208": 1422,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:starfield",
+    "kind": "place",
+    "name": "Starfield",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "NE",
+    "geographicAnchor208": "Upland east of the Ring",
+    "sourceLine208": 1422,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:stackhouse",
+    "kind": "house",
+    "name": "House Stackhouse",
+    "subtitle": "of Hayrick Hall",
+    "rank208": "Minor",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Hay meadows between Goldengrove and Coldmoat country",
+    "sourceLine208": 1427,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:hayrick-hall",
+    "kind": "place",
+    "name": "Hayrick Hall",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Hay meadows between Goldengrove and Coldmoat country",
+    "sourceLine208": 1427,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:varner",
+    "kind": "house",
+    "name": "House Varner",
+    "subtitle": "of Wheatbridge",
+    "rank208": "Minor",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Grain road stream crossing west of Goldengrove",
+    "sourceLine208": 1432,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:wheatbridge",
+    "kind": "place",
+    "name": "Wheatbridge",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Grain road stream crossing west of Goldengrove",
+    "sourceLine208": 1432,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:webber",
+    "kind": "house",
+    "name": "House Webber",
+    "subtitle": "of Coldmoat",
+    "rank208": "Minor",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Chequy Water",
+    "sourceLine208": 1437,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:coldmoat",
+    "kind": "place",
+    "name": "Coldmoat",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Chequy Water",
+    "sourceLine208": 1437,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:whitegrove",
+    "kind": "place",
+    "name": "Whitegrove",
+    "placeType": "holding",
+    "registryRole": "unassigned_holding",
+    "rank208": "Minor",
+    "regionalArea208": "SE",
+    "geographicAnchor208": "Wooded lower approaches to Starpike. Pre-grant holder open.",
+    "sourceLine208": 1442,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:willum",
+    "kind": "house",
+    "name": "House Willum",
+    "subtitle": "of Three Swords",
+    "rank208": "Minor",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Road junction between Longtable and Grassy Vale",
+    "sourceLine208": 1447,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:three-swords",
+    "kind": "place",
+    "name": "Three Swords",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Minor",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Road junction between Longtable and Grassy Vale",
+    "sourceLine208": 1447,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:bridges",
+    "kind": "house",
+    "name": "House Bridges",
+    "subtitle": "of Twin Arches",
+    "rank208": "Knightly",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Tributary crossing on Bitterbridge approach",
+    "sourceLine208": 1452,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:twin-arches",
+    "kind": "place",
+    "name": "Twin Arches",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Tributary crossing on Bitterbridge approach",
+    "sourceLine208": 1452,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:bushy",
+    "kind": "house",
+    "name": "House Bushy",
+    "subtitle": "of Hedgefort",
+    "rank208": "Knightly",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Hedged estate below Grassfield Keep",
+    "sourceLine208": 1457,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:hedgefort",
+    "kind": "place",
+    "name": "Hedgefort",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Hedged estate below Grassfield Keep",
+    "sourceLine208": 1457,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:conklyn",
+    "kind": "house",
+    "name": "House Conklyn",
+    "subtitle": "of Alderbank",
+    "rank208": "Knightly",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Coldmoat boundary near Leafy Lake approaches",
+    "sourceLine208": 1462,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:alderbank",
+    "kind": "place",
+    "name": "Alderbank",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Coldmoat boundary near Leafy Lake approaches",
+    "sourceLine208": 1462,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:cupps",
+    "kind": "house",
+    "name": "House Cupps",
+    "subtitle": "of Cupwell",
+    "rank208": "Knightly",
+    "regionalArea208": "SW offshore",
+    "geographicAnchor208": "Spring and vineyard inland from Arbor shore",
+    "sourceLine208": 1467,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:cupwell",
+    "kind": "place",
+    "name": "Cupwell",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "SW offshore",
+    "geographicAnchor208": "Spring and vineyard inland from Arbor shore",
+    "sourceLine208": 1467,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:dunmere",
+    "kind": "house",
+    "name": "House Dunmere",
+    "subtitle": "of Dunmere Hall",
+    "rank208": "Knightly",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Marshy hollow on Grassy Vale floor",
+    "sourceLine208": 1472,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:dunmere-hall",
+    "kind": "place",
+    "name": "Dunmere Hall",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Marshy hollow on Grassy Vale floor",
+    "sourceLine208": 1472,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:durwell",
+    "kind": "house",
+    "name": "House Durwell",
+    "subtitle": "of Durr’s Well",
+    "rank208": "Knightly",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Well and farmstead along Coldmoat boundary",
+    "sourceLine208": 1485,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:durr-s-well",
+    "kind": "place",
+    "name": "Durr’s Well",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Well and farmstead along Coldmoat boundary",
+    "sourceLine208": 1485,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:fenwick",
+    "kind": "house",
+    "name": "House Fenwick",
+    "subtitle": "of Fenwick Tower",
+    "rank208": "Knightly",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Causeway across Grassy Vale wet meadows",
+    "sourceLine208": 1490,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:fenwick-tower",
+    "kind": "place",
+    "name": "Fenwick Tower",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Causeway across Grassy Vale wet meadows",
+    "sourceLine208": 1490,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:greenhill",
+    "kind": "house",
+    "name": "House Greenhill",
+    "subtitle": "of Greenhill Hall",
+    "rank208": "Knightly",
+    "regionalArea208": "NW",
+    "geographicAnchor208": "Hill estate on western road into northern Reach",
+    "sourceLine208": 1500,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:greenhill-hall",
+    "kind": "place",
+    "name": "Greenhill Hall",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "NW",
+    "geographicAnchor208": "Hill estate on western road into northern Reach",
+    "sourceLine208": 1500,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:hastwyck",
+    "kind": "house",
+    "name": "House Hastwyck",
+    "subtitle": "of Hasteford",
+    "rank208": "Knightly",
+    "regionalArea208": "C",
+    "geographicAnchor208": "Ford on lesser road south of Highgarden",
+    "sourceLine208": 1505,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:hasteford",
+    "kind": "place",
+    "name": "Hasteford",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "C",
+    "geographicAnchor208": "Ford on lesser road south of Highgarden",
+    "sourceLine208": 1505,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:haye",
+    "kind": "house",
+    "name": "House Haye",
+    "subtitle": "of Haywick",
+    "rank208": "Knightly",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Upper edge of Grassy Vale hay meadows",
+    "sourceLine208": 1510,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:haywick",
+    "kind": "place",
+    "name": "Haywick",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Upper edge of Grassy Vale hay meadows",
+    "sourceLine208": 1510,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:hutcheson",
+    "kind": "house",
+    "name": "House Hutcheson",
+    "subtitle": "of Hutchbrook",
+    "rank208": "Knightly",
+    "regionalArea208": "NE",
+    "geographicAnchor208": "Brook crossing below the Ring",
+    "sourceLine208": 1515,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:hutchbrook",
+    "kind": "place",
+    "name": "Hutchbrook",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "NE",
+    "geographicAnchor208": "Brook crossing below the Ring",
+    "sourceLine208": 1515,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:inchfield",
+    "kind": "house",
+    "name": "House Inchfield",
+    "subtitle": "of Inchfield",
+    "rank208": "Knightly",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Chequy Water within Coldmoat lands",
+    "sourceLine208": 1520,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:inchfield",
+    "kind": "place",
+    "name": "Inchfield",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Chequy Water within Coldmoat lands",
+    "sourceLine208": 1520,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:lyberr",
+    "kind": "house",
+    "name": "House Lyberr",
+    "subtitle": "of Limewick",
+    "rank208": "Knightly",
+    "regionalArea208": "SW offshore",
+    "geographicAnchor208": "Chalky Arbor vineyard slope",
+    "sourceLine208": 1530,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:limewick",
+    "kind": "place",
+    "name": "Limewick",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "SW offshore",
+    "geographicAnchor208": "Chalky Arbor vineyard slope",
+    "sourceLine208": 1530,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:middlebury",
+    "kind": "house",
+    "name": "House Middlebury",
+    "subtitle": "of Middlebury Hall",
+    "rank208": "Knightly",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Road stop between Longtable and Grassy Vale",
+    "sourceLine208": 1535,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:middlebury-hall",
+    "kind": "place",
+    "name": "Middlebury Hall",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Road stop between Longtable and Grassy Vale",
+    "sourceLine208": 1535,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:orme",
+    "kind": "house",
+    "name": "House Orme",
+    "subtitle": "of Orme’s Holt",
+    "rank208": "Knightly",
+    "regionalArea208": "NW",
+    "geographicAnchor208": "Woodland inland from Old Oak",
+    "sourceLine208": 1540,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:orme-s-holt",
+    "kind": "place",
+    "name": "Orme’s Holt",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "NW",
+    "geographicAnchor208": "Woodland inland from Old Oak",
+    "sourceLine208": 1540,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:osgrey",
+    "kind": "house",
+    "name": "House Osgrey",
+    "subtitle": "of Standfast",
+    "rank208": "Knightly",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Dosk and Coldmoat country",
+    "sourceLine208": 1545,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:standfast",
+    "kind": "place",
+    "name": "Standfast",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "N",
+    "geographicAnchor208": "Dosk and Coldmoat country",
+    "sourceLine208": 1545,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:pommingham",
+    "kind": "house",
+    "name": "House Pommingham",
+    "subtitle": "of Pommingham",
+    "rank208": "Knightly",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Orchard slopes on road into Bitterbridge",
+    "sourceLine208": 1550,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:pommingham",
+    "kind": "place",
+    "name": "Pommingham",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Orchard slopes on road into Bitterbridge",
+    "sourceLine208": 1550,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:redding",
+    "kind": "house",
+    "name": "House Redding",
+    "subtitle": "of Redmead",
+    "rank208": "Knightly",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Mander flood meadows below Longtable",
+    "sourceLine208": 1555,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:redmead",
+    "kind": "place",
+    "name": "Redmead",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "E",
+    "geographicAnchor208": "Mander flood meadows below Longtable",
+    "sourceLine208": 1555,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:redpool",
+    "kind": "house",
+    "name": "House Redpool",
+    "subtitle": "of Redpool",
+    "rank208": "Knightly",
+    "regionalArea208": "SW",
+    "geographicAnchor208": "Spring-fed pool in Brightwater hinterland",
+    "sourceLine208": 1560,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:redpool",
+    "kind": "place",
+    "name": "Redpool",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "SW",
+    "geographicAnchor208": "Spring-fed pool in Brightwater hinterland",
+    "sourceLine208": 1560,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:uffering",
+    "kind": "house",
+    "name": "House Uffering",
+    "subtitle": "of Overbrook",
+    "rank208": "Knightly",
+    "regionalArea208": "S",
+    "geographicAnchor208": "Brook crossing near Ashford Meadow",
+    "sourceLine208": 1565,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:overbrook",
+    "kind": "place",
+    "name": "Overbrook",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "S",
+    "geographicAnchor208": "Brook crossing near Ashford Meadow",
+    "sourceLine208": 1565,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:westbrook",
+    "kind": "house",
+    "name": "House Westbrook",
+    "subtitle": "of Westbrook Tower",
+    "rank208": "Knightly",
+    "regionalArea208": "NW",
+    "geographicAnchor208": "Stream crossing on coastal approach to Old Oak",
+    "sourceLine208": 1570,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:westbrook-tower",
+    "kind": "place",
+    "name": "Westbrook Tower",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "NW",
+    "geographicAnchor208": "Stream crossing on coastal approach to Old Oak",
+    "sourceLine208": 1570,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:woodwright",
+    "kind": "house",
+    "name": "House Woodwright",
+    "subtitle": "of Sawbridge",
+    "rank208": "Knightly",
+    "regionalArea208": "NW",
+    "geographicAnchor208": "Timber crossing upstream from Old Oak’s settled lands",
+    "sourceLine208": 1575,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:sawbridge",
+    "kind": "place",
+    "name": "Sawbridge",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "NW",
+    "geographicAnchor208": "Timber crossing upstream from Old Oak’s settled lands",
+    "sourceLine208": 1575,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:wythers",
+    "kind": "house",
+    "name": "House Wythers",
+    "subtitle": "of Withybank",
+    "rank208": "Knightly",
+    "regionalArea208": "SE",
+    "geographicAnchor208": "Willow-lined stream below Horn Hill",
+    "sourceLine208": 1580,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:withybank",
+    "kind": "place",
+    "name": "Withybank",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "SE",
+    "geographicAnchor208": "Willow-lined stream below Horn Hill",
+    "sourceLine208": 1580,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "house:yelshire",
+    "kind": "house",
+    "name": "House Yelshire",
+    "subtitle": "of Yellow Dell",
+    "rank208": "Knightly",
+    "regionalArea208": "SE",
+    "geographicAnchor208": "Sheltered valley on lower road into Starpike",
+    "sourceLine208": 1593,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "place:yellow-dell",
+    "kind": "place",
+    "name": "Yellow Dell",
+    "placeType": "holding",
+    "registryRole": "named_seat_or_holding",
+    "rank208": "Knightly",
+    "regionalArea208": "SE",
+    "geographicAnchor208": "Sheltered valley on lower road into Starpike",
+    "sourceLine208": 1593,
+    "sources": [
+      "worldbook-v10"
+    ],
+    "catalogStatus": "registered_no_article"
   }
 ]

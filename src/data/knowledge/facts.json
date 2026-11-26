@@ -795,5 +795,9635 @@
       "year": 208,
       "chapter": 60
     }
+  },
+  {
+    "id": "fact:82",
+    "subject": "place:storm-s-end",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 106
+      }
+    ]
+  },
+  {
+    "id": "fact:83",
+    "subject": "house:baratheon",
+    "predicate": "seat",
+    "object": "place:storm-s-end",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 106
+      }
+    ]
+  },
+  {
+    "id": "fact:84",
+    "subject": "house:baratheon",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 106
+      }
+    ]
+  },
+  {
+    "id": "fact:85",
+    "subject": "place:summerhall",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 111
+      }
+    ]
+  },
+  {
+    "id": "fact:86",
+    "subject": "house:targaryen",
+    "predicate": "seat",
+    "object": "place:summerhall",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 111
+      }
+    ]
+  },
+  {
+    "id": "fact:87",
+    "subject": "house:targaryen",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 111
+      }
+    ]
+  },
+  {
+    "id": "fact:88",
+    "subject": "place:nightsong",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 116
+      }
+    ]
+  },
+  {
+    "id": "fact:89",
+    "subject": "house:caron",
+    "predicate": "seat",
+    "object": "place:nightsong",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 116
+      }
+    ]
+  },
+  {
+    "id": "fact:90",
+    "subject": "house:caron",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 116
+      }
+    ]
+  },
+  {
+    "id": "fact:91",
+    "subject": "house:caron",
+    "predicate": "sworn_to",
+    "object": "house:baratheon",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 116
+      }
+    ]
+  },
+  {
+    "id": "fact:92",
+    "subject": "place:blackhaven",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 121
+      }
+    ]
+  },
+  {
+    "id": "fact:93",
+    "subject": "house:dondarrion",
+    "predicate": "seat",
+    "object": "place:blackhaven",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 121
+      }
+    ]
+  },
+  {
+    "id": "fact:94",
+    "subject": "house:dondarrion",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 121
+      }
+    ]
+  },
+  {
+    "id": "fact:95",
+    "subject": "house:dondarrion",
+    "predicate": "sworn_to",
+    "object": "house:baratheon",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 121
+      }
+    ]
+  },
+  {
+    "id": "fact:96",
+    "subject": "place:stonehelm",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 126
+      }
+    ]
+  },
+  {
+    "id": "fact:97",
+    "subject": "house:swann",
+    "predicate": "seat",
+    "object": "place:stonehelm",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 126
+      }
+    ]
+  },
+  {
+    "id": "fact:98",
+    "subject": "house:swann",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 126
+      }
+    ]
+  },
+  {
+    "id": "fact:99",
+    "subject": "house:swann",
+    "predicate": "sworn_to",
+    "object": "house:baratheon",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 126
+      }
+    ]
+  },
+  {
+    "id": "fact:100",
+    "subject": "place:evenfall-hall",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 131
+      }
+    ]
+  },
+  {
+    "id": "fact:101",
+    "subject": "house:tarth",
+    "predicate": "seat",
+    "object": "place:evenfall-hall",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 131
+      }
+    ]
+  },
+  {
+    "id": "fact:102",
+    "subject": "house:tarth",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 131
+      }
+    ]
+  },
+  {
+    "id": "fact:103",
+    "subject": "house:tarth",
+    "predicate": "sworn_to",
+    "object": "house:baratheon",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 131
+      }
+    ]
+  },
+  {
+    "id": "fact:104",
+    "subject": "place:griffin-s-roost",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 136
+      }
+    ]
+  },
+  {
+    "id": "fact:105",
+    "subject": "house:connington",
+    "predicate": "seat",
+    "object": "place:griffin-s-roost",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 136
+      }
+    ]
+  },
+  {
+    "id": "fact:106",
+    "subject": "house:connington",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 136
+      }
+    ]
+  },
+  {
+    "id": "fact:107",
+    "subject": "house:connington",
+    "predicate": "sworn_to",
+    "object": "house:baratheon",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 136
+      }
+    ]
+  },
+  {
+    "id": "fact:108",
+    "subject": "place:greenstone",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 141
+      }
+    ]
+  },
+  {
+    "id": "fact:109",
+    "subject": "house:estermont",
+    "predicate": "seat",
+    "object": "place:greenstone",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 141
+      }
+    ]
+  },
+  {
+    "id": "fact:110",
+    "subject": "house:estermont",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 141
+      }
+    ]
+  },
+  {
+    "id": "fact:111",
+    "subject": "house:estermont",
+    "predicate": "sworn_to",
+    "object": "house:baratheon",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 141
+      }
+    ]
+  },
+  {
+    "id": "fact:112",
+    "subject": "place:parchments",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 146
+      }
+    ]
+  },
+  {
+    "id": "fact:113",
+    "subject": "house:penrose",
+    "predicate": "seat",
+    "object": "place:parchments",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 146
+      }
+    ]
+  },
+  {
+    "id": "fact:114",
+    "subject": "house:penrose",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 146
+      }
+    ]
+  },
+  {
+    "id": "fact:115",
+    "subject": "house:penrose",
+    "predicate": "sworn_to",
+    "object": "house:baratheon",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 146
+      }
+    ]
+  },
+  {
+    "id": "fact:116",
+    "subject": "place:harvest-hall",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 151
+      }
+    ]
+  },
+  {
+    "id": "fact:117",
+    "subject": "house:selmy",
+    "predicate": "seat",
+    "object": "place:harvest-hall",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 151
+      }
+    ]
+  },
+  {
+    "id": "fact:118",
+    "subject": "house:selmy",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 151
+      }
+    ]
+  },
+  {
+    "id": "fact:119",
+    "subject": "house:selmy",
+    "predicate": "sworn_to",
+    "object": "house:baratheon",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 151
+      }
+    ]
+  },
+  {
+    "id": "fact:120",
+    "subject": "place:bronzegate",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 156
+      }
+    ]
+  },
+  {
+    "id": "fact:121",
+    "subject": "house:buckler",
+    "predicate": "seat",
+    "object": "place:bronzegate",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 156
+      }
+    ]
+  },
+  {
+    "id": "fact:122",
+    "subject": "house:buckler",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 156
+      }
+    ]
+  },
+  {
+    "id": "fact:123",
+    "subject": "house:buckler",
+    "predicate": "sworn_to",
+    "object": "house:baratheon",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 156
+      }
+    ]
+  },
+  {
+    "id": "fact:124",
+    "subject": "place:fawnton",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 161
+      }
+    ]
+  },
+  {
+    "id": "fact:125",
+    "subject": "house:cafferen",
+    "predicate": "seat",
+    "object": "place:fawnton",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 161
+      }
+    ]
+  },
+  {
+    "id": "fact:126",
+    "subject": "house:cafferen",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 161
+      }
+    ]
+  },
+  {
+    "id": "fact:127",
+    "subject": "house:cafferen",
+    "predicate": "sworn_to",
+    "object": "house:baratheon",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 161
+      }
+    ]
+  },
+  {
+    "id": "fact:128",
+    "subject": "place:haystack-hall",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 166
+      }
+    ]
+  },
+  {
+    "id": "fact:129",
+    "subject": "house:errol",
+    "predicate": "seat",
+    "object": "place:haystack-hall",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 166
+      }
+    ]
+  },
+  {
+    "id": "fact:130",
+    "subject": "house:errol",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 166
+      }
+    ]
+  },
+  {
+    "id": "fact:131",
+    "subject": "house:errol",
+    "predicate": "sworn_to",
+    "object": "house:baratheon",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 166
+      }
+    ]
+  },
+  {
+    "id": "fact:132",
+    "subject": "place:felwood",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 171
+      }
+    ]
+  },
+  {
+    "id": "fact:133",
+    "subject": "house:fell",
+    "predicate": "seat",
+    "object": "place:felwood",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 171
+      }
+    ]
+  },
+  {
+    "id": "fact:134",
+    "subject": "house:fell",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 171
+      }
+    ]
+  },
+  {
+    "id": "fact:135",
+    "subject": "house:fell",
+    "predicate": "sworn_to",
+    "object": "house:baratheon",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 171
+      }
+    ]
+  },
+  {
+    "id": "fact:136",
+    "subject": "place:mistwood",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 181
+      }
+    ]
+  },
+  {
+    "id": "fact:137",
+    "subject": "house:mertyns",
+    "predicate": "seat",
+    "object": "place:mistwood",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 181
+      }
+    ]
+  },
+  {
+    "id": "fact:138",
+    "subject": "house:mertyns",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 181
+      }
+    ]
+  },
+  {
+    "id": "fact:139",
+    "subject": "house:mertyns",
+    "predicate": "sworn_to",
+    "object": "house:baratheon",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 181
+      }
+    ]
+  },
+  {
+    "id": "fact:140",
+    "subject": "place:crow-s-nest",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 186
+      }
+    ]
+  },
+  {
+    "id": "fact:141",
+    "subject": "house:morrigen",
+    "predicate": "seat",
+    "object": "place:crow-s-nest",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 186
+      }
+    ]
+  },
+  {
+    "id": "fact:142",
+    "subject": "house:morrigen",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 186
+      }
+    ]
+  },
+  {
+    "id": "fact:143",
+    "subject": "house:morrigen",
+    "predicate": "sworn_to",
+    "object": "house:baratheon",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 186
+      }
+    ]
+  },
+  {
+    "id": "fact:144",
+    "subject": "place:gallowsgrey",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 191
+      }
+    ]
+  },
+  {
+    "id": "fact:145",
+    "subject": "house:trant",
+    "predicate": "seat",
+    "object": "place:gallowsgrey",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 191
+      }
+    ]
+  },
+  {
+    "id": "fact:146",
+    "subject": "house:trant",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 191
+      }
+    ]
+  },
+  {
+    "id": "fact:147",
+    "subject": "house:trant",
+    "predicate": "sworn_to",
+    "object": "house:baratheon",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 191
+      }
+    ]
+  },
+  {
+    "id": "fact:148",
+    "subject": "place:weeping-town",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 196
+      }
+    ]
+  },
+  {
+    "id": "fact:149",
+    "subject": "house:whitehead",
+    "predicate": "seat",
+    "object": "place:weeping-town",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 196
+      }
+    ]
+  },
+  {
+    "id": "fact:150",
+    "subject": "house:whitehead",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 196
+      }
+    ]
+  },
+  {
+    "id": "fact:151",
+    "subject": "house:whitehead",
+    "predicate": "sworn_to",
+    "object": "house:baratheon",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 196
+      }
+    ]
+  },
+  {
+    "id": "fact:152",
+    "subject": "place:rain-house",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 201
+      }
+    ]
+  },
+  {
+    "id": "fact:153",
+    "subject": "house:wylde",
+    "predicate": "seat",
+    "object": "place:rain-house",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 201
+      }
+    ]
+  },
+  {
+    "id": "fact:154",
+    "subject": "house:wylde",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 201
+      }
+    ]
+  },
+  {
+    "id": "fact:155",
+    "subject": "house:wylde",
+    "predicate": "sworn_to",
+    "object": "house:baratheon",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 201
+      }
+    ]
+  },
+  {
+    "id": "fact:156",
+    "subject": "place:belgrave-hall",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 214
+      }
+    ]
+  },
+  {
+    "id": "fact:157",
+    "subject": "house:belgrave",
+    "predicate": "seat",
+    "object": "place:belgrave-hall",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 214
+      }
+    ]
+  },
+  {
+    "id": "fact:158",
+    "subject": "house:belgrave",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 214
+      }
+    ]
+  },
+  {
+    "id": "fact:159",
+    "subject": "house:belgrave",
+    "predicate": "sworn_to",
+    "object": "house:buckler",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 214
+      }
+    ]
+  },
+  {
+    "id": "fact:160",
+    "subject": "place:briarholt",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 219
+      }
+    ]
+  },
+  {
+    "id": "fact:161",
+    "subject": "house:blackbriar",
+    "predicate": "seat",
+    "object": "place:briarholt",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 219
+      }
+    ]
+  },
+  {
+    "id": "fact:162",
+    "subject": "house:blackbriar",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 219
+      }
+    ]
+  },
+  {
+    "id": "fact:163",
+    "subject": "house:blackbriar",
+    "predicate": "sworn_to",
+    "object": "house:whitehead",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 219
+      }
+    ]
+  },
+  {
+    "id": "fact:164",
+    "subject": "place:brackwater",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 224
+      }
+    ]
+  },
+  {
+    "id": "fact:165",
+    "subject": "house:brackwater",
+    "predicate": "seat",
+    "object": "place:brackwater",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 224
+      }
+    ]
+  },
+  {
+    "id": "fact:166",
+    "subject": "house:brackwater",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 224
+      }
+    ]
+  },
+  {
+    "id": "fact:167",
+    "subject": "house:brackwater",
+    "predicate": "sworn_to",
+    "object": "house:whitehead",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 224
+      }
+    ]
+  },
+  {
+    "id": "fact:168",
+    "subject": "place:cinderwatch",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 229
+      }
+    ]
+  },
+  {
+    "id": "fact:169",
+    "subject": "house:cole",
+    "predicate": "seat",
+    "object": "place:cinderwatch",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 229
+      }
+    ]
+  },
+  {
+    "id": "fact:170",
+    "subject": "house:cole",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 229
+      }
+    ]
+  },
+  {
+    "id": "fact:171",
+    "subject": "house:cole",
+    "predicate": "sworn_to",
+    "object": "house:dondarrion",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 229
+      }
+    ]
+  },
+  {
+    "id": "fact:172",
+    "subject": "place:cragmere",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 234
+      }
+    ]
+  },
+  {
+    "id": "fact:173",
+    "subject": "house:cragmere",
+    "predicate": "seat",
+    "object": "place:cragmere",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 234
+      }
+    ]
+  },
+  {
+    "id": "fact:174",
+    "subject": "house:cragmere",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 234
+      }
+    ]
+  },
+  {
+    "id": "fact:175",
+    "subject": "house:cragmere",
+    "predicate": "sworn_to",
+    "object": "house:connington",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 234
+      }
+    ]
+  },
+  {
+    "id": "fact:176",
+    "subject": "place:clovercross",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 239
+      }
+    ]
+  },
+  {
+    "id": "fact:177",
+    "subject": "house:gower",
+    "predicate": "seat",
+    "object": "place:clovercross",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 239
+      }
+    ]
+  },
+  {
+    "id": "fact:178",
+    "subject": "house:gower",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 239
+      }
+    ]
+  },
+  {
+    "id": "fact:179",
+    "subject": "house:gower",
+    "predicate": "sworn_to",
+    "object": "house:grandison",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 239
+      }
+    ]
+  },
+  {
+    "id": "fact:180",
+    "subject": "place:gull-point",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 244
+      }
+    ]
+  },
+  {
+    "id": "fact:181",
+    "subject": "house:gullane",
+    "predicate": "seat",
+    "object": "place:gull-point",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 244
+      }
+    ]
+  },
+  {
+    "id": "fact:182",
+    "subject": "house:gullane",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 244
+      }
+    ]
+  },
+  {
+    "id": "fact:183",
+    "subject": "house:gullane",
+    "predicate": "sworn_to",
+    "object": "house:whitehead",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 244
+      }
+    ]
+  },
+  {
+    "id": "fact:184",
+    "subject": "place:cockcrow-castle",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 249
+      }
+    ]
+  },
+  {
+    "id": "fact:185",
+    "subject": "house:hertson",
+    "predicate": "seat",
+    "object": "place:cockcrow-castle",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 249
+      }
+    ]
+  },
+  {
+    "id": "fact:186",
+    "subject": "house:hertson",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 249
+      }
+    ]
+  },
+  {
+    "id": "fact:187",
+    "subject": "house:hertson",
+    "predicate": "sworn_to",
+    "object": "house:penrose",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 249
+      }
+    ]
+  },
+  {
+    "id": "fact:188",
+    "subject": "place:duskwood-hall",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 254
+      }
+    ]
+  },
+  {
+    "id": "fact:189",
+    "subject": "house:horpe",
+    "predicate": "seat",
+    "object": "place:duskwood-hall",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 254
+      }
+    ]
+  },
+  {
+    "id": "fact:190",
+    "subject": "house:horpe",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 254
+      }
+    ]
+  },
+  {
+    "id": "fact:191",
+    "subject": "house:horpe",
+    "predicate": "sworn_to",
+    "object": "house:caron",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 254
+      }
+    ]
+  },
+  {
+    "id": "fact:192",
+    "subject": "place:hollowmouth",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 259
+      }
+    ]
+  },
+  {
+    "id": "fact:193",
+    "subject": "house:lonmouth",
+    "predicate": "seat",
+    "object": "place:hollowmouth",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 259
+      }
+    ]
+  },
+  {
+    "id": "fact:194",
+    "subject": "house:lonmouth",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 259
+      }
+    ]
+  },
+  {
+    "id": "fact:195",
+    "subject": "house:lonmouth",
+    "predicate": "sworn_to",
+    "object": "house:baratheon",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 259
+      }
+    ]
+  },
+  {
+    "id": "fact:196",
+    "subject": "place:merewatch",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 264
+      }
+    ]
+  },
+  {
+    "id": "fact:197",
+    "subject": "house:mereweather",
+    "predicate": "seat",
+    "object": "place:merewatch",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 264
+      }
+    ]
+  },
+  {
+    "id": "fact:198",
+    "subject": "house:mereweather",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 264
+      }
+    ]
+  },
+  {
+    "id": "fact:199",
+    "subject": "house:mereweather",
+    "predicate": "sworn_to",
+    "object": "house:mertyns",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 264
+      }
+    ]
+  },
+  {
+    "id": "fact:200",
+    "subject": "place:mosswyck-hall",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 269
+      }
+    ]
+  },
+  {
+    "id": "fact:201",
+    "subject": "house:mosswyck",
+    "predicate": "seat",
+    "object": "place:mosswyck-hall",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 269
+      }
+    ]
+  },
+  {
+    "id": "fact:202",
+    "subject": "house:mosswyck",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 269
+      }
+    ]
+  },
+  {
+    "id": "fact:203",
+    "subject": "house:mosswyck",
+    "predicate": "sworn_to",
+    "object": "house:wylde",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 269
+      }
+    ]
+  },
+  {
+    "id": "fact:204",
+    "subject": "place:silver-spring",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 274
+      }
+    ]
+  },
+  {
+    "id": "fact:205",
+    "subject": "house:musgood",
+    "predicate": "seat",
+    "object": "place:silver-spring",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 274
+      }
+    ]
+  },
+  {
+    "id": "fact:206",
+    "subject": "house:musgood",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 274
+      }
+    ]
+  },
+  {
+    "id": "fact:207",
+    "subject": "house:musgood",
+    "predicate": "sworn_to",
+    "object": "house:fell",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 274
+      }
+    ]
+  },
+  {
+    "id": "fact:208",
+    "subject": "place:poddingfield",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 279
+      }
+    ]
+  },
+  {
+    "id": "fact:209",
+    "subject": "house:peasebury",
+    "predicate": "seat",
+    "object": "place:poddingfield",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 279
+      }
+    ]
+  },
+  {
+    "id": "fact:210",
+    "subject": "house:peasebury",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 279
+      }
+    ]
+  },
+  {
+    "id": "fact:211",
+    "subject": "house:peasebury",
+    "predicate": "sworn_to",
+    "object": "house:baratheon",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 279
+      }
+    ]
+  },
+  {
+    "id": "fact:212",
+    "subject": "place:rainholt-keep",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 284
+      }
+    ]
+  },
+  {
+    "id": "fact:213",
+    "subject": "house:rainholt",
+    "predicate": "seat",
+    "object": "place:rainholt-keep",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 284
+      }
+    ]
+  },
+  {
+    "id": "fact:214",
+    "subject": "house:rainholt",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 284
+      }
+    ]
+  },
+  {
+    "id": "fact:215",
+    "subject": "house:rainholt",
+    "predicate": "sworn_to",
+    "object": "house:mertyns",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 284
+      }
+    ]
+  },
+  {
+    "id": "fact:216",
+    "subject": "place:rainward-hall",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 289
+      }
+    ]
+  },
+  {
+    "id": "fact:217",
+    "subject": "house:rainsward",
+    "predicate": "seat",
+    "object": "place:rainward-hall",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 289
+      }
+    ]
+  },
+  {
+    "id": "fact:218",
+    "subject": "house:rainsward",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 289
+      }
+    ]
+  },
+  {
+    "id": "fact:219",
+    "subject": "house:rainsward",
+    "predicate": "sworn_to",
+    "object": "house:wylde",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 289
+      }
+    ]
+  },
+  {
+    "id": "fact:220",
+    "subject": "place:amberly",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 294
+      }
+    ]
+  },
+  {
+    "id": "fact:221",
+    "subject": "house:rogers",
+    "predicate": "seat",
+    "object": "place:amberly",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 294
+      }
+    ]
+  },
+  {
+    "id": "fact:222",
+    "subject": "house:rogers",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 294
+      }
+    ]
+  },
+  {
+    "id": "fact:223",
+    "subject": "house:rogers",
+    "predicate": "sworn_to",
+    "object": "house:mertyns",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 294
+      }
+    ]
+  },
+  {
+    "id": "fact:224",
+    "subject": "place:rookwell-hall",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 299
+      }
+    ]
+  },
+  {
+    "id": "fact:225",
+    "subject": "house:rookwell",
+    "predicate": "seat",
+    "object": "place:rookwell-hall",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 299
+      }
+    ]
+  },
+  {
+    "id": "fact:226",
+    "subject": "house:rookwell",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 299
+      }
+    ]
+  },
+  {
+    "id": "fact:227",
+    "subject": "house:rookwell",
+    "predicate": "sworn_to",
+    "object": "house:morrigen",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 299
+      }
+    ]
+  },
+  {
+    "id": "fact:228",
+    "subject": "place:pineward",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 304
+      }
+    ]
+  },
+  {
+    "id": "fact:229",
+    "subject": "house:sablewood",
+    "predicate": "seat",
+    "object": "place:pineward",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 304
+      }
+    ]
+  },
+  {
+    "id": "fact:230",
+    "subject": "house:sablewood",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 304
+      }
+    ]
+  },
+  {
+    "id": "fact:231",
+    "subject": "house:sablewood",
+    "predicate": "sworn_to",
+    "object": "house:wylde",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 304
+      }
+    ]
+  },
+  {
+    "id": "fact:232",
+    "subject": "place:broad-arch",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 309
+      }
+    ]
+  },
+  {
+    "id": "fact:233",
+    "subject": "house:staedmon",
+    "predicate": "seat",
+    "object": "place:broad-arch",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 309
+      }
+    ]
+  },
+  {
+    "id": "fact:234",
+    "subject": "house:staedmon",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 309
+      }
+    ]
+  },
+  {
+    "id": "fact:235",
+    "subject": "house:staedmon",
+    "predicate": "sworn_to",
+    "object": "house:baratheon",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 309
+      }
+    ]
+  },
+  {
+    "id": "fact:236",
+    "subject": "place:honeymead",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 322
+      }
+    ]
+  },
+  {
+    "id": "fact:237",
+    "subject": "house:sweet",
+    "predicate": "seat",
+    "object": "place:honeymead",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 322
+      }
+    ]
+  },
+  {
+    "id": "fact:238",
+    "subject": "house:sweet",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 322
+      }
+    ]
+  },
+  {
+    "id": "fact:239",
+    "subject": "house:sweet",
+    "predicate": "sworn_to",
+    "object": "house:errol",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 322
+      }
+    ]
+  },
+  {
+    "id": "fact:240",
+    "subject": "place:thornmere-hall",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 327
+      }
+    ]
+  },
+  {
+    "id": "fact:241",
+    "subject": "house:thornmere",
+    "predicate": "seat",
+    "object": "place:thornmere-hall",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 327
+      }
+    ]
+  },
+  {
+    "id": "fact:242",
+    "subject": "house:thornmere",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 327
+      }
+    ]
+  },
+  {
+    "id": "fact:243",
+    "subject": "house:thornmere",
+    "predicate": "sworn_to",
+    "object": "house:mertyns",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 327
+      }
+    ]
+  },
+  {
+    "id": "fact:244",
+    "subject": "place:heartwatch",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 332
+      }
+    ]
+  },
+  {
+    "id": "fact:245",
+    "subject": "house:toyne",
+    "predicate": "seat",
+    "object": "place:heartwatch",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 332
+      }
+    ]
+  },
+  {
+    "id": "fact:246",
+    "subject": "house:toyne",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 332
+      }
+    ]
+  },
+  {
+    "id": "fact:247",
+    "subject": "house:toyne",
+    "predicate": "sworn_to",
+    "object": "house:swann",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 332
+      }
+    ]
+  },
+  {
+    "id": "fact:248",
+    "subject": "place:tudbury-hall",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 337
+      }
+    ]
+  },
+  {
+    "id": "fact:249",
+    "subject": "house:tudbury",
+    "predicate": "seat",
+    "object": "place:tudbury-hall",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 337
+      }
+    ]
+  },
+  {
+    "id": "fact:250",
+    "subject": "house:tudbury",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 337
+      }
+    ]
+  },
+  {
+    "id": "fact:251",
+    "subject": "house:tudbury",
+    "predicate": "sworn_to",
+    "object": "house:fell",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 337
+      }
+    ]
+  },
+  {
+    "id": "fact:252",
+    "subject": "place:wickwood-keep",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 342
+      }
+    ]
+  },
+  {
+    "id": "fact:253",
+    "subject": "house:weatherwax",
+    "predicate": "seat",
+    "object": "place:wickwood-keep",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 342
+      }
+    ]
+  },
+  {
+    "id": "fact:254",
+    "subject": "house:weatherwax",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 342
+      }
+    ]
+  },
+  {
+    "id": "fact:255",
+    "subject": "house:weatherwax",
+    "predicate": "sworn_to",
+    "object": "house:morrigen",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 342
+      }
+    ]
+  },
+  {
+    "id": "fact:256",
+    "subject": "place:trumpet-hill",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 347
+      }
+    ]
+  },
+  {
+    "id": "fact:257",
+    "subject": "house:wensington",
+    "predicate": "seat",
+    "object": "place:trumpet-hill",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 347
+      }
+    ]
+  },
+  {
+    "id": "fact:258",
+    "subject": "house:wensington",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 347
+      }
+    ]
+  },
+  {
+    "id": "fact:259",
+    "subject": "house:wensington",
+    "predicate": "sworn_to",
+    "object": "house:baratheon",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 347
+      }
+    ]
+  },
+  {
+    "id": "fact:260",
+    "subject": "place:bramblecross",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 352
+      }
+    ]
+  },
+  {
+    "id": "fact:261",
+    "subject": "house:blackberry",
+    "predicate": "seat",
+    "object": "place:bramblecross",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 352
+      }
+    ]
+  },
+  {
+    "id": "fact:262",
+    "subject": "house:blackberry",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 352
+      }
+    ]
+  },
+  {
+    "id": "fact:263",
+    "subject": "house:blackberry",
+    "predicate": "sworn_to",
+    "object": "house:sweet",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 352
+      }
+    ]
+  },
+  {
+    "id": "fact:264",
+    "subject": "place:blackhull",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 357
+      }
+    ]
+  },
+  {
+    "id": "fact:265",
+    "subject": "house:blackhull",
+    "predicate": "seat",
+    "object": "place:blackhull",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 357
+      }
+    ]
+  },
+  {
+    "id": "fact:266",
+    "subject": "house:blackhull",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 357
+      }
+    ]
+  },
+  {
+    "id": "fact:267",
+    "subject": "house:blackhull",
+    "predicate": "sworn_to",
+    "object": "house:baratheon",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 357
+      }
+    ]
+  },
+  {
+    "id": "fact:268",
+    "subject": "place:stagbrook",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 362
+      }
+    ]
+  },
+  {
+    "id": "fact:269",
+    "subject": "house:bolling",
+    "predicate": "seat",
+    "object": "place:stagbrook",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 362
+      }
+    ]
+  },
+  {
+    "id": "fact:270",
+    "subject": "house:bolling",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 362
+      }
+    ]
+  },
+  {
+    "id": "fact:271",
+    "subject": "house:bolling",
+    "predicate": "sworn_to",
+    "object": "house:baratheon",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 362
+      }
+    ]
+  },
+  {
+    "id": "fact:272",
+    "subject": "place:brownhill-tower",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 367
+      }
+    ]
+  },
+  {
+    "id": "fact:273",
+    "subject": "house:brownhill",
+    "predicate": "seat",
+    "object": "place:brownhill-tower",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 367
+      }
+    ]
+  },
+  {
+    "id": "fact:274",
+    "subject": "house:brownhill",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 367
+      }
+    ]
+  },
+  {
+    "id": "fact:275",
+    "subject": "house:brownhill",
+    "predicate": "sworn_to",
+    "object": "house:wylde",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 367
+      }
+    ]
+  },
+  {
+    "id": "fact:276",
+    "subject": "place:elmbridge",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 372
+      }
+    ]
+  },
+  {
+    "id": "fact:277",
+    "subject": "house:elmridge",
+    "predicate": "seat",
+    "object": "place:elmbridge",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 372
+      }
+    ]
+  },
+  {
+    "id": "fact:278",
+    "subject": "house:elmridge",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 372
+      }
+    ]
+  },
+  {
+    "id": "fact:279",
+    "subject": "house:elmridge",
+    "predicate": "sworn_to",
+    "object": "house:grandison",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 372
+      }
+    ]
+  },
+  {
+    "id": "fact:280",
+    "subject": "place:farfield",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 377
+      }
+    ]
+  },
+  {
+    "id": "fact:281",
+    "subject": "house:farrow",
+    "predicate": "seat",
+    "object": "place:farfield",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 377
+      }
+    ]
+  },
+  {
+    "id": "fact:282",
+    "subject": "house:farrow",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 377
+      }
+    ]
+  },
+  {
+    "id": "fact:283",
+    "subject": "house:farrow",
+    "predicate": "sworn_to",
+    "object": "house:cafferen",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 377
+      }
+    ]
+  },
+  {
+    "id": "fact:284",
+    "subject": "place:greenpools",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 382
+      }
+    ]
+  },
+  {
+    "id": "fact:285",
+    "subject": "house:greenpools",
+    "predicate": "seat",
+    "object": "place:greenpools",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 382
+      }
+    ]
+  },
+  {
+    "id": "fact:286",
+    "subject": "house:greenpools",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 382
+      }
+    ]
+  },
+  {
+    "id": "fact:287",
+    "subject": "house:greenpools",
+    "predicate": "sworn_to",
+    "object": "house:estermont",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 382
+      }
+    ]
+  },
+  {
+    "id": "fact:288",
+    "subject": "place:old-barrow",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 387
+      }
+    ]
+  },
+  {
+    "id": "fact:289",
+    "subject": "house:hardgrove",
+    "predicate": "seat",
+    "object": "place:old-barrow",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 387
+      }
+    ]
+  },
+  {
+    "id": "fact:290",
+    "subject": "house:hardgrove",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 387
+      }
+    ]
+  },
+  {
+    "id": "fact:291",
+    "subject": "house:hardgrove",
+    "predicate": "sworn_to",
+    "object": "house:mereweather",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 387
+      }
+    ]
+  },
+  {
+    "id": "fact:292",
+    "subject": "place:hastebridge",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 392
+      }
+    ]
+  },
+  {
+    "id": "fact:293",
+    "subject": "house:hasty",
+    "predicate": "seat",
+    "object": "place:hastebridge",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 392
+      }
+    ]
+  },
+  {
+    "id": "fact:294",
+    "subject": "house:hasty",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 392
+      }
+    ]
+  },
+  {
+    "id": "fact:295",
+    "subject": "house:hasty",
+    "predicate": "sworn_to",
+    "object": "house:baratheon",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 392
+      }
+    ]
+  },
+  {
+    "id": "fact:296",
+    "subject": "place:kell-s-ford",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 397
+      }
+    ]
+  },
+  {
+    "id": "fact:297",
+    "subject": "house:kellington",
+    "predicate": "seat",
+    "object": "place:kell-s-ford",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 397
+      }
+    ]
+  },
+  {
+    "id": "fact:298",
+    "subject": "house:kellington",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 397
+      }
+    ]
+  },
+  {
+    "id": "fact:299",
+    "subject": "house:kellington",
+    "predicate": "sworn_to",
+    "object": "house:buckler",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 397
+      }
+    ]
+  },
+  {
+    "id": "fact:300",
+    "subject": "place:king-s-mountain",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 402
+      }
+    ]
+  },
+  {
+    "id": "fact:301",
+    "subject": "house:king-s-mountain",
+    "predicate": "seat",
+    "object": "place:king-s-mountain",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 402
+      }
+    ]
+  },
+  {
+    "id": "fact:302",
+    "subject": "house:king-s-mountain",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 402
+      }
+    ]
+  },
+  {
+    "id": "fact:303",
+    "subject": "house:king-s-mountain",
+    "predicate": "sworn_to",
+    "object": "house:baratheon",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 402
+      }
+    ]
+  },
+  {
+    "id": "fact:304",
+    "subject": "place:strawfold",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 407
+      }
+    ]
+  },
+  {
+    "id": "fact:305",
+    "subject": "house:straw",
+    "predicate": "seat",
+    "object": "place:strawfold",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 407
+      }
+    ]
+  },
+  {
+    "id": "fact:306",
+    "subject": "house:straw",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 407
+      }
+    ]
+  },
+  {
+    "id": "fact:307",
+    "subject": "house:straw",
+    "predicate": "sworn_to",
+    "object": "house:errol",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 407
+      }
+    ]
+  },
+  {
+    "id": "fact:308",
+    "subject": "place:swygert-tower",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 412
+      }
+    ]
+  },
+  {
+    "id": "fact:309",
+    "subject": "house:swygert",
+    "predicate": "seat",
+    "object": "place:swygert-tower",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 412
+      }
+    ]
+  },
+  {
+    "id": "fact:310",
+    "subject": "house:swygert",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 412
+      }
+    ]
+  },
+  {
+    "id": "fact:311",
+    "subject": "house:swygert",
+    "predicate": "sworn_to",
+    "object": "house:trant",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 412
+      }
+    ]
+  },
+  {
+    "id": "fact:312",
+    "subject": "place:greenward",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 417
+      }
+    ]
+  },
+  {
+    "id": "fact:313",
+    "subject": "house:wagstaff",
+    "predicate": "seat",
+    "object": "place:greenward",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 417
+      }
+    ]
+  },
+  {
+    "id": "fact:314",
+    "subject": "house:wagstaff",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 417
+      }
+    ]
+  },
+  {
+    "id": "fact:315",
+    "subject": "house:wagstaff",
+    "predicate": "sworn_to",
+    "object": "house:grandison",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 417
+      }
+    ]
+  },
+  {
+    "id": "fact:316",
+    "subject": "place:highgarden",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1161
+      }
+    ]
+  },
+  {
+    "id": "fact:317",
+    "subject": "house:tyrell",
+    "predicate": "seat",
+    "object": "place:highgarden",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1161
+      }
+    ]
+  },
+  {
+    "id": "fact:318",
+    "subject": "house:tyrell",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1161
+      }
+    ]
+  },
+  {
+    "id": "fact:319",
+    "subject": "place:brightwater-keep",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1166
+      }
+    ]
+  },
+  {
+    "id": "fact:320",
+    "subject": "house:florent",
+    "predicate": "seat",
+    "object": "place:brightwater-keep",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1166
+      }
+    ]
+  },
+  {
+    "id": "fact:321",
+    "subject": "house:florent",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1166
+      }
+    ]
+  },
+  {
+    "id": "fact:322",
+    "subject": "house:florent",
+    "predicate": "sworn_to",
+    "object": "house:tyrell",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1166
+      }
+    ]
+  },
+  {
+    "id": "fact:323",
+    "subject": "place:oldtown",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1171
+      }
+    ]
+  },
+  {
+    "id": "fact:324",
+    "subject": "house:hightower",
+    "predicate": "seat",
+    "object": "place:oldtown",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1171
+      }
+    ]
+  },
+  {
+    "id": "fact:325",
+    "subject": "house:hightower",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1171
+      }
+    ]
+  },
+  {
+    "id": "fact:326",
+    "subject": "house:hightower",
+    "predicate": "sworn_to",
+    "object": "house:tyrell",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1171
+      }
+    ]
+  },
+  {
+    "id": "fact:327",
+    "subject": "place:old-oak",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1176
+      }
+    ]
+  },
+  {
+    "id": "fact:328",
+    "subject": "house:oakheart",
+    "predicate": "seat",
+    "object": "place:old-oak",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1176
+      }
+    ]
+  },
+  {
+    "id": "fact:329",
+    "subject": "house:oakheart",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1176
+      }
+    ]
+  },
+  {
+    "id": "fact:330",
+    "subject": "house:oakheart",
+    "predicate": "sworn_to",
+    "object": "house:tyrell",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1176
+      }
+    ]
+  },
+  {
+    "id": "fact:331",
+    "subject": "place:arbor",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1181
+      }
+    ]
+  },
+  {
+    "id": "fact:332",
+    "subject": "house:redwyne",
+    "predicate": "seat",
+    "object": "place:arbor",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1181
+      }
+    ]
+  },
+  {
+    "id": "fact:333",
+    "subject": "house:redwyne",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1181
+      }
+    ]
+  },
+  {
+    "id": "fact:334",
+    "subject": "house:redwyne",
+    "predicate": "sworn_to",
+    "object": "house:tyrell",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1181
+      }
+    ]
+  },
+  {
+    "id": "fact:335",
+    "subject": "place:horn-hill",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1191
+      }
+    ]
+  },
+  {
+    "id": "fact:336",
+    "subject": "house:tarly",
+    "predicate": "seat",
+    "object": "place:horn-hill",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1191
+      }
+    ]
+  },
+  {
+    "id": "fact:337",
+    "subject": "house:tarly",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1191
+      }
+    ]
+  },
+  {
+    "id": "fact:338",
+    "subject": "house:tarly",
+    "predicate": "sworn_to",
+    "object": "house:tyrell",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1191
+      }
+    ]
+  },
+  {
+    "id": "fact:339",
+    "subject": "place:bitterbridge",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1196
+      }
+    ]
+  },
+  {
+    "id": "fact:340",
+    "subject": "house:caswell",
+    "predicate": "seat",
+    "object": "place:bitterbridge",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1196
+      }
+    ]
+  },
+  {
+    "id": "fact:341",
+    "subject": "house:caswell",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1196
+      }
+    ]
+  },
+  {
+    "id": "fact:342",
+    "subject": "house:caswell",
+    "predicate": "sworn_to",
+    "object": "house:tyrell",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1196
+      }
+    ]
+  },
+  {
+    "id": "fact:343",
+    "subject": "place:red-lake",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1201
+      }
+    ]
+  },
+  {
+    "id": "fact:344",
+    "subject": "house:crane",
+    "predicate": "seat",
+    "object": "place:red-lake",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1201
+      }
+    ]
+  },
+  {
+    "id": "fact:345",
+    "subject": "house:crane",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1201
+      }
+    ]
+  },
+  {
+    "id": "fact:346",
+    "subject": "house:crane",
+    "predicate": "sworn_to",
+    "object": "house:tyrell",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1201
+      }
+    ]
+  },
+  {
+    "id": "fact:347",
+    "subject": "place:longtable",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1206
+      }
+    ]
+  },
+  {
+    "id": "fact:348",
+    "subject": "house:merryweather",
+    "predicate": "seat",
+    "object": "place:longtable",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1206
+      }
+    ]
+  },
+  {
+    "id": "fact:349",
+    "subject": "house:merryweather",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1206
+      }
+    ]
+  },
+  {
+    "id": "fact:350",
+    "subject": "house:merryweather",
+    "predicate": "sworn_to",
+    "object": "house:tyrell",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1206
+      }
+    ]
+  },
+  {
+    "id": "fact:351",
+    "subject": "place:uplands",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1211
+      }
+    ]
+  },
+  {
+    "id": "fact:352",
+    "subject": "house:mullendore",
+    "predicate": "seat",
+    "object": "place:uplands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1211
+      }
+    ]
+  },
+  {
+    "id": "fact:353",
+    "subject": "house:mullendore",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1211
+      }
+    ]
+  },
+  {
+    "id": "fact:354",
+    "subject": "house:mullendore",
+    "predicate": "sworn_to",
+    "object": "house:hightower",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1211
+      }
+    ]
+  },
+  {
+    "id": "fact:355",
+    "subject": "place:starpike",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1216
+      }
+    ]
+  },
+  {
+    "id": "fact:356",
+    "subject": "house:peake",
+    "predicate": "seat",
+    "object": "place:starpike",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1216
+      }
+    ]
+  },
+  {
+    "id": "fact:357",
+    "subject": "house:peake",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1216
+      }
+    ]
+  },
+  {
+    "id": "fact:358",
+    "subject": "house:peake",
+    "predicate": "sworn_to",
+    "object": "house:tyrell",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1216
+      }
+    ]
+  },
+  {
+    "id": "fact:359",
+    "subject": "place:ring",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1221
+      }
+    ]
+  },
+  {
+    "id": "fact:360",
+    "subject": "house:roxton",
+    "predicate": "seat",
+    "object": "place:ring",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1221
+      }
+    ]
+  },
+  {
+    "id": "fact:361",
+    "subject": "house:roxton",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1221
+      }
+    ]
+  },
+  {
+    "id": "fact:362",
+    "subject": "house:roxton",
+    "predicate": "sworn_to",
+    "object": "house:tyrell",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1221
+      }
+    ]
+  },
+  {
+    "id": "fact:363",
+    "subject": "place:darkdell",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1226
+      }
+    ]
+  },
+  {
+    "id": "fact:364",
+    "subject": "house:vyrwel",
+    "predicate": "seat",
+    "object": "place:darkdell",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1226
+      }
+    ]
+  },
+  {
+    "id": "fact:365",
+    "subject": "house:vyrwel",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1226
+      }
+    ]
+  },
+  {
+    "id": "fact:366",
+    "subject": "house:vyrwel",
+    "predicate": "sworn_to",
+    "object": "house:tyrell",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1226
+      }
+    ]
+  },
+  {
+    "id": "fact:367",
+    "subject": "place:ashford",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1231
+      }
+    ]
+  },
+  {
+    "id": "fact:368",
+    "subject": "house:ashford",
+    "predicate": "seat",
+    "object": "place:ashford",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1231
+      }
+    ]
+  },
+  {
+    "id": "fact:369",
+    "subject": "house:ashford",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1231
+      }
+    ]
+  },
+  {
+    "id": "fact:370",
+    "subject": "house:ashford",
+    "predicate": "sworn_to",
+    "object": "house:tyrell",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1231
+      }
+    ]
+  },
+  {
+    "id": "fact:371",
+    "subject": "place:bandallon",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1236
+      }
+    ]
+  },
+  {
+    "id": "fact:372",
+    "subject": "house:blackbar",
+    "predicate": "seat",
+    "object": "place:bandallon",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1236
+      }
+    ]
+  },
+  {
+    "id": "fact:373",
+    "subject": "house:blackbar",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1236
+      }
+    ]
+  },
+  {
+    "id": "fact:374",
+    "subject": "house:blackbar",
+    "predicate": "sworn_to",
+    "object": "house:tyrell",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1236
+      }
+    ]
+  },
+  {
+    "id": "fact:375",
+    "subject": "place:greenshield",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1241
+      }
+    ]
+  },
+  {
+    "id": "fact:376",
+    "subject": "house:chester",
+    "predicate": "seat",
+    "object": "place:greenshield",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1241
+      }
+    ]
+  },
+  {
+    "id": "fact:377",
+    "subject": "house:chester",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1241
+      }
+    ]
+  },
+  {
+    "id": "fact:378",
+    "subject": "house:chester",
+    "predicate": "sworn_to",
+    "object": "house:tyrell",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1241
+      }
+    ]
+  },
+  {
+    "id": "fact:379",
+    "subject": "place:three-towers",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1246
+      }
+    ]
+  },
+  {
+    "id": "fact:380",
+    "subject": "house:costayne",
+    "predicate": "seat",
+    "object": "place:three-towers",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1246
+      }
+    ]
+  },
+  {
+    "id": "fact:381",
+    "subject": "house:costayne",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1246
+      }
+    ]
+  },
+  {
+    "id": "fact:382",
+    "subject": "house:costayne",
+    "predicate": "sworn_to",
+    "object": "house:hightower",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1246
+      }
+    ]
+  },
+  {
+    "id": "fact:383",
+    "subject": "place:dunstonbury",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1251
+      }
+    ]
+  },
+  {
+    "id": "fact:384",
+    "subject": "place:tumbleton",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1256
+      }
+    ]
+  },
+  {
+    "id": "fact:385",
+    "subject": "house:footly",
+    "predicate": "seat",
+    "object": "place:tumbleton",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1256
+      }
+    ]
+  },
+  {
+    "id": "fact:386",
+    "subject": "house:footly",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1256
+      }
+    ]
+  },
+  {
+    "id": "fact:387",
+    "subject": "house:footly",
+    "predicate": "sworn_to",
+    "object": "house:tyrell",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1256
+      }
+    ]
+  },
+  {
+    "id": "fact:388",
+    "subject": "place:grimston",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1269
+      }
+    ]
+  },
+  {
+    "id": "fact:389",
+    "subject": "house:grimm",
+    "predicate": "seat",
+    "object": "place:grimston",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1269
+      }
+    ]
+  },
+  {
+    "id": "fact:390",
+    "subject": "house:grimm",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1269
+      }
+    ]
+  },
+  {
+    "id": "fact:391",
+    "subject": "house:grimm",
+    "predicate": "sworn_to",
+    "object": "house:tyrell",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1269
+      }
+    ]
+  },
+  {
+    "id": "fact:392",
+    "subject": "place:oakenshield",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1274
+      }
+    ]
+  },
+  {
+    "id": "fact:393",
+    "subject": "house:hewett",
+    "predicate": "seat",
+    "object": "place:oakenshield",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1274
+      }
+    ]
+  },
+  {
+    "id": "fact:394",
+    "subject": "house:hewett",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1274
+      }
+    ]
+  },
+  {
+    "id": "fact:395",
+    "subject": "house:hewett",
+    "predicate": "sworn_to",
+    "object": "house:tyrell",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1274
+      }
+    ]
+  },
+  {
+    "id": "fact:396",
+    "subject": "place:southshield",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1284
+      }
+    ]
+  },
+  {
+    "id": "fact:397",
+    "subject": "house:serry",
+    "predicate": "seat",
+    "object": "place:southshield",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1284
+      }
+    ]
+  },
+  {
+    "id": "fact:398",
+    "subject": "house:serry",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1284
+      }
+    ]
+  },
+  {
+    "id": "fact:399",
+    "subject": "house:serry",
+    "predicate": "sworn_to",
+    "object": "house:tyrell",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1284
+      }
+    ]
+  },
+  {
+    "id": "fact:400",
+    "subject": "place:bellfield",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1289
+      }
+    ]
+  },
+  {
+    "id": "fact:401",
+    "subject": "house:ambrose",
+    "predicate": "seat",
+    "object": "place:bellfield",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1289
+      }
+    ]
+  },
+  {
+    "id": "fact:402",
+    "subject": "house:ambrose",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1289
+      }
+    ]
+  },
+  {
+    "id": "fact:403",
+    "subject": "house:ambrose",
+    "predicate": "sworn_to",
+    "object": "house:hightower",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1289
+      }
+    ]
+  },
+  {
+    "id": "fact:404",
+    "subject": "place:appleton",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1294
+      }
+    ]
+  },
+  {
+    "id": "fact:405",
+    "subject": "house:appleton",
+    "predicate": "seat",
+    "object": "place:appleton",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1294
+      }
+    ]
+  },
+  {
+    "id": "fact:406",
+    "subject": "house:appleton",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1294
+      }
+    ]
+  },
+  {
+    "id": "fact:407",
+    "subject": "house:appleton",
+    "predicate": "sworn_to",
+    "object": "house:peake",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1294
+      }
+    ]
+  },
+  {
+    "id": "fact:408",
+    "subject": "place:flintbank",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1299
+      }
+    ]
+  },
+  {
+    "id": "fact:409",
+    "subject": "house:ball",
+    "predicate": "seat",
+    "object": "place:flintbank",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1299
+      }
+    ]
+  },
+  {
+    "id": "fact:410",
+    "subject": "house:ball",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1299
+      }
+    ]
+  },
+  {
+    "id": "fact:411",
+    "subject": "house:ball",
+    "predicate": "sworn_to",
+    "object": "house:tyrell",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1299
+      }
+    ]
+  },
+  {
+    "id": "fact:412",
+    "subject": "place:honeyholt",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1304
+      }
+    ]
+  },
+  {
+    "id": "fact:413",
+    "subject": "house:beesbury",
+    "predicate": "seat",
+    "object": "place:honeyholt",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1304
+      }
+    ]
+  },
+  {
+    "id": "fact:414",
+    "subject": "house:beesbury",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1304
+      }
+    ]
+  },
+  {
+    "id": "fact:415",
+    "subject": "house:beesbury",
+    "predicate": "sworn_to",
+    "object": "house:hightower",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1304
+      }
+    ]
+  },
+  {
+    "id": "fact:416",
+    "subject": "place:rushbank",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1309
+      }
+    ]
+  },
+  {
+    "id": "fact:417",
+    "subject": "house:bourney",
+    "predicate": "seat",
+    "object": "place:rushbank",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1309
+      }
+    ]
+  },
+  {
+    "id": "fact:418",
+    "subject": "house:bourney",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1309
+      }
+    ]
+  },
+  {
+    "id": "fact:419",
+    "subject": "house:bourney",
+    "predicate": "sworn_to",
+    "object": "house:footly",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1309
+      }
+    ]
+  },
+  {
+    "id": "fact:420",
+    "subject": "place:blackcrown",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1314
+      }
+    ]
+  },
+  {
+    "id": "fact:421",
+    "subject": "house:bulwer",
+    "predicate": "seat",
+    "object": "place:blackcrown",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1314
+      }
+    ]
+  },
+  {
+    "id": "fact:422",
+    "subject": "house:bulwer",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1314
+      }
+    ]
+  },
+  {
+    "id": "fact:423",
+    "subject": "house:bulwer",
+    "predicate": "sworn_to",
+    "object": "house:hightower",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1314
+      }
+    ]
+  },
+  {
+    "id": "fact:424",
+    "subject": "place:barley-tower",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1319
+      }
+    ]
+  },
+  {
+    "id": "fact:425",
+    "subject": "house:cobb",
+    "predicate": "seat",
+    "object": "place:barley-tower",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1319
+      }
+    ]
+  },
+  {
+    "id": "fact:426",
+    "subject": "house:cobb",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1319
+      }
+    ]
+  },
+  {
+    "id": "fact:427",
+    "subject": "house:cobb",
+    "predicate": "sworn_to",
+    "object": "house:tyrell",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1319
+      }
+    ]
+  },
+  {
+    "id": "fact:428",
+    "subject": "place:cockshaw-hall",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1324
+      }
+    ]
+  },
+  {
+    "id": "fact:429",
+    "subject": "house:cockshaw",
+    "predicate": "seat",
+    "object": "place:cockshaw-hall",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1324
+      }
+    ]
+  },
+  {
+    "id": "fact:430",
+    "subject": "house:cockshaw",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1324
+      }
+    ]
+  },
+  {
+    "id": "fact:431",
+    "subject": "house:cockshaw",
+    "predicate": "sworn_to",
+    "object": "house:ashford",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1324
+      }
+    ]
+  },
+  {
+    "id": "fact:432",
+    "subject": "place:hammerhal",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1329
+      }
+    ]
+  },
+  {
+    "id": "fact:433",
+    "subject": "house:cordwayner",
+    "predicate": "seat",
+    "object": "place:hammerhal",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1329
+      }
+    ]
+  },
+  {
+    "id": "fact:434",
+    "subject": "house:cordwayner",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1329
+      }
+    ]
+  },
+  {
+    "id": "fact:435",
+    "subject": "house:cordwayner",
+    "predicate": "sworn_to",
+    "object": "house:roxton",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1329
+      }
+    ]
+  },
+  {
+    "id": "fact:436",
+    "subject": "place:sunhouse",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1334
+      }
+    ]
+  },
+  {
+    "id": "fact:437",
+    "subject": "house:cuy",
+    "predicate": "seat",
+    "object": "place:sunhouse",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1334
+      }
+    ]
+  },
+  {
+    "id": "fact:438",
+    "subject": "house:cuy",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1334
+      }
+    ]
+  },
+  {
+    "id": "fact:439",
+    "subject": "house:cuy",
+    "predicate": "sworn_to",
+    "object": "house:hightower",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1334
+      }
+    ]
+  },
+  {
+    "id": "fact:440",
+    "subject": "place:reedbank",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1339
+      }
+    ]
+  },
+  {
+    "id": "fact:441",
+    "subject": "house:dunn",
+    "predicate": "seat",
+    "object": "place:reedbank",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1339
+      }
+    ]
+  },
+  {
+    "id": "fact:442",
+    "subject": "house:dunn",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1339
+      }
+    ]
+  },
+  {
+    "id": "fact:443",
+    "subject": "house:dunn",
+    "predicate": "sworn_to",
+    "object": "house:ashford",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1339
+      }
+    ]
+  },
+  {
+    "id": "fact:444",
+    "subject": "place:foxden-keep",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1344
+      }
+    ]
+  },
+  {
+    "id": "fact:445",
+    "subject": "house:foxglove",
+    "predicate": "seat",
+    "object": "place:foxden-keep",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1344
+      }
+    ]
+  },
+  {
+    "id": "fact:446",
+    "subject": "house:foxglove",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1344
+      }
+    ]
+  },
+  {
+    "id": "fact:447",
+    "subject": "house:foxglove",
+    "predicate": "sworn_to",
+    "object": "house:florent",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1344
+      }
+    ]
+  },
+  {
+    "id": "fact:448",
+    "subject": "place:holyhall",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1349
+      }
+    ]
+  },
+  {
+    "id": "fact:449",
+    "subject": "house:graceford",
+    "predicate": "seat",
+    "object": "place:holyhall",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1349
+      }
+    ]
+  },
+  {
+    "id": "fact:450",
+    "subject": "house:graceford",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1349
+      }
+    ]
+  },
+  {
+    "id": "fact:451",
+    "subject": "house:graceford",
+    "predicate": "sworn_to",
+    "object": "house:tyrell",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1349
+      }
+    ]
+  },
+  {
+    "id": "fact:452",
+    "subject": "place:eaglegrave",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1354
+      }
+    ]
+  },
+  {
+    "id": "fact:453",
+    "subject": "house:graves",
+    "predicate": "seat",
+    "object": "place:eaglegrave",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1354
+      }
+    ]
+  },
+  {
+    "id": "fact:454",
+    "subject": "house:graves",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1354
+      }
+    ]
+  },
+  {
+    "id": "fact:455",
+    "subject": "house:graves",
+    "predicate": "sworn_to",
+    "object": "house:meadows",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1354
+      }
+    ]
+  },
+  {
+    "id": "fact:456",
+    "subject": "place:hartwood-hall",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1359
+      }
+    ]
+  },
+  {
+    "id": "fact:457",
+    "subject": "house:hunt",
+    "predicate": "seat",
+    "object": "place:hartwood-hall",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1359
+      }
+    ]
+  },
+  {
+    "id": "fact:458",
+    "subject": "house:hunt",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1359
+      }
+    ]
+  },
+  {
+    "id": "fact:459",
+    "subject": "house:hunt",
+    "predicate": "sworn_to",
+    "object": "house:tarly",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1359
+      }
+    ]
+  },
+  {
+    "id": "fact:460",
+    "subject": "place:ivy-hall",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1364
+      }
+    ]
+  },
+  {
+    "id": "fact:461",
+    "subject": "house:kidwell",
+    "predicate": "seat",
+    "object": "place:ivy-hall",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1364
+      }
+    ]
+  },
+  {
+    "id": "fact:462",
+    "subject": "house:kidwell",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1364
+      }
+    ]
+  },
+  {
+    "id": "fact:463",
+    "subject": "house:kidwell",
+    "predicate": "sworn_to",
+    "object": "house:ashford",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1364
+      }
+    ]
+  },
+  {
+    "id": "fact:464",
+    "subject": "place:leygood-keep",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1377
+      }
+    ]
+  },
+  {
+    "id": "fact:465",
+    "subject": "house:leygood",
+    "predicate": "seat",
+    "object": "place:leygood-keep",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1377
+      }
+    ]
+  },
+  {
+    "id": "fact:466",
+    "subject": "house:leygood",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1377
+      }
+    ]
+  },
+  {
+    "id": "fact:467",
+    "subject": "house:leygood",
+    "predicate": "sworn_to",
+    "object": "house:tyrell",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1377
+      }
+    ]
+  },
+  {
+    "id": "fact:468",
+    "subject": "place:lowbank-hall",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1382
+      }
+    ]
+  },
+  {
+    "id": "fact:469",
+    "subject": "house:lowther",
+    "predicate": "seat",
+    "object": "place:lowbank-hall",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1382
+      }
+    ]
+  },
+  {
+    "id": "fact:470",
+    "subject": "house:lowther",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1382
+      }
+    ]
+  },
+  {
+    "id": "fact:471",
+    "subject": "house:lowther",
+    "predicate": "sworn_to",
+    "object": "house:crane",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1382
+      }
+    ]
+  },
+  {
+    "id": "fact:472",
+    "subject": "place:crossmead",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1387
+      }
+    ]
+  },
+  {
+    "id": "fact:473",
+    "subject": "house:norcross",
+    "predicate": "seat",
+    "object": "place:crossmead",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1387
+      }
+    ]
+  },
+  {
+    "id": "fact:474",
+    "subject": "house:norcross",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1387
+      }
+    ]
+  },
+  {
+    "id": "fact:475",
+    "subject": "house:norcross",
+    "predicate": "sworn_to",
+    "object": "house:tyrell",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1387
+      }
+    ]
+  },
+  {
+    "id": "fact:476",
+    "subject": "place:northridge",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1392
+      }
+    ]
+  },
+  {
+    "id": "fact:477",
+    "subject": "house:norridge",
+    "predicate": "seat",
+    "object": "place:northridge",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1392
+      }
+    ]
+  },
+  {
+    "id": "fact:478",
+    "subject": "house:norridge",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1392
+      }
+    ]
+  },
+  {
+    "id": "fact:479",
+    "subject": "house:norridge",
+    "predicate": "sworn_to",
+    "object": "house:tyrell",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1392
+      }
+    ]
+  },
+  {
+    "id": "fact:480",
+    "subject": "place:rosebury-hall",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1397
+      }
+    ]
+  },
+  {
+    "id": "fact:481",
+    "subject": "house:oldflowers",
+    "predicate": "seat",
+    "object": "place:rosebury-hall",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1397
+      }
+    ]
+  },
+  {
+    "id": "fact:482",
+    "subject": "house:oldflowers",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1397
+      }
+    ]
+  },
+  {
+    "id": "fact:483",
+    "subject": "house:oldflowers",
+    "predicate": "sworn_to",
+    "object": "house:tyrell",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1397
+      }
+    ]
+  },
+  {
+    "id": "fact:484",
+    "subject": "place:stonegate",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1402
+      }
+    ]
+  },
+  {
+    "id": "fact:485",
+    "subject": "house:rhysling",
+    "predicate": "seat",
+    "object": "place:stonegate",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1402
+      }
+    ]
+  },
+  {
+    "id": "fact:486",
+    "subject": "house:rhysling",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1402
+      }
+    ]
+  },
+  {
+    "id": "fact:487",
+    "subject": "house:rhysling",
+    "predicate": "sworn_to",
+    "object": "house:redwyne",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1402
+      }
+    ]
+  },
+  {
+    "id": "fact:488",
+    "subject": "place:risley-glade",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1407
+      }
+    ]
+  },
+  {
+    "id": "fact:489",
+    "subject": "house:risley",
+    "predicate": "seat",
+    "object": "place:risley-glade",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1407
+      }
+    ]
+  },
+  {
+    "id": "fact:490",
+    "subject": "house:risley",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1407
+      }
+    ]
+  },
+  {
+    "id": "fact:491",
+    "subject": "house:risley",
+    "predicate": "sworn_to",
+    "object": "house:caswell",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1407
+      }
+    ]
+  },
+  {
+    "id": "fact:492",
+    "subject": "place:redbrook-hall",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1412
+      }
+    ]
+  },
+  {
+    "id": "fact:493",
+    "subject": "house:rodden",
+    "predicate": "seat",
+    "object": "place:redbrook-hall",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1412
+      }
+    ]
+  },
+  {
+    "id": "fact:494",
+    "subject": "house:rodden",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1412
+      }
+    ]
+  },
+  {
+    "id": "fact:495",
+    "subject": "house:rodden",
+    "predicate": "sworn_to",
+    "object": "house:footly",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1412
+      }
+    ]
+  },
+  {
+    "id": "fact:496",
+    "subject": "place:smithyton",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1417
+      }
+    ]
+  },
+  {
+    "id": "fact:497",
+    "subject": "house:shermer",
+    "predicate": "seat",
+    "object": "place:smithyton",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1417
+      }
+    ]
+  },
+  {
+    "id": "fact:498",
+    "subject": "house:shermer",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1417
+      }
+    ]
+  },
+  {
+    "id": "fact:499",
+    "subject": "house:shermer",
+    "predicate": "sworn_to",
+    "object": "house:rowan",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1417
+      }
+    ]
+  },
+  {
+    "id": "fact:500",
+    "subject": "place:starfield",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1422
+      }
+    ]
+  },
+  {
+    "id": "fact:501",
+    "subject": "house:sloane",
+    "predicate": "seat",
+    "object": "place:starfield",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1422
+      }
+    ]
+  },
+  {
+    "id": "fact:502",
+    "subject": "house:sloane",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1422
+      }
+    ]
+  },
+  {
+    "id": "fact:503",
+    "subject": "house:sloane",
+    "predicate": "sworn_to",
+    "object": "house:roxton",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1422
+      }
+    ]
+  },
+  {
+    "id": "fact:504",
+    "subject": "place:hayrick-hall",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1427
+      }
+    ]
+  },
+  {
+    "id": "fact:505",
+    "subject": "house:stackhouse",
+    "predicate": "seat",
+    "object": "place:hayrick-hall",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1427
+      }
+    ]
+  },
+  {
+    "id": "fact:506",
+    "subject": "house:stackhouse",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1427
+      }
+    ]
+  },
+  {
+    "id": "fact:507",
+    "subject": "house:stackhouse",
+    "predicate": "sworn_to",
+    "object": "house:rowan",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1427
+      }
+    ]
+  },
+  {
+    "id": "fact:508",
+    "subject": "place:wheatbridge",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1432
+      }
+    ]
+  },
+  {
+    "id": "fact:509",
+    "subject": "house:varner",
+    "predicate": "seat",
+    "object": "place:wheatbridge",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1432
+      }
+    ]
+  },
+  {
+    "id": "fact:510",
+    "subject": "house:varner",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1432
+      }
+    ]
+  },
+  {
+    "id": "fact:511",
+    "subject": "house:varner",
+    "predicate": "sworn_to",
+    "object": "house:rowan",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1432
+      }
+    ]
+  },
+  {
+    "id": "fact:512",
+    "subject": "place:coldmoat",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1437
+      }
+    ]
+  },
+  {
+    "id": "fact:513",
+    "subject": "house:webber",
+    "predicate": "seat",
+    "object": "place:coldmoat",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1437
+      }
+    ]
+  },
+  {
+    "id": "fact:514",
+    "subject": "house:webber",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1437
+      }
+    ]
+  },
+  {
+    "id": "fact:515",
+    "subject": "house:webber",
+    "predicate": "sworn_to",
+    "object": "house:rowan",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1437
+      }
+    ]
+  },
+  {
+    "id": "fact:516",
+    "subject": "place:whitegrove",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1442
+      }
+    ]
+  },
+  {
+    "id": "fact:517",
+    "subject": "place:three-swords",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1447
+      }
+    ]
+  },
+  {
+    "id": "fact:518",
+    "subject": "house:willum",
+    "predicate": "seat",
+    "object": "place:three-swords",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1447
+      }
+    ]
+  },
+  {
+    "id": "fact:519",
+    "subject": "house:willum",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1447
+      }
+    ]
+  },
+  {
+    "id": "fact:520",
+    "subject": "house:willum",
+    "predicate": "sworn_to",
+    "object": "house:merryweather",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1447
+      }
+    ]
+  },
+  {
+    "id": "fact:521",
+    "subject": "place:twin-arches",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1452
+      }
+    ]
+  },
+  {
+    "id": "fact:522",
+    "subject": "house:bridges",
+    "predicate": "seat",
+    "object": "place:twin-arches",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1452
+      }
+    ]
+  },
+  {
+    "id": "fact:523",
+    "subject": "house:bridges",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1452
+      }
+    ]
+  },
+  {
+    "id": "fact:524",
+    "subject": "house:bridges",
+    "predicate": "sworn_to",
+    "object": "house:caswell",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1452
+      }
+    ]
+  },
+  {
+    "id": "fact:525",
+    "subject": "place:hedgefort",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1457
+      }
+    ]
+  },
+  {
+    "id": "fact:526",
+    "subject": "house:bushy",
+    "predicate": "seat",
+    "object": "place:hedgefort",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1457
+      }
+    ]
+  },
+  {
+    "id": "fact:527",
+    "subject": "house:bushy",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1457
+      }
+    ]
+  },
+  {
+    "id": "fact:528",
+    "subject": "house:bushy",
+    "predicate": "sworn_to",
+    "object": "house:meadows",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1457
+      }
+    ]
+  },
+  {
+    "id": "fact:529",
+    "subject": "place:alderbank",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1462
+      }
+    ]
+  },
+  {
+    "id": "fact:530",
+    "subject": "house:conklyn",
+    "predicate": "seat",
+    "object": "place:alderbank",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1462
+      }
+    ]
+  },
+  {
+    "id": "fact:531",
+    "subject": "house:conklyn",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1462
+      }
+    ]
+  },
+  {
+    "id": "fact:532",
+    "subject": "house:conklyn",
+    "predicate": "sworn_to",
+    "object": "house:rowan",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1462
+      }
+    ]
+  },
+  {
+    "id": "fact:533",
+    "subject": "place:cupwell",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1467
+      }
+    ]
+  },
+  {
+    "id": "fact:534",
+    "subject": "house:cupps",
+    "predicate": "seat",
+    "object": "place:cupwell",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1467
+      }
+    ]
+  },
+  {
+    "id": "fact:535",
+    "subject": "house:cupps",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1467
+      }
+    ]
+  },
+  {
+    "id": "fact:536",
+    "subject": "house:cupps",
+    "predicate": "sworn_to",
+    "object": "house:redwyne",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1467
+      }
+    ]
+  },
+  {
+    "id": "fact:537",
+    "subject": "place:dunmere-hall",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1472
+      }
+    ]
+  },
+  {
+    "id": "fact:538",
+    "subject": "house:dunmere",
+    "predicate": "seat",
+    "object": "place:dunmere-hall",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1472
+      }
+    ]
+  },
+  {
+    "id": "fact:539",
+    "subject": "house:dunmere",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1472
+      }
+    ]
+  },
+  {
+    "id": "fact:540",
+    "subject": "house:dunmere",
+    "predicate": "sworn_to",
+    "object": "house:meadows",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1472
+      }
+    ]
+  },
+  {
+    "id": "fact:541",
+    "subject": "place:durr-s-well",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1485
+      }
+    ]
+  },
+  {
+    "id": "fact:542",
+    "subject": "house:durwell",
+    "predicate": "seat",
+    "object": "place:durr-s-well",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1485
+      }
+    ]
+  },
+  {
+    "id": "fact:543",
+    "subject": "house:durwell",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1485
+      }
+    ]
+  },
+  {
+    "id": "fact:544",
+    "subject": "house:durwell",
+    "predicate": "sworn_to",
+    "object": "house:rowan",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1485
+      }
+    ]
+  },
+  {
+    "id": "fact:545",
+    "subject": "place:fenwick-tower",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1490
+      }
+    ]
+  },
+  {
+    "id": "fact:546",
+    "subject": "house:fenwick",
+    "predicate": "seat",
+    "object": "place:fenwick-tower",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1490
+      }
+    ]
+  },
+  {
+    "id": "fact:547",
+    "subject": "house:fenwick",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1490
+      }
+    ]
+  },
+  {
+    "id": "fact:548",
+    "subject": "house:fenwick",
+    "predicate": "sworn_to",
+    "object": "house:meadows",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1490
+      }
+    ]
+  },
+  {
+    "id": "fact:549",
+    "subject": "place:greenhill-hall",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1500
+      }
+    ]
+  },
+  {
+    "id": "fact:550",
+    "subject": "house:greenhill",
+    "predicate": "seat",
+    "object": "place:greenhill-hall",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1500
+      }
+    ]
+  },
+  {
+    "id": "fact:551",
+    "subject": "house:greenhill",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1500
+      }
+    ]
+  },
+  {
+    "id": "fact:552",
+    "subject": "house:greenhill",
+    "predicate": "sworn_to",
+    "object": "house:tyrell",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1500
+      }
+    ]
+  },
+  {
+    "id": "fact:553",
+    "subject": "place:hasteford",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1505
+      }
+    ]
+  },
+  {
+    "id": "fact:554",
+    "subject": "house:hastwyck",
+    "predicate": "seat",
+    "object": "place:hasteford",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1505
+      }
+    ]
+  },
+  {
+    "id": "fact:555",
+    "subject": "house:hastwyck",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1505
+      }
+    ]
+  },
+  {
+    "id": "fact:556",
+    "subject": "house:hastwyck",
+    "predicate": "sworn_to",
+    "object": "house:tyrell",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1505
+      }
+    ]
+  },
+  {
+    "id": "fact:557",
+    "subject": "place:haywick",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1510
+      }
+    ]
+  },
+  {
+    "id": "fact:558",
+    "subject": "house:haye",
+    "predicate": "seat",
+    "object": "place:haywick",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1510
+      }
+    ]
+  },
+  {
+    "id": "fact:559",
+    "subject": "house:haye",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1510
+      }
+    ]
+  },
+  {
+    "id": "fact:560",
+    "subject": "house:haye",
+    "predicate": "sworn_to",
+    "object": "house:meadows",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1510
+      }
+    ]
+  },
+  {
+    "id": "fact:561",
+    "subject": "place:hutchbrook",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1515
+      }
+    ]
+  },
+  {
+    "id": "fact:562",
+    "subject": "house:hutcheson",
+    "predicate": "seat",
+    "object": "place:hutchbrook",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1515
+      }
+    ]
+  },
+  {
+    "id": "fact:563",
+    "subject": "house:hutcheson",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1515
+      }
+    ]
+  },
+  {
+    "id": "fact:564",
+    "subject": "house:hutcheson",
+    "predicate": "sworn_to",
+    "object": "house:roxton",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1515
+      }
+    ]
+  },
+  {
+    "id": "fact:565",
+    "subject": "place:inchfield",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1520
+      }
+    ]
+  },
+  {
+    "id": "fact:566",
+    "subject": "house:inchfield",
+    "predicate": "seat",
+    "object": "place:inchfield",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1520
+      }
+    ]
+  },
+  {
+    "id": "fact:567",
+    "subject": "house:inchfield",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1520
+      }
+    ]
+  },
+  {
+    "id": "fact:568",
+    "subject": "house:inchfield",
+    "predicate": "sworn_to",
+    "object": "house:webber",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1520
+      }
+    ]
+  },
+  {
+    "id": "fact:569",
+    "subject": "place:limewick",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1530
+      }
+    ]
+  },
+  {
+    "id": "fact:570",
+    "subject": "house:lyberr",
+    "predicate": "seat",
+    "object": "place:limewick",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1530
+      }
+    ]
+  },
+  {
+    "id": "fact:571",
+    "subject": "house:lyberr",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1530
+      }
+    ]
+  },
+  {
+    "id": "fact:572",
+    "subject": "house:lyberr",
+    "predicate": "sworn_to",
+    "object": "house:redwyne",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1530
+      }
+    ]
+  },
+  {
+    "id": "fact:573",
+    "subject": "place:middlebury-hall",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1535
+      }
+    ]
+  },
+  {
+    "id": "fact:574",
+    "subject": "house:middlebury",
+    "predicate": "seat",
+    "object": "place:middlebury-hall",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1535
+      }
+    ]
+  },
+  {
+    "id": "fact:575",
+    "subject": "house:middlebury",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1535
+      }
+    ]
+  },
+  {
+    "id": "fact:576",
+    "subject": "house:middlebury",
+    "predicate": "sworn_to",
+    "object": "house:merryweather",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1535
+      }
+    ]
+  },
+  {
+    "id": "fact:577",
+    "subject": "place:orme-s-holt",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1540
+      }
+    ]
+  },
+  {
+    "id": "fact:578",
+    "subject": "house:orme",
+    "predicate": "seat",
+    "object": "place:orme-s-holt",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1540
+      }
+    ]
+  },
+  {
+    "id": "fact:579",
+    "subject": "house:orme",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1540
+      }
+    ]
+  },
+  {
+    "id": "fact:580",
+    "subject": "house:orme",
+    "predicate": "sworn_to",
+    "object": "house:oakheart",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1540
+      }
+    ]
+  },
+  {
+    "id": "fact:581",
+    "subject": "place:standfast",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1545
+      }
+    ]
+  },
+  {
+    "id": "fact:582",
+    "subject": "house:osgrey",
+    "predicate": "seat",
+    "object": "place:standfast",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1545
+      }
+    ]
+  },
+  {
+    "id": "fact:583",
+    "subject": "house:osgrey",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1545
+      }
+    ]
+  },
+  {
+    "id": "fact:584",
+    "subject": "house:osgrey",
+    "predicate": "sworn_to",
+    "object": "house:rowan",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1545
+      }
+    ]
+  },
+  {
+    "id": "fact:585",
+    "subject": "place:pommingham",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1550
+      }
+    ]
+  },
+  {
+    "id": "fact:586",
+    "subject": "house:pommingham",
+    "predicate": "seat",
+    "object": "place:pommingham",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1550
+      }
+    ]
+  },
+  {
+    "id": "fact:587",
+    "subject": "house:pommingham",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1550
+      }
+    ]
+  },
+  {
+    "id": "fact:588",
+    "subject": "house:pommingham",
+    "predicate": "sworn_to",
+    "object": "house:caswell",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1550
+      }
+    ]
+  },
+  {
+    "id": "fact:589",
+    "subject": "place:redmead",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1555
+      }
+    ]
+  },
+  {
+    "id": "fact:590",
+    "subject": "house:redding",
+    "predicate": "seat",
+    "object": "place:redmead",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1555
+      }
+    ]
+  },
+  {
+    "id": "fact:591",
+    "subject": "house:redding",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1555
+      }
+    ]
+  },
+  {
+    "id": "fact:592",
+    "subject": "house:redding",
+    "predicate": "sworn_to",
+    "object": "house:merryweather",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1555
+      }
+    ]
+  },
+  {
+    "id": "fact:593",
+    "subject": "place:redpool",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1560
+      }
+    ]
+  },
+  {
+    "id": "fact:594",
+    "subject": "house:redpool",
+    "predicate": "seat",
+    "object": "place:redpool",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1560
+      }
+    ]
+  },
+  {
+    "id": "fact:595",
+    "subject": "house:redpool",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1560
+      }
+    ]
+  },
+  {
+    "id": "fact:596",
+    "subject": "house:redpool",
+    "predicate": "sworn_to",
+    "object": "house:florent",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1560
+      }
+    ]
+  },
+  {
+    "id": "fact:597",
+    "subject": "place:overbrook",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1565
+      }
+    ]
+  },
+  {
+    "id": "fact:598",
+    "subject": "house:uffering",
+    "predicate": "seat",
+    "object": "place:overbrook",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1565
+      }
+    ]
+  },
+  {
+    "id": "fact:599",
+    "subject": "house:uffering",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1565
+      }
+    ]
+  },
+  {
+    "id": "fact:600",
+    "subject": "house:uffering",
+    "predicate": "sworn_to",
+    "object": "house:ashford",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1565
+      }
+    ]
+  },
+  {
+    "id": "fact:601",
+    "subject": "place:westbrook-tower",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1570
+      }
+    ]
+  },
+  {
+    "id": "fact:602",
+    "subject": "house:westbrook",
+    "predicate": "seat",
+    "object": "place:westbrook-tower",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1570
+      }
+    ]
+  },
+  {
+    "id": "fact:603",
+    "subject": "house:westbrook",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1570
+      }
+    ]
+  },
+  {
+    "id": "fact:604",
+    "subject": "house:westbrook",
+    "predicate": "sworn_to",
+    "object": "house:oakheart",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1570
+      }
+    ]
+  },
+  {
+    "id": "fact:605",
+    "subject": "place:sawbridge",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1575
+      }
+    ]
+  },
+  {
+    "id": "fact:606",
+    "subject": "house:woodwright",
+    "predicate": "seat",
+    "object": "place:sawbridge",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1575
+      }
+    ]
+  },
+  {
+    "id": "fact:607",
+    "subject": "house:woodwright",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1575
+      }
+    ]
+  },
+  {
+    "id": "fact:608",
+    "subject": "house:woodwright",
+    "predicate": "sworn_to",
+    "object": "house:oakheart",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1575
+      }
+    ]
+  },
+  {
+    "id": "fact:609",
+    "subject": "place:withybank",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1580
+      }
+    ]
+  },
+  {
+    "id": "fact:610",
+    "subject": "house:wythers",
+    "predicate": "seat",
+    "object": "place:withybank",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1580
+      }
+    ]
+  },
+  {
+    "id": "fact:611",
+    "subject": "house:wythers",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1580
+      }
+    ]
+  },
+  {
+    "id": "fact:612",
+    "subject": "house:wythers",
+    "predicate": "sworn_to",
+    "object": "house:tarly",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1580
+      }
+    ]
+  },
+  {
+    "id": "fact:613",
+    "subject": "place:yellow-dell",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1593
+      }
+    ]
+  },
+  {
+    "id": "fact:614",
+    "subject": "house:yelshire",
+    "predicate": "seat",
+    "object": "place:yellow-dell",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1593
+      }
+    ]
+  },
+  {
+    "id": "fact:615",
+    "subject": "house:yelshire",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1593
+      }
+    ]
+  },
+  {
+    "id": "fact:616",
+    "subject": "house:yelshire",
+    "predicate": "sworn_to",
+    "object": "house:peake",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1593
+      }
+    ]
   }
 ]

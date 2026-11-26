@@ -13,6 +13,8 @@ export type Entity = {
   id: string; kind: EntityKind; name: string; page?: string; subtitle?: string;
   words?: string | null; arms?: Heraldry; placeType?: string;
   age208?: number; birthHouse?: string; year?: number; chapter?: number; awoiaf?: string;
+  rank208?: string; regionalArea208?: string; geographicAnchor208?: string;
+  registryRole?: string; catalogStatus?: string; sourceLine208?: number;
   sources?: string[];
 };
 export type Fact = {
@@ -117,6 +119,7 @@ export function identityRows(entity: Entity, at: Moment = DEFAULT_DATE): Array<{
     add('Region', one(entity.id, 'region', at));
     add('Head', one(entity.id, 'head', at));
     add('Overlord', one(entity.id, 'sworn_to', at));
+    literal('Rank', entity.rank208);
     literal('Words', entity.words ?? 'Unknown');
   }
   if (entity.kind === 'person') {
