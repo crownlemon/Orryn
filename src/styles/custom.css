@@ -151,3 +151,13 @@ h1 { letter-spacing: 0.015em; }
 @media(max-width:650px) {
   .orr-infobox { float: none; width: 100%; max-width: 400px; margin: 0 auto 1.35rem; }
 }
+
+/* Credits for third-party sigils licensed for republication. */
+.orr-asset-credit {
+  padding: .2rem .5rem .65rem;
+  background: #fbf8f1;
+  color: #726753;
+  text-align: center;
+  font: 10px/1.5 system-ui, sans-serif;
+}
+.orr-asset-credit a { text-underline-offset: 2px; }
