@@ -1,0 +1,25 @@
+name: Phase 2 knowledge model
+
+on:
+  push:
+    branches:
+      - dev/awoiaf-knowledge-model
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate-and-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install dependencies
+        run: npm install --no-audit --no-fund
+      - name: Validate knowledge model
+        run: npm run validate:knowledge
+      - name: Build Astro encyclopedia
+        run: npm run build
