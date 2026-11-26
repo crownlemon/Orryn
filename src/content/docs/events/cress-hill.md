@@ -1,16 +1,10 @@
 ---
 title: The Cress Hill Affair
-description: A dispute of jurisdiction involving House Rowan and Highgarden.
+description: A dispute over justice and lordly jurisdiction in the Reach.
 ---
 
-## Summary
+**The Cress Hill affair** arose from a quarrel between two vassals of [Lord Rycherd Rowan](/characters/rycherd-rowan/) of Goldengrove. The case was heard before Highgarden's Lord Justiciar, and Ser Tom Costen drew a knife in the hall during the proceedings.
 
-Highgarden's Justiciar judged a quarrel between two vassals of [Lord Rycherd Rowan](/characters/rycherd-rowan/). Ser Tom Costen drew a knife in that hall. His fate remains in Highgarden's hands in the currently known Orryn notes.
+The drawing of steel was a grave offence, but the dispute soon raised a second question: whether Costen should be judged at Highgarden or returned to the jurisdiction of [House Rowan](/houses/rowan/). Lord Rycherd considered the intervention an encroachment upon Goldengrove's authority over its sworn men.
 
-## Why it matters
-
-The intervention creates a grievance for [House Rowan](/houses/rowan/). The dispute concerns not only the immediate judgment but also the extent of Highgarden's authority in matters involving Rowan vassals.
-
-## Status
-
-**Unresolved in available source notes.** Precise dates and chapter citations will be added when the full chapter archive is available.
+In 208 AC, Rycherd asked for Costen to be sent home to answer for the knife in the presence of those whose quarrel had brought the matter before the Justiciar. His claim rested upon the customary rights of the lord of Goldengrove, while Highgarden's involvement brought the limits of those rights into dispute.
