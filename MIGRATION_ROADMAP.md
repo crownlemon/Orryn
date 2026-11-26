@@ -172,3 +172,7 @@ Added 21 title articles including six new source-attested titles/dignities from 
 ## Milestone: Full current-register navigation and eleven household lineages
 
 Migrated all registered graph entities to navigable baseline articles, without replacing existing authored pages. Added source-checked Dondarrion, Caron, Swann, Wagstaff, Gower, Hertson, Cafferen, Peasebury, Peake, Blackbar and Florent genealogy from Householdbook v12 references 1256, 1353–1354, 1493, 1532, 1605, 1697, 1770, 1863, 2423, 2877 and 3030. No invented given names or speculative marriage outcomes. Added 375 baseline articles, 45 entities and 99 relationships. Current counts: {"region":[2,2],"house":[138,138],"place":[140,140],"title":[21,21],"person":[177,177],"event":[4,4]}. Baseline articles are explicitly marked for editorial enrichment; this is not a claim of full historical or household source extraction. No merge to main. In-memory reference and parent-count checks passed; CI/visual review outstanding.
+
+## Milestone: Complete chapter source index
+
+Indexed 67 numbered chapters across 72 source documents. Selected explicit version 2 revisions for 32–35; retained both conflicting Chapter 67 texts without deciding their canonical order. All 67 chapter routes are navigable, with source links; archive prose and event extraction are not yet migrated. Do not treat indexed chapters as completed historical articles.

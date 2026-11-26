@@ -1,0 +1,10 @@
+---
+title: "Chapter 32 — The Price of Spurs (Version 2)"
+description: "Chapter 32 in the narrative source index"
+sidebar:
+  order: 32
+---
+
+The narrative source for this chapter is recorded in the archive. The text and historical event extraction are pending editorial review.
+
+[Read the source chapter](https://docs.google.com/document/d/1ifJ1elbeaZ2BfOwZ61WWQIQpsWt21sOAiu5CM0eMtOk/edit?usp=drivesdk)

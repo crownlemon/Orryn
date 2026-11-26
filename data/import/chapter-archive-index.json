@@ -1,0 +1,906 @@
+{
+  "scope": "Chapter archive source inventory; not narrative extraction",
+  "chapters": [
+    {
+      "number": 1,
+      "versions": [
+        {
+          "title": "Chapter 1 — The Garden Chamber",
+          "id": "1d4R22r3ZLPlp8OvxUo_MFdZKeklxsswezxcf8CoXL0Y",
+          "url": "https://docs.google.com/document/d/1d4R22r3ZLPlp8OvxUo_MFdZKeklxsswezxcf8CoXL0Y/edit?usp=drivesdk",
+          "updated": "2026-10-17T14:49:49.655Z"
+        }
+      ],
+      "selected": "1d4R22r3ZLPlp8OvxUo_MFdZKeklxsswezxcf8CoXL0Y",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 2,
+      "versions": [
+        {
+          "title": "Chapter 2 — The Green Hangings",
+          "id": "1kj00jS9qPN5WQZVlLZvpkVOr4seYeDk5trwIJFCsnDw",
+          "url": "https://docs.google.com/document/d/1kj00jS9qPN5WQZVlLZvpkVOr4seYeDk5trwIJFCsnDw/edit?usp=drivesdk",
+          "updated": "2026-10-21T08:06:48.973Z"
+        }
+      ],
+      "selected": "1kj00jS9qPN5WQZVlLZvpkVOr4seYeDk5trwIJFCsnDw",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 3,
+      "versions": [
+        {
+          "title": "Chapter 3 — The Rope at Sedgeford",
+          "id": "1Dlm_W4cOmbcY0dxq7TfpR1THHjo2yySWc4i8uhmHB0w",
+          "url": "https://docs.google.com/document/d/1Dlm_W4cOmbcY0dxq7TfpR1THHjo2yySWc4i8uhmHB0w/edit?usp=drivesdk",
+          "updated": "2026-10-17T14:49:47.488Z"
+        }
+      ],
+      "selected": "1Dlm_W4cOmbcY0dxq7TfpR1THHjo2yySWc4i8uhmHB0w",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 4,
+      "versions": [
+        {
+          "title": "Chapter 4 — What the Name Was Worth",
+          "id": "1v3WcVhcyUr7ARfWsMiuQ8om-CReFp0j5rdTih6VcGjU",
+          "url": "https://docs.google.com/document/d/1v3WcVhcyUr7ARfWsMiuQ8om-CReFp0j5rdTih6VcGjU/edit?usp=drivesdk",
+          "updated": "2026-10-17T14:52:50.378Z"
+        }
+      ],
+      "selected": "1v3WcVhcyUr7ARfWsMiuQ8om-CReFp0j5rdTih6VcGjU",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 5,
+      "versions": [
+        {
+          "title": "Chapter 5 — The Far Bank",
+          "id": "1jJyWWim74eB2BfEZ_upUOR7OnjW1Fak7iy9RnCdNwAI",
+          "url": "https://docs.google.com/document/d/1jJyWWim74eB2BfEZ_upUOR7OnjW1Fak7iy9RnCdNwAI/edit?usp=drivesdk",
+          "updated": "2026-10-18T13:44:01.884Z"
+        }
+      ],
+      "selected": "1jJyWWim74eB2BfEZ_upUOR7OnjW1Fak7iy9RnCdNwAI",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 6,
+      "versions": [
+        {
+          "title": "Chapter 6 — The Lady's Ledger",
+          "id": "1MZQjG75RnmT5FtIE8Fj1uLXGtMLARz3AvWL5gkJWNvU",
+          "url": "https://docs.google.com/document/d/1MZQjG75RnmT5FtIE8Fj1uLXGtMLARz3AvWL5gkJWNvU/edit?usp=drivesdk",
+          "updated": "2026-10-18T13:52:29.879Z"
+        }
+      ],
+      "selected": "1MZQjG75RnmT5FtIE8Fj1uLXGtMLARz3AvWL5gkJWNvU",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 7,
+      "versions": [
+        {
+          "title": "Chapter 7 — A Dun Horse, Written Down",
+          "id": "1Gp0bZfuX9wwnlPCwKz4oq2Odz-xF4nEjRuSZlErMXms",
+          "url": "https://docs.google.com/document/d/1Gp0bZfuX9wwnlPCwKz4oq2Odz-xF4nEjRuSZlErMXms/edit?usp=drivesdk",
+          "updated": "2026-10-18T18:58:18.107Z"
+        }
+      ],
+      "selected": "1Gp0bZfuX9wwnlPCwKz4oq2Odz-xF4nEjRuSZlErMXms",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 8,
+      "versions": [
+        {
+          "title": "Chapter 8 — The Boundary Stone",
+          "id": "1d2SPW1-SnhfV7RjdbXDYdp5C3LZBstNUjKnQ9c5Oy2E",
+          "url": "https://docs.google.com/document/d/1d2SPW1-SnhfV7RjdbXDYdp5C3LZBstNUjKnQ9c5Oy2E/edit?usp=drivesdk",
+          "updated": "2026-10-19T06:05:15.637Z"
+        }
+      ],
+      "selected": "1d2SPW1-SnhfV7RjdbXDYdp5C3LZBstNUjKnQ9c5Oy2E",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 9,
+      "versions": [
+        {
+          "title": "Chapter 9 — What Gawen Waited For",
+          "id": "1OrpCTggugQMIU4jlJqxAR7Q07mvfdjMMwDHokVEHVxA",
+          "url": "https://docs.google.com/document/d/1OrpCTggugQMIU4jlJqxAR7Q07mvfdjMMwDHokVEHVxA/edit?usp=drivesdk",
+          "updated": "2026-10-21T08:04:27.899Z"
+        }
+      ],
+      "selected": "1OrpCTggugQMIU4jlJqxAR7Q07mvfdjMMwDHokVEHVxA",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 10,
+      "versions": [
+        {
+          "title": "Chapter 10 - The Letter That Burned (v2)",
+          "id": "1un3nTJAuFK8no8lfccT4BSgOtfQgD0z5qSIJoJPbnuQ",
+          "url": "https://docs.google.com/document/d/1un3nTJAuFK8no8lfccT4BSgOtfQgD0z5qSIJoJPbnuQ/edit?usp=drivesdk",
+          "updated": "2026-10-21T08:44:56.558Z"
+        }
+      ],
+      "selected": "1un3nTJAuFK8no8lfccT4BSgOtfQgD0z5qSIJoJPbnuQ",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 11,
+      "versions": [
+        {
+          "title": "Chapter 11 - Nothing Owed",
+          "id": "15GwlKXN3yywYGM9ds-XvvBRMbi_FkFbYiXb7cItX3cg",
+          "url": "https://docs.google.com/document/d/15GwlKXN3yywYGM9ds-XvvBRMbi_FkFbYiXb7cItX3cg/edit?usp=drivesdk",
+          "updated": "2026-10-21T20:22:52.423Z"
+        }
+      ],
+      "selected": "15GwlKXN3yywYGM9ds-XvvBRMbi_FkFbYiXb7cItX3cg",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 12,
+      "versions": [
+        {
+          "title": "Chapter 12 - Told First",
+          "id": "1OUaXqGT6zifTEi9JfZ63RWhTrT8hM9PLXXPpCo2HeLY",
+          "url": "https://docs.google.com/document/d/1OUaXqGT6zifTEi9JfZ63RWhTrT8hM9PLXXPpCo2HeLY/edit?usp=drivesdk",
+          "updated": "2026-11-01T14:33:32.721Z"
+        }
+      ],
+      "selected": "1OUaXqGT6zifTEi9JfZ63RWhTrT8hM9PLXXPpCo2HeLY",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 13,
+      "versions": [
+        {
+          "title": "Chapter 13 - Ahead of the Cart",
+          "id": "1cXjd-oUooVvDXFOLYaTfeigdxF9fCV2EWLBefd86Rgc",
+          "url": "https://docs.google.com/document/d/1cXjd-oUooVvDXFOLYaTfeigdxF9fCV2EWLBefd86Rgc/edit?usp=drivesdk",
+          "updated": "2026-11-01T14:36:10.541Z"
+        }
+      ],
+      "selected": "1cXjd-oUooVvDXFOLYaTfeigdxF9fCV2EWLBefd86Rgc",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 14,
+      "versions": [
+        {
+          "title": "Chapter 14 - In Order",
+          "id": "1BADhIl2MZsqVbMRhqiGnLB1ZyKRsXauxebGDsPIttuQ",
+          "url": "https://docs.google.com/document/d/1BADhIl2MZsqVbMRhqiGnLB1ZyKRsXauxebGDsPIttuQ/edit?usp=drivesdk",
+          "updated": "2026-11-01T14:46:39.638Z"
+        }
+      ],
+      "selected": "1BADhIl2MZsqVbMRhqiGnLB1ZyKRsXauxebGDsPIttuQ",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 15,
+      "versions": [
+        {
+          "title": "Chapter 15 - What the Book Says",
+          "id": "1zz0k3pw0AV4FEorc2EaXjT37iVZSMUur5gBXu7cFmos",
+          "url": "https://docs.google.com/document/d/1zz0k3pw0AV4FEorc2EaXjT37iVZSMUur5gBXu7cFmos/edit?usp=drivesdk",
+          "updated": "2026-11-01T14:58:00.604Z"
+        }
+      ],
+      "selected": "1zz0k3pw0AV4FEorc2EaXjT37iVZSMUur5gBXu7cFmos",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 16,
+      "versions": [
+        {
+          "title": "Chapter 16 - The Sum of Nine Days",
+          "id": "1cFcd9pmXxuxCI9UHblcM4khrRxyWmpwmYD9hZyI4KcU",
+          "url": "https://docs.google.com/document/d/1cFcd9pmXxuxCI9UHblcM4khrRxyWmpwmYD9hZyI4KcU/edit?usp=drivesdk",
+          "updated": "2026-11-01T14:58:46.797Z"
+        }
+      ],
+      "selected": "1cFcd9pmXxuxCI9UHblcM4khrRxyWmpwmYD9hZyI4KcU",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 17,
+      "versions": [
+        {
+          "title": "Chapter 17 - A Fair Copy",
+          "id": "1gRWTPoNO48TvpOaIQ-Zf2DypyTNn4kGXqbKvpWLC0oQ",
+          "url": "https://docs.google.com/document/d/1gRWTPoNO48TvpOaIQ-Zf2DypyTNn4kGXqbKvpWLC0oQ/edit?usp=drivesdk",
+          "updated": "2026-11-01T15:08:53.519Z"
+        }
+      ],
+      "selected": "1gRWTPoNO48TvpOaIQ-Zf2DypyTNn4kGXqbKvpWLC0oQ",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 18,
+      "versions": [
+        {
+          "title": "Chapter 18 - Water and a Clean Shirt",
+          "id": "185rm9WvLZ0A-zo3-v7wRz9Kp1vegTlqh8JM0gPGJXWE",
+          "url": "https://docs.google.com/document/d/185rm9WvLZ0A-zo3-v7wRz9Kp1vegTlqh8JM0gPGJXWE/edit?usp=drivesdk",
+          "updated": "2026-11-01T15:37:47.625Z"
+        }
+      ],
+      "selected": "185rm9WvLZ0A-zo3-v7wRz9Kp1vegTlqh8JM0gPGJXWE",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 19,
+      "versions": [
+        {
+          "title": "Chapter 19 - The Foot of the Table",
+          "id": "19gSoSvO9vEn9YAFdrWAz-MaN2pItGQ3-wWz8JSHeWE0",
+          "url": "https://docs.google.com/document/d/19gSoSvO9vEn9YAFdrWAz-MaN2pItGQ3-wWz8JSHeWE0/edit?usp=drivesdk",
+          "updated": "2026-11-01T15:42:20.999Z"
+        }
+      ],
+      "selected": "19gSoSvO9vEn9YAFdrWAz-MaN2pItGQ3-wWz8JSHeWE0",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 20,
+      "versions": [
+        {
+          "title": "Chapter 20 - Three True Things",
+          "id": "1qb1XbYu2F6JBCU6Em9JCNn1d2u-qKg3r5qDzz2_zpMk",
+          "url": "https://docs.google.com/document/d/1qb1XbYu2F6JBCU6Em9JCNn1d2u-qKg3r5qDzz2_zpMk/edit?usp=drivesdk",
+          "updated": "2026-11-01T17:15:53.334Z"
+        }
+      ],
+      "selected": "1qb1XbYu2F6JBCU6Em9JCNn1d2u-qKg3r5qDzz2_zpMk",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 21,
+      "versions": [
+        {
+          "title": "Chapter 21 - Wooden Swords",
+          "id": "10YSxYUAjDt15K6ZcoednPnwP9hVJREUsEP63V74gT7s",
+          "url": "https://docs.google.com/document/d/10YSxYUAjDt15K6ZcoednPnwP9hVJREUsEP63V74gT7s/edit?usp=drivesdk",
+          "updated": "2026-11-01T17:18:58.045Z"
+        }
+      ],
+      "selected": "10YSxYUAjDt15K6ZcoednPnwP9hVJREUsEP63V74gT7s",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 22,
+      "versions": [
+        {
+          "title": "Chapter 22 - Questions Asked Sideways",
+          "id": "1IIbRZbu9VzBRw3IuZaqB8rTESgMNBAKkdMULn1V31cY",
+          "url": "https://docs.google.com/document/d/1IIbRZbu9VzBRw3IuZaqB8rTESgMNBAKkdMULn1V31cY/edit?usp=drivesdk",
+          "updated": "2026-11-01T17:32:52.708Z"
+        }
+      ],
+      "selected": "1IIbRZbu9VzBRw3IuZaqB8rTESgMNBAKkdMULn1V31cY",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 23,
+      "versions": [
+        {
+          "title": "Chapter 23 - A Yard Beyond the Stake",
+          "id": "1_IuF6-2SwqMJGT69HeAWkHOTQhp9Ng9N2Z8rMt9_1sk",
+          "url": "https://docs.google.com/document/d/1_IuF6-2SwqMJGT69HeAWkHOTQhp9Ng9N2Z8rMt9_1sk/edit?usp=drivesdk",
+          "updated": "2026-11-01T17:51:44.637Z"
+        }
+      ],
+      "selected": "1_IuF6-2SwqMJGT69HeAWkHOTQhp9Ng9N2Z8rMt9_1sk",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 24,
+      "versions": [
+        {
+          "title": "Chapter 24 - So Can the Horse",
+          "id": "1dLP2CaHB2cUbeqv4qWUTwpcNf4Gx_34RicY9B5adQUw",
+          "url": "https://docs.google.com/document/d/1dLP2CaHB2cUbeqv4qWUTwpcNf4Gx_34RicY9B5adQUw/edit?usp=drivesdk",
+          "updated": "2026-11-01T18:43:23.767Z"
+        }
+      ],
+      "selected": "1dLP2CaHB2cUbeqv4qWUTwpcNf4Gx_34RicY9B5adQUw",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 25,
+      "versions": [
+        {
+          "title": "Chapter 25 - Ten Years to a Pear",
+          "id": "1eE_TKOdySSpVaGY-Hx77vyiShRTHea57NC4STdqu4_g",
+          "url": "https://docs.google.com/document/d/1eE_TKOdySSpVaGY-Hx77vyiShRTHea57NC4STdqu4_g/edit?usp=drivesdk",
+          "updated": "2026-11-01T18:57:15.436Z"
+        }
+      ],
+      "selected": "1eE_TKOdySSpVaGY-Hx77vyiShRTHea57NC4STdqu4_g",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 26,
+      "versions": [
+        {
+          "title": "Chapter 26 - Seven Winters",
+          "id": "1b25z0HLRxe7-XbvkHCEBo3ams5G3QPqWYfnbaS4mNgM",
+          "url": "https://docs.google.com/document/d/1b25z0HLRxe7-XbvkHCEBo3ams5G3QPqWYfnbaS4mNgM/edit?usp=drivesdk",
+          "updated": "2026-11-01T20:39:06.249Z"
+        }
+      ],
+      "selected": "1b25z0HLRxe7-XbvkHCEBo3ams5G3QPqWYfnbaS4mNgM",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 27,
+      "versions": [
+        {
+          "title": "Chapter 27 - Two Trees Pretending",
+          "id": "117xQqDexpXPG37k-UTfN1Op-WO8reLkIYE9eAiLIFLk",
+          "url": "https://docs.google.com/document/d/117xQqDexpXPG37k-UTfN1Op-WO8reLkIYE9eAiLIFLk/edit?usp=drivesdk",
+          "updated": "2026-11-01T20:49:26.066Z"
+        }
+      ],
+      "selected": "117xQqDexpXPG37k-UTfN1Op-WO8reLkIYE9eAiLIFLk",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 28,
+      "versions": [
+        {
+          "title": "Chapter 28 - Fifty Stags",
+          "id": "1fS910Q0I96Av3RGVkGXfh4aRH6ZhhYHIWMXI0rxDg64",
+          "url": "https://docs.google.com/document/d/1fS910Q0I96Av3RGVkGXfh4aRH6ZhhYHIWMXI0rxDg64/edit?usp=drivesdk",
+          "updated": "2026-11-01T21:01:20.333Z"
+        }
+      ],
+      "selected": "1fS910Q0I96Av3RGVkGXfh4aRH6ZhhYHIWMXI0rxDg64",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 29,
+      "versions": [
+        {
+          "title": "Chapter 29 — The Long Way Round",
+          "id": "1QlJrdGwpNORya7eiNmLNdMXQm-HHnQwBvOpzp3p-0sU",
+          "url": "https://docs.google.com/document/d/1QlJrdGwpNORya7eiNmLNdMXQm-HHnQwBvOpzp3p-0sU/edit?usp=drivesdk",
+          "updated": "2026-11-04T19:21:27.105Z"
+        }
+      ],
+      "selected": "1QlJrdGwpNORya7eiNmLNdMXQm-HHnQwBvOpzp3p-0sU",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 30,
+      "versions": [
+        {
+          "title": "Chapter 30 — Before the Leaves Are Down",
+          "id": "1K2TxKcIGqxvhS0QnDT1tWeB9i5Q_6YHQylZj99iX3ng",
+          "url": "https://docs.google.com/document/d/1K2TxKcIGqxvhS0QnDT1tWeB9i5Q_6YHQylZj99iX3ng/edit?usp=drivesdk",
+          "updated": "2026-11-04T19:35:20.476Z"
+        }
+      ],
+      "selected": "1K2TxKcIGqxvhS0QnDT1tWeB9i5Q_6YHQylZj99iX3ng",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 31,
+      "versions": [
+        {
+          "title": "Chapter 31 — Leave to Ride",
+          "id": "1CdMOkvMDzY8ok8WvuG_-0KTsehqtLK9B-ViyC8E8M4A",
+          "url": "https://docs.google.com/document/d/1CdMOkvMDzY8ok8WvuG_-0KTsehqtLK9B-ViyC8E8M4A/edit?usp=drivesdk",
+          "updated": "2026-11-04T20:02:53.444Z"
+        }
+      ],
+      "selected": "1CdMOkvMDzY8ok8WvuG_-0KTsehqtLK9B-ViyC8E8M4A",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 32,
+      "versions": [
+        {
+          "title": "Chapter 32 — The Price of Spurs (Version 2)",
+          "id": "1ifJ1elbeaZ2BfOwZ61WWQIQpsWt21sOAiu5CM0eMtOk",
+          "url": "https://docs.google.com/document/d/1ifJ1elbeaZ2BfOwZ61WWQIQpsWt21sOAiu5CM0eMtOk/edit?usp=drivesdk",
+          "updated": "2026-11-06T09:07:07.791Z"
+        },
+        {
+          "title": "Chapter 32 — The Price of Spurs",
+          "id": "1OUz0rYTsqmpiwCeHvdGcHN2YLD48OhM37tsmE3UMkC4",
+          "url": "https://docs.google.com/document/d/1OUz0rYTsqmpiwCeHvdGcHN2YLD48OhM37tsmE3UMkC4/edit?usp=drivesdk",
+          "updated": "2026-11-04T20:26:11.714Z"
+        }
+      ],
+      "selected": "1ifJ1elbeaZ2BfOwZ61WWQIQpsWt21sOAiu5CM0eMtOk",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 33,
+      "versions": [
+        {
+          "title": "Chapter 33 — In Hand (Version 2)",
+          "id": "1f4wHrC4F1krUwKz4bir6UWSrAR-0WUOuTxYRdPh-T8w",
+          "url": "https://docs.google.com/document/d/1f4wHrC4F1krUwKz4bir6UWSrAR-0WUOuTxYRdPh-T8w/edit?usp=drivesdk",
+          "updated": "2026-11-06T08:12:13.369Z"
+        },
+        {
+          "title": "Chapter 33 — In Hand",
+          "id": "1GR9qj5jJfVsxjgwsuwykYgV82Z6KS9tT4nwIses4UjU",
+          "url": "https://docs.google.com/document/d/1GR9qj5jJfVsxjgwsuwykYgV82Z6KS9tT4nwIses4UjU/edit?usp=drivesdk",
+          "updated": "2026-11-04T20:37:10.439Z"
+        }
+      ],
+      "selected": "1f4wHrC4F1krUwKz4bir6UWSrAR-0WUOuTxYRdPh-T8w",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 34,
+      "versions": [
+        {
+          "title": "Chapter 34 — A Lance of Ash (Version 2)",
+          "id": "1e8I2gS6RpMz37YquSCMJZQ6ztB7QYVc3GbWdNduCx60",
+          "url": "https://docs.google.com/document/d/1e8I2gS6RpMz37YquSCMJZQ6ztB7QYVc3GbWdNduCx60/edit?usp=drivesdk",
+          "updated": "2026-11-08T15:42:00.942Z"
+        },
+        {
+          "title": "Chapter 34 — A Lance of Ash",
+          "id": "1bAAxh1Xs06HhBXB_W2G4RTlzIVCnSnKxv5timT9bp9I",
+          "url": "https://docs.google.com/document/d/1bAAxh1Xs06HhBXB_W2G4RTlzIVCnSnKxv5timT9bp9I/edit?usp=drivesdk",
+          "updated": "2026-11-06T08:54:30.818Z"
+        }
+      ],
+      "selected": "1e8I2gS6RpMz37YquSCMJZQ6ztB7QYVc3GbWdNduCx60",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 35,
+      "versions": [
+        {
+          "title": "Chapter 35 — The Noon Yard (Version 2)",
+          "id": "1BsmMuhrSylJn6ZGOMUVq_zqdKVg77y3AJlwNhR_4Knw",
+          "url": "https://docs.google.com/document/d/1BsmMuhrSylJn6ZGOMUVq_zqdKVg77y3AJlwNhR_4Knw/edit?usp=drivesdk",
+          "updated": "2026-11-06T09:40:59.922Z"
+        },
+        {
+          "title": "Chapter 35 — The Noon Yard",
+          "id": "1xwCTZmampW_FQZXe6R7a8DXqenSFN9tYa5zizSlVHC8",
+          "url": "https://docs.google.com/document/d/1xwCTZmampW_FQZXe6R7a8DXqenSFN9tYa5zizSlVHC8/edit?usp=drivesdk",
+          "updated": "2026-11-06T09:14:57.380Z"
+        }
+      ],
+      "selected": "1BsmMuhrSylJn6ZGOMUVq_zqdKVg77y3AJlwNhR_4Knw",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 36,
+      "versions": [
+        {
+          "title": "Chapter 36 — The Sluice",
+          "id": "1t3snZbfClFInHu063Shjcbl6yKEhQfIZs6gN7FiC8FA",
+          "url": "https://docs.google.com/document/d/1t3snZbfClFInHu063Shjcbl6yKEhQfIZs6gN7FiC8FA/edit?usp=drivesdk",
+          "updated": "2026-11-06T10:20:36.518Z"
+        }
+      ],
+      "selected": "1t3snZbfClFInHu063Shjcbl6yKEhQfIZs6gN7FiC8FA",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 37,
+      "versions": [
+        {
+          "title": "Chapter 37 — The Bend Below the Keep",
+          "id": "1Gqjw9gk2WvjBmM7xKiI4PkWZnu2fLyQLB_iqIt7Y9Wc",
+          "url": "https://docs.google.com/document/d/1Gqjw9gk2WvjBmM7xKiI4PkWZnu2fLyQLB_iqIt7Y9Wc/edit?usp=drivesdk",
+          "updated": "2026-11-06T10:20:37.703Z"
+        }
+      ],
+      "selected": "1Gqjw9gk2WvjBmM7xKiI4PkWZnu2fLyQLB_iqIt7Y9Wc",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 38,
+      "versions": [
+        {
+          "title": "Chapter 38 — Four Sheets",
+          "id": "1xzWVEh8zqLc2kuu9jd3XiP3F4dBLqHBiWV2QaYF_fSM",
+          "url": "https://docs.google.com/document/d/1xzWVEh8zqLc2kuu9jd3XiP3F4dBLqHBiWV2QaYF_fSM/edit?usp=drivesdk",
+          "updated": "2026-11-06T10:20:41.005Z"
+        }
+      ],
+      "selected": "1xzWVEh8zqLc2kuu9jd3XiP3F4dBLqHBiWV2QaYF_fSM",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 39,
+      "versions": [
+        {
+          "title": "Chapter 39 — The Lady's Measure",
+          "id": "1bs-7pvOBC9IVbiO1IsQHleg_rwSRfhAIIse3vy-EpFw",
+          "url": "https://docs.google.com/document/d/1bs-7pvOBC9IVbiO1IsQHleg_rwSRfhAIIse3vy-EpFw/edit?usp=drivesdk",
+          "updated": "2026-11-08T15:41:06.441Z"
+        }
+      ],
+      "selected": "1bs-7pvOBC9IVbiO1IsQHleg_rwSRfhAIIse3vy-EpFw",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 40,
+      "versions": [
+        {
+          "title": "Chapter 40 — The Roll of Arms",
+          "id": "1ps_qM-eP7sHiADhDLlm9iDuknoIzXfgiUCyP9Ciwb2E",
+          "url": "https://docs.google.com/document/d/1ps_qM-eP7sHiADhDLlm9iDuknoIzXfgiUCyP9Ciwb2E/edit?usp=drivesdk",
+          "updated": "2026-11-08T15:38:57.014Z"
+        }
+      ],
+      "selected": "1ps_qM-eP7sHiADhDLlm9iDuknoIzXfgiUCyP9Ciwb2E",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 41,
+      "versions": [
+        {
+          "title": "Chapter 41 — The Sun in Every Room",
+          "id": "1jI-rUluQinJJywzZXvKC_qdRU0zCjTsGhaaeqbrWkek",
+          "url": "https://docs.google.com/document/d/1jI-rUluQinJJywzZXvKC_qdRU0zCjTsGhaaeqbrWkek/edit?usp=drivesdk",
+          "updated": "2026-11-08T15:39:05.854Z"
+        }
+      ],
+      "selected": "1jI-rUluQinJJywzZXvKC_qdRU0zCjTsGhaaeqbrWkek",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 42,
+      "versions": [
+        {
+          "title": "Chapter 42 — The Order of the Table",
+          "id": "1nDOzJ_qbO7TZyt6aHWR8prKAYRnoBqAtRsAMp9Ze-qo",
+          "url": "https://docs.google.com/document/d/1nDOzJ_qbO7TZyt6aHWR8prKAYRnoBqAtRsAMp9Ze-qo/edit?usp=drivesdk",
+          "updated": "2026-11-08T15:39:22.429Z"
+        }
+      ],
+      "selected": "1nDOzJ_qbO7TZyt6aHWR8prKAYRnoBqAtRsAMp9Ze-qo",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 43,
+      "versions": [
+        {
+          "title": "Chapter 43 — The Bread and the Salt",
+          "id": "1s-WtwmtzvClZVzWRUvksKIa0BwJgW4h_R3w_R0OD4eo",
+          "url": "https://docs.google.com/document/d/1s-WtwmtzvClZVzWRUvksKIa0BwJgW4h_R3w_R0OD4eo/edit?usp=drivesdk",
+          "updated": "2026-11-08T16:01:32.199Z"
+        }
+      ],
+      "selected": "1s-WtwmtzvClZVzWRUvksKIa0BwJgW4h_R3w_R0OD4eo",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 44,
+      "versions": [
+        {
+          "title": "Chapter 44 — The Lure",
+          "id": "1rMV3cPo58Dz4oL5VwTiKx1IKQfdxQl6lsXQlynFisag",
+          "url": "https://docs.google.com/document/d/1rMV3cPo58Dz4oL5VwTiKx1IKQfdxQl6lsXQlynFisag/edit?usp=drivesdk",
+          "updated": "2026-11-08T16:41:23.104Z"
+        }
+      ],
+      "selected": "1rMV3cPo58Dz4oL5VwTiKx1IKQfdxQl6lsXQlynFisag",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 45,
+      "versions": [
+        {
+          "title": "Chapter 45 — Ser Fenwick's Mark",
+          "id": "1RCF3Bnbn3cTXDhy8QRQk59Y6rqHJ3-BGqAq1_L6-jOU",
+          "url": "https://docs.google.com/document/d/1RCF3Bnbn3cTXDhy8QRQk59Y6rqHJ3-BGqAq1_L6-jOU/edit?usp=drivesdk",
+          "updated": "2026-11-12T19:58:19.599Z"
+        }
+      ],
+      "selected": "1RCF3Bnbn3cTXDhy8QRQk59Y6rqHJ3-BGqAq1_L6-jOU",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 46,
+      "versions": [
+        {
+          "title": "Chapter 46 — The Lower Gate",
+          "id": "1zcxlOK-UesZb39W9Hya_agH80kM8YO6W_csRLuqTUbo",
+          "url": "https://docs.google.com/document/d/1zcxlOK-UesZb39W9Hya_agH80kM8YO6W_csRLuqTUbo/edit?usp=drivesdk",
+          "updated": "2026-11-13T12:12:32.292Z"
+        }
+      ],
+      "selected": "1zcxlOK-UesZb39W9Hya_agH80kM8YO6W_csRLuqTUbo",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 47,
+      "versions": [
+        {
+          "title": "Chapter 47 — The Unlatched Door",
+          "id": "170N3IaPE7yE4Mipgyxvos8rzjqI2u0pbZikRhTiZ5J8",
+          "url": "https://docs.google.com/document/d/170N3IaPE7yE4Mipgyxvos8rzjqI2u0pbZikRhTiZ5J8/edit?usp=drivesdk",
+          "updated": "2026-11-14T15:35:09.762Z"
+        }
+      ],
+      "selected": "170N3IaPE7yE4Mipgyxvos8rzjqI2u0pbZikRhTiZ5J8",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 48,
+      "versions": [
+        {
+          "title": "Chapter 48 — The Centaur's Hall",
+          "id": "1eWTjhWRHtojeERE179lJSwUcwv-kebt_FKtfY24feGk",
+          "url": "https://docs.google.com/document/d/1eWTjhWRHtojeERE179lJSwUcwv-kebt_FKtfY24feGk/edit?usp=drivesdk",
+          "updated": "2026-11-15T10:37:28.832Z"
+        }
+      ],
+      "selected": "1eWTjhWRHtojeERE179lJSwUcwv-kebt_FKtfY24feGk",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 49,
+      "versions": [
+        {
+          "title": "Chapter 49 — The Price of a Place",
+          "id": "14T9P9kgApK72HkH75Ex-G5pCQDzwaZLf4hnrZyqApg0",
+          "url": "https://docs.google.com/document/d/14T9P9kgApK72HkH75Ex-G5pCQDzwaZLf4hnrZyqApg0/edit?usp=drivesdk",
+          "updated": "2026-11-15T13:53:26.146Z"
+        }
+      ],
+      "selected": "14T9P9kgApK72HkH75Ex-G5pCQDzwaZLf4hnrZyqApg0",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 50,
+      "versions": [
+        {
+          "title": "Chapter 50 — The Rose Beyond the Walls",
+          "id": "1fLrMuEZLNevSsZhkGXFUcUvMCDTuFISRG8v4ps7kMKk",
+          "url": "https://docs.google.com/document/d/1fLrMuEZLNevSsZhkGXFUcUvMCDTuFISRG8v4ps7kMKk/edit?usp=drivesdk",
+          "updated": "2026-11-15T14:01:07.546Z"
+        }
+      ],
+      "selected": "1fLrMuEZLNevSsZhkGXFUcUvMCDTuFISRG8v4ps7kMKk",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 51,
+      "versions": [
+        {
+          "title": "Chapter 51 — The Two Courts",
+          "id": "1ywqWLiMYUEyKFbz3adwtg1Bciro1lwn8baRcEDuisgE",
+          "url": "https://docs.google.com/document/d/1ywqWLiMYUEyKFbz3adwtg1Bciro1lwn8baRcEDuisgE/edit?usp=drivesdk",
+          "updated": "2026-11-18T06:13:29.568Z"
+        }
+      ],
+      "selected": "1ywqWLiMYUEyKFbz3adwtg1Bciro1lwn8baRcEDuisgE",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 52,
+      "versions": [
+        {
+          "title": "Chapter 52 — A Place Among Roses",
+          "id": "116SF_RNwOXvHLRtVG_Tqvr1Xht2Q5TwTRTnbm_ZAhIw",
+          "url": "https://docs.google.com/document/d/116SF_RNwOXvHLRtVG_Tqvr1Xht2Q5TwTRTnbm_ZAhIw/edit?usp=drivesdk",
+          "updated": "2026-11-18T06:08:13.737Z"
+        }
+      ],
+      "selected": "116SF_RNwOXvHLRtVG_Tqvr1Xht2Q5TwTRTnbm_ZAhIw",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 53,
+      "versions": [
+        {
+          "title": "Chapter 53 — The Long Stables",
+          "id": "1b4DlpmK_cZtooezKhaHghkb3xztDrohvt1of2AfFQVM",
+          "url": "https://docs.google.com/document/d/1b4DlpmK_cZtooezKhaHghkb3xztDrohvt1of2AfFQVM/edit?usp=drivesdk",
+          "updated": "2026-11-18T15:53:41.513Z"
+        }
+      ],
+      "selected": "1b4DlpmK_cZtooezKhaHghkb3xztDrohvt1of2AfFQVM",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 54,
+      "versions": [
+        {
+          "title": "Chapter 54 — Wine Among the Roses",
+          "id": "11QHh7RmZcjK5hCUUPH3u6JjzHGgDv98rtuNrWoljFXQ",
+          "url": "https://docs.google.com/document/d/11QHh7RmZcjK5hCUUPH3u6JjzHGgDv98rtuNrWoljFXQ/edit?usp=drivesdk",
+          "updated": "2026-11-19T18:20:42.966Z"
+        }
+      ],
+      "selected": "11QHh7RmZcjK5hCUUPH3u6JjzHGgDv98rtuNrWoljFXQ",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 55,
+      "versions": [
+        {
+          "title": "Chapter 55 — Old Friends",
+          "id": "1zVzggkBxMthUDiIraLdVOyEFjk6Q8h0b5wXQNU37Bnc",
+          "url": "https://docs.google.com/document/d/1zVzggkBxMthUDiIraLdVOyEFjk6Q8h0b5wXQNU37Bnc/edit?usp=drivesdk",
+          "updated": "2026-11-20T06:39:46.859Z"
+        }
+      ],
+      "selected": "1zVzggkBxMthUDiIraLdVOyEFjk6Q8h0b5wXQNU37Bnc",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 56,
+      "versions": [
+        {
+          "title": "Chapter 56 — A Fair Judge",
+          "id": "1Te0FKIKXGHROen0BYrUhokjvBIKdi_v-mRKR4amMp-E",
+          "url": "https://docs.google.com/document/d/1Te0FKIKXGHROen0BYrUhokjvBIKdi_v-mRKR4amMp-E/edit?usp=drivesdk",
+          "updated": "2026-11-20T06:39:48.844Z"
+        }
+      ],
+      "selected": "1Te0FKIKXGHROen0BYrUhokjvBIKdi_v-mRKR4amMp-E",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 57,
+      "versions": [
+        {
+          "title": "Chapter 57 — The Low Water",
+          "id": "1KI-oS3uIjxczbUsWvMmeNfwy_bnz3crav97fp9463S0",
+          "url": "https://docs.google.com/document/d/1KI-oS3uIjxczbUsWvMmeNfwy_bnz3crav97fp9463S0/edit?usp=drivesdk",
+          "updated": "2026-11-20T10:54:12.239Z"
+        }
+      ],
+      "selected": "1KI-oS3uIjxczbUsWvMmeNfwy_bnz3crav97fp9463S0",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 58,
+      "versions": [
+        {
+          "title": "Chapter 58 — A Small Side",
+          "id": "1GZH2Vll61C-nz-VeXRpTq3hX7BfjeXrIrwEgTtIdHXc",
+          "url": "https://docs.google.com/document/d/1GZH2Vll61C-nz-VeXRpTq3hX7BfjeXrIrwEgTtIdHXc/edit?usp=drivesdk",
+          "updated": "2026-11-20T10:54:02.466Z"
+        }
+      ],
+      "selected": "1GZH2Vll61C-nz-VeXRpTq3hX7BfjeXrIrwEgTtIdHXc",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 59,
+      "versions": [
+        {
+          "title": "Chapter 59 — The Short Table",
+          "id": "1S4Yxf6LZcQpmXvR-QShiDl04-A44GJh4C4TcjIjqadg",
+          "url": "https://docs.google.com/document/d/1S4Yxf6LZcQpmXvR-QShiDl04-A44GJh4C4TcjIjqadg/edit?usp=drivesdk",
+          "updated": "2026-11-20T14:44:20.876Z"
+        }
+      ],
+      "selected": "1S4Yxf6LZcQpmXvR-QShiDl04-A44GJh4C4TcjIjqadg",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 60,
+      "versions": [
+        {
+          "title": "Chapter 60 — The Wedding Guests",
+          "id": "12F6SzVSQcgYZusgHK4DqI8RpWPNAJUF0sR8oNBHn2Pg",
+          "url": "https://docs.google.com/document/d/12F6SzVSQcgYZusgHK4DqI8RpWPNAJUF0sR8oNBHn2Pg/edit?usp=drivesdk",
+          "updated": "2026-11-20T16:04:42.706Z"
+        }
+      ],
+      "selected": "12F6SzVSQcgYZusgHK4DqI8RpWPNAJUF0sR8oNBHn2Pg",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 61,
+      "versions": [
+        {
+          "title": "Chapter 61 — A Gift in the Open",
+          "id": "1Xvk81aCtA_mt1nEx_Dct_kAYAzRrdsFgD30nKCDBWdw",
+          "url": "https://docs.google.com/document/d/1Xvk81aCtA_mt1nEx_Dct_kAYAzRrdsFgD30nKCDBWdw/edit?usp=drivesdk",
+          "updated": "2026-11-21T11:45:39.364Z"
+        }
+      ],
+      "selected": "1Xvk81aCtA_mt1nEx_Dct_kAYAzRrdsFgD30nKCDBWdw",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 62,
+      "versions": [
+        {
+          "title": "Chapter 62 — Forty Horses",
+          "id": "1TZtfB19ulCAopA2awXeuSKcccDMFg9G_yxrjC7X4jAw",
+          "url": "https://docs.google.com/document/d/1TZtfB19ulCAopA2awXeuSKcccDMFg9G_yxrjC7X4jAw/edit?usp=drivesdk",
+          "updated": "2026-11-22T09:14:37.824Z"
+        }
+      ],
+      "selected": "1TZtfB19ulCAopA2awXeuSKcccDMFg9G_yxrjC7X4jAw",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 63,
+      "versions": [
+        {
+          "title": "Chapter 63 — The Common Store",
+          "id": "1ZLMcJKFL_vCUKAKfoe7fZz2-QdGWysIgTF1Iu9dFYVE",
+          "url": "https://docs.google.com/document/d/1ZLMcJKFL_vCUKAKfoe7fZz2-QdGWysIgTF1Iu9dFYVE/edit?usp=drivesdk",
+          "updated": "2026-11-22T12:51:15.175Z"
+        }
+      ],
+      "selected": "1ZLMcJKFL_vCUKAKfoe7fZz2-QdGWysIgTF1Iu9dFYVE",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 64,
+      "versions": [
+        {
+          "title": "Chapter 64 — A Gift to Horn Hill",
+          "id": "1QMVcbgJ9bmLVYvLmFhFDwaECvpE7TyL6G0E04m-M-pg",
+          "url": "https://docs.google.com/document/d/1QMVcbgJ9bmLVYvLmFhFDwaECvpE7TyL6G0E04m-M-pg/edit?usp=drivesdk",
+          "updated": "2026-11-22T19:16:17.796Z"
+        }
+      ],
+      "selected": "1QMVcbgJ9bmLVYvLmFhFDwaECvpE7TyL6G0E04m-M-pg",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 65,
+      "versions": [
+        {
+          "title": "Chapter 65 — A River at His Door",
+          "id": "1CnND0x1ESjEuqEKah1em646EBoXjPWgpz9YqRGD50VY",
+          "url": "https://docs.google.com/document/d/1CnND0x1ESjEuqEKah1em646EBoXjPWgpz9YqRGD50VY/edit?usp=drivesdk",
+          "updated": "2026-11-23T21:22:16.244Z"
+        }
+      ],
+      "selected": "1CnND0x1ESjEuqEKah1em646EBoXjPWgpz9YqRGD50VY",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 66,
+      "versions": [
+        {
+          "title": "Chapter 66 — Whose Man",
+          "id": "1HOGFwfwXrgCr_5QTrpLBA0-y71Uln83e19u7wkU1V6A",
+          "url": "https://docs.google.com/document/d/1HOGFwfwXrgCr_5QTrpLBA0-y71Uln83e19u7wkU1V6A/edit?usp=drivesdk",
+          "updated": "2026-11-24T12:31:13.960Z"
+        }
+      ],
+      "selected": "1HOGFwfwXrgCr_5QTrpLBA0-y71Uln83e19u7wkU1V6A",
+      "status": "indexed_not_extracted"
+    },
+    {
+      "number": 67,
+      "versions": [
+        {
+          "title": "Chapter 67 — Lord in His Own Hall (Version 2)",
+          "id": "1PgM83hBpQsSlYPEew2pawFAjP4-VAhBxmZbfuNnnPX0",
+          "url": "https://docs.google.com/document/d/1PgM83hBpQsSlYPEew2pawFAjP4-VAhBxmZbfuNnnPX0/edit?usp=drivesdk",
+          "updated": "2026-11-25T12:09:10.680Z"
+        },
+        {
+          "title": "Chapter 67 — The Second Cutting",
+          "id": "1AdS5s8PcG8fhC_QtPquFtf5K9Nn32y__TMIAb3X3R10",
+          "url": "https://docs.google.com/document/d/1AdS5s8PcG8fhC_QtPquFtf5K9Nn32y__TMIAb3X3R10/edit?usp=drivesdk",
+          "updated": "2026-11-25T11:40:58.563Z"
+        }
+      ],
+      "selected": null,
+      "status": "conflicting_titles_review_required"
+    }
+  ]
+}
