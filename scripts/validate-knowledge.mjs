@@ -59,6 +59,26 @@ const rival = facts.find(f => f.predicate === 'betrothed_to' &&
 check(Boolean(rival), 'Triston betrothal missing');
 if (rival) check(!active(rival,{year:208,chapter:59}) && active(rival,{year:208,chapter:60}),
   'Betrothal chronology invalid');
+
+for (const [house,head,heir] of [
+  ['house:baratheon','person:edric-baratheon','person:lyonel-baratheon'],
+  ['house:penrose','person:ronnel-penrose','person:robin-penrose']
+]) {
+  check(facts.some(f=>f.subject===house&&f.predicate==='head'&&f.object===head&&active(f,{year:208,chapter:67})),house+': 208 head missing');
+  check(facts.some(f=>f.subject===heir&&f.predicate==='heir_to'&&f.object===house&&active(f,{year:208,chapter:67})),house+': 208 heir missing');
+}
+for (const [child,parent] of [
+ ['person:lyonel-baratheon','person:edric-baratheon'],
+ ['person:boremund-baratheon','person:edric-baratheon'],
+ ['person:gowen-baratheon','person:edric-baratheon'],
+ ['person:ormund-baratheon','person:laena-baratheon'],
+ ['person:edwyn-baratheon','person:boremund-baratheon'],
+ ['person:joy-penrose','person:elaena-targaryen'],
+ ['person:laena-baratheon','person:ronnel-penrose'],
+ ['person:jon-penrose','person:roland-penrose'],
+ ['person:addam-penrose','person:alysanne-penrose']
+])check(facts.some(f=>f.subject===child&&f.predicate==='child_of'&&f.object===parent),child+': known parent missing');
+check(!ids.has('house:grandison-of-merewatch'),'Unplayed 224 AC house must not exist in 208 records');
 if (failures.length) {
   for (const problem of failures) console.error('FAIL', problem);
   process.exitCode = 1;

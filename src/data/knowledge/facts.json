@@ -11057,5 +11057,1403 @@
         "line": 373
       }
     ]
+  },
+  {
+    "id": "fact:652",
+    "subject": "person:lyonel-baratheon",
+    "predicate": "child_of",
+    "object": "person:edric-baratheon",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 899
+      }
+    ]
+  },
+  {
+    "id": "fact:653",
+    "subject": "person:lyonel-baratheon",
+    "predicate": "child_of",
+    "object": "person:alysanne-baratheon",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 899
+      }
+    ]
+  },
+  {
+    "id": "fact:654",
+    "subject": "person:boremund-baratheon",
+    "predicate": "child_of",
+    "object": "person:edric-baratheon",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 899
+      }
+    ]
+  },
+  {
+    "id": "fact:655",
+    "subject": "person:boremund-baratheon",
+    "predicate": "child_of",
+    "object": "person:alysanne-baratheon",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 899
+      }
+    ]
+  },
+  {
+    "id": "fact:656",
+    "subject": "person:gowen-baratheon",
+    "predicate": "child_of",
+    "object": "person:edric-baratheon",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 899
+      }
+    ]
+  },
+  {
+    "id": "fact:657",
+    "subject": "person:gowen-baratheon",
+    "predicate": "child_of",
+    "object": "person:alysanne-baratheon",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 899
+      }
+    ]
+  },
+  {
+    "id": "fact:658",
+    "subject": "person:ormund-baratheon",
+    "predicate": "child_of",
+    "object": "person:lyonel-baratheon",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 899
+      }
+    ]
+  },
+  {
+    "id": "fact:659",
+    "subject": "person:ormund-baratheon",
+    "predicate": "child_of",
+    "object": "person:laena-baratheon",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 899
+      }
+    ]
+  },
+  {
+    "id": "fact:660",
+    "subject": "person:edwyn-baratheon",
+    "predicate": "child_of",
+    "object": "person:boremund-baratheon",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 899
+      }
+    ]
+  },
+  {
+    "id": "fact:661",
+    "subject": "person:edwyn-baratheon",
+    "predicate": "child_of",
+    "object": "person:ellyn-baratheon",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 899
+      }
+    ]
+  },
+  {
+    "id": "fact:662",
+    "subject": "person:edric-baratheon",
+    "predicate": "married_to",
+    "object": "person:alysanne-baratheon",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 899
+      }
+    ]
+  },
+  {
+    "id": "fact:663",
+    "subject": "person:lyonel-baratheon",
+    "predicate": "married_to",
+    "object": "person:laena-baratheon",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 899
+      }
+    ]
+  },
+  {
+    "id": "fact:664",
+    "subject": "person:boremund-baratheon",
+    "predicate": "married_to",
+    "object": "person:ellyn-baratheon",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 899
+      }
+    ]
+  },
+  {
+    "id": "fact:665",
+    "subject": "person:gowen-baratheon",
+    "predicate": "betrothed_to",
+    "object": "person:tya-lannister",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 899
+      }
+    ]
+  },
+  {
+    "id": "fact:666",
+    "subject": "person:robin-penrose",
+    "predicate": "child_of",
+    "object": "person:ronnel-penrose",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1151
+      }
+    ]
+  },
+  {
+    "id": "fact:667",
+    "subject": "person:robin-penrose",
+    "predicate": "child_of",
+    "object": "person:elaena-targaryen",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1151
+      }
+    ]
+  },
+  {
+    "id": "fact:668",
+    "subject": "person:laena-baratheon",
+    "predicate": "child_of",
+    "object": "person:ronnel-penrose",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1151
+      }
+    ]
+  },
+  {
+    "id": "fact:669",
+    "subject": "person:laena-baratheon",
+    "predicate": "child_of",
+    "object": "person:elaena-targaryen",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1151
+      }
+    ]
+  },
+  {
+    "id": "fact:670",
+    "subject": "person:jocelyn-penrose",
+    "predicate": "child_of",
+    "object": "person:ronnel-penrose",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1151
+      }
+    ]
+  },
+  {
+    "id": "fact:671",
+    "subject": "person:jocelyn-penrose",
+    "predicate": "child_of",
+    "object": "person:elaena-targaryen",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1151
+      }
+    ]
+  },
+  {
+    "id": "fact:672",
+    "subject": "person:joy-penrose",
+    "predicate": "child_of",
+    "object": "person:ronnel-penrose",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1151
+      }
+    ]
+  },
+  {
+    "id": "fact:673",
+    "subject": "person:joy-penrose",
+    "predicate": "child_of",
+    "object": "person:elaena-targaryen",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1151
+      }
+    ]
+  },
+  {
+    "id": "fact:674",
+    "subject": "person:aelinor-targaryen",
+    "predicate": "child_of",
+    "object": "person:roland-penrose",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1152
+      }
+    ]
+  },
+  {
+    "id": "fact:675",
+    "subject": "person:aelinor-targaryen",
+    "predicate": "child_of",
+    "object": "person:alysanne-penrose",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1152
+      }
+    ]
+  },
+  {
+    "id": "fact:676",
+    "subject": "person:jon-penrose",
+    "predicate": "child_of",
+    "object": "person:roland-penrose",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1152
+      }
+    ]
+  },
+  {
+    "id": "fact:677",
+    "subject": "person:jon-penrose",
+    "predicate": "child_of",
+    "object": "person:alysanne-penrose",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1152
+      }
+    ]
+  },
+  {
+    "id": "fact:678",
+    "subject": "person:addam-penrose",
+    "predicate": "child_of",
+    "object": "person:roland-penrose",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1152
+      }
+    ]
+  },
+  {
+    "id": "fact:679",
+    "subject": "person:addam-penrose",
+    "predicate": "child_of",
+    "object": "person:alysanne-penrose",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1152
+      }
+    ]
+  },
+  {
+    "id": "fact:680",
+    "subject": "person:ronnel-penrose",
+    "predicate": "married_to",
+    "object": "person:elaena-targaryen",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1151
+      }
+    ]
+  },
+  {
+    "id": "fact:681",
+    "subject": "person:roland-penrose",
+    "predicate": "married_to",
+    "object": "person:alysanne-penrose",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1152
+      }
+    ]
+  },
+  {
+    "id": "fact:682",
+    "subject": "person:aelinor-targaryen",
+    "predicate": "married_to",
+    "object": "person:aerys-targaryen",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1152
+      }
+    ]
+  },
+  {
+    "id": "fact:683",
+    "subject": "person:ronnel-penrose",
+    "predicate": "sibling_of",
+    "object": "person:roland-penrose",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1152
+      }
+    ]
+  },
+  {
+    "id": "fact:684",
+    "subject": "house:baratheon",
+    "predicate": "head",
+    "object": "person:edric-baratheon",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 895
+      }
+    ]
+  },
+  {
+    "id": "fact:685",
+    "subject": "person:lyonel-baratheon",
+    "predicate": "heir_to",
+    "object": "house:baratheon",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 895
+      }
+    ]
+  },
+  {
+    "id": "fact:686",
+    "subject": "person:edric-baratheon",
+    "predicate": "holds_title",
+    "object": "title:lord-of-storms-end",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 895
+      }
+    ]
+  },
+  {
+    "id": "fact:687",
+    "subject": "title:lord-of-storms-end",
+    "predicate": "associated_house",
+    "object": "house:baratheon",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 895
+      }
+    ]
+  },
+  {
+    "id": "fact:688",
+    "subject": "title:lord-of-storms-end",
+    "predicate": "seat",
+    "object": "place:storm-s-end",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 895
+      }
+    ]
+  },
+  {
+    "id": "fact:689",
+    "subject": "house:penrose",
+    "predicate": "head",
+    "object": "person:ronnel-penrose",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1149
+      }
+    ]
+  },
+  {
+    "id": "fact:690",
+    "subject": "person:robin-penrose",
+    "predicate": "heir_to",
+    "object": "house:penrose",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1149
+      }
+    ]
+  },
+  {
+    "id": "fact:691",
+    "subject": "person:ronnel-penrose",
+    "predicate": "holds_title",
+    "object": "title:lord-of-parchments",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1149
+      }
+    ]
+  },
+  {
+    "id": "fact:692",
+    "subject": "title:lord-of-parchments",
+    "predicate": "associated_house",
+    "object": "house:penrose",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1149
+      }
+    ]
+  },
+  {
+    "id": "fact:693",
+    "subject": "title:lord-of-parchments",
+    "predicate": "seat",
+    "object": "place:parchments",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1149
+      }
+    ]
+  },
+  {
+    "id": "fact:694",
+    "subject": "person:ronnel-penrose",
+    "predicate": "holds_title",
+    "object": "title:master-of-coin",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1149
+      }
+    ]
+  },
+  {
+    "id": "fact:695",
+    "subject": "person:edric-baratheon",
+    "predicate": "household_member_of",
+    "object": "house:baratheon",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 908
+      }
+    ],
+    "role208": "Lord of Storm's End",
+    "rosterGroup208": "lords_family"
+  },
+  {
+    "id": "fact:696",
+    "subject": "person:alysanne-baratheon",
+    "predicate": "household_member_of",
+    "object": "house:baratheon",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 909
+      }
+    ],
+    "role208": "Lady of Storm's End, née Swann",
+    "rosterGroup208": "lords_family"
+  },
+  {
+    "id": "fact:697",
+    "subject": "person:lyonel-baratheon",
+    "predicate": "household_member_of",
+    "object": "house:baratheon",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 910
+      }
+    ],
+    "role208": "heir to Storm's End",
+    "rosterGroup208": "lords_family"
+  },
+  {
+    "id": "fact:698",
+    "subject": "person:laena-baratheon",
+    "predicate": "household_member_of",
+    "object": "house:baratheon",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 911
+      }
+    ],
+    "role208": "wife of Ser Lyonel, née Penrose",
+    "rosterGroup208": "lords_family"
+  },
+  {
+    "id": "fact:699",
+    "subject": "person:ormund-baratheon",
+    "predicate": "household_member_of",
+    "object": "house:baratheon",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 912
+      }
+    ],
+    "role208": "son of Ser Lyonel and Lady Laena",
+    "rosterGroup208": "lords_family"
+  },
+  {
+    "id": "fact:700",
+    "subject": "person:boremund-baratheon",
+    "predicate": "household_member_of",
+    "object": "house:baratheon",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 913
+      }
+    ],
+    "role208": "younger son of Lord Edric",
+    "rosterGroup208": "lords_family"
+  },
+  {
+    "id": "fact:701",
+    "subject": "person:ellyn-baratheon",
+    "predicate": "household_member_of",
+    "object": "house:baratheon",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 914
+      }
+    ],
+    "role208": "wife of Ser Boremund, née Connington",
+    "rosterGroup208": "lords_family"
+  },
+  {
+    "id": "fact:702",
+    "subject": "person:edwyn-baratheon",
+    "predicate": "household_member_of",
+    "object": "house:baratheon",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 915
+      }
+    ],
+    "role208": "son of Ser Boremund and Lady Ellyn",
+    "rosterGroup208": "lords_family"
+  },
+  {
+    "id": "fact:703",
+    "subject": "person:gowen-baratheon",
+    "predicate": "household_member_of",
+    "object": "house:baratheon",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 916
+      }
+    ],
+    "role208": "youngest son of Lord Edric",
+    "rosterGroup208": "lords_family"
+  },
+  {
+    "id": "fact:704",
+    "subject": "person:raymont-grandison",
+    "predicate": "household_member_of",
+    "object": "house:baratheon",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 919
+      }
+    ],
+    "role208": "household knight",
+    "rosterGroup208": "household_knight"
+  },
+  {
+    "id": "fact:705",
+    "subject": "person:morton-caron",
+    "predicate": "household_member_of",
+    "object": "house:baratheon",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 920
+      }
+    ],
+    "role208": "household knight",
+    "rosterGroup208": "household_knight"
+  },
+  {
+    "id": "fact:706",
+    "subject": "person:unnamed-peasebury-daughter",
+    "predicate": "household_member_of",
+    "object": "house:baratheon",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 922
+      }
+    ],
+    "role208": "lady-in-waiting to Lady Alysanne Baratheon",
+    "rosterGroup208": "lady_and_companion"
+  },
+  {
+    "id": "fact:707",
+    "subject": "person:armond-caron",
+    "predicate": "household_member_of",
+    "object": "house:baratheon",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 924
+      }
+    ],
+    "role208": "squire at Storm's End",
+    "rosterGroup208": "squire_and_page"
+  },
+  {
+    "id": "fact:708",
+    "subject": "person:corwin-swann",
+    "predicate": "household_member_of",
+    "object": "house:baratheon",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 925
+      }
+    ],
+    "role208": "squire at Storm's End",
+    "rosterGroup208": "squire_and_page"
+  },
+  {
+    "id": "fact:709",
+    "subject": "person:alysanne-penrose",
+    "predicate": "household_member_of",
+    "object": "house:penrose",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1161
+      }
+    ],
+    "role208": "widow of Ser Roland and senior resident of Parchments",
+    "rosterGroup208": "lords_family"
+  },
+  {
+    "id": "fact:710",
+    "subject": "person:jon-penrose",
+    "predicate": "household_member_of",
+    "object": "house:penrose",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1162
+      }
+    ],
+    "role208": "household knight at Parchments",
+    "rosterGroup208": "lords_family"
+  },
+  {
+    "id": "fact:711",
+    "subject": "person:addam-penrose",
+    "predicate": "household_member_of",
+    "object": "house:penrose",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1163
+      }
+    ],
+    "role208": "household knight at Parchments; married to Lady Elenei Grandison",
+    "rosterGroup208": "lords_family"
+  },
+  {
+    "id": "fact:712",
+    "subject": "person:ronnel-penrose",
+    "predicate": "visits_house",
+    "object": "house:penrose",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1166
+      }
+    ],
+    "role208": "lord of Parchments; ordinarily at the royal court",
+    "rosterGroup208": "visitor"
+  },
+  {
+    "id": "fact:713",
+    "subject": "person:elaena-targaryen",
+    "predicate": "visits_house",
+    "object": "house:penrose",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1167
+      }
+    ],
+    "role208": "wife of Lord Ronnel; ordinarily at the royal court",
+    "rosterGroup208": "visitor"
+  },
+  {
+    "id": "fact:714",
+    "subject": "person:robin-penrose",
+    "predicate": "visits_house",
+    "object": "house:penrose",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1168
+      }
+    ],
+    "role208": "heir to Parchments",
+    "rosterGroup208": "visitor"
+  },
+  {
+    "id": "fact:715",
+    "subject": "person:jocelyn-penrose",
+    "predicate": "visits_house",
+    "object": "house:penrose",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1169
+      }
+    ],
+    "role208": "daughter of Lord Ronnel",
+    "rosterGroup208": "visitor"
+  },
+  {
+    "id": "fact:716",
+    "subject": "person:joy-penrose",
+    "predicate": "visits_house",
+    "object": "house:penrose",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1170
+      }
+    ],
+    "role208": "daughter of Lord Ronnel",
+    "rosterGroup208": "visitor"
+  },
+  {
+    "id": "fact:717",
+    "subject": "person:laena-baratheon",
+    "predicate": "visits_house",
+    "object": "house:penrose",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1171
+      }
+    ],
+    "role208": "daughter of Lord Ronnel; wife of Ser Lyonel",
+    "rosterGroup208": "visitor"
+  },
+  {
+    "id": "fact:718",
+    "subject": "person:aelinor-targaryen",
+    "predicate": "visits_house",
+    "object": "house:penrose",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1172
+      }
+    ],
+    "role208": "daughter of Ser Roland; wife of Prince Aerys",
+    "rosterGroup208": "visitor"
+  },
+  {
+    "id": "fact:719",
+    "subject": "person:edric-baratheon",
+    "predicate": "born_to_house",
+    "object": "house:baratheon",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 927
+      }
+    ]
+  },
+  {
+    "id": "fact:720",
+    "subject": "person:lyonel-baratheon",
+    "predicate": "born_to_house",
+    "object": "house:baratheon",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 969
+      }
+    ]
+  },
+  {
+    "id": "fact:721",
+    "subject": "person:ronnel-penrose",
+    "predicate": "born_to_house",
+    "object": "house:penrose",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1149
+      }
+    ]
+  },
+  {
+    "id": "fact:722",
+    "subject": "person:laena-baratheon",
+    "predicate": "born_to_house",
+    "object": "house:penrose",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1151
+      }
+    ]
+  },
+  {
+    "id": "fact:723",
+    "subject": "person:elaena-targaryen",
+    "predicate": "born_to_house",
+    "object": "house:targaryen",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1149
+      }
+    ]
+  },
+  {
+    "id": "fact:724",
+    "subject": "person:alysanne-baratheon",
+    "predicate": "born_to_house",
+    "object": "house:swann",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 948
+      }
+    ]
+  },
+  {
+    "id": "fact:725",
+    "subject": "person:ellyn-baratheon",
+    "predicate": "born_to_house",
+    "object": "house:connington",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1032
+      }
+    ]
+  },
+  {
+    "id": "fact:726",
+    "subject": "person:tya-lannister",
+    "predicate": "born_to_house",
+    "object": "house:lannister",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1073
+      }
+    ]
   }
 ]

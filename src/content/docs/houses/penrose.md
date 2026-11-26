@@ -1,0 +1,36 @@
+---
+title: House Penrose
+description: A principal Stormlands house of Parchments, with connections to the royal court.
+---
+
+import KnowledgeInfobox from '../../../components/KnowledgeInfobox.astro';
+import KnowledgeFamilyTree from '../../../components/KnowledgeFamilyTree.astro';
+import KnowledgeRoster from '../../../components/KnowledgeRoster.astro';
+
+**House Penrose of Parchments** is a principal noble family sworn to House Baratheon of Storm's End. The Penroses hold Parchments, an inland seat in the central Stormlands, but their family is divided between the ancestral holding and the royal court.
+
+<KnowledgeInfobox entityId="house:penrose" />
+
+## Lord Ronnel's line
+
+Lord Ronnel Penrose serves as master of coin and spends much of his time at court. His wife is **Princess Elaena Targaryen**. They have a son, Robin, heir to Parchments, and three daughters: Laena, Jocelyn and Joy.
+
+Laena is married to Ser Lyonel Baratheon, heir to Storm's End, and they have a son, Ormund. Lady Joy is betrothed to Ser Triston Rowan of Goldengrove. These connections place the Penrose family within both royal and regional networks of marriage.
+
+## The line of Ser Roland
+
+Lord Ronnel's younger brother, **Ser Roland Penrose**, died leaving a separate branch of the family. His widow, Lady Alysanne, was born of House Hightower, daughter of Garmund Hightower and Princess Rhaena Targaryen. Their children are Lady Aelinor, Ser Jon and Ser Addam.
+
+Aelinor married Prince Aerys Targaryen. Ser Addam married Lady Elenei Grandison, joining the Penroses to the house of Grandview. This branch carries Targaryen descent through Lady Alysanne's mother, independently of Lord Ronnel's marriage to Princess Elaena.
+
+### Family tree
+
+<KnowledgeFamilyTree houseId="house:penrose" />
+
+## Parchments and the court
+
+With Lord Ronnel often absent at court, Lady Alysanne Penrose is the senior resident member of the family at Parchments. Ser Jon and Ser Addam serve there as household knights. The lord's immediate family visits from court, but their inclusion among the relatives of Parchments should not be mistaken for permanent residence in the castle.
+
+## Household in 208 AC
+
+<KnowledgeRoster houseId="house:penrose" />

@@ -1,0 +1,36 @@
+---
+title: House Baratheon
+description: The ruling house of the Stormlands, seated at Storm's End.
+---
+
+import KnowledgeInfobox from '../../../components/KnowledgeInfobox.astro';
+import KnowledgeFamilyTree from '../../../components/KnowledgeFamilyTree.astro';
+import KnowledgeRoster from '../../../components/KnowledgeRoster.astro';
+
+**House Baratheon of Storm's End** governs the Stormlands from the ancient stronghold overlooking Shipbreaker Bay. Its lordship stands above the region's great and principal houses, whose obligations and precedence depend upon the authority exercised from Storm's End.
+
+<KnowledgeInfobox entityId="house:baratheon" />
+
+## The ruling family
+
+In 208 AC, **Lord Edric Baratheon** presides at Storm's End with **Lady Alysanne**, born of House Swann. Their eldest son and heir, **Ser Lyonel Baratheon**, is married to **Lady Laena Penrose**, daughter of Lord Ronnel Penrose and Princess Elaena Targaryen. Their young son Ormund follows Lyonel in the expected succession.
+
+Edric's second son, Ser Boremund, is married to Lady Ellyn of House Connington; their surviving son is Edwyn. The youngest of Edric's sons, Ser Gowen, is betrothed to Lady Tya Lannister. Through these alliances the household is connected with the marcher nobility, the royal court and the Westerlands.
+
+### Family tree
+
+<KnowledgeFamilyTree houseId="house:baratheon" />
+
+## Lordship and service
+
+Storm's End draws upon numerous sworn houses, but the immediate chain of allegiance is not identical for every Stormlander lordship. The region includes the great marcher families of Caron and Dondarrion, Swann of Stonehelm and Tarth of Evenfall Hall, alongside principal and lesser houses that maintain their own retainers.
+
+Not all governance is conducted personally by the ruling family. Household knights and long-serving servants attend to the castle's routine affairs. Ser Raymont Grandison, a younger son of Grandview, serves among the household knights, together with Ser Morton Caron.
+
+## Household in 208 AC
+
+<KnowledgeRoster houseId="house:baratheon" />
+
+## Connections
+
+The marriage of Lyonel to Laena Penrose links the Baratheon inheritance with the descendants of Princess Elaena Targaryen. Lady Alysanne's Swann birth and Lady Ellyn's Connington family provide two further ties to the Stormlands nobility. These relationships are distinct from the direct military obligations owed by the houses themselves.

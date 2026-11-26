@@ -17,6 +17,7 @@ export type Entity = {
   legendaryFounder?: string; fieldSources?: Record<string,string[]>;
   registryRole?: string; catalogStatus?: string; sourceLine208?: number;
   householdReference?: { source: string; line: number };
+  ageDescription208?: string; givenNameUnestablished?: boolean; deceasedBy208?: boolean;
   sources?: string[];
 };
 export type Fact = {
@@ -130,10 +131,11 @@ export function identityRows(entity: Entity, at: Moment = DEFAULT_DATE): Array<{
   }
   if (entity.kind === 'person') {
     // Ages are a 208 AC snapshot, not dynamically derived birth dates.
-    if (at.year === 208) literal('Age', entity.age208);
+    if (at.year === 208) literal('Age', entity.ageDescription208 ?? entity.age208);
     add('Father / mother', parents(entity.id, at)[0]);
     add('Other parent', parents(entity.id, at)[1]);
     add('Spouse', partners(entity.id, at)[0]);
+    add('House by birth', outgoing(entity.id, 'born_to_house', at)[0]);
     add('Betrothed', betrothed(entity.id, at)[0]);
     add('Title', outgoing(entity.id, 'holds_title', at)[0]);
     add('Residence', one(entity.id, 'resides_at', at));

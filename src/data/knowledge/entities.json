@@ -147,7 +147,8 @@
       "words": [
         "awoiaf-list"
       ]
-    }
+    },
+    "page": "/houses/baratheon/"
   },
   {
     "id": "place:goldengrove",
@@ -827,7 +828,8 @@
     "sources": [
       "worldbook-v10"
     ],
-    "catalogStatus": "registered_no_article"
+    "catalogStatus": "registered_no_article",
+    "page": "/houses/penrose/"
   },
   {
     "id": "place:parchments",
@@ -4758,5 +4760,357 @@
       "line": 387
     },
     "catalogStatus": "registered_no_article"
+  },
+  {
+    "id": "person:edric-baratheon",
+    "kind": "person",
+    "name": "Lord Edric Baratheon",
+    "birthHouse": "baratheon",
+    "ageDescription208": "about 58",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 927
+    },
+    "page": "/characters/edric-baratheon/"
+  },
+  {
+    "id": "person:alysanne-baratheon",
+    "kind": "person",
+    "name": "Lady Alysanne Baratheon",
+    "birthHouse": "swann",
+    "ageDescription208": "about 54",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 948
+    }
+  },
+  {
+    "id": "person:lyonel-baratheon",
+    "kind": "person",
+    "name": "Ser Lyonel Baratheon",
+    "birthHouse": "baratheon",
+    "ageDescription208": "about 34",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 969
+    },
+    "page": "/characters/lyonel-baratheon/"
+  },
+  {
+    "id": "person:laena-baratheon",
+    "kind": "person",
+    "name": "Lady Laena Baratheon",
+    "birthHouse": "penrose",
+    "ageDescription208": "early twenties",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 990
+    },
+    "page": "/characters/laena-baratheon/"
+  },
+  {
+    "id": "person:ormund-baratheon",
+    "kind": "person",
+    "name": "Ormund Baratheon",
+    "birthHouse": "baratheon",
+    "ageDescription208": "4",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1093
+    }
+  },
+  {
+    "id": "person:boremund-baratheon",
+    "kind": "person",
+    "name": "Ser Boremund Baratheon",
+    "birthHouse": "baratheon",
+    "ageDescription208": "about 31",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1011
+    }
+  },
+  {
+    "id": "person:ellyn-baratheon",
+    "kind": "person",
+    "name": "Lady Ellyn Baratheon",
+    "birthHouse": "connington",
+    "ageDescription208": "about 28",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1032
+    }
+  },
+  {
+    "id": "person:edwyn-baratheon",
+    "kind": "person",
+    "name": "Edwyn Baratheon",
+    "birthHouse": "baratheon",
+    "ageDescription208": "about 8",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1052
+    }
+  },
+  {
+    "id": "person:gowen-baratheon",
+    "kind": "person",
+    "name": "Ser Gowen Baratheon",
+    "birthHouse": "baratheon",
+    "ageDescription208": "about 26",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1072
+    }
+  },
+  {
+    "id": "person:tya-lannister",
+    "kind": "person",
+    "name": "Lady Tya Lannister",
+    "birthHouse": "lannister",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1073
+    }
+  },
+  {
+    "id": "person:morton-caron",
+    "kind": "person",
+    "name": "Ser Morton Caron",
+    "birthHouse": "caron",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 920
+    }
+  },
+  {
+    "id": "person:armond-caron",
+    "kind": "person",
+    "name": "Armond Caron",
+    "birthHouse": "caron",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 924
+    }
+  },
+  {
+    "id": "person:corwin-swann",
+    "kind": "person",
+    "name": "Corwin Swann",
+    "birthHouse": "swann",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 925
+    }
+  },
+  {
+    "id": "person:unnamed-peasebury-daughter",
+    "kind": "person",
+    "name": "Unnamed daughter of House Peasebury",
+    "birthHouse": "peasebury",
+    "ageDescription208": "22",
+    "givenNameUnestablished": true,
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1113
+    }
+  },
+  {
+    "id": "person:ronnel-penrose",
+    "kind": "person",
+    "name": "Lord Ronnel Penrose",
+    "birthHouse": "penrose",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1149
+    },
+    "page": "/characters/ronnel-penrose/"
+  },
+  {
+    "id": "person:elaena-targaryen",
+    "kind": "person",
+    "name": "Princess Elaena Targaryen",
+    "birthHouse": "targaryen",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1149
+    }
+  },
+  {
+    "id": "person:robin-penrose",
+    "kind": "person",
+    "name": "Robin Penrose",
+    "birthHouse": "penrose",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1151
+    }
+  },
+  {
+    "id": "person:jocelyn-penrose",
+    "kind": "person",
+    "name": "Lady Jocelyn Penrose",
+    "birthHouse": "penrose",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1151
+    }
+  },
+  {
+    "id": "person:roland-penrose",
+    "kind": "person",
+    "name": "Ser Roland Penrose",
+    "birthHouse": "penrose",
+    "deceasedBy208": true,
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1152
+    }
+  },
+  {
+    "id": "person:aelinor-targaryen",
+    "kind": "person",
+    "name": "Lady Aelinor Targaryen",
+    "birthHouse": "penrose",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1152
+    }
+  },
+  {
+    "id": "person:jon-penrose",
+    "kind": "person",
+    "name": "Ser Jon Penrose",
+    "birthHouse": "penrose",
+    "ageDescription208": "early twenties",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1194
+    }
+  },
+  {
+    "id": "person:aerys-targaryen",
+    "kind": "person",
+    "name": "Prince Aerys Targaryen",
+    "birthHouse": "targaryen",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1152
+    }
+  },
+  {
+    "id": "title:lord-of-storms-end",
+    "kind": "title",
+    "name": "Lord of Storm's End",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 895
+    }
+  },
+  {
+    "id": "title:lord-of-parchments",
+    "kind": "title",
+    "name": "Lord of Parchments",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1149
+    }
+  },
+  {
+    "id": "title:master-of-coin",
+    "kind": "title",
+    "name": "Master of Coin",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1149
+    }
+  },
+  {
+    "id": "house:lannister",
+    "kind": "house",
+    "name": "House Lannister",
+    "catalogStatus": "reference_only",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 1073
+    }
   }
 ]

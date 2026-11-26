@@ -97,3 +97,19 @@ During the first automated build round, added the 208 AC household and local-off
 - New data-generated roster component: src/components/KnowledgeRoster.astro.
 - New branch-only preview: /prototype/meadows-household/ .
 - The next batches should expand the current roster to other major households and add internal character-to-house relationships while checking conflicting residences and chronology.
+
+
+## Milestone: Baratheon and Penrose dynasties (manual start, 26 November 2026)
+
+Inspected Householdbook v12 primary household sections 894–926 (Baratheon) and 1147–1172 (Penrose), plus individual appearance and reputation descriptions, and the Grandison 55–89 cross-connections.
+
+Completed:
+- Added 22 source-identified people, including one deliberately unnamed Peasebury daughter, with precise Householdbook line references. The person already known as Joy Penrose and other existing characters were reused, never duplicated.
+- Documented Edric Baratheon, his three sons and two grandsons; Ronnel Penrose, his Targaryen wife and children; and the separate lineage of his brother Roland Penrose and Lady Alysanne Hightower.
+- Linked two current heads, two heirs and their hereditary lordships, plus Ronnel's royal office as master of coin.
+- Recorded explicit marriages, parentage, engagements, birth families, resident kin, household knights, squires and visiting relations. No invented names for open places in the genealogy or unestablished staff.
+- Generated new substantial wiki pages for Houses Baratheon and Penrose and four principal characters, using structured infoboxes and generated family diagrams.
+- Source has speculative later history about Orryn's knighthood and Merewatch c. 224 AC; those events were **not imported** as facts.
+- Extended validation for both dynasties, their heirs and several independent genealogical links.
+
+Next: broaden additional house rosters from Householdbook, verify adopted names and cross-house family trees, and reconcile book-canon history with source-era snapshots before extending beyond the first two regions.

@@ -1,0 +1,23 @@
+---
+title: Lord Ronnel Penrose
+description: Lord of Parchments and master of coin to the Iron Throne.
+---
+
+import KnowledgeInfobox from '../../../components/KnowledgeInfobox.astro';
+import KnowledgeFamilyTree from '../../../components/KnowledgeFamilyTree.astro';
+
+**Lord Ronnel Penrose** is the Lord of [Parchments](/houses/penrose/) and serves as master of coin at the royal court. His family belongs to the principal nobility of the Stormlands, sworn to House Baratheon.
+
+<KnowledgeInfobox entityId="person:ronnel-penrose" />
+
+## At court
+
+Lord Ronnel spends much of his time at court. His wife, Princess Elaena Targaryen, is widely credited with the financial work of his office. The care of Parchments falls in his absence largely to his sister-in-law, Lady Alysanne Penrose, the widow of his younger brother Ser Roland.
+
+## Family
+
+Ronnel and Princess Elaena have four children: Robin, heir to Parchments, Lady Laena, Lady Jocelyn and Lady Joy. Laena has married Ser Lyonel Baratheon, heir to Storm's End; Joy is betrothed to Ser Triston Rowan of Goldengrove.
+
+His brother Ser Roland's marriage to Lady Alysanne Hightower created a separate line with royal blood through Lady Alysanne's mother, Princess Rhaena Targaryen. Their children are Lady Aelinor Targaryen, Ser Jon and Ser Addam.
+
+<KnowledgeFamilyTree personId="person:ronnel-penrose" />
