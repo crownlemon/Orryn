@@ -22724,5 +22724,767 @@
     "asOf": {
       "year": 130
     }
+  },
+  {
+    "id": "fact:1500",
+    "subject": "event:faith-militant-uprising",
+    "predicate": "participant",
+    "object": "person:rickard-rowan-faith",
+    "sources": [
+      "awoiaf-pre207-house-oakheart"
+    ],
+    "asOf": {
+      "year": 48
+    }
+  },
+  {
+    "id": "fact:1501",
+    "subject": "event:faith-militant-uprising",
+    "predicate": "participant",
+    "object": "person:torgen-oakheart",
+    "sources": [
+      "awoiaf-pre207-house-oakheart"
+    ],
+    "asOf": {
+      "year": 48
+    }
+  },
+  {
+    "id": "fact:1502",
+    "subject": "event:faith-militant-uprising",
+    "predicate": "participant",
+    "object": "person:septon-moon",
+    "sources": [
+      "awoiaf-pre207-house-oakheart"
+    ],
+    "asOf": {
+      "year": 48
+    }
+  },
+  {
+    "id": "fact:1503",
+    "subject": "person:ryam-redwyne",
+    "predicate": "child_of",
+    "object": "person:manfryd-redwyne-historical",
+    "sources": [
+      "awoiaf-pre207-house-redwyne"
+    ]
+  },
+  {
+    "id": "fact:1504",
+    "subject": "house:manderly",
+    "predicate": "historical_seat",
+    "object": "place:dunstonbury",
+    "sources": [
+      "awoiaf-pre207-mander"
+    ]
+  },
+  {
+    "id": "fact:1505",
+    "subject": "house:manderly",
+    "predicate": "historical_region",
+    "object": "region:reach",
+    "sources": [
+      "awoiaf-pre207-house-manderly"
+    ]
+  },
+  {
+    "id": "fact:1506",
+    "subject": "person:tarth-unnamed-daughter-edwyn",
+    "predicate": "child_of",
+    "object": "person:edwyn-evenstar-ancient",
+    "sources": [
+      "awoiaf-pre207-house-tarth"
+    ]
+  },
+  {
+    "id": "fact:1507",
+    "subject": "person:tarth-unnamed-daughter-edwyn",
+    "predicate": "married_to",
+    "object": "person:durran-the-fair",
+    "sources": [
+      "awoiaf-pre207-house-tarth"
+    ]
+  },
+  {
+    "id": "fact:1508",
+    "subject": "event:dance-of-the-dragons",
+    "predicate": "participant",
+    "object": "person:byron-swann",
+    "sources": [
+      "awoiaf-pre207-house-swann"
+    ],
+    "asOf": {
+      "year": 129
+    }
+  },
+  {
+    "id": "fact:1509",
+    "subject": "event:battle-weeping-water",
+    "predicate": "participant",
+    "object": "person:theon-stark-hungry-wolf",
+    "sources": [
+      "awoiaf-pre207-house-stark"
+    ]
+  },
+  {
+    "id": "fact:1510",
+    "subject": "event:battle-weeping-water",
+    "predicate": "participant",
+    "object": "person:argos-sevenstar",
+    "sources": [
+      "awoiaf-pre207-house-stark"
+    ]
+  },
+  {
+    "id": "fact:1511",
+    "subject": "place:runestone",
+    "predicate": "region",
+    "object": "region:vale",
+    "sources": [
+      "awoiaf-pre207-house-royce"
+    ]
+  },
+  {
+    "id": "fact:1512",
+    "subject": "house:royce",
+    "predicate": "historical_region",
+    "object": "region:vale",
+    "sources": [
+      "awoiaf-pre207-house-royce"
+    ]
+  },
+  {
+    "id": "fact:1513",
+    "subject": "house:royce",
+    "predicate": "historical_seat",
+    "object": "place:runestone",
+    "sources": [
+      "awoiaf-pre207-house-royce"
+    ]
+  },
+  {
+    "id": "fact:1514",
+    "subject": "person:royce-unnamed-wife-hubert",
+    "predicate": "married_to",
+    "object": "person:hubert-arryn",
+    "sources": [
+      "awoiaf-pre207-house-royce"
+    ]
+  },
+  {
+    "id": "fact:1515",
+    "subject": "event:battle-seven-stars",
+    "predicate": "participant",
+    "object": "person:robar-ii-royce",
+    "sources": [
+      "awoiaf-pre207-battle-of-the-seven-stars"
+    ]
+  },
+  {
+    "id": "fact:1516",
+    "subject": "event:battle-seven-stars",
+    "predicate": "participant",
+    "object": "person:artys-i-arryn",
+    "sources": [
+      "awoiaf-pre207-battle-of-the-seven-stars"
+    ]
+  },
+  {
+    "id": "fact:1517",
+    "subject": "house:justman",
+    "predicate": "historical_region",
+    "object": "region:riverlands",
+    "sources": [
+      "awoiaf-pre207-house-justman"
+    ]
+  },
+  {
+    "id": "fact:1518",
+    "subject": "house:teague",
+    "predicate": "historical_region",
+    "object": "region:riverlands",
+    "sources": [
+      "awoiaf-pre207-house-teague"
+    ]
+  },
+  {
+    "id": "fact:1519",
+    "subject": "house:hoare",
+    "predicate": "historical_region",
+    "object": "region:riverlands",
+    "sources": [
+      "awoiaf-pre207-hoare"
+    ]
+  },
+  {
+    "id": "fact:1520",
+    "subject": "house:hoare",
+    "predicate": "historical_seat",
+    "object": "place:harrenhal",
+    "sources": [
+      "awoiaf-pre207-hoare"
+    ]
+  },
+  {
+    "id": "fact:1521",
+    "subject": "person:harwyn-hoare",
+    "predicate": "child_of",
+    "object": "person:qhorwyn-hoare",
+    "sources": [
+      "awoiaf-pre207-hoare"
+    ]
+  },
+  {
+    "id": "fact:1522",
+    "subject": "event:aegons-conquest",
+    "predicate": "participant",
+    "object": "person:harren-hoare",
+    "sources": [
+      "awoiaf-pre207-conquest"
+    ],
+    "asOf": {
+      "year": 1
+    }
+  },
+  {
+    "id": "fact:1523",
+    "subject": "place:twins",
+    "predicate": "region",
+    "object": "region:riverlands",
+    "sources": [
+      "awoiaf-pre207-house-frey"
+    ]
+  },
+  {
+    "id": "fact:1524",
+    "subject": "house:frey",
+    "predicate": "historical_region",
+    "object": "region:riverlands",
+    "sources": [
+      "awoiaf-pre207-house-frey"
+    ]
+  },
+  {
+    "id": "fact:1525",
+    "subject": "house:frey",
+    "predicate": "historical_seat",
+    "object": "place:twins",
+    "sources": [
+      "awoiaf-pre207-house-frey"
+    ]
+  },
+  {
+    "id": "fact:1526",
+    "subject": "person:sabitha-frey",
+    "predicate": "married_to",
+    "object": "person:forrest-frey",
+    "sources": [
+      "awoiaf-pre207-house-frey"
+    ]
+  },
+  {
+    "id": "fact:1527",
+    "subject": "person:alysanne-blackwood",
+    "predicate": "sibling_of",
+    "object": "person:samwell-blackwood-dance",
+    "sources": [
+      "awoiaf-pre207-house-blackwood"
+    ]
+  },
+  {
+    "id": "fact:1528",
+    "subject": "event:battle-burning-mill",
+    "predicate": "participant",
+    "object": "person:samwell-blackwood-dance",
+    "sources": [
+      "awoiaf-pre207-battle-of-the-burning-mill"
+    ],
+    "asOf": {
+      "year": 129
+    }
+  },
+  {
+    "id": "fact:1529",
+    "subject": "event:battle-burning-mill",
+    "predicate": "participant",
+    "object": "person:alysanne-blackwood",
+    "sources": [
+      "awoiaf-pre207-battle-of-the-burning-mill"
+    ],
+    "asOf": {
+      "year": 129
+    }
+  },
+  {
+    "id": "fact:1530",
+    "subject": "event:battle-burning-mill",
+    "predicate": "participant",
+    "object": "person:amos-bracken",
+    "sources": [
+      "awoiaf-pre207-battle-of-the-burning-mill"
+    ],
+    "asOf": {
+      "year": 129
+    }
+  },
+  {
+    "id": "fact:1531",
+    "subject": "event:battle-burning-mill",
+    "predicate": "part_of",
+    "object": "event:dance-of-the-dragons",
+    "sources": [
+      "awoiaf-pre207-battle-of-the-burning-mill"
+    ],
+    "asOf": {
+      "year": 129
+    }
+  },
+  {
+    "id": "fact:1532",
+    "subject": "house:casterly",
+    "predicate": "historical_region",
+    "object": "region:westerlands",
+    "sources": [
+      "awoiaf-pre207-house-lannister"
+    ]
+  },
+  {
+    "id": "fact:1533",
+    "subject": "house:casterly",
+    "predicate": "historical_seat",
+    "object": "place:casterly-rock",
+    "sources": [
+      "awoiaf-pre207-house-lannister"
+    ]
+  },
+  {
+    "id": "fact:1534",
+    "subject": "house:lydden",
+    "predicate": "historical_region",
+    "object": "region:westerlands",
+    "sources": [
+      "awoiaf-pre207-house-lannister"
+    ]
+  },
+  {
+    "id": "fact:1535",
+    "subject": "person:lannister-unnamed-daughter-gerold-iii",
+    "predicate": "child_of",
+    "object": "person:gerold-iii-lannister",
+    "sources": [
+      "awoiaf-pre207-house-lannister"
+    ]
+  },
+  {
+    "id": "fact:1536",
+    "subject": "person:lannister-unnamed-daughter-gerold-iii",
+    "predicate": "married_to",
+    "object": "person:joffrey-lydden",
+    "sources": [
+      "awoiaf-pre207-house-lannister"
+    ]
+  },
+  {
+    "id": "fact:1537",
+    "subject": "event:dance-of-the-dragons",
+    "predicate": "participant",
+    "object": "person:humfrey-lefford",
+    "sources": [
+      "awoiaf-pre207-humfrey-lefford"
+    ],
+    "asOf": {
+      "year": 130
+    }
+  },
+  {
+    "id": "fact:1538",
+    "subject": "event:dance-of-the-dragons",
+    "predicate": "participant",
+    "object": "person:adrian-tarbeck",
+    "sources": [
+      "awoiaf-pre207-humfrey-lefford"
+    ],
+    "asOf": {
+      "year": 130
+    }
+  },
+  {
+    "id": "fact:1539",
+    "subject": "person:nymeria-princess-rhoynar",
+    "predicate": "married_to",
+    "object": "person:mors-martell",
+    "sources": [
+      "awoiaf-pre207-house-martell"
+    ]
+  },
+  {
+    "id": "fact:1540",
+    "subject": "event:nymerias-war",
+    "predicate": "participant",
+    "object": "person:nymeria-princess-rhoynar",
+    "sources": [
+      "awoiaf-pre207-nymeria-27s-war"
+    ]
+  },
+  {
+    "id": "fact:1541",
+    "subject": "event:nymerias-war",
+    "predicate": "participant",
+    "object": "person:mors-martell",
+    "sources": [
+      "awoiaf-pre207-nymeria-27s-war"
+    ]
+  },
+  {
+    "id": "fact:1542",
+    "subject": "event:nymerias-war",
+    "predicate": "participant",
+    "object": "person:yorick-v-yronwood",
+    "sources": [
+      "awoiaf-pre207-nymeria-27s-war"
+    ]
+  },
+  {
+    "id": "fact:1543",
+    "subject": "house:fowler",
+    "predicate": "historical_region",
+    "object": "region:dorne",
+    "sources": [
+      "awoiaf-pre207-nymeria-27s-war"
+    ]
+  },
+  {
+    "id": "fact:1544",
+    "subject": "event:nymerias-war",
+    "predicate": "supported_martell",
+    "object": "house:fowler",
+    "sources": [
+      "awoiaf-pre207-nymeria-27s-war"
+    ]
+  },
+  {
+    "id": "fact:1545",
+    "subject": "house:toland",
+    "predicate": "historical_region",
+    "object": "region:dorne",
+    "sources": [
+      "awoiaf-pre207-nymeria-27s-war"
+    ]
+  },
+  {
+    "id": "fact:1546",
+    "subject": "event:nymerias-war",
+    "predicate": "supported_martell",
+    "object": "house:toland",
+    "sources": [
+      "awoiaf-pre207-nymeria-27s-war"
+    ]
+  },
+  {
+    "id": "fact:1547",
+    "subject": "house:uller",
+    "predicate": "historical_region",
+    "object": "region:dorne",
+    "sources": [
+      "awoiaf-pre207-nymeria-27s-war"
+    ]
+  },
+  {
+    "id": "fact:1548",
+    "subject": "event:nymerias-war",
+    "predicate": "supported_martell",
+    "object": "house:uller",
+    "sources": [
+      "awoiaf-pre207-nymeria-27s-war"
+    ]
+  },
+  {
+    "id": "fact:1549",
+    "subject": "house:jordayne",
+    "predicate": "historical_region",
+    "object": "region:dorne",
+    "sources": [
+      "awoiaf-pre207-nymeria-27s-war"
+    ]
+  },
+  {
+    "id": "fact:1550",
+    "subject": "event:nymerias-war",
+    "predicate": "supported_yronwood",
+    "object": "house:jordayne",
+    "sources": [
+      "awoiaf-pre207-nymeria-27s-war"
+    ]
+  },
+  {
+    "id": "fact:1551",
+    "subject": "house:wyl",
+    "predicate": "historical_region",
+    "object": "region:dorne",
+    "sources": [
+      "awoiaf-pre207-nymeria-27s-war"
+    ]
+  },
+  {
+    "id": "fact:1552",
+    "subject": "event:nymerias-war",
+    "predicate": "supported_yronwood",
+    "object": "house:wyl",
+    "sources": [
+      "awoiaf-pre207-nymeria-27s-war"
+    ]
+  },
+  {
+    "id": "fact:1553",
+    "subject": "house:blackmont",
+    "predicate": "historical_region",
+    "object": "region:dorne",
+    "sources": [
+      "awoiaf-pre207-nymeria-27s-war"
+    ]
+  },
+  {
+    "id": "fact:1554",
+    "subject": "event:nymerias-war",
+    "predicate": "supported_yronwood",
+    "object": "house:blackmont",
+    "sources": [
+      "awoiaf-pre207-nymeria-27s-war"
+    ]
+  },
+  {
+    "id": "fact:1555",
+    "subject": "house:qorgyle",
+    "predicate": "historical_region",
+    "object": "region:dorne",
+    "sources": [
+      "awoiaf-pre207-nymeria-27s-war"
+    ]
+  },
+  {
+    "id": "fact:1556",
+    "subject": "event:nymerias-war",
+    "predicate": "supported_yronwood",
+    "object": "house:qorgyle",
+    "sources": [
+      "awoiaf-pre207-nymeria-27s-war"
+    ]
+  },
+  {
+    "id": "fact:1557",
+    "subject": "event:nymerias-war",
+    "predicate": "supported_martell",
+    "object": "house:dayne",
+    "sources": [
+      "awoiaf-pre207-nymeria-27s-war"
+    ]
+  },
+  {
+    "id": "fact:1558",
+    "subject": "place:orkmont",
+    "predicate": "region",
+    "object": "region:iron-islands",
+    "sources": [
+      "awoiaf-pre207-house-greyiron"
+    ]
+  },
+  {
+    "id": "fact:1559",
+    "subject": "house:greyiron",
+    "predicate": "historical_region",
+    "object": "region:iron-islands",
+    "sources": [
+      "awoiaf-pre207-house-greyiron"
+    ]
+  },
+  {
+    "id": "fact:1560",
+    "subject": "house:greyiron",
+    "predicate": "historical_seat",
+    "object": "place:orkmont",
+    "sources": [
+      "awoiaf-pre207-house-greyiron"
+    ]
+  },
+  {
+    "id": "fact:1561",
+    "subject": "person:toron-greyjoy",
+    "predicate": "child_of",
+    "object": "person:dalton-greyjoy",
+    "sources": [
+      "awoiaf-pre207-house-greyjoy"
+    ]
+  },
+  {
+    "id": "fact:1562",
+    "subject": "house:hoare",
+    "predicate": "historical_region",
+    "object": "region:iron-islands",
+    "sources": [
+      "awoiaf-pre207-hoare"
+    ]
+  },
+  {
+    "id": "fact:1563",
+    "subject": "event:dance-of-the-dragons",
+    "predicate": "participant",
+    "object": "person:dalton-greyjoy",
+    "sources": [
+      "awoiaf-pre207-dalton-greyjoy"
+    ],
+    "asOf": {
+      "year": 129
+    }
+  },
+  {
+    "id": "fact:1564",
+    "subject": "place:duskendale",
+    "predicate": "region",
+    "object": "region:crownlands",
+    "sources": [
+      "awoiaf-pre207-duskendale"
+    ]
+  },
+  {
+    "id": "fact:1565",
+    "subject": "house:darklyn",
+    "predicate": "historical_region",
+    "object": "region:crownlands",
+    "sources": [
+      "awoiaf-pre207-house-darklyn"
+    ]
+  },
+  {
+    "id": "fact:1566",
+    "subject": "house:darklyn",
+    "predicate": "historical_seat",
+    "object": "place:duskendale",
+    "sources": [
+      "awoiaf-pre207-house-darklyn"
+    ]
+  },
+  {
+    "id": "fact:1567",
+    "subject": "place:maidenpool",
+    "predicate": "region",
+    "object": "region:riverlands",
+    "sources": [
+      "awoiaf-pre207-house-mooton"
+    ]
+  },
+  {
+    "id": "fact:1568",
+    "subject": "house:mooton",
+    "predicate": "historical_region",
+    "object": "region:riverlands",
+    "sources": [
+      "awoiaf-pre207-house-mooton"
+    ]
+  },
+  {
+    "id": "fact:1569",
+    "subject": "house:mooton",
+    "predicate": "historical_seat",
+    "object": "place:maidenpool",
+    "sources": [
+      "awoiaf-pre207-house-mooton"
+    ]
+  },
+  {
+    "id": "fact:1570",
+    "subject": "event:aegons-first-test",
+    "predicate": "participant",
+    "object": "house:darklyn",
+    "sources": [
+      "awoiaf-pre207-conquest"
+    ]
+  },
+  {
+    "id": "fact:1571",
+    "subject": "event:aegons-first-test",
+    "predicate": "participant",
+    "object": "house:mooton",
+    "sources": [
+      "awoiaf-pre207-conquest"
+    ]
+  },
+  {
+    "id": "fact:1572",
+    "subject": "event:aegons-first-test",
+    "predicate": "participant",
+    "object": "person:aegon-i-targaryen",
+    "sources": [
+      "awoiaf-pre207-conquest"
+    ]
+  },
+  {
+    "id": "fact:1573",
+    "subject": "event:aegons-first-test",
+    "predicate": "participant",
+    "object": "person:orys-baratheon",
+    "sources": [
+      "awoiaf-pre207-conquest"
+    ]
+  },
+  {
+    "id": "fact:1574",
+    "subject": "event:aegons-first-test",
+    "predicate": "part_of",
+    "object": "event:aegons-conquest",
+    "sources": [
+      "awoiaf-pre207-conquest"
+    ]
+  },
+  {
+    "id": "fact:1575",
+    "subject": "person:daenys-targaryen",
+    "predicate": "child_of",
+    "object": "person:aenar-targaryen",
+    "sources": [
+      "awoiaf-pre207-aenar-targaryen"
+    ]
+  },
+  {
+    "id": "fact:1576",
+    "subject": "person:gaemon-targaryen-glorious",
+    "predicate": "child_of",
+    "object": "person:aenar-targaryen",
+    "sources": [
+      "awoiaf-pre207-aenar-targaryen"
+    ]
+  },
+  {
+    "id": "fact:1577",
+    "subject": "person:daenys-targaryen",
+    "predicate": "married_to",
+    "object": "person:gaemon-targaryen-glorious",
+    "sources": [
+      "awoiaf-pre207-daenys-targaryen"
+    ]
+  },
+  {
+    "id": "fact:1578",
+    "subject": "event:conquest-stepstones",
+    "predicate": "participant",
+    "object": "person:daemon-targaryen",
+    "sources": [
+      "awoiaf-pre207-timeline-of-major-events"
+    ],
+    "asOf": {
+      "year": 106
+    }
+  },
+  {
+    "id": "fact:1579",
+    "subject": "event:conquest-stepstones",
+    "predicate": "participant",
+    "object": "person:corlys-velaryon",
+    "sources": [
+      "awoiaf-pre207-timeline-of-major-events"
+    ],
+    "asOf": {
+      "year": 106
+    }
   }
 ]

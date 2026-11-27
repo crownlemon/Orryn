@@ -10601,5 +10601,849 @@
     ],
     "catalogStatus": "historical_profile",
     "year": 130
+  },
+  {
+    "id": "person:rickard-rowan-faith",
+    "kind": "person",
+    "name": "Lord Rickard Rowan",
+    "page": "/characters/rickard-rowan-faith/",
+    "sources": [
+      "awoiaf-pre207-house-rowan"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "rowan",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:torgen-oakheart",
+    "kind": "person",
+    "name": "Lord Torgen Oakheart",
+    "page": "/characters/torgen-oakheart/",
+    "sources": [
+      "awoiaf-pre207-torgen-oakheart"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "oakheart",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:septon-moon",
+    "kind": "person",
+    "name": "Septon Moon",
+    "page": "/characters/septon-moon/",
+    "sources": [
+      "awoiaf-pre207-house-oakheart"
+    ],
+    "catalogStatus": "historical_profile",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:manfryd-redwyne-historical",
+    "kind": "person",
+    "name": "Lord Manfryd Redwyne",
+    "page": "/characters/manfryd-redwyne-historical/",
+    "sources": [
+      "awoiaf-pre207-house-redwyne"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "redwyne",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:lorimar-peake",
+    "kind": "person",
+    "name": "Lord Lorimar Peake",
+    "page": "/characters/lorimar-peake/",
+    "sources": [
+      "awoiaf-pre207-house-manderly"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "peake",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:perceon-iii-gardener",
+    "kind": "person",
+    "name": "King Perceon III Gardener",
+    "page": "/characters/perceon-iii-gardener/",
+    "sources": [
+      "awoiaf-pre207-house-manderly"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "gardener",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:edwyn-evenstar-ancient",
+    "kind": "person",
+    "name": "King Edwyn Evenstar",
+    "page": "/characters/edwyn-evenstar-ancient/",
+    "sources": [
+      "awoiaf-pre207-house-tarth"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "tarth",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:durran-the-fair",
+    "kind": "person",
+    "name": "King Durran the Fair",
+    "page": "/characters/durran-the-fair/",
+    "sources": [
+      "awoiaf-pre207-house-tarth"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "durrandon",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:tarth-unnamed-daughter-edwyn",
+    "kind": "person",
+    "name": "Unnamed daughter of Edwyn Evenstar",
+    "page": "/characters/tarth-unnamed-daughter-edwyn/",
+    "sources": [
+      "awoiaf-pre207-house-tarth"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "tarth",
+    "deceasedBy208": true,
+    "givenNameUnestablished": true
+  },
+  {
+    "id": "person:byron-swann",
+    "kind": "person",
+    "name": "Ser Byron Swann",
+    "page": "/characters/byron-swann/",
+    "sources": [
+      "awoiaf-pre207-house-swann"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "swann",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:rogar-bolton-huntsman",
+    "kind": "person",
+    "name": "King Rogar Bolton",
+    "page": "/characters/rogar-bolton-huntsman/",
+    "sources": [
+      "awoiaf-pre207-house-bolton"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "bolton",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:royce-ii-bolton",
+    "kind": "person",
+    "name": "King Royce II Bolton",
+    "page": "/characters/royce-ii-bolton/",
+    "sources": [
+      "awoiaf-pre207-house-bolton"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "bolton",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:theon-stark-hungry-wolf",
+    "kind": "person",
+    "name": "King Theon Stark",
+    "page": "/characters/theon-stark-hungry-wolf/",
+    "sources": [
+      "awoiaf-pre207-house-stark"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "stark",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:argos-sevenstar",
+    "kind": "person",
+    "name": "Argos Sevenstar",
+    "page": "/characters/argos-sevenstar/",
+    "sources": [
+      "awoiaf-pre207-andal-invasion"
+    ],
+    "catalogStatus": "historical_profile",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:rodrik-stark-ancient",
+    "kind": "person",
+    "name": "King Rodrik Stark",
+    "page": "/characters/rodrik-stark-ancient/",
+    "sources": [
+      "awoiaf-pre207-house-stark"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "stark",
+    "deceasedBy208": true
+  },
+  {
+    "id": "event:battle-weeping-water",
+    "kind": "event",
+    "name": "Battle of the Weeping Water",
+    "page": "/events/battle-weeping-water/",
+    "sources": [
+      "awoiaf-pre207-house-stark"
+    ],
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "place:runestone",
+    "kind": "place",
+    "name": "Runestone",
+    "page": "/places/runestone/",
+    "sources": [
+      "awoiaf-pre207-house-royce"
+    ],
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "house:royce",
+    "kind": "house",
+    "name": "House Royce",
+    "page": "/houses/royce/",
+    "sources": [
+      "awoiaf-pre207-house-royce"
+    ],
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "person:robar-ii-royce",
+    "kind": "person",
+    "name": "King Robar II Royce",
+    "page": "/characters/robar-ii-royce/",
+    "sources": [
+      "awoiaf-pre207-battle-of-the-seven-stars"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "royce",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:artys-i-arryn",
+    "kind": "person",
+    "name": "King Artys I Arryn",
+    "page": "/characters/artys-i-arryn/",
+    "sources": [
+      "awoiaf-pre207-house-arryn"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "arryn",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:yorwyck-vi-royce",
+    "kind": "person",
+    "name": "King Yorwyck VI Royce",
+    "page": "/characters/yorwyck-vi-royce/",
+    "sources": [
+      "awoiaf-pre207-house-royce"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "royce",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:hubert-arryn",
+    "kind": "person",
+    "name": "Lord Hubert Arryn",
+    "page": "/characters/hubert-arryn/",
+    "sources": [
+      "awoiaf-pre207-house-royce"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "arryn",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:royce-unnamed-wife-hubert",
+    "kind": "person",
+    "name": "Unnamed Lady Royce",
+    "page": "/characters/royce-unnamed-wife-hubert/",
+    "sources": [
+      "awoiaf-pre207-house-royce"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "royce",
+    "deceasedBy208": true,
+    "givenNameUnestablished": true
+  },
+  {
+    "id": "event:battle-seven-stars",
+    "kind": "event",
+    "name": "Battle of the Seven Stars",
+    "page": "/events/battle-seven-stars/",
+    "sources": [
+      "awoiaf-pre207-battle-of-the-seven-stars"
+    ],
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "house:justman",
+    "kind": "house",
+    "name": "House Justman",
+    "page": "/houses/justman/",
+    "sources": [
+      "awoiaf-pre207-house-justman"
+    ],
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "house:teague",
+    "kind": "house",
+    "name": "House Teague",
+    "page": "/houses/teague/",
+    "sources": [
+      "awoiaf-pre207-house-teague"
+    ],
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "house:hoare",
+    "kind": "house",
+    "name": "House Hoare",
+    "page": "/houses/hoare/",
+    "sources": [
+      "awoiaf-pre207-hoare"
+    ],
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "person:benedict-i-justman",
+    "kind": "person",
+    "name": "King Benedict I Justman",
+    "page": "/characters/benedict-i-justman/",
+    "sources": [
+      "awoiaf-pre207-benedict-i-justman"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "justman",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:torrence-teague",
+    "kind": "person",
+    "name": "King Torrence Teague",
+    "page": "/characters/torrence-teague/",
+    "sources": [
+      "awoiaf-pre207-house-teague"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "teague",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:humfrey-i-teague",
+    "kind": "person",
+    "name": "King Humfrey I Teague",
+    "page": "/characters/humfrey-i-teague/",
+    "sources": [
+      "awoiaf-pre207-humfrey-i-teague"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "teague",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:arrec-durrandon",
+    "kind": "person",
+    "name": "King Arrec Durrandon",
+    "page": "/characters/arrec-durrandon/",
+    "sources": [
+      "awoiaf-pre207-house-durrandon"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "durrandon",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:harwyn-hoare",
+    "kind": "person",
+    "name": "King Harwyn Hoare",
+    "page": "/characters/harwyn-hoare/",
+    "sources": [
+      "awoiaf-pre207-hoare"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "hoare",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:qhorwyn-hoare",
+    "kind": "person",
+    "name": "King Qhorwyn Hoare",
+    "page": "/characters/qhorwyn-hoare/",
+    "sources": [
+      "awoiaf-pre207-hoare"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "hoare",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:harren-hoare",
+    "kind": "person",
+    "name": "King Harren Hoare",
+    "page": "/characters/harren-hoare/",
+    "sources": [
+      "awoiaf-pre207-hoare"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "hoare",
+    "deceasedBy208": true
+  },
+  {
+    "id": "place:twins",
+    "kind": "place",
+    "name": "The Twins",
+    "page": "/places/twins/",
+    "sources": [
+      "awoiaf-pre207-house-frey"
+    ],
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "house:frey",
+    "kind": "house",
+    "name": "House Frey",
+    "page": "/houses/frey/",
+    "sources": [
+      "awoiaf-pre207-house-frey"
+    ],
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "person:forrest-frey",
+    "kind": "person",
+    "name": "Lord Forrest Frey",
+    "page": "/characters/forrest-frey/",
+    "sources": [
+      "awoiaf-pre207-forrest-frey"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "frey",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:sabitha-frey",
+    "kind": "person",
+    "name": "Lady Sabitha Frey",
+    "page": "/characters/sabitha-frey/",
+    "sources": [
+      "awoiaf-pre207-house-frey"
+    ],
+    "catalogStatus": "historical_profile",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:samwell-blackwood-dance",
+    "kind": "person",
+    "name": "Lord Samwell Blackwood",
+    "page": "/characters/samwell-blackwood-dance/",
+    "sources": [
+      "awoiaf-pre207-house-blackwood"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "blackwood",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:alysanne-blackwood",
+    "kind": "person",
+    "name": "Lady Alysanne Blackwood",
+    "page": "/characters/alysanne-blackwood/",
+    "sources": [
+      "awoiaf-pre207-house-blackwood"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "blackwood",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:amos-bracken",
+    "kind": "person",
+    "name": "Ser Amos Bracken",
+    "page": "/characters/amos-bracken/",
+    "sources": [
+      "awoiaf-pre207-house-bracken"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "bracken",
+    "deceasedBy208": true
+  },
+  {
+    "id": "event:battle-burning-mill",
+    "kind": "event",
+    "name": "Battle of the Burning Mill",
+    "page": "/events/battle-burning-mill/",
+    "sources": [
+      "awoiaf-pre207-battle-of-the-burning-mill"
+    ],
+    "catalogStatus": "historical_profile",
+    "year": 129
+  },
+  {
+    "id": "house:casterly",
+    "kind": "house",
+    "name": "House Casterly",
+    "page": "/houses/casterly/",
+    "sources": [
+      "awoiaf-pre207-house-lannister"
+    ],
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "house:lydden",
+    "kind": "house",
+    "name": "House Lydden",
+    "page": "/houses/lydden/",
+    "sources": [
+      "awoiaf-pre207-house-lannister"
+    ],
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "person:joffrey-lydden",
+    "kind": "person",
+    "name": "King Joffrey Lannister",
+    "page": "/characters/joffrey-lydden/",
+    "sources": [
+      "awoiaf-pre207-house-lannister"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "lydden",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:gerold-iii-lannister",
+    "kind": "person",
+    "name": "King Gerold III Lannister",
+    "page": "/characters/gerold-iii-lannister/",
+    "sources": [
+      "awoiaf-pre207-house-lannister"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "lannister",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:lannister-unnamed-daughter-gerold-iii",
+    "kind": "person",
+    "name": "Unnamed Princess Lannister",
+    "page": "/characters/lannister-unnamed-daughter-gerold-iii/",
+    "sources": [
+      "awoiaf-pre207-house-lannister"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "lannister",
+    "deceasedBy208": true,
+    "givenNameUnestablished": true
+  },
+  {
+    "id": "person:humfrey-lefford",
+    "kind": "person",
+    "name": "Lord Humfrey Lefford",
+    "page": "/characters/humfrey-lefford/",
+    "sources": [
+      "awoiaf-pre207-humfrey-lefford"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "lefford",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:adrian-tarbeck",
+    "kind": "person",
+    "name": "Ser Adrian Tarbeck",
+    "page": "/characters/adrian-tarbeck/",
+    "sources": [
+      "awoiaf-pre207-humfrey-lefford"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "tarbeck",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:johanna-lannister",
+    "kind": "person",
+    "name": "Lady Johanna Lannister",
+    "page": "/characters/johanna-lannister/",
+    "sources": [
+      "awoiaf-pre207-dalton-greyjoy"
+    ],
+    "catalogStatus": "historical_profile",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:nymeria-princess-rhoynar",
+    "kind": "person",
+    "name": "Princess Nymeria",
+    "page": "/characters/nymeria-princess-rhoynar/",
+    "sources": [
+      "awoiaf-pre207-nymeria"
+    ],
+    "catalogStatus": "historical_profile",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:mors-martell",
+    "kind": "person",
+    "name": "Prince Mors Martell",
+    "page": "/characters/mors-martell/",
+    "sources": [
+      "awoiaf-pre207-house-martell"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "martell",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:yorick-v-yronwood",
+    "kind": "person",
+    "name": "King Yorick V Yronwood",
+    "page": "/characters/yorick-v-yronwood/",
+    "sources": [
+      "awoiaf-pre207-yorick-v-yronwood"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "yronwood",
+    "deceasedBy208": true
+  },
+  {
+    "id": "event:nymerias-war",
+    "kind": "event",
+    "name": "Nymeria's War",
+    "page": "/events/nymerias-war/",
+    "sources": [
+      "awoiaf-pre207-nymeria-27s-war"
+    ],
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "house:fowler",
+    "kind": "house",
+    "name": "House Fowler",
+    "page": "/houses/fowler/",
+    "sources": [
+      "awoiaf-pre207-nymeria-27s-war"
+    ],
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "house:toland",
+    "kind": "house",
+    "name": "House Toland",
+    "page": "/houses/toland/",
+    "sources": [
+      "awoiaf-pre207-nymeria-27s-war"
+    ],
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "house:uller",
+    "kind": "house",
+    "name": "House Uller",
+    "page": "/houses/uller/",
+    "sources": [
+      "awoiaf-pre207-nymeria-27s-war"
+    ],
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "house:jordayne",
+    "kind": "house",
+    "name": "House Jordayne",
+    "page": "/houses/jordayne/",
+    "sources": [
+      "awoiaf-pre207-nymeria-27s-war"
+    ],
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "house:wyl",
+    "kind": "house",
+    "name": "House Wyl",
+    "page": "/houses/wyl/",
+    "sources": [
+      "awoiaf-pre207-nymeria-27s-war"
+    ],
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "house:blackmont",
+    "kind": "house",
+    "name": "House Blackmont",
+    "page": "/houses/blackmont/",
+    "sources": [
+      "awoiaf-pre207-nymeria-27s-war"
+    ],
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "house:qorgyle",
+    "kind": "house",
+    "name": "House Qorgyle",
+    "page": "/houses/qorgyle/",
+    "sources": [
+      "awoiaf-pre207-nymeria-27s-war"
+    ],
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "place:orkmont",
+    "kind": "place",
+    "name": "Orkmont",
+    "page": "/places/orkmont/",
+    "sources": [
+      "awoiaf-pre207-house-greyiron"
+    ],
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "house:greyiron",
+    "kind": "house",
+    "name": "House Greyiron",
+    "page": "/houses/greyiron/",
+    "sources": [
+      "awoiaf-pre207-house-greyiron"
+    ],
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "person:urras-greyiron-redhand",
+    "kind": "person",
+    "name": "King Urras Greyiron",
+    "page": "/characters/urras-greyiron-redhand/",
+    "sources": [
+      "awoiaf-pre207-king-of-the-iron-islands"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "greyiron",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:dalton-greyjoy",
+    "kind": "person",
+    "name": "Lord Dalton Greyjoy",
+    "page": "/characters/dalton-greyjoy/",
+    "sources": [
+      "awoiaf-pre207-dalton-greyjoy"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "greyjoy",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:toron-greyjoy",
+    "kind": "person",
+    "name": "Lord Toron Greyjoy",
+    "page": "/characters/toron-greyjoy/",
+    "sources": [
+      "awoiaf-pre207-house-greyjoy"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "greyjoy",
+    "deceasedBy208": true
+  },
+  {
+    "id": "place:duskendale",
+    "kind": "place",
+    "name": "Duskendale",
+    "page": "/places/duskendale/",
+    "sources": [
+      "awoiaf-pre207-duskendale"
+    ],
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "house:darklyn",
+    "kind": "house",
+    "name": "House Darklyn",
+    "page": "/houses/darklyn/",
+    "sources": [
+      "awoiaf-pre207-house-darklyn"
+    ],
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "place:maidenpool",
+    "kind": "place",
+    "name": "Maidenpool",
+    "page": "/places/maidenpool/",
+    "sources": [
+      "awoiaf-pre207-house-mooton"
+    ],
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "house:mooton",
+    "kind": "house",
+    "name": "House Mooton",
+    "page": "/houses/mooton/",
+    "sources": [
+      "awoiaf-pre207-house-mooton"
+    ],
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "event:aegons-first-test",
+    "kind": "event",
+    "name": "Aegon's first test",
+    "page": "/events/aegons-first-test/",
+    "sources": [
+      "awoiaf-pre207-conquest"
+    ],
+    "catalogStatus": "historical_profile"
+  },
+  {
+    "id": "person:aenar-targaryen",
+    "kind": "person",
+    "name": "Lord Aenar Targaryen",
+    "page": "/characters/aenar-targaryen/",
+    "sources": [
+      "awoiaf-pre207-aenar-targaryen"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:daenys-targaryen",
+    "kind": "person",
+    "name": "Lady Daenys Targaryen",
+    "page": "/characters/daenys-targaryen/",
+    "sources": [
+      "awoiaf-pre207-daenys-targaryen"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen",
+    "deceasedBy208": true
+  },
+  {
+    "id": "person:gaemon-targaryen-glorious",
+    "kind": "person",
+    "name": "Lord Gaemon Targaryen",
+    "page": "/characters/gaemon-targaryen-glorious/",
+    "sources": [
+      "awoiaf-pre207-aenar-targaryen"
+    ],
+    "catalogStatus": "historical_profile",
+    "birthHouse": "targaryen",
+    "deceasedBy208": true
+  },
+  {
+    "id": "event:conquest-stepstones",
+    "kind": "event",
+    "name": "Conquest of the Stepstones",
+    "page": "/events/conquest-stepstones/",
+    "sources": [
+      "awoiaf-pre207-timeline-of-major-events"
+    ],
+    "catalogStatus": "historical_profile",
+    "year": 106
   }
 ]

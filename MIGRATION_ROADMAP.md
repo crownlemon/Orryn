@@ -208,3 +208,20 @@ Added source-checked historical Hands, Kingsguard commanders and a separate Quee
 ## Historical migration: Gardener, Durrandon and southern dynasties
 
 Added two former royal houses, historical Tyrell, Baratheon and Hightower lineages, and four pre-207 event profiles. Kept campaign relationships distinct and did not infer Davos as Rogar's father or Lord Jon's descent from Ormund. Preserved existing household prose; added references and regional history. Graph 775 entities and 1491 facts (+33 / +52). In-memory ID, source, relationship and date checks passed. Full build remains unverified. No main merge.
+
+## Historical migration: ten regional and royal research packages
+
+Incremental expansion from retrieved AWOIAF historical passages. Current-day canon and post-207 developments excluded; no complete pedigree or exact ancient date invented. Existing campaign prose preserved.
+
+- Reach: +6 entities, +6 facts.
+- Stormlands: +4 entities, +3 facts.
+- North: +6 entities, +2 facts.
+- Vale: +8 entities, +6 facts.
+- Riverlands: +18 entities, +15 facts.
+- Westerlands: +8 entities, +7 facts.
+- Dorne: +11 entities, +19 facts.
+- Iron Islands: +5 entities, +6 facts.
+- Crownlands: +5 entities, +11 facts.
+- Royal origins and Stepstones: +4 entities, +5 facts.
+
+Total 850 entities, 1571 facts, 112 sources. Nine regional pages and the history index updated. In-memory ID, reference, provenance, parent-count, interval and newly authored article checks passed. This is not exhaustive AWOIAF coverage. Build and browser review remain unverified. No main merge.

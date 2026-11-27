@@ -5,6 +5,11 @@ description: The historical record before the Orryn narrative begins in 207 AC.
 
 Explore the recorded history of the Seven Kingdoms up to the beginning of the Orryn narrative. Later published outcomes are excluded.
 
+## Before the Conquest
+
+- [Lord Aenar Targaryen](/characters/aenar-targaryen/), [Lady Daenys Targaryen](/characters/daenys-targaryen/) and [Lord Gaemon Targaryen](/characters/gaemon-targaryen-glorious/): the early Targaryens on Dragonstone.
+- [The Seven Stars](/events/battle-seven-stars/), [Nymeria's War](/events/nymerias-war/) and [the Weeping Water](/events/battle-weeping-water/): early regional conflicts of uncertain date.
+
 ## Kings of the Seven Kingdoms
 
 | Reign (AC) | Monarch |
@@ -32,6 +37,8 @@ Explore the recorded history of the Seven Kingdoms up to the beginning of the Or
 | 4–13 | [First Dornish War](/events/first-dornish-war/) |
 | 41 | [Faith Militant uprising](/events/faith-militant-uprising/) |
 | 101 | [Great Council of 101 AC](/events/great-council-101/) |
+| 106–115 | [Conquest of the Stepstones](/events/conquest-stepstones/) |
+| 129 | [Battle of the Burning Mill](/events/battle-burning-mill/) |
 | 129 | [Dance of the Dragons](/events/dance-of-the-dragons/) |
 | 130 | [Battle of the Gullet](/events/battle-gullet/) |
 | c. 130 | [Battle of the Honeywine](/events/battle-honeywine/) |
