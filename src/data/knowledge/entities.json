@@ -11445,5 +11445,548 @@
     ],
     "catalogStatus": "historical_profile",
     "year": 106
+  },
+  {
+    "id": "person:aladore-florent",
+    "kind": "person",
+    "name": "Ser Aladore Florent",
+    "page": "/characters/aladore-florent/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 1966
+    },
+    "catalogStatus": "campaign_profile",
+    "birthHouse": "florent"
+  },
+  {
+    "id": "person:jon-florent",
+    "kind": "person",
+    "name": "Jon Florent",
+    "page": "/characters/jon-florent/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 1966
+    },
+    "catalogStatus": "campaign_profile",
+    "birthHouse": "florent"
+  },
+  {
+    "id": "person:samwyle-tarly",
+    "kind": "person",
+    "name": "Ser Samwyle Tarly",
+    "page": "/characters/samwyle-tarly/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 1967
+    },
+    "catalogStatus": "campaign_profile",
+    "birthHouse": "tarly"
+  },
+  {
+    "id": "person:tarly-unnamed-father-denys",
+    "kind": "person",
+    "name": "Unnamed son of Lord Roderick",
+    "page": "/characters/tarly-unnamed-father-denys/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 1967
+    },
+    "catalogStatus": "campaign_profile",
+    "birthHouse": "tarly",
+    "givenNameUnestablished": true
+  },
+  {
+    "id": "person:bennard-footly",
+    "kind": "person",
+    "name": "Lord Bennard Footly",
+    "page": "/characters/bennard-footly/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 1963
+    },
+    "catalogStatus": "campaign_profile",
+    "birthHouse": "footly"
+  },
+  {
+    "id": "person:catrin-footly",
+    "kind": "person",
+    "name": "Lady Catrin Footly",
+    "page": "/characters/catrin-footly/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 1964
+    },
+    "catalogStatus": "campaign_profile",
+    "birthHouse": "lothston"
+  },
+  {
+    "id": "person:ysella-footly",
+    "kind": "person",
+    "name": "Lady Ysella Hayford",
+    "page": "/characters/ysella-footly/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 1964
+    },
+    "catalogStatus": "campaign_profile",
+    "birthHouse": "footly"
+  },
+  {
+    "id": "person:mara-footly",
+    "kind": "person",
+    "name": "Mara Footly",
+    "page": "/characters/mara-footly/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 1964
+    },
+    "catalogStatus": "campaign_profile",
+    "birthHouse": "footly"
+  },
+  {
+    "id": "person:lucan-footly",
+    "kind": "person",
+    "name": "Lucan Footly",
+    "page": "/characters/lucan-footly/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 1964
+    },
+    "catalogStatus": "campaign_profile",
+    "birthHouse": "footly"
+  },
+  {
+    "id": "person:hayford-unnamed-current-lord",
+    "kind": "person",
+    "name": "Lord Hayford",
+    "page": "/characters/hayford-unnamed-current-lord/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 1964
+    },
+    "catalogStatus": "campaign_profile",
+    "birthHouse": "hayford",
+    "givenNameUnestablished": true
+  },
+  {
+    "id": "person:gunthor-estermont",
+    "kind": "person",
+    "name": "Ser Gunthor Estermont",
+    "page": "/characters/gunthor-estermont/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 1972
+    },
+    "catalogStatus": "campaign_profile",
+    "birthHouse": "estermont"
+  },
+  {
+    "id": "person:myria-estermont",
+    "kind": "person",
+    "name": "Lady Myria Tarth",
+    "page": "/characters/myria-estermont/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 1972
+    },
+    "catalogStatus": "campaign_profile",
+    "birthHouse": "estermont"
+  },
+  {
+    "id": "person:quentyn-tarth",
+    "kind": "person",
+    "name": "Ser Quentyn Tarth",
+    "page": "/characters/quentyn-tarth/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 1972
+    },
+    "catalogStatus": "campaign_profile",
+    "birthHouse": "tarth"
+  },
+  {
+    "id": "person:thurgood-fell",
+    "kind": "person",
+    "name": "Ser Thurgood Fell",
+    "page": "/characters/thurgood-fell/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 1973
+    },
+    "catalogStatus": "campaign_profile",
+    "birthHouse": "fell"
+  },
+  {
+    "id": "person:grance-morrigen",
+    "kind": "person",
+    "name": "Ser Grance Morrigen",
+    "page": "/characters/grance-morrigen/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 1973
+    },
+    "catalogStatus": "campaign_profile",
+    "birthHouse": "morrigen"
+  },
+  {
+    "id": "person:criston-wylde",
+    "kind": "person",
+    "name": "Ser Criston Wylde",
+    "page": "/characters/criston-wylde/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 1973
+    },
+    "catalogStatus": "campaign_profile",
+    "birthHouse": "wylde"
+  },
+  {
+    "id": "person:elwood-blackbar",
+    "kind": "person",
+    "name": "Ser Elwood Blackbar",
+    "page": "/characters/elwood-blackbar/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 1969
+    },
+    "catalogStatus": "campaign_profile",
+    "birthHouse": "blackbar"
+  },
+  {
+    "id": "title:lord-treasurer-of-highgarden",
+    "kind": "title",
+    "name": "Lord Treasurer of Highgarden",
+    "page": "/titles/lord-treasurer-of-highgarden/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 1675
+    },
+    "catalogStatus": "campaign_profile",
+    "titleNature": "reach_appointment"
+  },
+  {
+    "id": "title:lord-justiciar-of-highgarden",
+    "kind": "title",
+    "name": "Lord Justiciar of Highgarden",
+    "page": "/titles/lord-justiciar-of-highgarden/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 1676
+    },
+    "catalogStatus": "campaign_profile",
+    "titleNature": "reach_appointment"
+  },
+  {
+    "id": "title:steward-of-highgarden",
+    "kind": "title",
+    "name": "Steward of Highgarden",
+    "page": "/titles/steward-of-highgarden/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 1677
+    },
+    "catalogStatus": "campaign_profile",
+    "titleNature": "reach_appointment"
+  },
+  {
+    "id": "title:marshal-of-the-northmarch",
+    "kind": "title",
+    "name": "Marshal of the Northmarch",
+    "page": "/titles/marshal-of-the-northmarch/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 1679
+    },
+    "catalogStatus": "campaign_profile",
+    "titleNature": "hereditary_lordship"
+  },
+  {
+    "id": "title:lord-marshal-of-the-reach",
+    "kind": "title",
+    "name": "Lord Marshal of the Reach",
+    "page": "/titles/lord-marshal-of-the-reach/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 1684
+    },
+    "catalogStatus": "campaign_profile",
+    "titleNature": "reach_appointment"
+  },
+  {
+    "id": "title:master-at-arms-of-highgarden",
+    "kind": "title",
+    "name": "Master-at-Arms of Highgarden",
+    "page": "/titles/master-at-arms-of-highgarden/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 1685
+    },
+    "catalogStatus": "campaign_profile",
+    "titleNature": "reach_appointment"
+  },
+  {
+    "id": "place:blueburn",
+    "kind": "place",
+    "name": "Blueburn",
+    "page": "/places/blueburn/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 1736
+    },
+    "catalogStatus": "campaign_profile"
+  },
+  {
+    "id": "place:the-mere",
+    "kind": "place",
+    "name": "The Mere",
+    "page": "/places/the-mere/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 789
+    },
+    "catalogStatus": "campaign_profile"
+  },
+  {
+    "id": "place:greywash",
+    "kind": "place",
+    "name": "Greywash",
+    "page": "/places/greywash/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 796
+    },
+    "catalogStatus": "campaign_profile"
+  },
+  {
+    "id": "place:briar-run",
+    "kind": "place",
+    "name": "Briar Run",
+    "page": "/places/briar-run/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 804
+    },
+    "catalogStatus": "campaign_profile"
+  },
+  {
+    "id": "place:reedwater",
+    "kind": "place",
+    "name": "Reedwater",
+    "page": "/places/reedwater/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 805
+    },
+    "catalogStatus": "campaign_profile"
+  },
+  {
+    "id": "place:alder-mill",
+    "kind": "place",
+    "name": "Alder Mill",
+    "page": "/places/alder-mill/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 1639
+    },
+    "catalogStatus": "campaign_profile"
+  },
+  {
+    "id": "place:fallow-lower-mill",
+    "kind": "place",
+    "name": "Fallow's lower mill",
+    "page": "/places/fallow-lower-mill/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 1640
+    },
+    "catalogStatus": "campaign_profile"
+  },
+  {
+    "id": "place:sedgeford",
+    "kind": "place",
+    "name": "Sedgeford",
+    "page": "/places/sedgeford/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 1897
+    },
+    "catalogStatus": "campaign_profile"
+  },
+  {
+    "id": "person:osmund-sedgley",
+    "kind": "person",
+    "name": "Ser Osmund Sedgley",
+    "page": "/characters/osmund-sedgley/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 1897
+    },
+    "catalogStatus": "campaign_profile"
+  },
+  {
+    "id": "place:pear-and-plough",
+    "kind": "place",
+    "name": "The Pear and Plough",
+    "page": "/places/pear-and-plough/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 1587
+    },
+    "catalogStatus": "campaign_profile"
+  },
+  {
+    "id": "person:marra-pell",
+    "kind": "person",
+    "name": "Marra Pell",
+    "page": "/characters/marra-pell/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 1587
+    },
+    "catalogStatus": "campaign_profile"
+  },
+  {
+    "id": "place:brookfield",
+    "kind": "place",
+    "name": "Brookfield",
+    "page": "/places/brookfield/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 940
+    },
+    "catalogStatus": "campaign_profile"
+  },
+  {
+    "id": "place:coldharbour",
+    "kind": "place",
+    "name": "Coldharbour",
+    "page": "/places/coldharbour/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 945
+    },
+    "catalogStatus": "campaign_profile"
+  },
+  {
+    "id": "place:towerfield",
+    "kind": "place",
+    "name": "Towerfield",
+    "page": "/places/towerfield/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 951
+    },
+    "catalogStatus": "campaign_profile"
   }
 ]

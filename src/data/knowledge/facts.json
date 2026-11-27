@@ -17128,24 +17128,6 @@
     ]
   },
   {
-    "id": "fact:991",
-    "subject": "person:raynard-florent",
-    "predicate": "heir_to",
-    "object": "house:florent",
-    "sources": [
-      "householdbook-v12"
-    ],
-    "asOf": {
-      "year": 208
-    },
-    "evidence": [
-      {
-        "source": "householdbook-v12",
-        "line": 3030
-      }
-    ]
-  },
-  {
     "id": "fact:992",
     "subject": "region:north",
     "predicate": "ruled_by",
@@ -23486,5 +23468,941 @@
     "asOf": {
       "year": 106
     }
+  },
+  {
+    "id": "fact:1580",
+    "subject": "person:aladore-florent",
+    "predicate": "child_of",
+    "object": "person:eustace-florent",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1966
+      }
+    ]
+  },
+  {
+    "id": "fact:1581",
+    "subject": "person:jon-florent",
+    "predicate": "child_of",
+    "object": "person:eustace-florent",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1966
+      }
+    ]
+  },
+  {
+    "id": "fact:1582",
+    "subject": "person:aladore-florent",
+    "predicate": "heir_to",
+    "object": "house:florent",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1966
+      }
+    ]
+  },
+  {
+    "id": "fact:1583",
+    "subject": "person:samwyle-tarly",
+    "predicate": "child_of",
+    "object": "person:roderick-tarly",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1967
+      }
+    ]
+  },
+  {
+    "id": "fact:1584",
+    "subject": "person:tarly-unnamed-father-denys",
+    "predicate": "child_of",
+    "object": "person:roderick-tarly",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1967
+      }
+    ]
+  },
+  {
+    "id": "fact:1585",
+    "subject": "person:denys-tarly",
+    "predicate": "child_of",
+    "object": "person:tarly-unnamed-father-denys",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1967
+      }
+    ]
+  },
+  {
+    "id": "fact:1586",
+    "subject": "person:samwyle-tarly",
+    "predicate": "heir_to",
+    "object": "house:tarly",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1967
+      }
+    ]
+  },
+  {
+    "id": "fact:1587",
+    "subject": "house:footly",
+    "predicate": "head",
+    "object": "person:bennard-footly",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1963
+      }
+    ]
+  },
+  {
+    "id": "fact:1588",
+    "subject": "person:garlan-footly",
+    "predicate": "heir_to",
+    "object": "house:footly",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1963
+      }
+    ]
+  },
+  {
+    "id": "fact:1589",
+    "subject": "person:garlan-footly",
+    "predicate": "child_of",
+    "object": "person:bennard-footly",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1964
+      }
+    ]
+  },
+  {
+    "id": "fact:1590",
+    "subject": "person:ysella-footly",
+    "predicate": "child_of",
+    "object": "person:bennard-footly",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1964
+      }
+    ]
+  },
+  {
+    "id": "fact:1591",
+    "subject": "person:mara-footly",
+    "predicate": "child_of",
+    "object": "person:bennard-footly",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1964
+      }
+    ]
+  },
+  {
+    "id": "fact:1592",
+    "subject": "person:catrin-footly",
+    "predicate": "married_to",
+    "object": "person:bennard-footly",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1964
+      }
+    ]
+  },
+  {
+    "id": "fact:1593",
+    "subject": "person:ysella-footly",
+    "predicate": "married_to",
+    "object": "person:hayford-unnamed-current-lord",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1964
+      }
+    ]
+  },
+  {
+    "id": "fact:1594",
+    "subject": "person:hayford-unnamed-current-lord",
+    "predicate": "child_of",
+    "object": "person:hayford-unnamed-hand",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1964
+      }
+    ]
+  },
+  {
+    "id": "fact:1595",
+    "subject": "person:lucan-footly",
+    "predicate": "sibling_of",
+    "object": "person:bennard-footly",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1964
+      }
+    ]
+  },
+  {
+    "id": "fact:1596",
+    "subject": "house:hayford",
+    "predicate": "head",
+    "object": "person:hayford-unnamed-current-lord",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1964
+      }
+    ]
+  },
+  {
+    "id": "fact:1597",
+    "subject": "person:gunthor-estermont",
+    "predicate": "heir_to",
+    "object": "house:estermont",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1972
+      }
+    ]
+  },
+  {
+    "id": "fact:1598",
+    "subject": "person:quentyn-tarth",
+    "predicate": "heir_to",
+    "object": "house:tarth",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1972
+      }
+    ]
+  },
+  {
+    "id": "fact:1599",
+    "subject": "person:myria-estermont",
+    "predicate": "sibling_of",
+    "object": "person:gunthor-estermont",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1972
+      }
+    ]
+  },
+  {
+    "id": "fact:1600",
+    "subject": "person:myria-estermont",
+    "predicate": "married_to",
+    "object": "person:quentyn-tarth",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1972
+      }
+    ]
+  },
+  {
+    "id": "fact:1601",
+    "subject": "person:elwood-blackbar",
+    "predicate": "child_of",
+    "object": "person:melara-redwyne",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1969
+      }
+    ]
+  },
+  {
+    "id": "fact:1602",
+    "subject": "person:elwood-blackbar",
+    "predicate": "sibling_of",
+    "object": "person:arstan-blackbar",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1969
+      }
+    ]
+  },
+  {
+    "id": "fact:1603",
+    "subject": "person:elwood-blackbar",
+    "predicate": "sibling_of",
+    "object": "person:owen-blackbar",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1969
+      }
+    ]
+  },
+  {
+    "id": "fact:1604",
+    "subject": "person:lyman-beesbury",
+    "predicate": "holds_title",
+    "object": "title:lord-treasurer-of-highgarden",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1675
+      }
+    ]
+  },
+  {
+    "id": "fact:1605",
+    "subject": "person:osmund-leygood",
+    "predicate": "holds_title",
+    "object": "title:lord-justiciar-of-highgarden",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1676
+      }
+    ]
+  },
+  {
+    "id": "fact:1606",
+    "subject": "person:owen-blackbar",
+    "predicate": "holds_title",
+    "object": "title:steward-of-highgarden",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1677
+      }
+    ]
+  },
+  {
+    "id": "fact:1607",
+    "subject": "person:rycherd-rowan",
+    "predicate": "holds_title",
+    "object": "title:marshal-of-the-northmarch",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1679
+      }
+    ]
+  },
+  {
+    "id": "fact:1608",
+    "subject": "person:luthor-roxton",
+    "predicate": "holds_title",
+    "object": "title:lord-marshal-of-the-reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1684
+      }
+    ]
+  },
+  {
+    "id": "fact:1609",
+    "subject": "person:luthor-risley",
+    "predicate": "holds_title",
+    "object": "title:master-at-arms-of-highgarden",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1685
+      }
+    ]
+  },
+  {
+    "id": "fact:1610",
+    "subject": "place:blueburn",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1736
+      }
+    ]
+  },
+  {
+    "id": "fact:1611",
+    "subject": "place:the-mere",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 789
+      }
+    ]
+  },
+  {
+    "id": "fact:1612",
+    "subject": "place:greywash",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 796
+      }
+    ]
+  },
+  {
+    "id": "fact:1613",
+    "subject": "place:greywash",
+    "predicate": "flows_from",
+    "object": "place:the-mere",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 797
+      }
+    ]
+  },
+  {
+    "id": "fact:1614",
+    "subject": "place:briar-run",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 804
+      }
+    ]
+  },
+  {
+    "id": "fact:1615",
+    "subject": "place:briar-run",
+    "predicate": "tributary_of",
+    "object": "place:greywash",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 804
+      }
+    ]
+  },
+  {
+    "id": "fact:1616",
+    "subject": "place:reedwater",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 805
+      }
+    ]
+  },
+  {
+    "id": "fact:1617",
+    "subject": "place:reedwater",
+    "predicate": "tributary_of",
+    "object": "place:greywash",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 805
+      }
+    ]
+  },
+  {
+    "id": "fact:1618",
+    "subject": "place:alder-mill",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1639
+      }
+    ]
+  },
+  {
+    "id": "fact:1619",
+    "subject": "place:alder-mill",
+    "predicate": "ruled_by",
+    "object": "house:haye",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1639
+      }
+    ]
+  },
+  {
+    "id": "fact:1620",
+    "subject": "person:dunstan-fallow",
+    "predicate": "leases",
+    "object": "place:alder-mill",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1639
+      }
+    ]
+  },
+  {
+    "id": "fact:1621",
+    "subject": "place:fallow-lower-mill",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1640
+      }
+    ]
+  },
+  {
+    "id": "fact:1622",
+    "subject": "place:sedgeford",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1897
+      }
+    ]
+  },
+  {
+    "id": "fact:1623",
+    "subject": "place:sedgeford",
+    "predicate": "ruled_by",
+    "object": "person:osmund-sedgley",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1897
+      }
+    ]
+  },
+  {
+    "id": "fact:1624",
+    "subject": "place:pear-and-plough",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1587
+      }
+    ]
+  },
+  {
+    "id": "fact:1625",
+    "subject": "person:marra-pell",
+    "predicate": "operates",
+    "object": "place:pear-and-plough",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1587
+      }
+    ]
+  },
+  {
+    "id": "fact:1626",
+    "subject": "place:brookfield",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 940
+      }
+    ]
+  },
+  {
+    "id": "fact:1627",
+    "subject": "place:brookfield",
+    "predicate": "located_in",
+    "object": "place:merewatch",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 940
+      }
+    ]
+  },
+  {
+    "id": "fact:1628",
+    "subject": "place:coldharbour",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 945
+      }
+    ]
+  },
+  {
+    "id": "fact:1629",
+    "subject": "place:coldharbour",
+    "predicate": "located_in",
+    "object": "place:merewatch",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 945
+      }
+    ]
+  },
+  {
+    "id": "fact:1630",
+    "subject": "place:towerfield",
+    "predicate": "region",
+    "object": "region:stormlands",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 951
+      }
+    ]
+  },
+  {
+    "id": "fact:1631",
+    "subject": "place:towerfield",
+    "predicate": "located_in",
+    "object": "place:merewatch",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 951
+      }
+    ]
   }
 ]

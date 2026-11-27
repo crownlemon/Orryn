@@ -225,3 +225,7 @@ Incremental expansion from retrieved AWOIAF historical passages. Current-day can
 - Royal origins and Stepstones: +4 entities, +5 facts.
 
 Total 850 entities, 1571 facts, 112 sources. Nine regional pages and the history index updated. In-memory ID, reference, provenance, parent-count, interval and newly authored article checks passed. This is not exhaustive AWOIAF coverage. Build and browser review remain unverified. No main merge.
+
+## Worldbook v10 migration: geography, offices and corrected successions
+
+Read Worldbook v10's 1,995-paragraph document and extracted established facts from the standing domain, office and Ashford-era sections. Corrected Florent succession, added Footly, Tarly, Tarth and Estermont details, six Reach offices, river and mill geography and settlement profiles. Preserved speculative and private material outside the import. Remaining: Cider Hall register discrepancy, systematic register and chapter audit, further kinship reconciliation. Structural in-memory checks passed, full build not verified. Total 887 entities, 1622 facts. No main merge.
