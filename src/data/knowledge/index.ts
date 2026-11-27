@@ -1,6 +1,8 @@
 import entitiesData from './entities.json';
 import factsData from './facts.json';
 import sourcesData from './sources.json';
+import householdAgesData from './household-ages.json';
+const householdAges = householdAgesData as Record<string,{age:string; reference:'at_death'|'campaign_opening';year?:number;source:string;line:number}>;
 
 export type EntityKind = 'house' | 'person' | 'place' | 'region' | 'title' | 'event';
 export type Moment = { year: number; chapter?: number };
@@ -152,6 +154,8 @@ export function identityRows(entity: Entity, at: Moment = DEFAULT_DATE): DetailR
   if (entity.kind === 'person') {
     literal('Born',entity.born);
     if (at.year === 208) literal('Age',entity.ageDescription208??entity.age208);
+    const recordedAge=householdAges[entity.id];
+    if(recordedAge && at.year>=207) literal(recordedAge.reference==='at_death'?'Recorded age at death':'Recorded age at campaign opening (207 AC)',recordedAge.age.replace(/^Died in /,'')+' (Householdbook v12, paragraph '+recordedAge.line+')');
     const byBirth = outgoing(entity.id,'born_to_house',at)[0] ??
       (entity.birthHouse ? index.get('house:'+entity.birthHouse) : undefined);
     if(byBirth) add('House by birth',byBirth);

@@ -247,3 +247,8 @@ Added 95 source-matched, reader-facing household reputations, attributed as repo
 ## Householdbook v12: expanded current family and court registers
 
 Added 72 explicit roster entries across 19 houses from the source's current-household sections. Family membership is not inferred as residence; Grandison visitors, Rowan knights and ward, and Manwoody ruling family are explicitly distinguished. The Florent register was deliberately skipped pending reconciliation against the later Worldbook succession. The current shared roster now covers 143 entries across 25 house/place targets. Verified known entity IDs, unique fact IDs and source paragraph anchors in memory. No unrecorded officers or servants invented. Full Astro build and CI remain unverified. No main merge.
+
+
+## Householdbook v12: dated age references
+
+Added 60 previously unrepresented age references from matched character profiles. The source's explicit paragraph 41 convention defines ordinary ages at campaign opening, not the current 208 AC snapshot. Retained those as 207 AC references; deceased characters retain age at death. No birthday or 208 age inferred. Kept ambiguous later addendum ages and the superseded Garlan entry out of this batch. Source matching and ID checks passed in memory; full build remains unverified. No main merge.

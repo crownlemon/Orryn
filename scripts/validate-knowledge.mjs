@@ -141,6 +141,13 @@ for(const f of facts.filter(f=>f.rosterGroup208)) {
   check(typeof f.role208==='string'&&f.role208.trim().length>0,f.id+': missing household role');
 }
 
+for(const [id,age] of Object.entries(load('household-ages'))) {
+  check(ids.get(id)?.kind==='person','Household age: unknown person '+id);
+  check(evidence.has(age.source)&&Number.isInteger(age.line)&&age.line>0,'Household age: invalid source '+id);
+  check(age.reference==='at_death'||(age.reference==='campaign_opening'&&age.year===207),'Household age: unknown time reference '+id);
+  check(typeof age.age==='string'&&age.age.length>0,'Household age: empty age '+id);
+}
+
 if (failures.length) {
   for (const problem of failures) console.error('FAIL', problem);
   process.exitCode = 1;

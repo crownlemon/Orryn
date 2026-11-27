@@ -1,0 +1,420 @@
+{
+  "person:gawen-grandison": {
+    "age": "Died in his sixties",
+    "reference": "at_death",
+    "source": "householdbook-v12",
+    "line": 91
+  },
+  "person:ellyn-grandison": {
+    "age": "Died in her late fifties",
+    "reference": "at_death",
+    "source": "householdbook-v12",
+    "line": 109
+  },
+  "person:alester-grandison": {
+    "age": "Early forties",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 129
+  },
+  "person:lynesse-grandison": {
+    "age": "Late thirties",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 151
+  },
+  "person:steffon-grandison": {
+    "age": "Late thirties",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 172
+  },
+  "person:maris-grandison": {
+    "age": "Late thirties",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 194
+  },
+  "person:raymont-grandison": {
+    "age": "Mid-thirties",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 215
+  },
+  "person:alys-musgood": {
+    "age": "Late thirties",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 236
+  },
+  "person:lyman-verrall": {
+    "age": "44",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 496
+  },
+  "person:everard-blythe": {
+    "age": "49",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 517
+  },
+  "person:wyman-latham": {
+    "age": "42",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 538
+  },
+  "person:maester-perrin": {
+    "age": "52",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 558
+  },
+  "person:septon-lorimer": {
+    "age": "58",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 579
+  },
+  "person:bertram-corliss": {
+    "age": "46",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 600
+  },
+  "person:tobin-whitlow": {
+    "age": "30",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 621
+  },
+  "person:lucan-marwick": {
+    "age": "38",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 642
+  },
+  "person:marya-caswell": {
+    "age": "30",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 664
+  },
+  "person:septa-lenora": {
+    "age": "50",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 685
+  },
+  "person:osric-dunmere": {
+    "age": "17",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 707
+  },
+  "person:baldric-haye": {
+    "age": "16",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 728
+  },
+  "person:perkin-fenwick": {
+    "age": "15",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 749
+  },
+  "person:piers-fallow": {
+    "age": "15",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 770
+  },
+  "person:tolman-haverill": {
+    "age": "40",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 792
+  },
+  "person:dunstan-fallow": {
+    "age": "51",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 812
+  },
+  "person:aldous-trent": {
+    "age": "47",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 834
+  },
+  "person:alysanne-penrose": {
+    "age": "Late forties",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 1174
+  },
+  "person:dondarrion-unnamed-lord": {
+    "age": "Early sixties",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 1268
+  },
+  "person:myrielle-dondarrion": {
+    "age": "Early forties",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 1308
+  },
+  "person:manfred-dondarrion": {
+    "age": "Early thirties",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 1327
+  },
+  "person:pearse-caron": {
+    "age": "Approximately 40",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 1366
+  },
+  "person:rosamund-caron": {
+    "age": "Approximately 37",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 1387
+  },
+  "person:harlan-caron": {
+    "age": "Approximately 43",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 1407
+  },
+  "person:morton-caron": {
+    "age": "Approximately 35",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 1428
+  },
+  "person:armond-caron": {
+    "age": "14",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 1449
+  },
+  "person:ellyn-caron": {
+    "age": "Approximately 9",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 1470
+  },
+  "person:rolph-wagstaff": {
+    "age": "50",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 1542
+  },
+  "person:olwen-wagstaff": {
+    "age": "44",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 1562
+  },
+  "person:edric-wagstaff": {
+    "age": "23",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 1582
+  },
+  "person:aymer-gower": {
+    "age": "43",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 1615
+  },
+  "person:hester-gower": {
+    "age": "60",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 1635
+  },
+  "person:isolde-gower": {
+    "age": "38",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 1655
+  },
+  "person:rickard-gower": {
+    "age": "15",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 1675
+  },
+  "person:wilmar-hertson": {
+    "age": "41",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 1707
+  },
+  "person:marian-hertson": {
+    "age": "57",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 1727
+  },
+  "person:dermot-hertson": {
+    "age": "34",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 1747
+  },
+  "person:cafferen-unnamed-lord": {
+    "age": "49",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 1781
+  },
+  "person:cafferen-unnamed-lady": {
+    "age": "44",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 1801
+  },
+  "person:merrit-cafferen": {
+    "age": "24",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 1820
+  },
+  "person:alysanne-cafferen": {
+    "age": "12",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 1840
+  },
+  "person:peasebury-unnamed-lord": {
+    "age": "55",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 1873
+  },
+  "person:hilda-peasebury": {
+    "age": "46",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 1893
+  },
+  "person:garrett-peasebury": {
+    "age": "33",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 1913
+  },
+  "person:cleyton-caswell": {
+    "age": "20",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 2173
+  },
+  "person:ashford-unnamed-lord": {
+    "age": "50",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 2209
+  },
+  "person:gwin-ashford": {
+    "age": "11",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 2274
+  },
+  "person:odessa-merryweather": {
+    "age": "44",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 2346
+  },
+  "person:lymond-merryweather": {
+    "age": "21",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 2366
+  },
+  "person:alyn-merryweather": {
+    "age": "18",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 2386
+  },
+  "person:gormon-peake": {
+    "age": "44",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 2433
+  },
+  "person:elinor-peake": {
+    "age": "40",
+    "reference": "campaign_opening",
+    "year": 207,
+    "source": "householdbook-v12",
+    "line": 2454
+  }
+}
