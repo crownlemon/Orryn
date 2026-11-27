@@ -25280,5 +25280,1521 @@
         "line": 3637
       }
     ]
+  },
+  {
+    "id": "fact:1680",
+    "subject": "person:alester-grandison",
+    "predicate": "household_member_of",
+    "object": "house:grandison",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 75
+      }
+    ]
+  },
+  {
+    "id": "fact:1681",
+    "subject": "person:lynesse-grandison",
+    "predicate": "household_member_of",
+    "object": "house:grandison",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 76
+      }
+    ]
+  },
+  {
+    "id": "fact:1682",
+    "subject": "person:arlan-grandison",
+    "predicate": "household_member_of",
+    "object": "house:grandison",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 77
+      }
+    ]
+  },
+  {
+    "id": "fact:1683",
+    "subject": "person:elenei-grandison",
+    "predicate": "household_member_of",
+    "object": "house:grandison",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 78
+      }
+    ]
+  },
+  {
+    "id": "fact:1684",
+    "subject": "person:dondarrion-unnamed-lord",
+    "predicate": "household_member_of",
+    "object": "house:dondarrion",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1263
+      }
+    ]
+  },
+  {
+    "id": "fact:1685",
+    "subject": "person:ravella-dondarrion",
+    "predicate": "household_member_of",
+    "object": "house:dondarrion",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1264
+      }
+    ]
+  },
+  {
+    "id": "fact:1686",
+    "subject": "person:myrielle-dondarrion",
+    "predicate": "household_member_of",
+    "object": "house:dondarrion",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1265
+      }
+    ]
+  },
+  {
+    "id": "fact:1687",
+    "subject": "person:manfred-dondarrion",
+    "predicate": "household_member_of",
+    "object": "house:dondarrion",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1266
+      }
+    ]
+  },
+  {
+    "id": "fact:1688",
+    "subject": "person:rolph-wagstaff",
+    "predicate": "household_member_of",
+    "object": "house:wagstaff",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1538
+      }
+    ]
+  },
+  {
+    "id": "fact:1689",
+    "subject": "person:olwen-wagstaff",
+    "predicate": "household_member_of",
+    "object": "house:wagstaff",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1539
+      }
+    ]
+  },
+  {
+    "id": "fact:1690",
+    "subject": "person:edric-wagstaff",
+    "predicate": "household_member_of",
+    "object": "house:wagstaff",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1540
+      }
+    ]
+  },
+  {
+    "id": "fact:1691",
+    "subject": "person:aymer-gower",
+    "predicate": "household_member_of",
+    "object": "house:gower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1610
+      }
+    ]
+  },
+  {
+    "id": "fact:1692",
+    "subject": "person:hester-gower",
+    "predicate": "household_member_of",
+    "object": "house:gower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1611
+      }
+    ]
+  },
+  {
+    "id": "fact:1693",
+    "subject": "person:isolde-gower",
+    "predicate": "household_member_of",
+    "object": "house:gower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1612
+      }
+    ]
+  },
+  {
+    "id": "fact:1694",
+    "subject": "person:rickard-gower",
+    "predicate": "household_member_of",
+    "object": "house:gower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1613
+      }
+    ]
+  },
+  {
+    "id": "fact:1695",
+    "subject": "person:wilmar-hertson",
+    "predicate": "household_member_of",
+    "object": "house:hertson",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1703
+      }
+    ]
+  },
+  {
+    "id": "fact:1696",
+    "subject": "person:marian-hertson",
+    "predicate": "household_member_of",
+    "object": "house:hertson",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1704
+      }
+    ]
+  },
+  {
+    "id": "fact:1697",
+    "subject": "person:dermot-hertson",
+    "predicate": "household_member_of",
+    "object": "house:hertson",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1705
+      }
+    ]
+  },
+  {
+    "id": "fact:1698",
+    "subject": "person:cafferen-unnamed-lord",
+    "predicate": "household_member_of",
+    "object": "house:cafferen",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1776
+      }
+    ]
+  },
+  {
+    "id": "fact:1699",
+    "subject": "person:cafferen-unnamed-lady",
+    "predicate": "household_member_of",
+    "object": "house:cafferen",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1777
+      }
+    ]
+  },
+  {
+    "id": "fact:1700",
+    "subject": "person:merrit-cafferen",
+    "predicate": "household_member_of",
+    "object": "house:cafferen",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1778
+      }
+    ]
+  },
+  {
+    "id": "fact:1701",
+    "subject": "person:alysanne-cafferen",
+    "predicate": "household_member_of",
+    "object": "house:cafferen",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1779
+      }
+    ]
+  },
+  {
+    "id": "fact:1702",
+    "subject": "person:peasebury-unnamed-lord",
+    "predicate": "household_member_of",
+    "object": "house:peasebury",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1869
+      }
+    ]
+  },
+  {
+    "id": "fact:1703",
+    "subject": "person:hilda-peasebury",
+    "predicate": "household_member_of",
+    "object": "house:peasebury",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1870
+      }
+    ]
+  },
+  {
+    "id": "fact:1704",
+    "subject": "person:garrett-peasebury",
+    "predicate": "household_member_of",
+    "object": "house:peasebury",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1871
+      }
+    ]
+  },
+  {
+    "id": "fact:1705",
+    "subject": "person:hobart-elmridge",
+    "predicate": "household_member_of",
+    "object": "house:elmridge",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1937
+      }
+    ]
+  },
+  {
+    "id": "fact:1706",
+    "subject": "person:edith-elmridge",
+    "predicate": "household_member_of",
+    "object": "house:elmridge",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1938
+      }
+    ]
+  },
+  {
+    "id": "fact:1707",
+    "subject": "person:dudley-bushy",
+    "predicate": "household_member_of",
+    "object": "house:bushy",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1984
+      }
+    ]
+  },
+  {
+    "id": "fact:1708",
+    "subject": "person:joan-bushy",
+    "predicate": "household_member_of",
+    "object": "house:bushy",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 1985
+      }
+    ]
+  },
+  {
+    "id": "fact:1709",
+    "subject": "person:margery-graves",
+    "predicate": "household_member_of",
+    "object": "house:graves",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2032
+      }
+    ]
+  },
+  {
+    "id": "fact:1710",
+    "subject": "person:hal-graves",
+    "predicate": "household_member_of",
+    "object": "house:graves",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2033
+      }
+    ]
+  },
+  {
+    "id": "fact:1711",
+    "subject": "person:rosamund-graves",
+    "predicate": "household_member_of",
+    "object": "house:graves",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2034
+      }
+    ]
+  },
+  {
+    "id": "fact:1712",
+    "subject": "person:armond-caswell",
+    "predicate": "household_member_of",
+    "object": "house:caswell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2107
+      }
+    ]
+  },
+  {
+    "id": "fact:1713",
+    "subject": "person:brenna-caswell",
+    "predicate": "household_member_of",
+    "object": "house:caswell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2108
+      }
+    ]
+  },
+  {
+    "id": "fact:1714",
+    "subject": "person:joffrey-caswell",
+    "predicate": "household_member_of",
+    "object": "house:caswell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2109
+      }
+    ]
+  },
+  {
+    "id": "fact:1715",
+    "subject": "person:cleyton-caswell",
+    "predicate": "household_member_of",
+    "object": "house:caswell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2110
+      }
+    ]
+  },
+  {
+    "id": "fact:1716",
+    "subject": "person:ashford-unnamed-lord",
+    "predicate": "household_member_of",
+    "object": "house:ashford",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2203
+      }
+    ]
+  },
+  {
+    "id": "fact:1717",
+    "subject": "person:ashford-unnamed-lady",
+    "predicate": "household_member_of",
+    "object": "house:ashford",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2204
+      }
+    ]
+  },
+  {
+    "id": "fact:1718",
+    "subject": "person:androw-ashford",
+    "predicate": "household_member_of",
+    "object": "house:ashford",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2205
+      }
+    ]
+  },
+  {
+    "id": "fact:1719",
+    "subject": "person:robert-ashford",
+    "predicate": "household_member_of",
+    "object": "house:ashford",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2206
+      }
+    ]
+  },
+  {
+    "id": "fact:1720",
+    "subject": "person:gwin-ashford",
+    "predicate": "household_member_of",
+    "object": "house:ashford",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2207
+      }
+    ]
+  },
+  {
+    "id": "fact:1721",
+    "subject": "person:merryweather-unnamed-lord",
+    "predicate": "household_member_of",
+    "object": "house:merryweather",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2322
+      }
+    ]
+  },
+  {
+    "id": "fact:1722",
+    "subject": "person:odessa-merryweather",
+    "predicate": "household_member_of",
+    "object": "house:merryweather",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2323
+      }
+    ]
+  },
+  {
+    "id": "fact:1723",
+    "subject": "person:lymond-merryweather",
+    "predicate": "household_member_of",
+    "object": "house:merryweather",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2324
+      }
+    ]
+  },
+  {
+    "id": "fact:1724",
+    "subject": "person:gormon-peake",
+    "predicate": "household_member_of",
+    "object": "house:peake",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2429
+      }
+    ]
+  },
+  {
+    "id": "fact:1725",
+    "subject": "person:elinor-peake",
+    "predicate": "household_member_of",
+    "object": "house:peake",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2430
+      }
+    ]
+  },
+  {
+    "id": "fact:1726",
+    "subject": "person:edmund-peake",
+    "predicate": "household_member_of",
+    "object": "house:peake",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2431
+      }
+    ]
+  },
+  {
+    "id": "fact:1727",
+    "subject": "person:mara-manwoody",
+    "predicate": "household_member_of",
+    "object": "house:manwoody",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3460
+      }
+    ]
+  },
+  {
+    "id": "fact:1728",
+    "subject": "person:nymor-qorgyle",
+    "predicate": "household_member_of",
+    "object": "house:manwoody",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3461
+      }
+    ]
+  },
+  {
+    "id": "fact:1729",
+    "subject": "person:myria-manwoody",
+    "predicate": "household_member_of",
+    "object": "house:manwoody",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3462
+      }
+    ]
+  },
+  {
+    "id": "fact:1730",
+    "subject": "person:albin-manwoody",
+    "predicate": "household_member_of",
+    "object": "house:manwoody",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3463
+      }
+    ]
+  },
+  {
+    "id": "fact:1731",
+    "subject": "person:steffon-grandison",
+    "predicate": "visits_house",
+    "object": "house:grandison",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "visitor",
+    "role208": "Recurring family visitor",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 85
+      }
+    ]
+  },
+  {
+    "id": "fact:1732",
+    "subject": "person:maris-grandison",
+    "predicate": "visits_house",
+    "object": "house:grandison",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "visitor",
+    "role208": "Recurring family visitor",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 86
+      }
+    ]
+  },
+  {
+    "id": "fact:1733",
+    "subject": "person:alyssa-grandison",
+    "predicate": "visits_house",
+    "object": "house:grandison",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "visitor",
+    "role208": "Recurring family visitor",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 87
+      }
+    ]
+  },
+  {
+    "id": "fact:1734",
+    "subject": "person:orryn-grandison",
+    "predicate": "visits_house",
+    "object": "house:grandison",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "visitor",
+    "role208": "Recurring family visitor; serves at Grassfield",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 88
+      }
+    ]
+  },
+  {
+    "id": "fact:1735",
+    "subject": "person:alys-musgood",
+    "predicate": "visits_house",
+    "object": "house:grandison",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "visitor",
+    "role208": "Recurring family visitor",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 89
+      }
+    ]
+  },
+  {
+    "id": "fact:1736",
+    "subject": "person:theomar-redwyne",
+    "predicate": "household_member_of",
+    "object": "house:redwyne",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Lord of the Arbor; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2853
+      }
+    ]
+  },
+  {
+    "id": "fact:1737",
+    "subject": "person:arstan-blackbar",
+    "predicate": "household_member_of",
+    "object": "house:blackbar",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2881
+      }
+    ]
+  },
+  {
+    "id": "fact:1738",
+    "subject": "person:janna-hightower",
+    "predicate": "household_member_of",
+    "object": "house:blackbar",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2881
+      }
+    ]
+  },
+  {
+    "id": "fact:1739",
+    "subject": "person:meredyth-blackbar",
+    "predicate": "household_member_of",
+    "object": "house:blackbar",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2881
+      }
+    ]
+  },
+  {
+    "id": "fact:1740",
+    "subject": "person:rycherd-rowan",
+    "predicate": "household_member_of",
+    "object": "house:rowan",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2947
+      }
+    ]
+  },
+  {
+    "id": "fact:1741",
+    "subject": "person:clarice-rowan",
+    "predicate": "household_member_of",
+    "object": "house:rowan",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2947
+      }
+    ]
+  },
+  {
+    "id": "fact:1742",
+    "subject": "person:triston-rowan",
+    "predicate": "household_member_of",
+    "object": "house:rowan",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2947
+      }
+    ]
+  },
+  {
+    "id": "fact:1743",
+    "subject": "person:roslin-rowan",
+    "predicate": "household_member_of",
+    "object": "house:rowan",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2947
+      }
+    ]
+  },
+  {
+    "id": "fact:1744",
+    "subject": "person:wendell-webber",
+    "predicate": "household_member_of",
+    "object": "house:rowan",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "household_knight",
+    "role208": "Household knight and the lord's goodbrother",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2947
+      }
+    ]
+  },
+  {
+    "id": "fact:1745",
+    "subject": "person:alyn-merryweather",
+    "predicate": "household_member_of",
+    "object": "house:rowan",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "household_knight",
+    "role208": "Household knight since Chapter 60",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2947
+      }
+    ],
+    "from": {
+      "year": 208,
+      "chapter": 60
+    }
+  },
+  {
+    "id": "fact:1746",
+    "subject": "person:harys-oakheart",
+    "predicate": "household_member_of",
+    "object": "house:rowan",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "court_attendant",
+    "role208": "Ward in Lord Rowan's keeping",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2947
+      }
+    ]
+  },
+  {
+    "id": "fact:1747",
+    "subject": "person:jon-hightower",
+    "predicate": "household_member_of",
+    "object": "house:hightower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3083
+      }
+    ]
+  },
+  {
+    "id": "fact:1748",
+    "subject": "person:corenna-hightower",
+    "predicate": "household_member_of",
+    "object": "house:hightower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3083
+      }
+    ]
+  },
+  {
+    "id": "fact:1749",
+    "subject": "person:abelar-hightower",
+    "predicate": "household_member_of",
+    "object": "house:hightower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3083
+      }
+    ]
+  },
+  {
+    "id": "fact:1750",
+    "subject": "person:daenora-hightower",
+    "predicate": "household_member_of",
+    "object": "house:hightower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3083
+      }
+    ]
+  },
+  {
+    "id": "fact:1751",
+    "subject": "person:quenton-hightower",
+    "predicate": "household_member_of",
+    "object": "house:hightower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    },
+    "rosterGroup208": "lords_family",
+    "role208": "Recorded in the lord's family register; residence not inferred",
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3083
+      }
+    ]
   }
 ]

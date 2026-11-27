@@ -242,3 +242,8 @@ Inspected the 3,759-paragraph source, prioritizing the compact supplement (3375â
 ## Householdbook v12: reputation and shared household registers
 
 Added 95 source-matched, reader-facing household reputations, attributed as reported rather than objective character judgments. Selected explicit reputation entries; shortened sensitive or speculative passages to established, observable material and omitted unresolved future entries. The shared identity component now renders the same reputation model on every matching character route. Added a collapsible roster for houses and places with structured roster facts (71 roles across 6 targets), keeping kin, visitors and residents distinct. Both new panels are limited to the current Chapter 67 snapshot. Expanded the knowledge validator to check profile and roster provenance and identity. Source-match and reference checks executed in memory; full npm/Astro build and visual review remain unverified. Further household biographies, relationship and age reconciliation remain open. No main merge.
+
+
+## Householdbook v12: expanded current family and court registers
+
+Added 72 explicit roster entries across 19 houses from the source's current-household sections. Family membership is not inferred as residence; Grandison visitors, Rowan knights and ward, and Manwoody ruling family are explicitly distinguished. The Florent register was deliberately skipped pending reconciliation against the later Worldbook succession. The current shared roster now covers 143 entries across 25 house/place targets. Verified known entity IDs, unique fact IDs and source paragraph anchors in memory. No unrecorded officers or servants invented. Full Astro build and CI remain unverified. No main merge.
