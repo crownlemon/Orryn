@@ -9,6 +9,8 @@ Follow the story of Orryn Grandison and the households of Westeros, one chapter 
 
 [Start reading — Chapter 1](/chapters/chapter-01/) · [Latest chapter — Chapter 67](/chapters/chapter-67/)
 
+[View the campaign chronology](/campaign/) for source-attested events.
+
 ## Contents
 
 ### Chapters 1–10

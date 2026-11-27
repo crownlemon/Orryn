@@ -670,5 +670,17 @@
     "title": "A Wiki of Ice and Fire: Timeline of major events",
     "url": "https://awoiaf.westeros.org/index.php/Timeline_of_major_events",
     "kind": "secondary"
+  },
+  {
+    "id": "chapter-52",
+    "title": "Chapter 52 — A Place Among Roses",
+    "url": "https://docs.google.com/document/d/116SF_RNwOXvHLRtVG_Tqvr1Xht2Q5TwTRTnbm_ZAhIw/edit?usp=drivesdk",
+    "kind": "internal"
+  },
+  {
+    "id": "chapter-63",
+    "title": "Chapter 63 — The Common Store",
+    "url": "https://docs.google.com/document/d/1ZLMcJKFL_vCUKAKfoe7fZz2-QdGWysIgTF1Iu9dFYVE/edit?usp=drivesdk",
+    "kind": "internal"
   }
 ]

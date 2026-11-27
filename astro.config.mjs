@@ -16,6 +16,7 @@ export default defineConfig({
         { label: 'Places', items: [{ autogenerate: { directory: 'places' } }] },
         { label: 'The Realm', items: [{ autogenerate: { directory: 'realm' } }] },
         { label: 'Titles & Offices', items: [{ autogenerate: { directory: 'titles' } }] },
+        { label: 'Campaign chronology', link: '/campaign/' },
         { label: 'Chapters', link: '/chapters/' },
         { label: 'Chapter archive', collapsed: true, items: [
           { label: "1. The Garden Chamber", link: "/chapters/chapter-01/" },

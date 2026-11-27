@@ -12512,5 +12512,41 @@
     "catalogStatus": "campaign_profile",
     "birthHouse": "grandison",
     "deceasedBy208": true
+  },
+  {
+    "id": "event:matthos-enters-moryns-service",
+    "kind": "event",
+    "name": "Matthos Meadows enters Ser Moryn's service",
+    "page": "/events/matthos-enters-moryns-service/",
+    "year": 208,
+    "chapter": 52,
+    "eventType": "campaign_event",
+    "sources": [
+      "chapter-52"
+    ]
+  },
+  {
+    "id": "event:meadows-response-to-common-store",
+    "kind": "event",
+    "name": "Meadows refuses the common grain store",
+    "page": "/events/meadows-response-to-common-store/",
+    "year": 208,
+    "chapter": 63,
+    "eventType": "campaign_event",
+    "sources": [
+      "chapter-63"
+    ]
+  },
+  {
+    "id": "event:goldengrove-wardship-discussion",
+    "kind": "event",
+    "name": "Goldengrove discussion over Harys Oakheart's wardship",
+    "page": "/events/goldengrove-wardship-discussion/",
+    "year": 208,
+    "chapter": 66,
+    "eventType": "campaign_event",
+    "sources": [
+      "chapter-66"
+    ]
   }
 ]

@@ -252,3 +252,8 @@ Added 72 explicit roster entries across 19 houses from the source's current-hous
 ## Householdbook v12: dated age references
 
 Added 60 previously unrepresented age references from matched character profiles. The source's explicit paragraph 41 convention defines ordinary ages at campaign opening, not the current 208 AC snapshot. Retained those as 207 AC references; deceased characters retain age at death. No birthday or 208 age inferred. Kept ambiguous later addendum ages and the superseded Garlan entry out of this batch. Source matching and ID checks passed in memory; full build remains unverified. No main merge.
+
+
+## Chapter chronology: Highgarden service, grain response and Goldengrove wardship
+
+Read Chapters 52, 63 and 66 directly; added three dated campaign event articles with participant and place facts, source references and a separate /campaign/ chronology linked in navigation and the chapter archive. Kept reported requests, refusals and proposed future actions separate from concluded agreements; Chapter 67 alternatives remain unresolved. Existing dated campaign events are included in the chronology. Unique IDs, all fact references and source IDs checked in memory. This is a partial chronology, not all chapter events. Build and deployment unverified. No main merge.
