@@ -233,3 +233,7 @@ Read Worldbook v10's 1,995-paragraph document and extracted established facts fr
 ### Worldbook register cross-check
 
 Compared all 139 imported register rows (60 Stormlands, 79 Reach) with the graph using the atlas script's assertions: source lines, rank, region, seat and unassigned holdings pass. Added the late addendum's Cider Hall/Fossoway and Steffon/Raymun separately without inventing grid position or changing the original 139-row register. Reconciled Raynard's biography with Aladore's succession. Total 891 entities and 1628 facts. Atlas assertions reproduced in memory; actual npm/Astro execution remains unverified. No main merge.
+
+## Householdbook v12: household supplement and appearance migration
+
+Inspected the 3,759-paragraph source, prioritizing the compact supplement (3375–3445), Kingsgrave (3447–3532), and played/approved household additions (3534–3759). Added named Tumbleton officers, Manwoody household, missing knights, local servants and supported relations. No future death, marriage, sexual arrangements, conditional plans or GM-only motivations imported. Extracted 118 matched physical descriptions to a shared article component, with paragraph provenance; ambiguous, open or later descriptions excluded. In-memory reference, ID, parent and route checks passed. Further full text/reputation reconciliation and technical build remain open. Total 922 entities, 1670 facts. No main merge.

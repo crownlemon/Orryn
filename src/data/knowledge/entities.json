@@ -12048,5 +12048,469 @@
     },
     "catalogStatus": "campaign_profile",
     "birthHouse": "fossoway"
+  },
+  {
+    "id": "place:kingsgrave",
+    "kind": "place",
+    "name": "Kingsgrave",
+    "page": "/places/kingsgrave/",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3449
+    },
+    "catalogStatus": "campaign_profile"
+  },
+  {
+    "id": "house:manwoody",
+    "kind": "house",
+    "name": "House Manwoody",
+    "page": "/houses/manwoody/",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3449
+    },
+    "catalogStatus": "campaign_profile",
+    "subtitle": "of Kingsgrave"
+  },
+  {
+    "id": "person:mara-manwoody",
+    "kind": "person",
+    "name": "Lady Mara Manwoody",
+    "page": "/characters/mara-manwoody/",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3467
+    },
+    "catalogStatus": "campaign_profile",
+    "birthHouse": "manwoody",
+    "age208": 31
+  },
+  {
+    "id": "person:nymor-qorgyle",
+    "kind": "person",
+    "name": "Ser Nymor Qorgyle",
+    "page": "/characters/nymor-qorgyle/",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3489
+    },
+    "catalogStatus": "campaign_profile",
+    "birthHouse": "qorgyle",
+    "age208": 24
+  },
+  {
+    "id": "person:myria-manwoody",
+    "kind": "person",
+    "name": "Lady Myria Manwoody",
+    "page": "/characters/myria-manwoody/",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3511
+    },
+    "catalogStatus": "campaign_profile",
+    "birthHouse": "manwoody",
+    "age208": 8
+  },
+  {
+    "id": "person:albin-manwoody",
+    "kind": "person",
+    "name": "Albin Manwoody",
+    "page": "/characters/albin-manwoody/",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3514
+    },
+    "catalogStatus": "campaign_profile",
+    "birthHouse": "manwoody",
+    "age208": 5
+  },
+  {
+    "id": "person:michael-manwoody",
+    "kind": "person",
+    "name": "Ser Michael Manwoody",
+    "page": "/characters/michael-manwoody/",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3517
+    },
+    "catalogStatus": "campaign_profile",
+    "birthHouse": "manwoody"
+  },
+  {
+    "id": "person:manwoody-unnamed-late-lord",
+    "kind": "person",
+    "name": "Late Lord Manwoody",
+    "page": "/characters/manwoody-unnamed-late-lord/",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3451
+    },
+    "catalogStatus": "campaign_profile",
+    "birthHouse": "manwoody",
+    "deceasedBy208": true,
+    "givenNameUnestablished": true
+  },
+  {
+    "id": "person:oren-venn",
+    "kind": "person",
+    "name": "Master Oren Venn",
+    "page": "/characters/oren-venn/",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3392
+    },
+    "catalogStatus": "campaign_profile",
+    "age208": 51
+  },
+  {
+    "id": "person:halden-pyne",
+    "kind": "person",
+    "name": "Ser Halden Pyne",
+    "page": "/characters/halden-pyne/",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3392
+    },
+    "catalogStatus": "campaign_profile",
+    "age208": 43
+  },
+  {
+    "id": "person:petyr-broom",
+    "kind": "person",
+    "name": "Master Petyr Broom",
+    "page": "/characters/petyr-broom/",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3392
+    },
+    "catalogStatus": "campaign_profile",
+    "age208": 48
+  },
+  {
+    "id": "person:corwyn",
+    "kind": "person",
+    "name": "Maester Corwyn",
+    "page": "/characters/corwyn/",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3392
+    },
+    "catalogStatus": "campaign_profile",
+    "age208": 56
+  },
+  {
+    "id": "person:willam",
+    "kind": "person",
+    "name": "Septon Willam",
+    "page": "/characters/willam/",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3392
+    },
+    "catalogStatus": "campaign_profile",
+    "age208": 60
+  },
+  {
+    "id": "person:edmund-graves",
+    "kind": "person",
+    "name": "Edmund Graves",
+    "page": "/characters/edmund-graves/",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 2096
+    },
+    "catalogStatus": "campaign_profile",
+    "birthHouse": "graves"
+  },
+  {
+    "id": "person:humfrey-beesbury",
+    "kind": "person",
+    "name": "Ser Humfrey Beesbury",
+    "page": "/characters/humfrey-beesbury/",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3406
+    },
+    "catalogStatus": "campaign_profile",
+    "birthHouse": "beesbury"
+  },
+  {
+    "id": "house:hardyng",
+    "kind": "house",
+    "name": "House Hardyng",
+    "page": "/houses/hardyng/",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3406
+    },
+    "catalogStatus": "campaign_profile"
+  },
+  {
+    "id": "person:hardyng-unnamed-wife-humfrey",
+    "kind": "person",
+    "name": "Unnamed Lady Hardyng",
+    "page": "/characters/hardyng-unnamed-wife-humfrey/",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3406
+    },
+    "catalogStatus": "campaign_profile",
+    "birthHouse": "hardyng",
+    "givenNameUnestablished": true
+  },
+  {
+    "id": "person:humfrey-hardyng",
+    "kind": "person",
+    "name": "Ser Humfrey Hardyng",
+    "page": "/characters/humfrey-hardyng/",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3406
+    },
+    "catalogStatus": "campaign_profile",
+    "birthHouse": "hardyng"
+  },
+  {
+    "id": "person:robyn-rhysling",
+    "kind": "person",
+    "name": "Ser Robyn Rhysling",
+    "page": "/characters/robyn-rhysling/",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3418
+    },
+    "catalogStatus": "campaign_profile",
+    "birthHouse": "rhysling"
+  },
+  {
+    "id": "person:matthew-mullendore",
+    "kind": "person",
+    "name": "Ser Matthew Mullendore",
+    "page": "/characters/matthew-mullendore/",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3421
+    },
+    "catalogStatus": "campaign_profile",
+    "birthHouse": "mullendore"
+  },
+  {
+    "id": "person:humphrey-bulwer",
+    "kind": "person",
+    "name": "Ser Humphrey Bulwer",
+    "page": "/characters/humphrey-bulwer/",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3424
+    },
+    "catalogStatus": "campaign_profile",
+    "birthHouse": "bulwer"
+  },
+  {
+    "id": "person:garth-oldflowers",
+    "kind": "person",
+    "name": "Ser Garth Oldflowers",
+    "page": "/characters/garth-oldflowers/",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3427
+    },
+    "catalogStatus": "campaign_profile",
+    "birthHouse": "oldflowers"
+  },
+  {
+    "id": "person:anselm-fell",
+    "kind": "person",
+    "name": "Ser Anselm Fell",
+    "page": "/characters/anselm-fell/",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3601
+    },
+    "catalogStatus": "campaign_profile",
+    "age208": 40
+  },
+  {
+    "id": "person:sergeant-hollis",
+    "kind": "person",
+    "name": "Sergeant Hollis",
+    "page": "/characters/sergeant-hollis/",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3633
+    },
+    "catalogStatus": "campaign_profile"
+  },
+  {
+    "id": "person:sergeant-cobb",
+    "kind": "person",
+    "name": "Sergeant Cobb",
+    "page": "/characters/sergeant-cobb/",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3550
+    },
+    "catalogStatus": "campaign_profile"
+  },
+  {
+    "id": "person:septon-emmon",
+    "kind": "person",
+    "name": "Septon Emmon",
+    "page": "/characters/septon-emmon/",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3637
+    },
+    "catalogStatus": "campaign_profile"
+  },
+  {
+    "id": "person:tom-costen",
+    "kind": "person",
+    "name": "Ser Tom Costen",
+    "page": "/characters/tom-costen/",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3637
+    },
+    "catalogStatus": "campaign_profile"
+  },
+  {
+    "id": "person:lady-ormesby",
+    "kind": "person",
+    "name": "Lady Ormesby",
+    "page": "/characters/lady-ormesby/",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3567
+    },
+    "catalogStatus": "campaign_profile"
+  },
+  {
+    "id": "person:maddock",
+    "kind": "person",
+    "name": "Maddock",
+    "page": "/characters/maddock/",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3567
+    },
+    "catalogStatus": "campaign_profile"
+  },
+  {
+    "id": "place:cress-hill",
+    "kind": "place",
+    "name": "Cress Hill",
+    "page": "/places/cress-hill/",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 3637
+    },
+    "catalogStatus": "campaign_profile"
+  },
+  {
+    "id": "person:lorent-grandison",
+    "kind": "person",
+    "name": "Lord Lorent Grandison",
+    "page": "/characters/lorent-grandison/",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "householdReference": {
+      "source": "householdbook-v12",
+      "line": 60
+    },
+    "catalogStatus": "campaign_profile",
+    "birthHouse": "grandison",
+    "deceasedBy208": true
   }
 ]

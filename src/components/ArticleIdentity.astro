@@ -1,5 +1,6 @@
 ---
 import KnowledgeInfobox from './KnowledgeInfobox.astro';
+import appearanceData from '../data/knowledge/household-appearance.json';
 import { getEntity, DEFAULT_DATE, type Moment } from '../data/knowledge/index';
 
 interface Props {
@@ -8,6 +9,8 @@ interface Props {
 }
 const {entityId,asOf=DEFAULT_DATE}=Astro.props;
 const e=getEntity(entityId);
+const appearances = appearanceData as Record<string, {appearance:string; source:string; line:number}>;
+const profile = appearances[entityId];
 const categories:Record<string,string> = {
   person:'Character',house:'Noble house',place:'Location',
   region:'Region',title:'Title',event:'Historical event'
@@ -15,3 +18,16 @@ const categories:Record<string,string> = {
 ---
 <div class="orr-article-kicker">{categories[e.kind]} <span aria-hidden="true">·</span> {asOf.year} AC</div>
 <KnowledgeInfobox entityId={entityId} asOf={asOf}/>
+
+{e.kind === 'person' && profile && (
+  <aside class="orr-household-appearance" aria-label="Recorded appearance">
+    <strong>Recorded appearance</strong>
+    <p>{profile.appearance}</p>
+    <small>Householdbook v12 · reference {profile.line}</small>
+  </aside>
+)}
+<style>
+  .orr-household-appearance { margin-block: 1rem; padding: .8rem 1rem; border: 1px solid var(--sl-color-gray-5); border-radius: .35rem; }
+  .orr-household-appearance p { margin-block: .45rem; }
+  .orr-household-appearance small { color: var(--sl-color-gray-3); }
+</style>

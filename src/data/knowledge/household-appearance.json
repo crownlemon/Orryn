@@ -1,0 +1,592 @@
+{
+  "person:gawen-grandison": {
+    "appearance": "Broad-shouldered, with greying brown hair, a neatly trimmed beard, steady blue-grey eyes, and a stiff leg from an old riding injury.",
+    "source": "householdbook-v12",
+    "line": 105
+  },
+  "person:ellyn-grandison": {
+    "appearance": "Chestnut hair, brown-green eyes, and elegant Meadows-inspired gowns of fine wool and embroidered cloth, often complemented by tasteful jewellery.",
+    "source": "householdbook-v12",
+    "line": 125
+  },
+  "person:alester-grandison": {
+    "appearance": "Tall and broad-shouldered, with dark brown hair beginning to grey, blue eyes, and a neatly kept beard.",
+    "source": "householdbook-v12",
+    "line": 147
+  },
+  "person:lynesse-grandison": {
+    "appearance": "Soft brown hair, hazel eyes, and modest but elegant clothing.",
+    "source": "householdbook-v12",
+    "line": 168
+  },
+  "person:steffon-grandison": {
+    "appearance": "Dark brown hair, a trimmed beard, grey-blue eyes, and a sturdy build.",
+    "source": "householdbook-v12",
+    "line": 190
+  },
+  "person:maris-grandison": {
+    "appearance": "Light brown hair, kind blue eyes, and practical but well-made clothing.",
+    "source": "householdbook-v12",
+    "line": 211
+  },
+  "person:raymont-grandison": {
+    "appearance": "Athletic build, dark brown hair, blue-grey eyes, a broken nose, and an easy smile.",
+    "source": "householdbook-v12",
+    "line": 232
+  },
+  "person:alys-musgood": {
+    "appearance": "Brown hair, lively grey-green eyes, and fashionable gowns with tasteful jewellery.",
+    "source": "householdbook-v12",
+    "line": 253
+  },
+  "person:arlan-grandison": {
+    "appearance": "Tall for his age, with an athletic build, dark brown hair, and blue-grey eyes.",
+    "source": "householdbook-v12",
+    "line": 273
+  },
+  "person:elenei-grandison": {
+    "appearance": "Brown hair, bright hazel eyes, and a lively smile.",
+    "source": "householdbook-v12",
+    "line": 294
+  },
+  "person:alyssa-grandison": {
+    "appearance": "Golden-blonde hair, expressive grey-green eyes, freckles, a strong riding build, and a slightly crooked smile.",
+    "source": "householdbook-v12",
+    "line": 315
+  },
+  "person:orryn-grandison": {
+    "appearance": "Average height and leanly built, with slightly wavy golden-blonde hair, grey-blue eyes, freckles across his nose and shoulders, a narrow chin, slightly uneven eyebrows, and an easily overlooked presence in a crowded hall.",
+    "source": "householdbook-v12",
+    "line": 334
+  },
+  "person:alaric-meadows": {
+    "appearance": "Light brown hair, hazel eyes, and a lean build that rarely seems at rest. He dresses practically rather than lavishly and usually appears occupied with some household matter.",
+    "source": "householdbook-v12",
+    "line": 406
+  },
+  "person:jeyne-meadows": {
+    "appearance": "Dark chestnut hair, brown eyes, and a composed expression. She dresses fashionably in well-made Reach gowns and pays careful attention to appearance and etiquette.",
+    "source": "householdbook-v12",
+    "line": 428
+  },
+  "person:leonette-meadows": {
+    "appearance": "Chestnut hair, green-brown eyes, and a lively smile. She enjoys colourful gowns, ribbons, and jewellery, and carries herself with growing confidence.",
+    "source": "householdbook-v12",
+    "line": 450
+  },
+  "person:matthos-meadows": {
+    "appearance": "Tall for his age, with light brown hair, hazel-green eyes, and the sturdy build of a boy who spends most of his time outdoors.",
+    "source": "householdbook-v12",
+    "line": 471
+  },
+  "person:lyman-verrall": {
+    "appearance": "Medium height and sleek, with thinning sandy hair combed carefully across his scalp, warm hazel eyes, a quick smile, and ink on well-cut cuffs.",
+    "source": "householdbook-v12",
+    "line": 513
+  },
+  "person:everard-blythe": {
+    "appearance": "Tall and once handsome, now running to fat, with silver hair tied back, broken veins across a long nose, and immaculate if worn doublets.",
+    "source": "householdbook-v12",
+    "line": 534
+  },
+  "person:wyman-latham": {
+    "appearance": "Weathered and lean, with grey-brown hair, a close beard, and calloused hands that are very still around animals.",
+    "source": "householdbook-v12",
+    "line": 554
+  },
+  "person:maester-perrin": {
+    "appearance": "Thin and stooped, with a long nose, a grey beard trimmed to a point, pale blue eyes, a chain of several metals, and ink-stained fingers.",
+    "source": "householdbook-v12",
+    "line": 575
+  },
+  "person:septon-lorimer": {
+    "appearance": "Heavyset and red-faced, with soft hands, wispy white hair, and a heavy crystal pendant.",
+    "source": "householdbook-v12",
+    "line": 596
+  },
+  "person:bertram-corliss": {
+    "appearance": "Lean and grizzled, with a scarred cheek, short iron-grey hair, and battered armour kept spotless.",
+    "source": "householdbook-v12",
+    "line": 617
+  },
+  "person:tobin-whitlow": {
+    "appearance": "Golden-brown curls, easy laugh lines, a handsome and slightly dishevelled face, and very fine boots.",
+    "source": "householdbook-v12",
+    "line": 638
+  },
+  "person:lucan-marwick": {
+    "appearance": "Tall and square-jawed, with cropped dark hair, a stiff posture, and plain armour kept in perfect order.",
+    "source": "householdbook-v12",
+    "line": 660
+  },
+  "person:marya-caswell": {
+    "appearance": "Neat and plain, with light brown hair, grey eyes, and good but remade gowns.",
+    "source": "householdbook-v12",
+    "line": 681
+  },
+  "person:septa-lenora": {
+    "appearance": "Narrow-faced and straight-backed, with grey hair under a plain veil and a crystal that hangs against her chest.",
+    "source": "householdbook-v12",
+    "line": 703
+  },
+  "person:osric-dunmere": {
+    "appearance": "Tall and thin, with fair hair cut straight across the brow, pale eyes, and a seven-pointed star pendant he touches when he disapproves.",
+    "source": "householdbook-v12",
+    "line": 724
+  },
+  "person:baldric-haye": {
+    "appearance": "Stocky and dark-haired, with watchful brown eyes and a patched cloak he keeps scrupulously clean.",
+    "source": "householdbook-v12",
+    "line": 745
+  },
+  "person:perkin-fenwick": {
+    "appearance": "Short and wiry, with sandy hair that stands up at the crown, freckles, and a gap-toothed grin.",
+    "source": "householdbook-v12",
+    "line": 766
+  },
+  "person:piers-fallow": {
+    "appearance": "Stocky, with dark curly hair, quick brown eyes, and clothes finer than the other boys', which draw comment.",
+    "source": "householdbook-v12",
+    "line": 788
+  },
+  "person:tolman-haverill": {
+    "appearance": "Thin and nervous, with receding brown hair, quick eyes, and a habit of straightening his sleeves.",
+    "source": "householdbook-v12",
+    "line": 808
+  },
+  "person:dunstan-fallow": {
+    "appearance": "Stout and florid, with fine clothes slightly too fine, rings on several fingers, and small bright eyes.",
+    "source": "householdbook-v12",
+    "line": 829
+  },
+  "person:aldous-trent": {
+    "appearance": "Soft and balding, with mild eyes and clean hands he looks at often.",
+    "source": "householdbook-v12",
+    "line": 851
+  },
+  "person:garlan-footly": {
+    "appearance": "Broad and fair, with sandy hair, a broad face, and slow blue eyes.",
+    "source": "householdbook-v12",
+    "line": 872
+  },
+  "person:edric-baratheon": {
+    "appearance": "A broad man with heavy shoulders, greying black hair, a square beard, and dark blue eyes. Age has thickened rather than weakened him.",
+    "source": "householdbook-v12",
+    "line": 945
+  },
+  "person:alysanne-baratheon": {
+    "appearance": "Dark chestnut hair streaked with silver, soft brown eyes, and a composed expression.",
+    "source": "householdbook-v12",
+    "line": 966
+  },
+  "person:lyonel-baratheon": {
+    "appearance": "Tall, broad-shouldered, and handsome, with thick black hair, bright blue eyes, and an easy smile.",
+    "source": "householdbook-v12",
+    "line": 987
+  },
+  "person:laena-baratheon": {
+    "appearance": "Dark auburn hair, pale skin, and thoughtful grey eyes.",
+    "source": "householdbook-v12",
+    "line": 1008
+  },
+  "person:boremund-baratheon": {
+    "appearance": "Slightly shorter than Lyonel, with broad features, thinning black hair, and thoughtful blue eyes.",
+    "source": "householdbook-v12",
+    "line": 1029
+  },
+  "person:ellyn-baratheon": {
+    "appearance": "Brown hair, hazel eyes, and an expressive face.",
+    "source": "householdbook-v12",
+    "line": 1049
+  },
+  "person:edwyn-baratheon": {
+    "appearance": "A skinny boy with untidy black hair and bright blue eyes.",
+    "source": "householdbook-v12",
+    "line": 1069
+  },
+  "person:gowen-baratheon": {
+    "appearance": "Powerfully built, with unruly black hair, storm-blue eyes, and the permanent look of someone who has just returned from the training yard or the hunt.",
+    "source": "householdbook-v12",
+    "line": 1090
+  },
+  "person:ormund-baratheon": {
+    "appearance": "Small and sturdy, with thick black hair, bright blue eyes and scraped knees.",
+    "source": "householdbook-v12",
+    "line": 1110
+  },
+  "person:alysanne-penrose": {
+    "appearance": "A straight-backed woman with silver-streaked auburn hair, pale blue eyes, a narrow face, and an austere bearing. Her gowns are finely made but conservative, and she commonly wears a small piece of Hightower jewellery at her throat.",
+    "source": "householdbook-v12",
+    "line": 1191
+  },
+  "person:jon-penrose": {
+    "appearance": "Broad-shouldered and handsome, with thick dark-auburn hair, hazel-grey eyes, and an expressive smile. He favours well-cut clothing, polished armour, and small displays of Penrose heraldry.",
+    "source": "householdbook-v12",
+    "line": 1212
+  },
+  "person:dondarrion-unnamed-lord": {
+    "appearance": "A tall but ageing man with heavy shoulders, weathered features, iron-grey hair, and stern grey eyes. He dresses plainly for a lord of his standing and still wears a sword even at household meals.",
+    "source": "householdbook-v12",
+    "line": 1284
+  },
+  "person:ravella-dondarrion": {
+    "appearance": "A slender woman with greying brown hair, dark eyes, and an erect bearing. She favours restrained gowns of good wool and wears little jewellery beyond pieces inherited from House Selmy.",
+    "source": "householdbook-v12",
+    "line": 1304
+  },
+  "person:myrielle-dondarrion": {
+    "appearance": "A long-faced woman with dark brown hair beginning to grey, deep-set brown eyes, and a controlled expression. She dresses in Dondarrion colours but continues to wear a small Caron brooch that belonged to her mother.",
+    "source": "householdbook-v12",
+    "line": 1323
+  },
+  "person:manfred-dondarrion": {
+    "appearance": "A lean, broad-shouldered knight with dark hair, a narrow face, and cool grey eyes. His clothing and armour are well maintained but without unnecessary ornament.",
+    "source": "householdbook-v12",
+    "line": 1344
+  },
+  "person:pearse-caron": {
+    "appearance": "A lean, handsome man with dark brown hair beginning to grey, expressive brown eyes, and a carefully maintained beard. His clothes, horses, weapons, and instruments are always of excellent quality, even when Nightsong's accounts suggest greater restraint.",
+    "source": "householdbook-v12",
+    "line": 1383
+  },
+  "person:rosamund-caron": {
+    "appearance": "A composed woman with dark chestnut hair, brown-grey eyes, and a graceful bearing. She dresses carefully in Caron colours but often wears small pieces of Swann jewellery.",
+    "source": "householdbook-v12",
+    "line": 1403
+  },
+  "person:harlan-caron": {
+    "appearance": "A tall, strongly built man with dark hair streaked with grey and a weathered, severe face. He wears the plain black of the Night's Watch and no longer bears Caron arms.",
+    "source": "householdbook-v12",
+    "line": 1424
+  },
+  "person:morton-caron": {
+    "appearance": "A compact, broad-shouldered man with dark hair, a close-trimmed beard, and watchful brown eyes. He dresses plainly and keeps his possessions arranged with almost excessive care.",
+    "source": "householdbook-v12",
+    "line": 1445
+  },
+  "person:armond-caron": {
+    "appearance": "A tall, slender boy with dark brown hair, brown eyes, and a deliberate, overly formal bearing. He wears Caron colours whenever permitted and takes unusual care over the condition of his clothes and equipment.",
+    "source": "householdbook-v12",
+    "line": 1466
+  },
+  "person:ellyn-caron": {
+    "appearance": "A dark-haired girl with brown-grey eyes, a narrow face, and an alert expression. She enjoys bright ribbons, songs, and jewellery and complains when dressed more plainly than visiting children.",
+    "source": "householdbook-v12",
+    "line": 1486
+  },
+  "person:rolph-wagstaff": {
+    "appearance": "Lean and stooped by an old shoulder wound, with close-cropped grey hair, a hawk nose and a spotted scalp. He wears plain green wool with the yellow mascles at his breast.",
+    "source": "householdbook-v12",
+    "line": 1558
+  },
+  "person:olwen-wagstaff": {
+    "appearance": "Broad and brisk, with greying brown hair under a plain cap and her sleeves always pushed to the elbow.",
+    "source": "householdbook-v12",
+    "line": 1578
+  },
+  "person:edric-wagstaff": {
+    "appearance": "Broad, sandy-haired and freckled, with large hands, patient grey eyes and hound hair on his sleeve.",
+    "source": "householdbook-v12",
+    "line": 1598
+  },
+  "person:aymer-gower": {
+    "appearance": "Stout and balding, with Maris's blue eyes, a neat brown beard, and clothes that are good and a season out of date.",
+    "source": "householdbook-v12",
+    "line": 1631
+  },
+  "person:hester-gower": {
+    "appearance": "Small and upright, with white hair in a net, Maris's chin, widow's grey, and a ring of keys at her belt.",
+    "source": "householdbook-v12",
+    "line": 1651
+  },
+  "person:isolde-gower": {
+    "appearance": "Tall and fair, with an elaborate coiffure and jewellery that looks borrowed from a grander house.",
+    "source": "householdbook-v12",
+    "line": 1671
+  },
+  "person:rickard-gower": {
+    "appearance": "Broad, fair and round-faced, quick to flush, with his father's build coming early.",
+    "source": "householdbook-v12",
+    "line": 1690
+  },
+  "person:wilmar-hertson": {
+    "appearance": "Slim and fair, handsome in a worn way, with Lynesse's soft brown hair going thin and garments mended with great skill.",
+    "source": "householdbook-v12",
+    "line": 1723
+  },
+  "person:marian-hertson": {
+    "appearance": "Tall and thin, with white hair under an old-fashioned veil and Lynesse's hazel eyes.",
+    "source": "householdbook-v12",
+    "line": 1743
+  },
+  "person:dermot-hertson": {
+    "appearance": "Bluff and sandy-haired, with an imitation of Alester's laugh that is a little too loud.",
+    "source": "householdbook-v12",
+    "line": 1763
+  },
+  "person:cafferen-unnamed-lord": {
+    "appearance": "Middling height and round-shouldered, with thinning fawn-brown hair and anxious brown eyes.",
+    "source": "householdbook-v12",
+    "line": 1797
+  },
+  "person:cafferen-unnamed-lady": {
+    "appearance": "Thin and neat, with fawn-brown hair under a plain coif and a mouth that tightens at the sight of waste.",
+    "source": "householdbook-v12",
+    "line": 1816
+  },
+  "person:merrit-cafferen": {
+    "appearance": "Wiry and brown-haired with his father's anxious eyes in a harder face, always dressed one degree better than the occasion needs.",
+    "source": "householdbook-v12",
+    "line": 1836
+  },
+  "person:alysanne-cafferen": {
+    "appearance": "Small, with fawn-brown hair in a long braid and large, watchful eyes.",
+    "source": "householdbook-v12",
+    "line": 1856
+  },
+  "person:peasebury-unnamed-lord": {
+    "appearance": "Big-bellied and ruddy, with bright small eyes, a wide laugh and a coat that has been let out twice.",
+    "source": "householdbook-v12",
+    "line": 1889
+  },
+  "person:hilda-peasebury": {
+    "appearance": "Stout and brisk, with hennaed hair and heavy rings that she turns when she is working out a match.",
+    "source": "householdbook-v12",
+    "line": 1909
+  },
+  "person:garrett-peasebury": {
+    "appearance": "Tall, loose-limbed and sunburnt, with a battered hat and a scar he shows to strangers.",
+    "source": "householdbook-v12",
+    "line": 1929
+  },
+  "person:hobart-elmridge": {
+    "appearance": "Thickset and red-faced, with grey bristle and hands permanently stained by the mill.",
+    "source": "householdbook-v12",
+    "line": 1956
+  },
+  "person:edith-elmridge": {
+    "appearance": "Pale and thin, in layered shawls, with sharp grey eyes that miss nothing in the room.",
+    "source": "householdbook-v12",
+    "line": 1976
+  },
+  "person:dudley-bushy": {
+    "appearance": "Tall and florid, with a huge moustache and a loud, rolling voice.",
+    "source": "householdbook-v12",
+    "line": 2004
+  },
+  "person:joan-bushy": {
+    "appearance": "Small and sharp-featured, with grey-streaked black hair and spotless sleeves.",
+    "source": "householdbook-v12",
+    "line": 2024
+  },
+  "person:margery-graves": {
+    "appearance": "Gaunt and upright, with iron-grey hair, a hooked nose and riding gloves she rarely removes.",
+    "source": "householdbook-v12",
+    "line": 2052
+  },
+  "person:hal-graves": {
+    "appearance": "Tall and fair, with his mother's hooked nose in a gentler face and a falcon glove on his arm.",
+    "source": "householdbook-v12",
+    "line": 2072
+  },
+  "person:armond-caswell": {
+    "appearance": "Big and grizzled, with a red nose, a white moustache and a scar along one forearm that he shows to anyone who will look.",
+    "source": "householdbook-v12",
+    "line": 2128
+  },
+  "person:brenna-caswell": {
+    "appearance": "Slight and brisk, with sandy hair already streaked with grey and a fixed polite smile.",
+    "source": "householdbook-v12",
+    "line": 2149
+  },
+  "person:joffrey-caswell": {
+    "appearance": "Thin and pale, with sandy hair, Armond's red nose beginning to show, and expensive clothes worn carelessly.",
+    "source": "householdbook-v12",
+    "line": 2169
+  },
+  "person:cleyton-caswell": {
+    "appearance": "Pretty, fair-haired and slender, with an elaborate cloak and a sword that has never left its scabbard in anger.",
+    "source": "householdbook-v12",
+    "line": 2189
+  },
+  "person:ashford-unnamed-lord": {
+    "appearance": "Large and bald with a round red face (published description from The Hedge Knight). Other details are unspecified.",
+    "source": "householdbook-v12",
+    "line": 2224
+  },
+  "person:gwin-ashford": {
+    "appearance": "Short, yellow-haired and round pink-faced (published description at age thirteen in The Hedge Knight).",
+    "source": "householdbook-v12",
+    "line": 2289
+  },
+  "person:merryweather-unnamed-lord": {
+    "appearance": "Round-faced and ruddy, with a bulbous nose, thinning orange-red hair and a laugh he produces on cue.",
+    "source": "householdbook-v12",
+    "line": 2342
+  },
+  "person:odessa-merryweather": {
+    "appearance": "Slim and upright, with auburn hair dressed high, a long neck and gowns a season ahead of the neighbourhood.",
+    "source": "householdbook-v12",
+    "line": 2362
+  },
+  "person:lymond-merryweather": {
+    "appearance": "Slender, auburn-haired and quick-smiling, in clothes that cost more than he can name.",
+    "source": "householdbook-v12",
+    "line": 2382
+  },
+  "person:alyn-merryweather": {
+    "appearance": "Handsome, unruly chestnut hair, green eyes, a wide mouth, slightly rumpled clothes.",
+    "source": "householdbook-v12",
+    "line": 2396
+  },
+  "person:gormon-peake": {
+    "appearance": "Tall, broad and handsome, with sandy hair, a scar across one brow and armour better made than his roof.",
+    "source": "householdbook-v12",
+    "line": 2450
+  },
+  "person:elinor-peake": {
+    "appearance": "Thin and dark, with a worried brow and rings that she twists when he is speaking.",
+    "source": "householdbook-v12",
+    "line": 2470
+  },
+  "person:edmund-peake": {
+    "appearance": "Slighter than his father, with his mother's dark hair and a neat, careful beard.",
+    "source": "householdbook-v12",
+    "line": 2490
+  },
+  "person:gyles-peake": {
+    "appearance": "Sandy-haired and fine-boned; wears costly orange-and-black clothing, with polished boots.",
+    "source": "householdbook-v12",
+    "line": 2504
+  },
+  "person:denys-tarly": {
+    "appearance": "Thick short brown hair, solid tall build, dark green coat with House Tarly's red huntsman.",
+    "source": "householdbook-v12",
+    "line": 3256
+  },
+  "person:will-risley": {
+    "appearance": "Narrow face, dark hair, dry manner; usually wears a worn green doublet.",
+    "source": "householdbook-v12",
+    "line": 3290
+  },
+  "person:hugh-redwyne": {
+    "appearance": "Bright restless eyes; costly purple clothing with embroidered grape clusters.",
+    "source": "householdbook-v12",
+    "line": 3324
+  },
+  "person:meriel-vyrwel": {
+    "appearance": "Brown hair bound behind her head with a ribbon; at the Chapter 54 revel she wore a dark blue gown with a silver-worked girdle.",
+    "source": "householdbook-v12",
+    "line": 3364
+  },
+  "person:mara-manwoody": {
+    "appearance": "Tall, dark chestnut-haired, with olive skin, observant brown eyes and a composed bearing.",
+    "source": "householdbook-v12",
+    "line": 3485
+  },
+  "person:nymor-qorgyle": {
+    "appearance": "Dark brown skin, thick black hair, expressive dark eyes, handsome angular features and a lean, athletic build. He favours the lighter, more colourful clothing of his Sandstone upbringing.",
+    "source": "householdbook-v12",
+    "line": 3507
+  },
+  "person:wendell-webber": {
+    "appearance": "Short and bald, with a goiter on his neck, and troubled by wind (published).",
+    "source": "householdbook-v12",
+    "line": 3574
+  },
+  "person:harys-oakheart": {
+    "appearance": "Thin as a lath, and holds himself as stiff as a poker (Chapter 62).",
+    "source": "householdbook-v12",
+    "line": 3585
+  },
+  "person:wyman-webber": {
+    "appearance": "Heavy, florid and wheezing, rings sunk into fat fingers.",
+    "source": "householdbook-v12",
+    "line": 3649
+  },
+  "person:rohanne-webber": {
+    "appearance": "Small, with a long red braid and a freckled face (published). Sharp-chinned and thin-lipped under the freckles, with eyes that put a price on everyone.",
+    "source": "householdbook-v12",
+    "line": 3654
+  },
+  "person:lucas-inchfield": {
+    "appearance": "Gaunt and long-jawed, a head above most men and never letting them forget it.",
+    "source": "householdbook-v12",
+    "line": 3660
+  },
+  "person:eustace-osgrey": {
+    "appearance": "Stooped and grey, in a threadbare surcoat of his house’s faded colours.",
+    "source": "householdbook-v12",
+    "line": 3667
+  },
+  "person:alysanne-osgrey": {
+    "appearance": "Pale, thin and plain, with downcast eyes and bitten nails.",
+    "source": "householdbook-v12",
+    "line": 3671
+  },
+  "person:alyn-cockshaw": {
+    "appearance": "Plump and pale, with curly hair the colour of dark honey, and perfumed (published). His curls are oiled and his perfume reaches a room before he does.",
+    "source": "householdbook-v12",
+    "line": 3678
+  },
+  "person:martyn-vyrwel": {
+    "appearance": "Thin, pallid and stooped, with restless, clever fingers.",
+    "source": "householdbook-v12",
+    "line": 3685
+  },
+  "person:brienne-vyrwel": {
+    "appearance": "Pinched and pale, always in grey, with a voice like a sigh.",
+    "source": "householdbook-v12",
+    "line": 3689
+  },
+  "person:allard-costayne": {
+    "appearance": "Paunchy and prematurely grey, weak-chinned behind a fussy little beard.",
+    "source": "householdbook-v12",
+    "line": 3696
+  },
+  "person:jeyne-costayne": {
+    "appearance": "Tall, bony and sallow, with a long neck and a sour mouth.",
+    "source": "householdbook-v12",
+    "line": 3700
+  },
+  "person:tommen-costayne": {
+    "appearance": "Big, slow and heavy-browed, with a plodding walk.",
+    "source": "householdbook-v12",
+    "line": 3704
+  },
+  "person:argrave-defiant": {
+    "appearance": "Long, lantern-jawed and balding, in a peacock’s surcoat.",
+    "source": "householdbook-v12",
+    "line": 3708
+  },
+  "person:buford-bulwer": {
+    "appearance": "Fat and soft, and blind in his right eye; he wears blood-red armour and a helm with black bull’s horns (published). Huge, sagging and purple-faced, he wears the horned helm like a crown.",
+    "source": "householdbook-v12",
+    "line": 3715
+  },
+  "person:walder-risley": {
+    "appearance": "Soft, balding and nervous, forever dabbing his upper lip.",
+    "source": "householdbook-v12",
+    "line": 3723
+  },
+  "person:eden-risley": {
+    "appearance": "Lanky, pockmarked and sharp-elbowed, with lank hair.",
+    "source": "householdbook-v12",
+    "line": 3727
+  },
+  "person:aubrey-ambrose": {
+    "appearance": "Wiry and grizzled, with a sneer that never quite leaves.",
+    "source": "householdbook-v12",
+    "line": 3734
+  },
+  "person:willem-wylde": {
+    "appearance": "Square, heavy-jawed and greying, with a face that never relaxes.",
+    "source": "householdbook-v12",
+    "line": 3742
+  },
+  "person:corwin-rogers": {
+    "appearance": "Thin, dark and hawk-faced, with a crooked smile that never reaches his eyes.",
+    "source": "householdbook-v12",
+    "line": 3749
+  }
+}

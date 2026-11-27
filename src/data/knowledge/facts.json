@@ -24512,5 +24512,773 @@
         "line": 1962
       }
     ]
+  },
+  {
+    "id": "fact:1638",
+    "subject": "place:kingsgrave",
+    "predicate": "region",
+    "object": "region:dorne",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3449
+      }
+    ]
+  },
+  {
+    "id": "fact:1639",
+    "subject": "house:manwoody",
+    "predicate": "region",
+    "object": "region:dorne",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3449
+      }
+    ]
+  },
+  {
+    "id": "fact:1640",
+    "subject": "house:manwoody",
+    "predicate": "seat",
+    "object": "place:kingsgrave",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3449
+      }
+    ]
+  },
+  {
+    "id": "fact:1641",
+    "subject": "place:kingsgrave",
+    "predicate": "ruled_by",
+    "object": "house:manwoody",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3449
+      }
+    ]
+  },
+  {
+    "id": "fact:1642",
+    "subject": "house:manwoody",
+    "predicate": "sworn_to",
+    "object": "house:martell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3449
+      }
+    ]
+  },
+  {
+    "id": "fact:1643",
+    "subject": "house:manwoody",
+    "predicate": "head",
+    "object": "person:mara-manwoody",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3467
+      }
+    ]
+  },
+  {
+    "id": "fact:1644",
+    "subject": "person:myria-manwoody",
+    "predicate": "heir_to",
+    "object": "house:manwoody",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3511
+      }
+    ]
+  },
+  {
+    "id": "fact:1645",
+    "subject": "person:mara-manwoody",
+    "predicate": "child_of",
+    "object": "person:manwoody-unnamed-late-lord",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3451
+      }
+    ]
+  },
+  {
+    "id": "fact:1646",
+    "subject": "person:michael-manwoody",
+    "predicate": "sibling_of",
+    "object": "person:manwoody-unnamed-late-lord",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3451
+      }
+    ]
+  },
+  {
+    "id": "fact:1647",
+    "subject": "person:mara-manwoody",
+    "predicate": "married_to",
+    "object": "person:nymor-qorgyle",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3451
+      }
+    ]
+  },
+  {
+    "id": "fact:1648",
+    "subject": "person:myria-manwoody",
+    "predicate": "child_of",
+    "object": "person:mara-manwoody",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3451
+      }
+    ]
+  },
+  {
+    "id": "fact:1649",
+    "subject": "person:myria-manwoody",
+    "predicate": "child_of",
+    "object": "person:nymor-qorgyle",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3451
+      }
+    ]
+  },
+  {
+    "id": "fact:1650",
+    "subject": "person:albin-manwoody",
+    "predicate": "child_of",
+    "object": "person:mara-manwoody",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3451
+      }
+    ]
+  },
+  {
+    "id": "fact:1651",
+    "subject": "person:albin-manwoody",
+    "predicate": "child_of",
+    "object": "person:nymor-qorgyle",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3451
+      }
+    ]
+  },
+  {
+    "id": "fact:1652",
+    "subject": "person:michael-manwoody",
+    "predicate": "resides_at",
+    "object": "place:kings-landing",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3517
+      }
+    ]
+  },
+  {
+    "id": "fact:1653",
+    "subject": "person:mara-manwoody",
+    "predicate": "resides_at",
+    "object": "place:kingsgrave",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3458
+      }
+    ]
+  },
+  {
+    "id": "fact:1654",
+    "subject": "person:nymor-qorgyle",
+    "predicate": "resides_at",
+    "object": "place:kingsgrave",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3458
+      }
+    ]
+  },
+  {
+    "id": "fact:1655",
+    "subject": "person:myria-manwoody",
+    "predicate": "resides_at",
+    "object": "place:kingsgrave",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3458
+      }
+    ]
+  },
+  {
+    "id": "fact:1656",
+    "subject": "person:albin-manwoody",
+    "predicate": "resides_at",
+    "object": "place:kingsgrave",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3458
+      }
+    ]
+  },
+  {
+    "id": "fact:1657",
+    "subject": "person:oren-venn",
+    "predicate": "serves_house",
+    "object": "house:footly",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3392
+      }
+    ],
+    "role208": "steward",
+    "rosterGroup208": "officer"
+  },
+  {
+    "id": "fact:1658",
+    "subject": "person:halden-pyne",
+    "predicate": "serves_house",
+    "object": "house:footly",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3392
+      }
+    ],
+    "role208": "master-at-arms",
+    "rosterGroup208": "officer"
+  },
+  {
+    "id": "fact:1659",
+    "subject": "person:petyr-broom",
+    "predicate": "serves_house",
+    "object": "house:footly",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3392
+      }
+    ],
+    "role208": "town reeve",
+    "rosterGroup208": "officer"
+  },
+  {
+    "id": "fact:1660",
+    "subject": "person:corwyn",
+    "predicate": "serves_house",
+    "object": "house:footly",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3392
+      }
+    ],
+    "role208": "maester",
+    "rosterGroup208": "officer"
+  },
+  {
+    "id": "fact:1661",
+    "subject": "person:willam",
+    "predicate": "serves_house",
+    "object": "house:footly",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3392
+      }
+    ],
+    "role208": "septon",
+    "rosterGroup208": "officer"
+  },
+  {
+    "id": "fact:1662",
+    "subject": "person:edmund-graves",
+    "predicate": "squire_to",
+    "object": "person:cedric-dunmere",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2096
+      }
+    ]
+  },
+  {
+    "id": "fact:1663",
+    "subject": "person:edmund-graves",
+    "predicate": "ward_of",
+    "object": "person:cedric-dunmere",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 2096
+      }
+    ]
+  },
+  {
+    "id": "fact:1664",
+    "subject": "person:humfrey-beesbury",
+    "predicate": "sibling_of",
+    "object": "person:harys-beesbury",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3406
+      }
+    ]
+  },
+  {
+    "id": "fact:1665",
+    "subject": "house:hardyng",
+    "predicate": "historical_region",
+    "object": "region:vale",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3406
+      }
+    ]
+  },
+  {
+    "id": "fact:1666",
+    "subject": "person:hardyng-unnamed-wife-humfrey",
+    "predicate": "married_to",
+    "object": "person:humfrey-beesbury",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3406
+      }
+    ]
+  },
+  {
+    "id": "fact:1667",
+    "subject": "person:hardyng-unnamed-wife-humfrey",
+    "predicate": "sibling_of",
+    "object": "person:humfrey-hardyng",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3406
+      }
+    ]
+  },
+  {
+    "id": "fact:1668",
+    "subject": "person:matthew-mullendore",
+    "predicate": "child_of",
+    "object": "person:triston-mullendore",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3421
+      }
+    ]
+  },
+  {
+    "id": "fact:1669",
+    "subject": "person:matthew-mullendore",
+    "predicate": "child_of",
+    "object": "person:rosamund-hightower",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3421
+      }
+    ]
+  },
+  {
+    "id": "fact:1670",
+    "subject": "person:humphrey-bulwer",
+    "predicate": "sibling_of",
+    "object": "person:martyn-bulwer",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3424
+      }
+    ]
+  },
+  {
+    "id": "fact:1671",
+    "subject": "person:grance-morrigen",
+    "predicate": "sibling_of",
+    "object": "person:marissa-swann",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3442
+      }
+    ]
+  },
+  {
+    "id": "fact:1672",
+    "subject": "person:anselm-fell",
+    "predicate": "serves_house",
+    "object": "house:penrose",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3601
+      }
+    ],
+    "role208": "household knight",
+    "rosterGroup208": "knight"
+  },
+  {
+    "id": "fact:1673",
+    "subject": "person:sergeant-hollis",
+    "predicate": "serves_house",
+    "object": "house:tarly",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3633
+      }
+    ]
+  },
+  {
+    "id": "fact:1674",
+    "subject": "person:sergeant-cobb",
+    "predicate": "serves_house",
+    "object": "house:meadows",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3550
+      }
+    ]
+  },
+  {
+    "id": "fact:1675",
+    "subject": "person:septon-emmon",
+    "predicate": "sibling_of",
+    "object": "person:osmund-leygood",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3637
+      }
+    ]
+  },
+  {
+    "id": "fact:1676",
+    "subject": "person:septon-emmon",
+    "predicate": "serves_house",
+    "object": "house:tyrell",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3637
+      }
+    ]
+  },
+  {
+    "id": "fact:1677",
+    "subject": "person:maddock",
+    "predicate": "serves_person",
+    "object": "person:lady-ormesby",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3567
+      }
+    ]
+  },
+  {
+    "id": "fact:1678",
+    "subject": "place:cress-hill",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3637
+      }
+    ]
+  },
+  {
+    "id": "fact:1679",
+    "subject": "place:cress-hill",
+    "predicate": "ruled_by",
+    "object": "person:tom-costen",
+    "sources": [
+      "householdbook-v12"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "householdbook-v12",
+        "line": 3637
+      }
+    ]
   }
 ]
