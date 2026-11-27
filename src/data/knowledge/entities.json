@@ -11988,5 +11988,65 @@
       "line": 951
     },
     "catalogStatus": "campaign_profile"
+  },
+  {
+    "id": "place:cider-hall",
+    "kind": "place",
+    "name": "Cider Hall",
+    "page": "/places/cider-hall/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 1962
+    },
+    "catalogStatus": "campaign_profile"
+  },
+  {
+    "id": "house:fossoway",
+    "kind": "house",
+    "name": "House Fossoway",
+    "page": "/houses/fossoway/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 1962
+    },
+    "catalogStatus": "campaign_profile",
+    "subtitle": "of Cider Hall",
+    "rank208": "Knightly"
+  },
+  {
+    "id": "person:steffon-fossoway",
+    "kind": "person",
+    "name": "Ser Steffon Fossoway",
+    "page": "/characters/steffon-fossoway/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 1962
+    },
+    "catalogStatus": "campaign_profile",
+    "birthHouse": "fossoway"
+  },
+  {
+    "id": "person:raymun-fossoway",
+    "kind": "person",
+    "name": "Raymun Fossoway",
+    "page": "/characters/raymun-fossoway/",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "worldbookReference": {
+      "source": "worldbook-v10",
+      "line": 1962
+    },
+    "catalogStatus": "campaign_profile",
+    "birthHouse": "fossoway"
   }
 ]

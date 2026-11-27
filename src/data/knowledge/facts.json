@@ -24404,5 +24404,113 @@
         "line": 951
       }
     ]
+  },
+  {
+    "id": "fact:1632",
+    "subject": "place:cider-hall",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1962
+      }
+    ]
+  },
+  {
+    "id": "fact:1633",
+    "subject": "house:fossoway",
+    "predicate": "region",
+    "object": "region:reach",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1962
+      }
+    ]
+  },
+  {
+    "id": "fact:1634",
+    "subject": "house:fossoway",
+    "predicate": "seat",
+    "object": "place:cider-hall",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1962
+      }
+    ]
+  },
+  {
+    "id": "fact:1635",
+    "subject": "place:cider-hall",
+    "predicate": "ruled_by",
+    "object": "house:fossoway",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1962
+      }
+    ]
+  },
+  {
+    "id": "fact:1636",
+    "subject": "person:steffon-fossoway",
+    "predicate": "heir_to",
+    "object": "house:fossoway",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1962
+      }
+    ]
+  },
+  {
+    "id": "fact:1637",
+    "subject": "person:raymun-fossoway",
+    "predicate": "squire_to",
+    "object": "person:steffon-fossoway",
+    "sources": [
+      "worldbook-v10"
+    ],
+    "asOf": {
+      "year": 208
+    },
+    "evidence": [
+      {
+        "source": "worldbook-v10",
+        "line": 1962
+      }
+    ]
   }
 ]

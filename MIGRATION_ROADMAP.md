@@ -229,3 +229,7 @@ Total 850 entities, 1571 facts, 112 sources. Nine regional pages and the history
 ## Worldbook v10 migration: geography, offices and corrected successions
 
 Read Worldbook v10's 1,995-paragraph document and extracted established facts from the standing domain, office and Ashford-era sections. Corrected Florent succession, added Footly, Tarly, Tarth and Estermont details, six Reach offices, river and mill geography and settlement profiles. Preserved speculative and private material outside the import. Remaining: Cider Hall register discrepancy, systematic register and chapter audit, further kinship reconciliation. Structural in-memory checks passed, full build not verified. Total 887 entities, 1622 facts. No main merge.
+
+### Worldbook register cross-check
+
+Compared all 139 imported register rows (60 Stormlands, 79 Reach) with the graph using the atlas script's assertions: source lines, rank, region, seat and unassigned holdings pass. Added the late addendum's Cider Hall/Fossoway and Steffon/Raymun separately without inventing grid position or changing the original 139-row register. Reconciled Raynard's biography with Aladore's succession. Total 891 entities and 1628 facts. Atlas assertions reproduced in memory; actual npm/Astro execution remains unverified. No main merge.
