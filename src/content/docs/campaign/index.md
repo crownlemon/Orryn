@@ -5,6 +5,12 @@ description: Source-attested events in the played campaign.
 
 This chronology records established events separately from the original [chapter archive](/chapters/). It is an expanding register, not a complete chapter-by-chapter account. The two Chapter 67 alternatives remain unresolved; no new events are inferred from either.
 
+## 207 AC
+
+- Chapter 2: [Marriage of Elenei Grandison and Addam Penrose](/events/marriage-elenei-addam/)
+- Chapter 4: [The Sedgeford toll dispute](/events/sedgeford-toll-dispute/)
+- Chapter 7: [The loan of Rook at Sedgeford](/events/loan-of-rook/)
+
 ## 208 AC
 
 - Chapter 52: [Matthos Meadows enters Ser Moryn's service](/events/matthos-enters-moryns-service/)

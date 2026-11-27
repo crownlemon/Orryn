@@ -584,7 +584,8 @@
       "chapter-02"
     ],
     "from": {
-      "year": 207
+      "year": 207,
+      "chapter": 2
     }
   },
   {
@@ -27003,6 +27004,272 @@
       {
         "source": "chapter-66",
         "line": 113
+      }
+    ]
+  },
+  {
+    "id": "fact:1763",
+    "subject": "event:marriage-elenei-addam",
+    "predicate": "place",
+    "object": "place:grandview",
+    "sources": [
+      "chapter-02"
+    ],
+    "asOf": {
+      "year": 207,
+      "chapter": 2
+    },
+    "evidence": [
+      {
+        "source": "chapter-02",
+        "line": 7
+      }
+    ]
+  },
+  {
+    "id": "fact:1764",
+    "subject": "event:marriage-elenei-addam",
+    "predicate": "participant",
+    "object": "person:elenei-grandison",
+    "sources": [
+      "chapter-02"
+    ],
+    "asOf": {
+      "year": 207,
+      "chapter": 2
+    },
+    "evidence": [
+      {
+        "source": "chapter-02",
+        "line": 7
+      }
+    ]
+  },
+  {
+    "id": "fact:1765",
+    "subject": "event:marriage-elenei-addam",
+    "predicate": "participant",
+    "object": "person:addam-penrose",
+    "sources": [
+      "chapter-02"
+    ],
+    "asOf": {
+      "year": 207,
+      "chapter": 2
+    },
+    "evidence": [
+      {
+        "source": "chapter-02",
+        "line": 7
+      }
+    ]
+  },
+  {
+    "id": "fact:1766",
+    "subject": "event:marriage-elenei-addam",
+    "predicate": "participant",
+    "object": "person:jon-penrose",
+    "sources": [
+      "chapter-02"
+    ],
+    "asOf": {
+      "year": 207,
+      "chapter": 2
+    },
+    "evidence": [
+      {
+        "source": "chapter-02",
+        "line": 7
+      }
+    ]
+  },
+  {
+    "id": "fact:1767",
+    "subject": "event:marriage-elenei-addam",
+    "predicate": "participant",
+    "object": "person:alysanne-penrose",
+    "sources": [
+      "chapter-02"
+    ],
+    "asOf": {
+      "year": 207,
+      "chapter": 2
+    },
+    "evidence": [
+      {
+        "source": "chapter-02",
+        "line": 7
+      }
+    ]
+  },
+  {
+    "id": "fact:1768",
+    "subject": "event:marriage-elenei-addam",
+    "predicate": "participant",
+    "object": "person:orryn-grandison",
+    "sources": [
+      "chapter-02"
+    ],
+    "asOf": {
+      "year": 207,
+      "chapter": 2
+    },
+    "evidence": [
+      {
+        "source": "chapter-02",
+        "line": 7
+      }
+    ]
+  },
+  {
+    "id": "fact:1769",
+    "subject": "event:sedgeford-toll-dispute",
+    "predicate": "place",
+    "object": "place:sedgeford",
+    "sources": [
+      "chapter-04"
+    ],
+    "asOf": {
+      "year": 207,
+      "chapter": 4
+    },
+    "evidence": [
+      {
+        "source": "chapter-04",
+        "line": 27
+      }
+    ]
+  },
+  {
+    "id": "fact:1770",
+    "subject": "event:sedgeford-toll-dispute",
+    "predicate": "participant",
+    "object": "person:orryn-grandison",
+    "sources": [
+      "chapter-04"
+    ],
+    "asOf": {
+      "year": 207,
+      "chapter": 4
+    },
+    "evidence": [
+      {
+        "source": "chapter-04",
+        "line": 27
+      }
+    ]
+  },
+  {
+    "id": "fact:1771",
+    "subject": "event:sedgeford-toll-dispute",
+    "predicate": "participant",
+    "object": "person:osmund-sedgley",
+    "sources": [
+      "chapter-04"
+    ],
+    "asOf": {
+      "year": 207,
+      "chapter": 4
+    },
+    "evidence": [
+      {
+        "source": "chapter-04",
+        "line": 27
+      }
+    ]
+  },
+  {
+    "id": "fact:1772",
+    "subject": "event:loan-of-rook",
+    "predicate": "place",
+    "object": "place:sedgeford",
+    "sources": [
+      "chapter-07"
+    ],
+    "asOf": {
+      "year": 207,
+      "chapter": 7
+    },
+    "evidence": [
+      {
+        "source": "chapter-07",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "id": "fact:1773",
+    "subject": "event:loan-of-rook",
+    "predicate": "participant",
+    "object": "person:orryn-grandison",
+    "sources": [
+      "chapter-07"
+    ],
+    "asOf": {
+      "year": 207,
+      "chapter": 7
+    },
+    "evidence": [
+      {
+        "source": "chapter-07",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "id": "fact:1774",
+    "subject": "event:loan-of-rook",
+    "predicate": "participant",
+    "object": "person:jon-penrose",
+    "sources": [
+      "chapter-07"
+    ],
+    "asOf": {
+      "year": 207,
+      "chapter": 7
+    },
+    "evidence": [
+      {
+        "source": "chapter-07",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "id": "fact:1775",
+    "subject": "event:loan-of-rook",
+    "predicate": "participant",
+    "object": "person:alysanne-penrose",
+    "sources": [
+      "chapter-07"
+    ],
+    "asOf": {
+      "year": 207,
+      "chapter": 7
+    },
+    "evidence": [
+      {
+        "source": "chapter-07",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "id": "fact:1776",
+    "subject": "event:loan-of-rook",
+    "predicate": "participant",
+    "object": "person:osmund-sedgley",
+    "sources": [
+      "chapter-07"
+    ],
+    "asOf": {
+      "year": 207,
+      "chapter": 7
+    },
+    "evidence": [
+      {
+        "source": "chapter-07",
+        "line": 15
       }
     ]
   }

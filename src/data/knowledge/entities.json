@@ -12548,5 +12548,41 @@
     "sources": [
       "chapter-66"
     ]
+  },
+  {
+    "id": "event:marriage-elenei-addam",
+    "kind": "event",
+    "name": "Marriage of Elenei Grandison and Addam Penrose",
+    "page": "/events/marriage-elenei-addam/",
+    "year": 207,
+    "chapter": 2,
+    "eventType": "campaign_event",
+    "sources": [
+      "chapter-02"
+    ]
+  },
+  {
+    "id": "event:sedgeford-toll-dispute",
+    "kind": "event",
+    "name": "The Sedgeford toll dispute",
+    "page": "/events/sedgeford-toll-dispute/",
+    "year": 207,
+    "chapter": 4,
+    "eventType": "campaign_event",
+    "sources": [
+      "chapter-04"
+    ]
+  },
+  {
+    "id": "event:loan-of-rook",
+    "kind": "event",
+    "name": "The loan of Rook at Sedgeford",
+    "page": "/events/loan-of-rook/",
+    "year": 207,
+    "chapter": 7,
+    "eventType": "campaign_event",
+    "sources": [
+      "chapter-07"
+    ]
   }
 ]

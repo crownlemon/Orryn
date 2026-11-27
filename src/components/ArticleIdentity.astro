@@ -1,6 +1,7 @@
 ---
 import KnowledgeInfobox from './KnowledgeInfobox.astro';
 import reputationData from '../data/knowledge/household-reputation.json';
+import RelatedCampaignEvents from './RelatedCampaignEvents.astro';
 import HouseholdRoster from './HouseholdRoster.astro';
 import appearanceData from '../data/knowledge/household-appearance.json';
 import { getEntity, DEFAULT_DATE, type Moment } from '../data/knowledge/index';
@@ -39,6 +40,7 @@ const categories:Record<string,string> = {
   </aside>
 )}
 {(e.kind === 'house' || e.kind === 'place') && <HouseholdRoster entityId={entityId} asOf={asOf}/>}
+{e.kind !== 'event' && <RelatedCampaignEvents entityId={entityId} asOf={asOf}/>}
 <style>
   .orr-household-appearance { margin-block: 1rem; padding: .8rem 1rem; border: 1px solid var(--sl-color-gray-5); border-radius: .35rem; }
   .orr-household-appearance p { margin-block: .45rem; }

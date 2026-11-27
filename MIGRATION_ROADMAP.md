@@ -257,3 +257,8 @@ Added 60 previously unrepresented age references from matched character profiles
 ## Chapter chronology: Highgarden service, grain response and Goldengrove wardship
 
 Read Chapters 52, 63 and 66 directly; added three dated campaign event articles with participant and place facts, source references and a separate /campaign/ chronology linked in navigation and the chapter archive. Kept reported requests, refusals and proposed future actions separate from concluded agreements; Chapter 67 alternatives remain unresolved. Existing dated campaign events are included in the chronology. Unique IDs, all fact references and source IDs checked in memory. This is a partial chronology, not all chapter events. Build and deployment unverified. No main merge.
+
+
+## Chapter chronology: opening journey and reciprocal navigation
+
+Re-read Chapters 1–10 and added three established 207 AC events (Elenei/Addam wedding, Sedgeford toll payment, and the written loan of Rook). Updated the existing marriage fact to Chapter 2 granularity. Retained Chapter 9's historical testimony as a report rather than confirmed history; excluded unselected options from event extraction. Added reciprocal event links on character and place articles via a shared component and updated the chronology and extraction inventory. Graph: 928 entities / 1767 facts. In-memory ID and provenance checks passed. Full build pending for this commit. Remaining: extract other played events systematically; audit choice prompts in the reader-facing archive without altering source texts. No main merge.

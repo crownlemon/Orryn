@@ -1,0 +1,13 @@
+---
+import { facts, getEntity, activeAt, type Moment } from '../data/knowledge/index';
+interface Props { entityId:string; asOf:Moment }
+const {entityId,asOf}=Astro.props;
+const found=new Map<string,ReturnType<typeof getEntity>>();
+for(const f of facts.filter(f=>f.object===entityId&&['participant','place'].includes(f.predicate)&&activeAt(f,asOf))) {
+  const event=getEntity(f.subject);
+  if(event.kind==='event'&&event.eventType==='campaign_event'&&event.page&&event.year!==undefined&&(event.year<asOf.year||(event.year===asOf.year&&(event.chapter??0)<=(asOf.chapter??999)))) found.set(event.id,event);
+}
+const events=[...found.values()].sort((a,b)=>(a.year??0)-(b.year??0)||(a.chapter??0)-(b.chapter??0));
+---
+{events.length>0&&<details class="orr-events"><summary>Related campaign events</summary><ul>{events.map(e=><li>{e.year} AC{e.chapter!==undefined&&` · Chapter ${e.chapter}`}: <a href={e.page}>{e.name}</a></li>)}</ul></details>}
+<style>.orr-events{margin-block:1rem;padding:.75rem 1rem;border:1px solid var(--sl-color-gray-5);border-radius:.35rem}.orr-events summary{cursor:pointer;font-weight:600}</style>

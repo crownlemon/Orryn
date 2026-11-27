@@ -27,9 +27,12 @@
         }
       ],
       "selected": "1kj00jS9qPN5WQZVlLZvpkVOr4seYeDk5trwIJFCsnDw",
-      "status": "narrative_text_imported_not_fact_extracted",
+      "status": "selected_events_extracted",
       "paragraphs": 236,
-      "notesExcluded": false
+      "notesExcluded": false,
+      "eventIds": [
+        "event:marriage-elenei-addam"
+      ]
     },
     {
       "number": 3,
@@ -57,9 +60,12 @@
         }
       ],
       "selected": "1v3WcVhcyUr7ARfWsMiuQ8om-CReFp0j5rdTih6VcGjU",
-      "status": "narrative_text_imported_not_fact_extracted",
+      "status": "selected_events_extracted",
       "paragraphs": 32,
-      "notesExcluded": false
+      "notesExcluded": false,
+      "eventIds": [
+        "event:sedgeford-toll-dispute"
+      ]
     },
     {
       "number": 5,
@@ -102,9 +108,12 @@
         }
       ],
       "selected": "1Gp0bZfuX9wwnlPCwKz4oq2Odz-xF4nEjRuSZlErMXms",
-      "status": "narrative_text_imported_not_fact_extracted",
+      "status": "selected_events_extracted",
       "paragraphs": 38,
-      "notesExcluded": false
+      "notesExcluded": false,
+      "eventIds": [
+        "event:loan-of-rook"
+      ]
     },
     {
       "number": 8,
