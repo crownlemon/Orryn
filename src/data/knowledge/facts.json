@@ -21608,5 +21608,602 @@
     "sources": [
       "awoiaf-great-sept-of-baelor"
     ]
+  },
+  {
+    "id": "fact:1404",
+    "subject": "person:orys-baratheon",
+    "predicate": "holds_title",
+    "object": "title:hand-of-the-king",
+    "sources": [
+      "awoiaf-historical-hands"
+    ],
+    "from": {
+      "year": 1
+    },
+    "until": {
+      "year": 7
+    }
+  },
+  {
+    "id": "fact:1405",
+    "subject": "person:edmyn-tully",
+    "predicate": "holds_title",
+    "object": "title:hand-of-the-king",
+    "sources": [
+      "awoiaf-historical-hands"
+    ],
+    "from": {
+      "year": 7
+    },
+    "until": {
+      "year": 9
+    }
+  },
+  {
+    "id": "fact:1406",
+    "subject": "person:alton-celtigar",
+    "predicate": "holds_title",
+    "object": "title:hand-of-the-king",
+    "sources": [
+      "awoiaf-historical-hands"
+    ],
+    "from": {
+      "year": 9
+    },
+    "until": {
+      "year": 17
+    }
+  },
+  {
+    "id": "fact:1407",
+    "subject": "person:osmund-strong",
+    "predicate": "holds_title",
+    "object": "title:hand-of-the-king",
+    "sources": [
+      "awoiaf-historical-hands"
+    ],
+    "from": {
+      "year": 17
+    },
+    "until": {
+      "year": 34
+    }
+  },
+  {
+    "id": "fact:1408",
+    "subject": "person:alyn-stokeworth",
+    "predicate": "holds_title",
+    "object": "title:hand-of-the-king",
+    "sources": [
+      "awoiaf-historical-hands"
+    ],
+    "from": {
+      "year": 34
+    },
+    "until": {
+      "year": 37
+    }
+  },
+  {
+    "id": "fact:1409",
+    "subject": "person:maegor-i-targaryen",
+    "predicate": "holds_title",
+    "object": "title:hand-of-the-king",
+    "sources": [
+      "awoiaf-historical-hands"
+    ],
+    "from": {
+      "year": 37
+    },
+    "until": {
+      "year": 39
+    }
+  },
+  {
+    "id": "fact:1410",
+    "subject": "person:septon-murmison",
+    "predicate": "holds_title",
+    "object": "title:hand-of-the-king",
+    "sources": [
+      "awoiaf-historical-hands"
+    ],
+    "from": {
+      "year": 39
+    },
+    "until": {
+      "year": 41
+    }
+  },
+  {
+    "id": "fact:1411",
+    "subject": "person:lucas-harroway",
+    "predicate": "holds_title",
+    "object": "title:hand-of-the-king",
+    "sources": [
+      "awoiaf-historical-hands"
+    ],
+    "from": {
+      "year": 43
+    },
+    "until": {
+      "year": 44
+    }
+  },
+  {
+    "id": "fact:1412",
+    "subject": "person:edwell-celtigar",
+    "predicate": "holds_title",
+    "object": "title:hand-of-the-king",
+    "sources": [
+      "awoiaf-historical-hands"
+    ],
+    "from": {
+      "year": 44
+    },
+    "until": {
+      "year": 48
+    }
+  },
+  {
+    "id": "fact:1413",
+    "subject": "person:rogar-baratheon",
+    "predicate": "holds_title",
+    "object": "title:hand-of-the-king",
+    "sources": [
+      "awoiaf-historical-hands"
+    ],
+    "from": {
+      "year": 48
+    },
+    "until": {
+      "year": 50
+    }
+  },
+  {
+    "id": "fact:1414",
+    "subject": "person:daemon-velaryon",
+    "predicate": "holds_title",
+    "object": "title:hand-of-the-king",
+    "sources": [
+      "awoiaf-historical-hands"
+    ],
+    "from": {
+      "year": 50
+    },
+    "until": {
+      "year": 54
+    }
+  },
+  {
+    "id": "fact:1415",
+    "subject": "person:myles-smallwood",
+    "predicate": "holds_title",
+    "object": "title:hand-of-the-king",
+    "sources": [
+      "awoiaf-historical-hands"
+    ],
+    "from": {
+      "year": 54
+    },
+    "until": {
+      "year": 57
+    }
+  },
+  {
+    "id": "fact:1416",
+    "subject": "person:septon-barth",
+    "predicate": "holds_title",
+    "object": "title:hand-of-the-king",
+    "sources": [
+      "awoiaf-historical-hands"
+    ],
+    "from": {
+      "year": 58
+    },
+    "until": {
+      "year": 98
+    }
+  },
+  {
+    "id": "fact:1417",
+    "subject": "person:ryam-redwyne",
+    "predicate": "holds_title",
+    "object": "title:hand-of-the-king",
+    "sources": [
+      "awoiaf-historical-hands"
+    ],
+    "from": {
+      "year": 99
+    },
+    "until": {
+      "year": 100
+    }
+  },
+  {
+    "id": "fact:1418",
+    "subject": "person:baelon-targaryen",
+    "predicate": "holds_title",
+    "object": "title:hand-of-the-king",
+    "sources": [
+      "awoiaf-historical-hands"
+    ],
+    "from": {
+      "year": 100
+    },
+    "until": {
+      "year": 101
+    }
+  },
+  {
+    "id": "fact:1419",
+    "subject": "person:otto-hightower",
+    "predicate": "holds_title",
+    "object": "title:hand-of-the-king",
+    "sources": [
+      "awoiaf-historical-hands"
+    ],
+    "from": {
+      "year": 101
+    },
+    "until": {
+      "year": 109
+    }
+  },
+  {
+    "id": "fact:1420",
+    "subject": "person:lyonel-strong",
+    "predicate": "holds_title",
+    "object": "title:hand-of-the-king",
+    "sources": [
+      "awoiaf-historical-hands"
+    ],
+    "from": {
+      "year": 109
+    },
+    "until": {
+      "year": 120
+    }
+  },
+  {
+    "id": "fact:1421",
+    "subject": "person:otto-hightower",
+    "predicate": "holds_title",
+    "object": "title:hand-of-the-king",
+    "sources": [
+      "awoiaf-historical-hands"
+    ],
+    "from": {
+      "year": 120
+    },
+    "until": {
+      "year": 130
+    }
+  },
+  {
+    "id": "fact:1422",
+    "subject": "person:criston-cole",
+    "predicate": "formerly_held_title",
+    "object": "title:hand-of-the-king",
+    "sources": [
+      "awoiaf-historical-hands"
+    ],
+    "asOf": {
+      "year": 130
+    }
+  },
+  {
+    "id": "fact:1423",
+    "subject": "person:cregan-stark",
+    "predicate": "formerly_held_title",
+    "object": "title:hand-of-the-king",
+    "sources": [
+      "awoiaf-historical-hands"
+    ],
+    "asOf": {
+      "year": 131
+    }
+  },
+  {
+    "id": "fact:1424",
+    "subject": "person:tyland-lannister",
+    "predicate": "holds_title",
+    "object": "title:hand-of-the-king",
+    "sources": [
+      "awoiaf-historical-hands"
+    ],
+    "from": {
+      "year": 131
+    },
+    "until": {
+      "year": 133
+    }
+  },
+  {
+    "id": "fact:1425",
+    "subject": "person:unwin-peake",
+    "predicate": "holds_title",
+    "object": "title:hand-of-the-king",
+    "sources": [
+      "awoiaf-historical-hands"
+    ],
+    "from": {
+      "year": 133
+    },
+    "until": {
+      "year": 134
+    }
+  },
+  {
+    "id": "fact:1426",
+    "subject": "person:thaddeus-rowan",
+    "predicate": "holds_title",
+    "object": "title:hand-of-the-king",
+    "sources": [
+      "awoiaf-historical-hands"
+    ],
+    "from": {
+      "year": 134
+    },
+    "until": {
+      "year": 135
+    }
+  },
+  {
+    "id": "fact:1427",
+    "subject": "person:marston-waters",
+    "predicate": "formerly_held_title",
+    "object": "title:hand-of-the-king",
+    "sources": [
+      "awoiaf-historical-hands"
+    ],
+    "asOf": {
+      "year": 135
+    }
+  },
+  {
+    "id": "fact:1428",
+    "subject": "person:thaddeus-rowan",
+    "predicate": "formerly_held_title",
+    "object": "title:hand-of-the-king",
+    "sources": [
+      "awoiaf-historical-hands"
+    ],
+    "asOf": {
+      "year": 135
+    }
+  },
+  {
+    "id": "fact:1429",
+    "subject": "person:munkun",
+    "predicate": "holds_title",
+    "object": "title:hand-of-the-king",
+    "sources": [
+      "awoiaf-historical-hands"
+    ],
+    "from": {
+      "year": 135
+    },
+    "until": {
+      "year": 136
+    }
+  },
+  {
+    "id": "fact:1430",
+    "subject": "person:torrhen-manderly",
+    "predicate": "formerly_held_title",
+    "object": "title:hand-of-the-king",
+    "sources": [
+      "awoiaf-historical-hands"
+    ],
+    "asOf": {
+      "year": 136
+    }
+  },
+  {
+    "id": "fact:1431",
+    "subject": "person:viserys-ii-targaryen",
+    "predicate": "formerly_held_title",
+    "object": "title:hand-of-the-king",
+    "sources": [
+      "awoiaf-historical-hands"
+    ],
+    "asOf": {
+      "year": 171
+    }
+  },
+  {
+    "id": "fact:1432",
+    "subject": "person:lucas-lothston",
+    "predicate": "formerly_held_title",
+    "object": "title:hand-of-the-king",
+    "sources": [
+      "awoiaf-historical-hands"
+    ],
+    "asOf": {
+      "year": 178
+    }
+  },
+  {
+    "id": "fact:1433",
+    "subject": "person:hayford-unnamed-hand",
+    "predicate": "formerly_held_title",
+    "object": "title:hand-of-the-king",
+    "sources": [
+      "awoiaf-historical-hands"
+    ],
+    "asOf": {
+      "year": 196
+    }
+  },
+  {
+    "id": "fact:1434",
+    "subject": "person:corlys-velaryon-kingsguard",
+    "predicate": "formerly_held_title",
+    "object": "title:lord-commander-kingsguard",
+    "sources": [
+      "awoiaf-historical-lords-commander"
+    ],
+    "asOf": {
+      "year": 10
+    }
+  },
+  {
+    "id": "fact:1435",
+    "subject": "person:addison-hill",
+    "predicate": "formerly_held_title",
+    "object": "title:lord-commander-kingsguard",
+    "sources": [
+      "awoiaf-historical-lords-commander"
+    ]
+  },
+  {
+    "id": "fact:1436",
+    "subject": "person:gyles-morrigen",
+    "predicate": "formerly_held_title",
+    "object": "title:lord-commander-kingsguard",
+    "sources": [
+      "awoiaf-historical-lords-commander"
+    ],
+    "asOf": {
+      "year": 48
+    }
+  },
+  {
+    "id": "fact:1437",
+    "subject": "person:ryam-redwyne",
+    "predicate": "formerly_held_title",
+    "object": "title:lord-commander-kingsguard",
+    "sources": [
+      "awoiaf-historical-lords-commander"
+    ],
+    "asOf": {
+      "year": 105
+    }
+  },
+  {
+    "id": "fact:1438",
+    "subject": "person:harrold-westerling",
+    "predicate": "formerly_held_title",
+    "object": "title:lord-commander-kingsguard",
+    "sources": [
+      "awoiaf-historical-lords-commander"
+    ],
+    "asOf": {
+      "year": 112
+    }
+  },
+  {
+    "id": "fact:1439",
+    "subject": "person:criston-cole",
+    "predicate": "holds_title",
+    "object": "title:lord-commander-kingsguard",
+    "sources": [
+      "awoiaf-historical-lords-commander"
+    ],
+    "from": {
+      "year": 112
+    },
+    "until": {
+      "year": 130
+    }
+  },
+  {
+    "id": "fact:1440",
+    "subject": "person:willis-fell",
+    "predicate": "holds_title",
+    "object": "title:lord-commander-kingsguard",
+    "sources": [
+      "awoiaf-historical-lords-commander"
+    ],
+    "from": {
+      "year": 131
+    },
+    "until": {
+      "year": 133
+    }
+  },
+  {
+    "id": "fact:1441",
+    "subject": "person:marston-waters",
+    "predicate": "holds_title",
+    "object": "title:lord-commander-kingsguard",
+    "sources": [
+      "awoiaf-historical-lords-commander"
+    ],
+    "from": {
+      "year": 133
+    },
+    "until": {
+      "year": 135
+    }
+  },
+  {
+    "id": "fact:1442",
+    "subject": "person:raynard-ruskyn",
+    "predicate": "formerly_held_title",
+    "object": "title:lord-commander-kingsguard",
+    "sources": [
+      "awoiaf-historical-lords-commander"
+    ],
+    "asOf": {
+      "year": 136
+    }
+  },
+  {
+    "id": "fact:1443",
+    "subject": "person:aemon-dragonknight",
+    "predicate": "formerly_held_title",
+    "object": "title:lord-commander-kingsguard",
+    "sources": [
+      "awoiaf-historical-lords-commander"
+    ]
+  },
+  {
+    "id": "fact:1444",
+    "subject": "person:steffon-darklyn",
+    "predicate": "formerly_held_title",
+    "object": "title:lord-commander-queensguard",
+    "sources": [
+      "awoiaf-historical-lords-commander"
+    ],
+    "asOf": {
+      "year": 129
+    }
+  },
+  {
+    "id": "fact:1445",
+    "subject": "person:lorent-marbrand",
+    "predicate": "formerly_held_title",
+    "object": "title:lord-commander-queensguard",
+    "sources": [
+      "awoiaf-historical-lords-commander"
+    ],
+    "asOf": {
+      "year": 130
+    }
+  },
+  {
+    "id": "fact:1446",
+    "subject": "person:glendon-goode",
+    "predicate": "formerly_held_title",
+    "object": "title:lord-commander-queensguard",
+    "sources": [
+      "awoiaf-historical-lords-commander"
+    ],
+    "asOf": {
+      "year": 130
+    }
+  },
+  {
+    "id": "fact:1447",
+    "subject": "person:robin-massey",
+    "predicate": "appointed_to_title",
+    "object": "title:lord-commander-kingsguard",
+    "sources": [
+      "awoiaf-historical-lords-commander"
+    ],
+    "asOf": {
+      "year": 133
+    }
   }
 ]

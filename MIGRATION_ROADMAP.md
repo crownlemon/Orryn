@@ -200,3 +200,7 @@ Extended historical profiles for Stark, Arryn, Tully, Lannister, Greyjoy and Mar
 ## Historical migration: History index and dated landmarks
 
 Added five conflicts and two royal landmarks, with a /history/ landing page containing 12 reigns and 16 pre-207 event articles. Corrected 12 invalid source IDs in Crownlands records; reference and source integrity checks passed. Total 711 entities and 1395 facts. Remaining: comprehensive historical and regional source audit, additional dynasties and pre-207 people/places/events, complete office successions, technical build and visual review. No main merge.
+
+## Historical migration: Royal office successions
+
+Added source-checked historical Hands, Kingsguard commanders and a separate Queensguard command for Rhaenyra. The first Ser Corlys Velaryon is distinguished from the Sea Snake; Lord Jon Hightower's historical identity is left unresolved. Exact-year ranges use the existing year-granularity tenure model; single-year and incomplete terms are retained as former office references rather than invented exact intervals. Retained Baelor and Willem Wylde as the sole current holders. Added 30 historical character routes and one office route, enriched two office articles and linked them from the history index. Graph: 742 entities / 1439 facts. In-memory ID, provenance, date-bound, link and current-holder checks passed; full build not verified. No main merge.

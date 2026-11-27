@@ -7964,7 +7964,8 @@
     "kind": "person",
     "name": "King Maegor I Targaryen",
     "sources": [
-      "awoiaf-targaryen-lineage"
+      "awoiaf-targaryen-lineage",
+      "awoiaf-historical-hands"
     ],
     "page": "/characters/maegor-i-targaryen/",
     "catalogStatus": "historical_profile",
@@ -8055,7 +8056,8 @@
     "kind": "person",
     "name": "King Viserys II Targaryen",
     "sources": [
-      "awoiaf-targaryen-lineage"
+      "awoiaf-targaryen-lineage",
+      "awoiaf-historical-hands"
     ],
     "page": "/characters/viserys-ii-targaryen/",
     "catalogStatus": "historical_profile",
@@ -8169,7 +8171,8 @@
     "kind": "person",
     "name": "Prince Baelon Targaryen",
     "sources": [
-      "awoiaf-targaryen-lineage"
+      "awoiaf-targaryen-lineage",
+      "awoiaf-historical-hands"
     ],
     "page": "/characters/baelon-targaryen/",
     "catalogStatus": "historical_profile",
@@ -8382,7 +8385,8 @@
     "kind": "person",
     "name": "Prince Aemon Targaryen",
     "sources": [
-      "awoiaf-targaryen-lineage"
+      "awoiaf-targaryen-lineage",
+      "awoiaf-historical-lords-commander"
     ],
     "page": "/characters/aemon-dragonknight/",
     "catalogStatus": "historical_profile",
@@ -8635,7 +8639,8 @@
     "kind": "person",
     "name": "Lord Ambrose Butterwell",
     "sources": [
-      "awoiaf-blackfyre"
+      "awoiaf-blackfyre",
+      "awoiaf-historical-hands"
     ],
     "page": "/characters/ambrose-butterwell/",
     "catalogStatus": "historical_profile",
@@ -8646,7 +8651,8 @@
     "kind": "person",
     "name": "Lord Hayford (given name unrecorded)",
     "sources": [
-      "awoiaf-blackfyre"
+      "awoiaf-blackfyre",
+      "awoiaf-historical-hands"
     ],
     "page": "/characters/hayford-unnamed-hand/",
     "catalogStatus": "historical_profile",
@@ -8921,7 +8927,8 @@
     "kind": "person",
     "name": "Lord Cregan Stark",
     "sources": [
-      "awoiaf-house-stark"
+      "awoiaf-house-stark",
+      "awoiaf-historical-hands"
     ],
     "page": "/characters/cregan-stark/",
     "catalogStatus": "historical_profile",
@@ -9130,7 +9137,8 @@
     "kind": "person",
     "name": "Lord Edmyn Tully",
     "sources": [
-      "awoiaf-house-tully"
+      "awoiaf-house-tully",
+      "awoiaf-historical-hands"
     ],
     "page": "/characters/edmyn-tully/",
     "catalogStatus": "historical_profile",
@@ -9218,7 +9226,8 @@
     "kind": "person",
     "name": "Ser Tyland Lannister",
     "sources": [
-      "awoiaf-house-lannister"
+      "awoiaf-house-lannister",
+      "awoiaf-historical-hands"
     ],
     "page": "/characters/tyland-lannister/",
     "catalogStatus": "historical_profile",
@@ -9251,7 +9260,8 @@
     "kind": "person",
     "name": "Lord Orys Baratheon",
     "sources": [
-      "awoiaf-house-baratheon"
+      "awoiaf-house-baratheon",
+      "awoiaf-historical-hands"
     ],
     "page": "/characters/orys-baratheon/",
     "catalogStatus": "historical_profile",
@@ -9883,5 +9893,319 @@
     ],
     "catalogStatus": "historical_profile",
     "placeType": "sept"
+  },
+  {
+    "id": "title:lord-commander-queensguard",
+    "kind": "title",
+    "name": "Lord Commander of the Queensguard",
+    "page": "/titles/lord-commander-queensguard/",
+    "titleNature": "royal_appointment",
+    "catalogStatus": "historical_profile",
+    "sources": [
+      "awoiaf-historical-lords-commander"
+    ]
+  },
+  {
+    "id": "person:alton-celtigar",
+    "kind": "person",
+    "name": "Lord Alton Celtigar",
+    "page": "/characters/alton-celtigar/",
+    "catalogStatus": "historical_profile",
+    "sources": [
+      "awoiaf-historical-hands"
+    ]
+  },
+  {
+    "id": "person:osmund-strong",
+    "kind": "person",
+    "name": "Ser Osmund Strong",
+    "page": "/characters/osmund-strong/",
+    "catalogStatus": "historical_profile",
+    "sources": [
+      "awoiaf-historical-hands"
+    ]
+  },
+  {
+    "id": "person:alyn-stokeworth",
+    "kind": "person",
+    "name": "Lord Alyn Stokeworth",
+    "page": "/characters/alyn-stokeworth/",
+    "catalogStatus": "historical_profile",
+    "sources": [
+      "awoiaf-historical-hands"
+    ]
+  },
+  {
+    "id": "person:septon-murmison",
+    "kind": "person",
+    "name": "Septon Murmison",
+    "page": "/characters/septon-murmison/",
+    "catalogStatus": "historical_profile",
+    "sources": [
+      "awoiaf-historical-hands"
+    ]
+  },
+  {
+    "id": "person:lucas-harroway",
+    "kind": "person",
+    "name": "Lord Lucas Harroway",
+    "page": "/characters/lucas-harroway/",
+    "catalogStatus": "historical_profile",
+    "sources": [
+      "awoiaf-historical-hands"
+    ]
+  },
+  {
+    "id": "person:edwell-celtigar",
+    "kind": "person",
+    "name": "Lord Edwell Celtigar",
+    "page": "/characters/edwell-celtigar/",
+    "catalogStatus": "historical_profile",
+    "sources": [
+      "awoiaf-historical-hands"
+    ]
+  },
+  {
+    "id": "person:rogar-baratheon",
+    "kind": "person",
+    "name": "Lord Rogar Baratheon",
+    "page": "/characters/rogar-baratheon/",
+    "catalogStatus": "historical_profile",
+    "sources": [
+      "awoiaf-historical-hands"
+    ]
+  },
+  {
+    "id": "person:daemon-velaryon",
+    "kind": "person",
+    "name": "Lord Daemon Velaryon",
+    "page": "/characters/daemon-velaryon/",
+    "catalogStatus": "historical_profile",
+    "sources": [
+      "awoiaf-historical-hands"
+    ]
+  },
+  {
+    "id": "person:myles-smallwood",
+    "kind": "person",
+    "name": "Lord Myles Smallwood",
+    "page": "/characters/myles-smallwood/",
+    "catalogStatus": "historical_profile",
+    "sources": [
+      "awoiaf-historical-hands"
+    ]
+  },
+  {
+    "id": "person:septon-barth",
+    "kind": "person",
+    "name": "Septon Barth",
+    "page": "/characters/septon-barth/",
+    "catalogStatus": "historical_profile",
+    "sources": [
+      "awoiaf-historical-hands"
+    ]
+  },
+  {
+    "id": "person:ryam-redwyne",
+    "kind": "person",
+    "name": "Ser Ryam Redwyne",
+    "page": "/characters/ryam-redwyne/",
+    "catalogStatus": "historical_profile",
+    "sources": [
+      "awoiaf-historical-hands",
+      "awoiaf-historical-lords-commander"
+    ]
+  },
+  {
+    "id": "person:otto-hightower",
+    "kind": "person",
+    "name": "Ser Otto Hightower",
+    "page": "/characters/otto-hightower/",
+    "catalogStatus": "historical_profile",
+    "sources": [
+      "awoiaf-historical-hands"
+    ]
+  },
+  {
+    "id": "person:lyonel-strong",
+    "kind": "person",
+    "name": "Lord Lyonel Strong",
+    "page": "/characters/lyonel-strong/",
+    "catalogStatus": "historical_profile",
+    "sources": [
+      "awoiaf-historical-hands"
+    ]
+  },
+  {
+    "id": "person:criston-cole",
+    "kind": "person",
+    "name": "Ser Criston Cole",
+    "page": "/characters/criston-cole/",
+    "catalogStatus": "historical_profile",
+    "sources": [
+      "awoiaf-historical-hands",
+      "awoiaf-historical-lords-commander"
+    ]
+  },
+  {
+    "id": "person:unwin-peake",
+    "kind": "person",
+    "name": "Lord Unwin Peake",
+    "page": "/characters/unwin-peake/",
+    "catalogStatus": "historical_profile",
+    "sources": [
+      "awoiaf-historical-hands"
+    ]
+  },
+  {
+    "id": "person:thaddeus-rowan",
+    "kind": "person",
+    "name": "Lord Thaddeus Rowan",
+    "page": "/characters/thaddeus-rowan/",
+    "catalogStatus": "historical_profile",
+    "sources": [
+      "awoiaf-historical-hands"
+    ]
+  },
+  {
+    "id": "person:marston-waters",
+    "kind": "person",
+    "name": "Ser Marston Waters",
+    "page": "/characters/marston-waters/",
+    "catalogStatus": "historical_profile",
+    "sources": [
+      "awoiaf-historical-hands",
+      "awoiaf-historical-lords-commander"
+    ]
+  },
+  {
+    "id": "person:munkun",
+    "kind": "person",
+    "name": "Grand Maester Munkun",
+    "page": "/characters/munkun/",
+    "catalogStatus": "historical_profile",
+    "sources": [
+      "awoiaf-historical-hands"
+    ]
+  },
+  {
+    "id": "person:torrhen-manderly",
+    "kind": "person",
+    "name": "Lord Torrhen Manderly",
+    "page": "/characters/torrhen-manderly/",
+    "catalogStatus": "historical_profile",
+    "sources": [
+      "awoiaf-historical-hands"
+    ]
+  },
+  {
+    "id": "person:lucas-lothston",
+    "kind": "person",
+    "name": "Lord Lucas Lothston",
+    "page": "/characters/lucas-lothston/",
+    "catalogStatus": "historical_profile",
+    "sources": [
+      "awoiaf-historical-hands"
+    ]
+  },
+  {
+    "id": "person:corlys-velaryon-kingsguard",
+    "kind": "person",
+    "name": "Ser Corlys Velaryon",
+    "page": "/characters/corlys-velaryon-kingsguard/",
+    "catalogStatus": "historical_profile",
+    "sources": [
+      "awoiaf-historical-lords-commander"
+    ]
+  },
+  {
+    "id": "person:addison-hill",
+    "kind": "person",
+    "name": "Ser Addison Hill",
+    "page": "/characters/addison-hill/",
+    "catalogStatus": "historical_profile",
+    "sources": [
+      "awoiaf-historical-lords-commander"
+    ]
+  },
+  {
+    "id": "person:gyles-morrigen",
+    "kind": "person",
+    "name": "Ser Gyles Morrigen",
+    "page": "/characters/gyles-morrigen/",
+    "catalogStatus": "historical_profile",
+    "sources": [
+      "awoiaf-historical-lords-commander"
+    ]
+  },
+  {
+    "id": "person:harrold-westerling",
+    "kind": "person",
+    "name": "Ser Harrold Westerling",
+    "page": "/characters/harrold-westerling/",
+    "catalogStatus": "historical_profile",
+    "sources": [
+      "awoiaf-historical-lords-commander"
+    ]
+  },
+  {
+    "id": "person:willis-fell",
+    "kind": "person",
+    "name": "Ser Willis Fell",
+    "page": "/characters/willis-fell/",
+    "catalogStatus": "historical_profile",
+    "sources": [
+      "awoiaf-historical-lords-commander"
+    ]
+  },
+  {
+    "id": "person:raynard-ruskyn",
+    "kind": "person",
+    "name": "Ser Raynard Ruskyn",
+    "page": "/characters/raynard-ruskyn/",
+    "catalogStatus": "historical_profile",
+    "sources": [
+      "awoiaf-historical-lords-commander"
+    ]
+  },
+  {
+    "id": "person:steffon-darklyn",
+    "kind": "person",
+    "name": "Ser Steffon Darklyn",
+    "page": "/characters/steffon-darklyn/",
+    "catalogStatus": "historical_profile",
+    "sources": [
+      "awoiaf-historical-lords-commander"
+    ]
+  },
+  {
+    "id": "person:lorent-marbrand",
+    "kind": "person",
+    "name": "Ser Lorent Marbrand",
+    "page": "/characters/lorent-marbrand/",
+    "catalogStatus": "historical_profile",
+    "sources": [
+      "awoiaf-historical-lords-commander"
+    ]
+  },
+  {
+    "id": "person:glendon-goode",
+    "kind": "person",
+    "name": "Ser Glendon Goode",
+    "page": "/characters/glendon-goode/",
+    "catalogStatus": "historical_profile",
+    "sources": [
+      "awoiaf-historical-lords-commander"
+    ]
+  },
+  {
+    "id": "person:robin-massey",
+    "kind": "person",
+    "name": "Ser Robin Massey",
+    "page": "/characters/robin-massey/",
+    "catalogStatus": "historical_profile",
+    "sources": [
+      "awoiaf-historical-lords-commander"
+    ]
   }
 ]

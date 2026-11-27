@@ -43,6 +43,12 @@ Explore the recorded history of the Seven Kingdoms up to the beginning of the Or
 | 196 | [Battle of the Redgrass Field](/events/battle-redgrass-field/) |
 | 206 | [Suppression of the Vulture King](/events/vulture-king-206/) |
 
+## Historical royal offices
+
+- [Hands of the King](/titles/hand-of-the-king/)
+- [Lords Commander of the Kingsguard](/titles/lord-commander-kingsguard/)
+- [Commanders of Rhaenyra's Queensguard](/titles/lord-commander-queensguard/)
+
 ## The royal court in 207 AC
 
 - [House Targaryen](/houses/targaryen/)

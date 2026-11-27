@@ -268,5 +268,17 @@
     "title": "A Wiki of Ice and Fire: Great Sept of Baelor",
     "url": "https://awoiaf.westeros.org/index.php/Great_Sept_of_Baelor",
     "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-historical-hands",
+    "title": "A Wiki of Ice and Fire: historical Hands of the King",
+    "url": "https://awoiaf.westeros.org/index.php/Hand_of_the_King",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-historical-lords-commander",
+    "title": "A Wiki of Ice and Fire: historical Lords Commander",
+    "url": "https://awoiaf.westeros.org/index.php?title=Lord_Commander_of_the_Kingsguard&oldid=326480",
+    "kind": "secondary"
   }
 ]
