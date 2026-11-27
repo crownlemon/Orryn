@@ -1,5 +1,7 @@
 ---
 import KnowledgeInfobox from './KnowledgeInfobox.astro';
+import reputationData from '../data/knowledge/household-reputation.json';
+import HouseholdRoster from './HouseholdRoster.astro';
 import appearanceData from '../data/knowledge/household-appearance.json';
 import { getEntity, DEFAULT_DATE, type Moment } from '../data/knowledge/index';
 
@@ -11,6 +13,9 @@ const {entityId,asOf=DEFAULT_DATE}=Astro.props;
 const e=getEntity(entityId);
 const appearances = appearanceData as Record<string, {appearance:string; source:string; line:number}>;
 const profile = appearances[entityId];
+const reputations = reputationData as Record<string, {reputation:string; source:string; line:number; asOf:Moment}>;
+const reputation = reputations[entityId];
+const showReputation = reputation && asOf.year === reputation.asOf.year && (asOf.chapter ?? 999) >= (reputation.asOf.chapter ?? 0);
 const categories:Record<string,string> = {
   person:'Character',house:'Noble house',place:'Location',
   region:'Region',title:'Title',event:'Historical event'
@@ -26,6 +31,14 @@ const categories:Record<string,string> = {
     <small>Householdbook v12 · reference {profile.line}</small>
   </aside>
 )}
+{e.kind === 'person' && showReputation && reputation && (
+  <aside class="orr-household-appearance" aria-label="Recorded household reputation">
+    <strong>Household reputation</strong>
+    <p>{reputation.reputation}</p>
+    <small>Householdbook v12 · paragraph {reputation.line} · reported reputation, not an objective assessment</small>
+  </aside>
+)}
+{(e.kind === 'house' || e.kind === 'place') && <HouseholdRoster entityId={entityId} asOf={asOf}/>}
 <style>
   .orr-household-appearance { margin-block: 1rem; padding: .8rem 1rem; border: 1px solid var(--sl-color-gray-5); border-radius: .35rem; }
   .orr-household-appearance p { margin-block: .45rem; }

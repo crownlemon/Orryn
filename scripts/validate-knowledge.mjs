@@ -127,6 +127,20 @@ check(court.some(f=>f.subject==='person:gyles-peake'&&/hostage/.test(f.role208||
 check(!facts.some(f=>f.subject==='person:moryn-tyrell'&&f.predicate==='holds_title'),
   'Moryn has personal patronage but no separate formal government office');
 
+for(const [name,field] of [['household-appearance','appearance'],['household-reputation','reputation']]) {
+  for(const [id,profile] of Object.entries(load(name))) {
+    check(ids.get(id)?.kind==='person',name+': unknown person '+id);
+    check(evidence.has(profile.source),name+': unknown source '+id);
+    check(Number.isInteger(profile.line)&&profile.line>0,name+': missing paragraph reference '+id);
+    check(typeof profile[field]==='string'&&profile[field].trim().length>0,name+': empty description '+id);
+    if(field==='reputation') check(profile.asOf?.year===208&&profile.asOf?.chapter===67,name+': unbounded snapshot '+id);
+  }
+}
+for(const f of facts.filter(f=>f.rosterGroup208)) {
+  check(ids.get(f.subject)?.kind==='person'&&['house','place'].includes(ids.get(f.object)?.kind),f.id+': invalid household roster relation');
+  check(typeof f.role208==='string'&&f.role208.trim().length>0,f.id+': missing household role');
+}
+
 if (failures.length) {
   for (const problem of failures) console.error('FAIL', problem);
   process.exitCode = 1;

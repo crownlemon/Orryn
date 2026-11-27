@@ -1,0 +1,857 @@
+{
+  "person:gawen-grandison": {
+    "reputation": "Remembered fondly as a patient and respected lord. Those who served under him say he was easy to please and slow to say no, and that hard matters tended to wait until they settled themselves.",
+    "source": "householdbook-v12",
+    "line": 107,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:ellyn-grandison": {
+    "reputation": "Remembered for bringing order, refinement, and discipline to the Grandison household, and for being rarely satisfied. Servants and relatives recall her standards as exacting and seldom explained.",
+    "source": "householdbook-v12",
+    "line": 127,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:alester-grandison": {
+    "reputation": "Loved in the hall and the yard, where his laugh and open hand are known. Stewards and officers know his plans outrun his means and have learned to soften figures before showing them to him. Those who have contradicted him in front of others are remembered.",
+    "source": "householdbook-v12",
+    "line": 149,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:lynesse-grandison": {
+    "reputation": "A gracious hostess whom everyone finds agreeable and few consult. Stewards and servants know that anything said to her may reach anyone, and that her favours last only until the next person speaks to her.",
+    "source": "householdbook-v12",
+    "line": 170,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:steffon-grandison": {
+    "reputation": "Respected as a shrewd adviser and trusted with accounts, but not loved. People say he is seldom wrong about money and never forgets who was.",
+    "source": "householdbook-v12",
+    "line": 192,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:maris-grandison": {
+    "reputation": "A steady, sensible woman whom everyone finds easy to talk to and hard to move. Servants and relatives know she dislikes novelty and has no patience for people who want what she cannot understand.",
+    "source": "householdbook-v12",
+    "line": 213,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:raymont-grandison": {
+    "reputation": "A capable and likeable knight whose absences are always accounted for. Those who have depended on him say he is the best of company and the worst of supports.",
+    "source": "householdbook-v12",
+    "line": 234,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:alys-musgood": {
+    "reputation": "Good company and a bad person to tell a secret. She is generous with advice, quick with a cutting remark, and always somehow in the middle of other people's business.",
+    "source": "householdbook-v12",
+    "line": 255,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:arlan-grandison": {
+    "reputation": "Seen as his father's son: a promising heir, a boaster, and a boy who takes any rebuke as an insult.",
+    "source": "householdbook-v12",
+    "line": 275,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:elenei-grandison": {
+    "reputation": "Lively and very easy to like. Servants and companions know she is soon bored, soon led, and soon contradicted by the last person who spoke to her.",
+    "source": "householdbook-v12",
+    "line": 296,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:alyssa-grandison": {
+    "reputation": "Bright and quick, and fully aware of it. She is a good friend to anyone she thinks worth her time and an unforgiving critic of everyone else. She and Orryn have been close companions since childhood.",
+    "source": "householdbook-v12",
+    "line": 317,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:orryn-grandison": {
+    "reputation": "Orryn is known as an energetic and practical-minded boy who is quick to identify problems and propose improvements. He can bring people together around a project, but his enthusiasm often runs ahead of his patience, resources, and willingness to maintain what he has begun.",
+    "source": "householdbook-v12",
+    "line": 336,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:alaric-meadows": {
+    "reputation": "Known as a hardworking lord who takes a personal interest in every part of his domain. His diligence earns respect, but officers know that corrections arrive in public and that credit tends to go to him.",
+    "source": "householdbook-v12",
+    "line": 408,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:jeyne-meadows": {
+    "reputation": "Known for her loyalty to House Meadows and House Caswell, and for pleasant manners. She takes great interest in her children's futures and seldom forgets either favours or insults. Servants know that what they report to her is rewarded.",
+    "source": "householdbook-v12",
+    "line": 430,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:leonette-meadows": {
+    "reputation": "Considered charming and entertaining, and inclined to make every gathering revolve around herself. Companions learn quickly that what they tell her does not stay with her.",
+    "source": "householdbook-v12",
+    "line": 452,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:matthos-meadows": {
+    "reputation": "Seen as fearless, energetic, and difficult to discipline, a loyal friend and a dangerous opponent. Servants and smaller boys keep out of his way when he is losing.",
+    "source": "householdbook-v12",
+    "line": 473,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:wyman-latham": {
+    "reputation": "The keep's best horseman. The squires adore him, and Jeyne has noticed how easy he is to ask.",
+    "source": "householdbook-v12",
+    "line": 556,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:maester-perrin": {
+    "reputation": "A respected scholar who answers every question. Anyone needing discretion writes elsewhere, because letters pass through his hands.",
+    "source": "householdbook-v12",
+    "line": 577,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:septon-lorimer": {
+    "reputation": "Beloved at feasts and harvest blessings. Alaric and Jeyne find him agreeable.",
+    "source": "householdbook-v12",
+    "line": 598,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:bertram-corliss": {
+    "reputation": "Respected for his skill and avoided for his temper. Servants say he has not smiled since Lord Gawen died.",
+    "source": "householdbook-v12",
+    "line": 619,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:tobin-whitlow": {
+    "reputation": "The best company in the keep and the worst at being found when needed. He has had a squire before and still has the same saddle.",
+    "source": "householdbook-v12",
+    "line": 640,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:lucan-marwick": {
+    "reputation": "Admired for discipline and disliked for it. He believes Stormlander manners are a kind of illness.",
+    "source": "householdbook-v12",
+    "line": 662,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:marya-caswell": {
+    "reputation": "Jeyne's shadow. Servants know that anything said in front of her reaches the lady within the hour.",
+    "source": "householdbook-v12",
+    "line": 683,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:septa-lenora": {
+    "reputation": "Jeyne's former governess, trusted with her youngest child, and the only adult Elyce cannot move to tears or to pity. Her nephew Osric Dunmere visits her after lessons.",
+    "source": "householdbook-v12",
+    "line": 705,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:osric-dunmere": {
+    "reputation": "The squire adults trust and boys avoid. His aunt is Septa Lenora, so the boys assume nothing said in front of him stays private.",
+    "source": "householdbook-v12",
+    "line": 726,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:baldric-haye": {
+    "reputation": "Always at the right man's elbow.",
+    "source": "householdbook-v12",
+    "line": 747,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:perkin-fenwick": {
+    "reputation": "The boy who makes the kitchen laugh and the master-at-arms swear.",
+    "source": "householdbook-v12",
+    "line": 768,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:piers-fallow": {
+    "reputation": "Known as the miller's boy, though his father has not milled in years. The other squires test him daily.",
+    "source": "householdbook-v12",
+    "line": 790,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:tolman-haverill": {
+    "reputation": "Alaric's voice in the market. Everyone says he means well, and nobody takes his word.",
+    "source": "householdbook-v12",
+    "line": 810,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:dunstan-fallow": {
+    "reputation": "The richest man in Grassy Vale who is not a lord. Alaric needs his money and does not invite him to dinner.",
+    "source": "householdbook-v12",
+    "line": 831,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:garlan-footly": {
+    "reputation": "A solid, well-meant young knight. The household is fond of him and finds him tiresome.",
+    "source": "householdbook-v12",
+    "line": 874,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:edric-baratheon": {
+    "reputation": "Respected without question, and feared by those who have crossed him. His favourites are generously treated and his disfavour is long. He prefers to make decisions and leave their execution to trusted officers.",
+    "source": "householdbook-v12",
+    "line": 947,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:alysanne-baratheon": {
+    "reputation": "Quietly respected throughout the castle. She oversees guests, charitable obligations, and the ladies of the household, and decides who is seated, invited, or passed over. Those who have crossed her find that she forgets nothing.",
+    "source": "householdbook-v12",
+    "line": 968,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:lyonel-baratheon": {
+    "reputation": "Most men enjoy following Lyonel, and his booming laugh fills any hall. Household officers complain that his enthusiasm creates unnecessary work, and the household knows he does not forgive an insult, though he will laugh through it. Together with Gowen he frequently makes sport of their quieter brother Boremund.",
+    "source": "householdbook-v12",
+    "line": 989,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:laena-baratheon": {
+    "reputation": "Respected as capable and refined, though many servants find her distant and condescending. She prefers books, correspondence, and measured conversation to the bustle of court.",
+    "source": "householdbook-v12",
+    "line": 1010,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:boremund-baratheon": {
+    "reputation": "Reliable but forgettable. His brothers have teased him since childhood, and the household has learned that he repays his grievances on those who cannot answer.",
+    "source": "householdbook-v12",
+    "line": 1031,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:ellyn-baratheon": {
+    "reputation": "Seems to know everyone in the castle, and news often reaches her before it reaches anyone else. She is friendly to all, and servants have learned that what she is told is repeated.",
+    "source": "householdbook-v12",
+    "line": 1051,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:edwyn-baratheon": {
+    "reputation": "Most of the household is fond of Edwyn in company and wary of him alone. Few trust him around anything valuable or breakable, and he is known to lie fluently and blame others.",
+    "source": "householdbook-v12",
+    "line": 1071,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:gowen-baratheon": {
+    "reputation": "Many say Gowen inherited his father's courage but none of his restraint. Younger knights enjoy his company, servants and commons avoid it, and senior officers dread his involvement in formal occasions. He is widely thought to mistreat men who cannot answer him.",
+    "source": "householdbook-v12",
+    "line": 1092,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:ormund-baratheon": {
+    "reputation": "The nursery's tyrant and the castle's favourite. Servants expect him to be as loud as his father.",
+    "source": "householdbook-v12",
+    "line": 1112,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:alysanne-penrose": {
+    "reputation": "A daughter of Garmund Hightower and Princess Rhaena Targaryen, carrying the blood of both great houses. She is respected as the strongest resident authority within the Penrose family at Parchments. She supervises the household closely, guards its dignity and its forms, and punishes lapses coldly. She makes no secret of valuing lesser houses at lesser rates.",
+    "source": "householdbook-v12",
+    "line": 1193,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:jon-penrose": {
+    "reputation": "Popular among younger knights, servants, and visiting nobles. He enjoys riding, hunting, feasting, and contests of arms, and has a name as a jouster. He does not take defeat well, and older officers wish he showed greater patience for the ordinary responsibilities of Parchments.",
+    "source": "householdbook-v12",
+    "line": 1214,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:myrielle-dondarrion": {
+    "reputation": "Has remained at Blackhaven since the deaths of her husband and only son, and is treated with the respect due to the widow of the former heir. She maintains their memory with fierce devotion and treats any lapse in loyalty to the dead as an offence. Although born at Nightsong, she seldom visits House Caron and avoids prolonged contact with her birth family.",
+    "source": "householdbook-v12",
+    "line": 1325,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:manfred-dondarrion": {
+    "reputation": "Became heir only after the deaths of his elder brother and nephew. He is respected as a capable marcher knight and has accompanied his father in active campaigning. In Blackhaven he is better known for wit, wine, and idleness, and for avoiding both the council table and the question of marriage.",
+    "source": "householdbook-v12",
+    "line": 1346,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:pearse-caron": {
+    "reputation": "Admired as a knight, singer, and harper, and he knows how to hold the attention of a hall. He is generous when generosity will be remembered, but less reliable when faced with accounts, repairs, tenant disputes, or slow administrative work. He speaks as though House Caron has fully recovered from the rebellion and reacts badly when others imply that it survives only through royal mercy.",
+    "source": "householdbook-v12",
+    "line": 1385,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:rolph-wagstaff": {
+    "reputation": "The man who unlocks everything and has never sat in the lord's chair. Servants know he remembers every gate left unbarred and every cask uncounted.",
+    "source": "householdbook-v12",
+    "line": 1560,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:olwen-wagstaff": {
+    "reputation": "Does everything herself and says so. Servants work hard for her and are told how much she does for them.",
+    "source": "householdbook-v12",
+    "line": 1580,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:edric-wagstaff": {
+    "reputation": "A decent, dull young knight whose hounds are better company than he is. His father is proud of him and Alyssa's friends pity her.",
+    "source": "householdbook-v12",
+    "line": 1600,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:aymer-gower": {
+    "reputation": "Runs the best-ordered manor in the valleys and is always the last lord to speak at a council.",
+    "source": "householdbook-v12",
+    "line": 1633,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:hester-gower": {
+    "reputation": "Obeyed by sons, daughters and servants alike. Maris still writes to her every week.",
+    "source": "householdbook-v12",
+    "line": 1653,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:isolde-gower": {
+    "reputation": "A fine hostess who is known to be looking for a better match for her son.",
+    "source": "householdbook-v12",
+    "line": 1673,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:rickard-gower": {
+    "reputation": "Good-natured and a little foolish. At Grandview he is called Arlan's shadow.",
+    "source": "householdbook-v12",
+    "line": 1692,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:wilmar-hertson": {
+    "reputation": "Owes money in three counties and is welcome in all of them.",
+    "source": "householdbook-v12",
+    "line": 1725,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:marian-hertson": {
+    "reputation": "Corrects people's grandmothers aloud. Lynesse still sends her gifts she cannot afford.",
+    "source": "householdbook-v12",
+    "line": 1745,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:dermot-hertson": {
+    "reputation": "Always at Alester's elbow and never at the council table. The stewards stop talking when he enters.",
+    "source": "householdbook-v12",
+    "line": 1765,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:cafferen-unnamed-lord": {
+    "reputation": "The lord who arrives first and leaves last, and who is never asked his opinion.",
+    "source": "householdbook-v12",
+    "line": 1799,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:cafferen-unnamed-lady": {
+    "reputation": "Her kitchen accounts are known to the farthing, and visitors are fed exactly.",
+    "source": "householdbook-v12",
+    "line": 1818,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:merrit-cafferen": {
+    "reputation": "Reliable until he is insulted. His father watches him at feasts.",
+    "source": "householdbook-v12",
+    "line": 1838,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:alysanne-cafferen": {
+    "reputation": "A quiet child who is good with the deer. Her mother thinks her dull. The nickname Sanne keeps her apart from the other Alysannes.",
+    "source": "householdbook-v12",
+    "line": 1858,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:peasebury-unnamed-lord": {
+    "reputation": "Hunts well and agrees with whoever spoke last. Nobody can say which side he took in the war.",
+    "source": "householdbook-v12",
+    "line": 1891,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:hilda-peasebury": {
+    "reputation": "Has married off half the neighbourhood and is thanked for it by the less discerning half.",
+    "source": "householdbook-v12",
+    "line": 1911,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:garrett-peasebury": {
+    "reputation": "The best company on a hunt and the last man trusted with a message.",
+    "source": "householdbook-v12",
+    "line": 1931,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:hobart-elmridge": {
+    "reputation": "Says what everyone thinks and is thanked by no one. He talks to his hounds more than to his tenants.",
+    "source": "householdbook-v12",
+    "line": 1958,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:edith-elmridge": {
+    "reputation": "Her cures work and her moods rule the house.",
+    "source": "householdbook-v12",
+    "line": 1978,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:dudley-bushy": {
+    "reputation": "The best storyteller in Grassy Vale and the least trusted witness.",
+    "source": "householdbook-v12",
+    "line": 2006,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:joan-bushy": {
+    "reputation": "The reason Hedgefort has a roof. Guests learn to pause at the end of Dudley's sentences.",
+    "source": "householdbook-v12",
+    "line": 2026,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:margery-graves": {
+    "reputation": "Her tower is spotless and her tenants well fed. Visitors are asked their business before they dismount.",
+    "source": "householdbook-v12",
+    "line": 2054,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:hal-graves": {
+    "reputation": "Everyone is fond of him and nobody asks him to decide.",
+    "source": "householdbook-v12",
+    "line": 2074,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:armond-caswell": {
+    "reputation": "Fought for King Daeron at the Redgrass Field and has been paying for the story ever since. Hedge knights who flatter him eat well.",
+    "source": "householdbook-v12",
+    "line": 2130,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:brenna-caswell": {
+    "reputation": "Runs Bitterbridge's accounts better than her husband and is thanked for it by nobody.",
+    "source": "householdbook-v12",
+    "line": 2151,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:joffrey-caswell": {
+    "reputation": "Adored by his mother and tutors, and quietly despaired of by the master-at-arms.",
+    "source": "householdbook-v12",
+    "line": 2171,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:cleyton-caswell": {
+    "reputation": "The prettiest knight in Bitterbridge, whom women flatter and men push around.",
+    "source": "householdbook-v12",
+    "line": 2191,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:ashford-unnamed-lord": {
+    "reputation": "A lord whose guests remember his splendid welcome longer than his creditors forget their bills.",
+    "source": "householdbook-v12",
+    "line": 2226,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:merryweather-unnamed-lord": {
+    "reputation": "A fine host whom the Tyrells find easy and nobody consults.",
+    "source": "householdbook-v12",
+    "line": 2344,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:odessa-merryweather": {
+    "reputation": "Sets the fashion for three counties and forgives no one who copies it badly.",
+    "source": "householdbook-v12",
+    "line": 2364,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:lymond-merryweather": {
+    "reputation": "Everyone's friend at a feast. His mother pays his debts and says nothing.",
+    "source": "householdbook-v12",
+    "line": 2384,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:gormon-peake": {
+    "reputation": "Called Gormy by his friends, watched by Highgarden, and brother to the Lady of Highgarden. He is the man every young knight wants to joust and no steward wants to host.",
+    "source": "householdbook-v12",
+    "line": 2452,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:elinor-peake": {
+    "reputation": "The reason Starpike still has a roof and the reason Gormon is always interrupted.",
+    "source": "householdbook-v12",
+    "line": 2472,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:edmund-peake": {
+    "reputation": "The sensible Peake, whom the Tyrells like and the old guard avoid.",
+    "source": "householdbook-v12",
+    "line": 2492,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:lyman-verrall": {
+    "reputation": "Known as a good-humoured officer and favourite with the servants. Alaric relies on his figures and checks them closely.",
+    "source": "householdbook-v12",
+    "line": 515,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:everard-blythe": {
+    "reputation": "Known across Grassy Vale for old duels and older poems. Squires learn to arrange lessons for the morning.",
+    "source": "householdbook-v12",
+    "line": 536,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:aldous-trent": {
+    "reputation": "Regarded as a kind man of the people, trusted with the lord's charity.",
+    "source": "householdbook-v12",
+    "line": 853,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:dondarrion-unnamed-lord": {
+    "reputation": "Regarded as a stern, capable marcher lord who demands obedience, readiness and courage. Known for sudden rages and for dwelling on the dead.",
+    "source": "householdbook-v12",
+    "line": 1286,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:ravella-dondarrion": {
+    "reputation": "Oversees domestic life at Blackhaven with close attention to rank, expenditure and proper conduct. Known as a demanding but capable bargainer.",
+    "source": "householdbook-v12",
+    "line": 1306,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:rosamund-caron": {
+    "reputation": "Known for protecting her children, avoiding open quarrels and quietly withdrawing invitations and favour when displeased.",
+    "source": "householdbook-v12",
+    "line": 1405,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:harlan-caron": {
+    "reputation": "Led Caron men for the Blackfyre cause and took the black after defeat. At Nightsong, some remember him as a ruined traitor, while others admire his refusal to recant.",
+    "source": "householdbook-v12",
+    "line": 1426,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:morton-caron": {
+    "reputation": "His post-rebellion captivity became honourable service as a household knight at Storm's End. He performs his duties reliably but rarely appears fully at ease.",
+    "source": "householdbook-v12",
+    "line": 1447,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:armond-caron": {
+    "reputation": "His squireship at Storm's End is publicly described as an honour. He boasts about Nightsong and becomes defensive when his family's loyalty is questioned.",
+    "source": "householdbook-v12",
+    "line": 1468,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:ellyn-caron": {
+    "reputation": "Indulged by her father and closely managed by her mother. She can be charming but turns spiteful when attention shifts to another child.",
+    "source": "householdbook-v12",
+    "line": 1488,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:gwin-ashford": {
+    "reputation": "A beloved child whose unguarded questions can put adults in difficulty.",
+    "source": "householdbook-v12",
+    "line": 2291,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:gyles-peake": {
+    "reputation": "Prominent in Highgarden's younger company, including Will Risley, Hugh Redwyne, Matthos Meadows and Ser Denys Tarly. His exchanges with Tarly carry an inherited Peake grievance.",
+    "source": "householdbook-v12",
+    "line": 2506,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:will-risley": {
+    "reputation": "Introduced Matthos to Moryn's tackroom and routines in Chapter 52 and is one of the young court's organisers and dice players in Chapter 54.",
+    "source": "householdbook-v12",
+    "line": 3292,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:hugh-redwyne": {
+    "reputation": "A frequent companion of Ser Harlen, Gyles Peake and Will Risley. In Chapter 54 he encouraged Harlen to gamble and sought his intercession against the next morning's training.",
+    "source": "householdbook-v12",
+    "line": 3326,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:mara-manwoody": {
+    "reputation": "Regarded as a capable and hospitable ruler who guards Kingsgrave's rights and answers for its decisions herself.",
+    "source": "householdbook-v12",
+    "line": 3487,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  },
+  "person:nymor-qorgyle": {
+    "reputation": "A charismatic lord-consort who makes guests welcome, enjoys horses, music and company, and can overpromise what his wife's officers must provide.",
+    "source": "householdbook-v12",
+    "line": 3509,
+    "asOf": {
+      "year": 208,
+      "chapter": 67
+    }
+  }
+}

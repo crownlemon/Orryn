@@ -1,0 +1,20 @@
+---
+import { facts, activeAt, getEntity, type Moment } from '../data/knowledge/index';
+interface Props { entityId:string; asOf:Moment }
+const {entityId,asOf}=Astro.props;
+const labels:Record<string,string>={lords_family:"Lord's family and kin",household_officer:"Household officers",officer:"Officers",household_knight:"Household knights",knight:"Knights",lady_and_companion:"Ladies and companions",squire_and_page:"Squires and pages",court_attendant:"Court attendants",town_and_estate:"Town and estate",visitor:"Recurring visitors"};
+// The source roster describes the current 208 AC snapshot, not all prior chapters.
+const rows=asOf.year===208 && (asOf.chapter ?? 999)>=67 ? facts.filter(f=>f.object===entityId&&f.rosterGroup208&&activeAt(f,asOf)) : [];
+const groups=Object.entries(labels).map(([key,label])=>({label,items:rows.filter(f=>f.rosterGroup208===key).map(f=>({person:getEntity(f.subject),role:f.role208,source:f.evidence?.[0]}))})).filter(g=>g.items.length);
+---
+{groups.length>0 && <details class="orr-roster">
+  <summary>Recorded household and associates (208 AC)</summary>
+  <p>Source-attested roles and relationships. Family members and recurring visitors are not necessarily residents; this register is not exhaustive.</p>
+  {groups.map(group=><div><strong>{group.label}</strong><ul>{group.items.map(item=><li>{item.person.page?<a href={item.person.page}>{item.person.name}</a>:item.person.name} — {item.role}{item.source&&<small> ({item.source.source}, paragraph {item.source.line})</small>}</li>)}</ul></div>)}
+</details>}
+<style>
+.orr-roster { margin-block: 1rem; padding: .75rem 1rem; border: 1px solid var(--sl-color-gray-5); border-radius: .35rem; }
+.orr-roster summary { cursor:pointer; font-weight:600; }
+.orr-roster p, .orr-roster li { font-size: .9rem; }
+.orr-roster small { color:var(--sl-color-gray-3); }
+</style>
