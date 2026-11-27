@@ -22205,5 +22205,524 @@
     "asOf": {
       "year": 133
     }
+  },
+  {
+    "id": "fact:1448",
+    "subject": "house:gardener",
+    "predicate": "historical_seat",
+    "object": "place:highgarden",
+    "sources": [
+      "awoiaf-gardener"
+    ]
+  },
+  {
+    "id": "fact:1449",
+    "subject": "house:gardener",
+    "predicate": "historical_region",
+    "object": "region:reach",
+    "sources": [
+      "awoiaf-gardener"
+    ]
+  },
+  {
+    "id": "fact:1450",
+    "subject": "house:durrandon",
+    "predicate": "historical_seat",
+    "object": "place:storm-s-end",
+    "sources": [
+      "awoiaf-durrandon"
+    ]
+  },
+  {
+    "id": "fact:1451",
+    "subject": "house:durrandon",
+    "predicate": "historical_region",
+    "object": "region:stormlands",
+    "sources": [
+      "awoiaf-durrandon"
+    ]
+  },
+  {
+    "id": "fact:1452",
+    "subject": "person:robert-tyrell-steward",
+    "predicate": "child_of",
+    "object": "person:osmund-tyrell-steward",
+    "sources": [
+      "awoiaf-gardener"
+    ]
+  },
+  {
+    "id": "fact:1453",
+    "subject": "person:gardener-unnamed-daughter-mern-vi",
+    "predicate": "child_of",
+    "object": "person:mern-vi-gardener",
+    "sources": [
+      "awoiaf-gardener"
+    ]
+  },
+  {
+    "id": "fact:1454",
+    "subject": "person:lorent-tyrell-steward",
+    "predicate": "child_of",
+    "object": "person:robert-tyrell-steward",
+    "sources": [
+      "awoiaf-gardener"
+    ]
+  },
+  {
+    "id": "fact:1455",
+    "subject": "person:argella-durrandon",
+    "predicate": "child_of",
+    "object": "person:argilac-durrandon",
+    "sources": [
+      "awoiaf-durrandon"
+    ]
+  },
+  {
+    "id": "fact:1456",
+    "subject": "person:davos-baratheon",
+    "predicate": "child_of",
+    "object": "person:argella-durrandon",
+    "sources": [
+      "awoiaf-davos-baratheon"
+    ]
+  },
+  {
+    "id": "fact:1457",
+    "subject": "person:davos-baratheon",
+    "predicate": "child_of",
+    "object": "person:orys-baratheon",
+    "sources": [
+      "awoiaf-davos-baratheon"
+    ]
+  },
+  {
+    "id": "fact:1458",
+    "subject": "person:boremund-baratheon-historical",
+    "predicate": "child_of",
+    "object": "person:rogar-baratheon",
+    "sources": [
+      "awoiaf-rogar-baratheon"
+    ]
+  },
+  {
+    "id": "fact:1459",
+    "subject": "person:boremund-baratheon-historical",
+    "predicate": "child_of",
+    "object": "person:alyssa-velaryon",
+    "sources": [
+      "awoiaf-rogar-baratheon"
+    ]
+  },
+  {
+    "id": "fact:1460",
+    "subject": "person:jocelyn-baratheon-historical",
+    "predicate": "child_of",
+    "object": "person:rogar-baratheon",
+    "sources": [
+      "awoiaf-rogar-baratheon"
+    ]
+  },
+  {
+    "id": "fact:1461",
+    "subject": "person:jocelyn-baratheon-historical",
+    "predicate": "child_of",
+    "object": "person:alyssa-velaryon",
+    "sources": [
+      "awoiaf-rogar-baratheon"
+    ]
+  },
+  {
+    "id": "fact:1462",
+    "subject": "person:borros-baratheon",
+    "predicate": "child_of",
+    "object": "person:boremund-baratheon-historical",
+    "sources": [
+      "awoiaf-boremund-baratheon"
+    ]
+  },
+  {
+    "id": "fact:1463",
+    "subject": "person:rhaenys-targaryen-queen-who-never-was",
+    "predicate": "child_of",
+    "object": "person:jocelyn-baratheon-historical",
+    "sources": [
+      "awoiaf-rhaenys-aemon"
+    ]
+  },
+  {
+    "id": "fact:1464",
+    "subject": "person:ormund-hightower-historical",
+    "predicate": "child_of",
+    "object": "person:hightower-unnamed-father-ormund",
+    "sources": [
+      "awoiaf-ormund-hightower"
+    ]
+  },
+  {
+    "id": "fact:1465",
+    "subject": "person:lyonel-hightower-historical",
+    "predicate": "child_of",
+    "object": "person:ormund-hightower-historical",
+    "sources": [
+      "awoiaf-ormund-hightower"
+    ]
+  },
+  {
+    "id": "fact:1466",
+    "subject": "person:martyn-hightower-ormund",
+    "predicate": "child_of",
+    "object": "person:ormund-hightower-historical",
+    "sources": [
+      "awoiaf-ormund-hightower"
+    ]
+  },
+  {
+    "id": "fact:1467",
+    "subject": "person:bethany-hightower-historical",
+    "predicate": "child_of",
+    "object": "person:ormund-hightower-historical",
+    "sources": [
+      "awoiaf-ormund-hightower"
+    ]
+  },
+  {
+    "id": "fact:1468",
+    "subject": "person:garmund-hightower",
+    "predicate": "child_of",
+    "object": "person:ormund-hightower-historical",
+    "sources": [
+      "awoiaf-ormund-hightower"
+    ]
+  },
+  {
+    "id": "fact:1469",
+    "subject": "person:alicent-hightower",
+    "predicate": "child_of",
+    "object": "person:otto-hightower",
+    "sources": [
+      "awoiaf-otto-hightower"
+    ]
+  },
+  {
+    "id": "fact:1470",
+    "subject": "person:gwayne-hightower-historical",
+    "predicate": "child_of",
+    "object": "person:otto-hightower",
+    "sources": [
+      "awoiaf-otto-hightower"
+    ]
+  },
+  {
+    "id": "fact:1471",
+    "subject": "person:samantha-tarly",
+    "predicate": "child_of",
+    "object": "person:alan-tarly-historical",
+    "sources": [
+      "awoiaf-tarly-history"
+    ]
+  },
+  {
+    "id": "fact:1472",
+    "subject": "person:robert-tyrell-steward",
+    "predicate": "married_to",
+    "object": "person:gardener-unnamed-daughter-mern-vi",
+    "sources": [
+      "awoiaf-gardener"
+    ]
+  },
+  {
+    "id": "fact:1473",
+    "subject": "person:argella-durrandon",
+    "predicate": "married_to",
+    "object": "person:orys-baratheon",
+    "sources": [
+      "awoiaf-durrandon"
+    ]
+  },
+  {
+    "id": "fact:1474",
+    "subject": "person:rogar-baratheon",
+    "predicate": "married_to",
+    "object": "person:alyssa-velaryon",
+    "sources": [
+      "awoiaf-rogar-baratheon"
+    ]
+  },
+  {
+    "id": "fact:1475",
+    "subject": "person:jocelyn-baratheon-historical",
+    "predicate": "married_to",
+    "object": "person:aemon-targaryen-jaehaerys",
+    "sources": [
+      "awoiaf-jocelyn-baratheon"
+    ]
+  },
+  {
+    "id": "fact:1476",
+    "subject": "person:samantha-tarly",
+    "predicate": "married_to",
+    "object": "person:lyonel-hightower-historical",
+    "sources": [
+      "awoiaf-samantha-tarly"
+    ]
+  },
+  {
+    "id": "fact:1477",
+    "subject": "person:samantha-tarly",
+    "predicate": "former_spouse_of",
+    "object": "person:ormund-hightower-historical",
+    "sources": [
+      "awoiaf-samantha-tarly"
+    ]
+  },
+  {
+    "id": "fact:1478",
+    "subject": "person:hightower-unnamed-father-ormund",
+    "predicate": "sibling_of",
+    "object": "person:otto-hightower",
+    "sources": [
+      "awoiaf-otto-hightower"
+    ]
+  },
+  {
+    "id": "fact:1479",
+    "subject": "person:garon-baratheon-historical",
+    "predicate": "sibling_of",
+    "object": "person:rogar-baratheon",
+    "sources": [
+      "awoiaf-borys-baratheon"
+    ]
+  },
+  {
+    "id": "fact:1480",
+    "subject": "person:ronnal-baratheon-historical",
+    "predicate": "sibling_of",
+    "object": "person:rogar-baratheon",
+    "sources": [
+      "awoiaf-borys-baratheon"
+    ]
+  },
+  {
+    "id": "fact:1481",
+    "subject": "person:borys-baratheon-historical",
+    "predicate": "sibling_of",
+    "object": "person:rogar-baratheon",
+    "sources": [
+      "awoiaf-borys-baratheon"
+    ]
+  },
+  {
+    "id": "fact:1482",
+    "subject": "person:orryn-baratheon-historical",
+    "predicate": "sibling_of",
+    "object": "person:rogar-baratheon",
+    "sources": [
+      "awoiaf-borys-baratheon"
+    ]
+  },
+  {
+    "id": "fact:1483",
+    "subject": "event:field-of-fire",
+    "predicate": "participant",
+    "object": "person:mern-ix-gardener",
+    "sources": [
+      "awoiaf-field-of-fire"
+    ],
+    "asOf": {
+      "year": -2
+    }
+  },
+  {
+    "id": "fact:1484",
+    "subject": "event:field-of-fire",
+    "predicate": "participant",
+    "object": "person:loren-lannister",
+    "sources": [
+      "awoiaf-field-of-fire"
+    ],
+    "asOf": {
+      "year": -2
+    }
+  },
+  {
+    "id": "fact:1485",
+    "subject": "event:field-of-fire",
+    "predicate": "participant",
+    "object": "person:aegon-i-targaryen",
+    "sources": [
+      "awoiaf-field-of-fire"
+    ],
+    "asOf": {
+      "year": -2
+    }
+  },
+  {
+    "id": "fact:1486",
+    "subject": "event:field-of-fire",
+    "predicate": "part_of",
+    "object": "event:aegons-conquest",
+    "sources": [
+      "awoiaf-field-of-fire"
+    ],
+    "asOf": {
+      "year": -2
+    }
+  },
+  {
+    "id": "fact:1487",
+    "subject": "event:last-storm",
+    "predicate": "participant",
+    "object": "person:argilac-durrandon",
+    "sources": [
+      "awoiaf-last-storm"
+    ],
+    "asOf": {
+      "year": -2
+    }
+  },
+  {
+    "id": "fact:1488",
+    "subject": "event:last-storm",
+    "predicate": "participant",
+    "object": "person:orys-baratheon",
+    "sources": [
+      "awoiaf-last-storm"
+    ],
+    "asOf": {
+      "year": -2
+    }
+  },
+  {
+    "id": "fact:1489",
+    "subject": "event:last-storm",
+    "predicate": "participant",
+    "object": "person:rhaenys-targaryen-conqueror",
+    "sources": [
+      "awoiaf-last-storm"
+    ],
+    "asOf": {
+      "year": -2
+    }
+  },
+  {
+    "id": "fact:1490",
+    "subject": "event:last-storm",
+    "predicate": "part_of",
+    "object": "event:aegons-conquest",
+    "sources": [
+      "awoiaf-last-storm"
+    ],
+    "asOf": {
+      "year": -2
+    }
+  },
+  {
+    "id": "fact:1491",
+    "subject": "event:battle-honeywine",
+    "predicate": "participant",
+    "object": "person:ormund-hightower-historical",
+    "sources": [
+      "awoiaf-honeywine"
+    ],
+    "asOf": {
+      "year": 130
+    }
+  },
+  {
+    "id": "fact:1492",
+    "subject": "event:battle-honeywine",
+    "predicate": "participant",
+    "object": "person:thaddeus-rowan",
+    "sources": [
+      "awoiaf-honeywine"
+    ],
+    "asOf": {
+      "year": 130
+    }
+  },
+  {
+    "id": "fact:1493",
+    "subject": "event:battle-honeywine",
+    "predicate": "participant",
+    "object": "person:alan-tarly-historical",
+    "sources": [
+      "awoiaf-honeywine"
+    ],
+    "asOf": {
+      "year": 130
+    }
+  },
+  {
+    "id": "fact:1494",
+    "subject": "event:battle-honeywine",
+    "predicate": "participant",
+    "object": "person:alan-beesbury-historical",
+    "sources": [
+      "awoiaf-honeywine"
+    ],
+    "asOf": {
+      "year": 130
+    }
+  },
+  {
+    "id": "fact:1495",
+    "subject": "event:battle-honeywine",
+    "predicate": "participant",
+    "object": "person:owen-costayne-historical",
+    "sources": [
+      "awoiaf-honeywine"
+    ],
+    "asOf": {
+      "year": 130
+    }
+  },
+  {
+    "id": "fact:1496",
+    "subject": "event:battle-honeywine",
+    "predicate": "participant",
+    "object": "person:tom-flowers-historical",
+    "sources": [
+      "awoiaf-honeywine"
+    ],
+    "asOf": {
+      "year": 130
+    }
+  },
+  {
+    "id": "fact:1497",
+    "subject": "event:battle-honeywine",
+    "predicate": "part_of",
+    "object": "event:dance-of-the-dragons",
+    "sources": [
+      "awoiaf-honeywine"
+    ],
+    "asOf": {
+      "year": 130
+    }
+  },
+  {
+    "id": "fact:1498",
+    "subject": "event:first-tumbleton",
+    "predicate": "participant",
+    "object": "person:ormund-hightower-historical",
+    "sources": [
+      "awoiaf-first-tumbleton"
+    ],
+    "asOf": {
+      "year": 130
+    }
+  },
+  {
+    "id": "fact:1499",
+    "subject": "event:first-tumbleton",
+    "predicate": "part_of",
+    "object": "event:dance-of-the-dragons",
+    "sources": [
+      "awoiaf-first-tumbleton"
+    ],
+    "asOf": {
+      "year": 130
+    }
   }
 ]

@@ -280,5 +280,119 @@
     "title": "A Wiki of Ice and Fire: historical Lords Commander",
     "url": "https://awoiaf.westeros.org/index.php?title=Lord_Commander_of_the_Kingsguard&oldid=326480",
     "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-gardener",
+    "title": "A Wiki of Ice and Fire: House Gardener",
+    "url": "https://awoiaf.westeros.org/index.php/House_Gardener",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-durrandon",
+    "title": "A Wiki of Ice and Fire: House Durrandon",
+    "url": "https://awoiaf.westeros.org/index.php/House_Durrandon",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-rogar-baratheon",
+    "title": "A Wiki of Ice and Fire: Rogar Baratheon",
+    "url": "https://awoiaf.westeros.org/index.php/Rogar_Baratheon",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-boremund-baratheon",
+    "title": "A Wiki of Ice and Fire: Boremund Baratheon",
+    "url": "https://awoiaf.westeros.org/index.php/Boremund_Baratheon",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-davos-baratheon",
+    "title": "A Wiki of Ice and Fire: Davos Baratheon",
+    "url": "https://awoiaf.westeros.org/index.php/Davos_Baratheon",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-jocelyn-baratheon",
+    "title": "A Wiki of Ice and Fire: Jocelyn Baratheon",
+    "url": "https://awoiaf.westeros.org/index.php/Jocelyn_Baratheon",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-rhaenys-aemon",
+    "title": "A Wiki of Ice and Fire: Rhaenys Targaryen (daughter of Aemon)",
+    "url": "https://awoiaf.westeros.org/index.php/Rhaenys_Targaryen_(daughter_of_Aemon)",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-hightower-history",
+    "title": "A Wiki of Ice and Fire: House Hightower",
+    "url": "https://awoiaf.westeros.org/index.php/House_Hightower",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-otto-hightower",
+    "title": "A Wiki of Ice and Fire: Otto Hightower",
+    "url": "https://awoiaf.westeros.org/index.php/Otto_Hightower",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-ormund-hightower",
+    "title": "A Wiki of Ice and Fire: Ormund Hightower",
+    "url": "https://awoiaf.westeros.org/index.php/Ormund_Hightower",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-tarly-history",
+    "title": "A Wiki of Ice and Fire: House Tarly",
+    "url": "https://awoiaf.westeros.org/index.php/House_Tarly",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-samantha-tarly",
+    "title": "A Wiki of Ice and Fire: Samantha Tarly",
+    "url": "https://awoiaf.westeros.org/index.php/Samantha_Tarly",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-peake-history",
+    "title": "A Wiki of Ice and Fire: House Peake",
+    "url": "https://awoiaf.westeros.org/index.php/House_Peake",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-field-of-fire",
+    "title": "A Wiki of Ice and Fire: Field of Fire",
+    "url": "https://awoiaf.westeros.org/index.php/Field_of_Fire",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-last-storm",
+    "title": "A Wiki of Ice and Fire: Last Storm",
+    "url": "https://awoiaf.westeros.org/index.php/Last_Storm",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-honeywine",
+    "title": "A Wiki of Ice and Fire: Battle of the Honeywine",
+    "url": "https://awoiaf.westeros.org/index.php/Battle_of_the_Honeywine",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-first-tumbleton",
+    "title": "A Wiki of Ice and Fire: First Battle of Tumbleton",
+    "url": "https://awoiaf.westeros.org/index.php/First_Battle_of_Tumbleton",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-high-steward",
+    "title": "A Wiki of Ice and Fire: High Steward",
+    "url": "https://awoiaf.westeros.org/index.php/High_Steward",
+    "kind": "secondary"
+  },
+  {
+    "id": "awoiaf-borys-baratheon",
+    "title": "A Wiki of Ice and Fire: Borys Baratheon",
+    "url": "https://awoiaf.westeros.org/index.php/Borys_Baratheon",
+    "kind": "secondary"
   }
 ]

@@ -204,3 +204,7 @@ Added five conflicts and two royal landmarks, with a /history/ landing page cont
 ## Historical migration: Royal office successions
 
 Added source-checked historical Hands, Kingsguard commanders and a separate Queensguard command for Rhaenyra. The first Ser Corlys Velaryon is distinguished from the Sea Snake; Lord Jon Hightower's historical identity is left unresolved. Exact-year ranges use the existing year-granularity tenure model; single-year and incomplete terms are retained as former office references rather than invented exact intervals. Retained Baelor and Willem Wylde as the sole current holders. Added 30 historical character routes and one office route, enriched two office articles and linked them from the history index. Graph: 742 entities / 1439 facts. In-memory ID, provenance, date-bound, link and current-holder checks passed; full build not verified. No main merge.
+
+## Historical migration: Gardener, Durrandon and southern dynasties
+
+Added two former royal houses, historical Tyrell, Baratheon and Hightower lineages, and four pre-207 event profiles. Kept campaign relationships distinct and did not infer Davos as Rogar's father or Lord Jon's descent from Ormund. Preserved existing household prose; added references and regional history. Graph 775 entities and 1491 facts (+33 / +52). In-memory ID, source, relationship and date checks passed. Full build remains unverified. No main merge.
